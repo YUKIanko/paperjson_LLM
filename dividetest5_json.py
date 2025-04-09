@@ -48,29 +48,20 @@ def send_segment_to_llm(segment_text, pdf_base_name, seg_index):
     指定されたセグメントのテキストに対し、LLM APIへプロンプトを送信しJSON出力を取得する。
     """
     prompt = (
-        "You are a research assistant tasked with extracting and standardizing key metadata from a scientific paper.\n"
-        "Please read the provided text carefully and extract only the following fields:\n\n"
-        
-        "- **Title**: The full title of the paper.\n"
-        "- **Authors**: A list of all authors.\n"
-        "- **References**: The list of references or citations mentioned in the paper.\n"
-        "- **Genes**: Any gene names or specific biological identifiers mentioned in the paper.\n"
-        "  - Normalize gene names according to the following rules:\n"
-        "    - Convert all gene names to a standardized format.\n"
-        "    - Use official HGNC names where applicable.\n"
-        "    - For gene names that contain both letters and numbers, insert a hyphen between them (e.g., ABC1 → ABC-1).\n"
-        "    - Remove unnecessary whitespace, underscores, or special characters unless they are part of an official name.\n"
-        "    - Ensure genes are not duplicated within the same document.\n"
-        "- **Proper Nouns**: Scientific entities categorized into the following subcategories:\n"
-        "  - **Institutions**: Universities, research centers, laboratories, etc.\n"
-        "  - **Experimental Methods**: Gene editing techniques, PCR variations, sequencing methods, biochemical assays.\n"
-        "  - **Software & Tools**: Bioinformatics software, automation tools, analytical software.\n"
-        "  - **Reagents & Chemicals**: Antibodies, dyes, chemical compounds, experimental reagents.\n"
-        "  - **Model Organisms & Cell Lines**: Names of model organisms like Xenopus laevis, HEK293 cells, C57BL/6 mice, zebrafish, etc.\n\n"
-        
-        "Your output **must be a valid JSON object** with proper indentation and no additional commentary.\n"
-        "Ensure that the JSON structure is correctly formatted.\n\n"
-        
+        "You are a research assistant. Extract only the following fields from the text:\n\n"
+        "1. Title: Full title of the paper.\n"
+        "2. Authors: A list of all authors.\n"
+        "3. References: The formal reference list at the end of the paper only.\n"
+        "   - Do NOT include in-text citation markers such as [12], (12), etc.\n"
+        "   - Only include structured reference entries (e.g., DOI, authors, journal, volume, pages).\n"
+        "4. Genes: Gene names (normalize to official HGNC if possible, insert hyphens between letters and numbers, remove duplicates).\n"
+        "5. Proper Nouns, with subcategories:\n"
+        "   - Institutions (universities, labs, etc.)\n"
+        "   - Experimental Methods (e.g. PCR, sequencing)\n"
+        "   - Software & Tools\n"
+        "   - Reagents & Chemicals\n"
+        "   - Model Organisms & Cell Lines\n\n"
+        "Your output must be a single valid JSON object with no extra commentary:\n\n"
         "```json\n"
         "{\n"
         '  "title": "",\n'
@@ -86,11 +77,12 @@ def send_segment_to_llm(segment_text, pdf_base_name, seg_index):
         "  }\n"
         "}\n"
         "```\n\n"
-        
-        "If any field is not present in the text, return an empty string (or an empty array for list fields).\n"
-        "Do not include any explanations or extra text in your output. Only output the JSON object.\n\n"
-        "The text to process is:\n\n" + segment_text
+        "If any field is not present, return an empty string or empty array.\n"
+        "No explanations or extra text. Only return the JSON.\n\n"
+        f"The text to process is:\n\n{segment_text}"
     )
+    ...
+
     
     response = client.chat.completions.create(
         model="lmstudio-community/qwen2.5-7b-instruct",
