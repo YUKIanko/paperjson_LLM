@@ -30,21 +30,24 @@ def extract_pdf_text(pdf_path):
     return file_text
 
 def split_text(text, max_chars=3000, tail_lines=150):
-    """
-    テキストを固定文字数(max_chars)ごとに分割する。
-    ※実際はセクション単位に分割するなどの工夫が望ましい。
-    末尾150行を暫定的reference
-    """
-    # 末尾150行を取得
     lines = text.strip().split("\n")
-    main_text = "\n".join(lines[:-tail_lines:]) if len(lines) > tail_lines else ""
-    tail_text = "\n".join(lines[-tail_lines]) 
-    # 末尾150行を除外したテキストを分割
+    #行数が150以下のときは全部tail_textに入れる
+    # それ以上のときは、tail_lines行を除いた部分をmain_textに入れ
+    if len(lines) <= tail_lines:
+        main_text = ""
+        tail_text = "\n".join(lines)
+    else:
+        main_text = "\n".join(lines[:-tail_lines:])
+        tail_text = "\n".join(lines[-tail_lines:])
     segments = []
+    # main_textをmax_charsごとに分割
     for i in range(0, len(main_text), max_chars):
         segments.append(main_text[i:i + max_chars])
+
+    # 末尾行も追加
     if tail_text:
         segments.append(tail_text)
+
     return segments
 
 
