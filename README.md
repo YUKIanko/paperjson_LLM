@@ -1,3 +1,3 @@
 # paperjson_LLM
-
-![image](https://github.com/user-attachments/assets/c6ae2c0d-e2d6-4641-b2f5-5cfd65f1a2b6)
+[Sample]
+![networkxtestmulti_kamadakawailayout](https://github.com/user-attachments/assets/4e197684-69df-4203-8573-9aa6a92e816c)
