@@ -11,4 +11,6 @@ __pycache__/
 # 一時ファイル
 *.log
 *.tmp
+*.txt
+*.json
 data/tmp/
