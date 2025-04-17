@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA1", "GATA2", "GATA3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["targeted disruption in ES cells"],
+    "software_tools": [],
+    "reagents_chemicals": ["antisense GATA4 transcripts", "DMSO"],
+    "model_organisms": ["mice", "P19 embryonic carcinoma cells", "Xenopus embryos"]
+  }
+}

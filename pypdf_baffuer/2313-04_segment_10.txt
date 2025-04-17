@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [20, 27, 14, 13, 2628],
+  "genes": ["PECAM", "GATA4", "GATA6", "GATA4", "Hprt"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Immunohistochemistry", "RT-PCR analysis", "Hematoxylin-and-eosin staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["PECAM-positive endothelial cells", "GATA4 protein", "F9 embryonal carcinoma cells", "short interfering RNA approach", "ES cells", "Albumin gene’s transcriptional regulatory elements", "Hprt mRNA"],
+    "model_organisms": ["Gata6/H11002//H11002E9.5 embryos", "Gata6/H11002//H11002 fetal hearts", "F9 cells", "Gata6/H11001//H11002 embryos"]
+  }
+}

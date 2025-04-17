@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["MOs"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "compound heterozygous mice", "zebrafish", "GATA4 mutant mice", "amniotes", "cardiac mesoderm", "foregut endoderm", "chick models"]
+  }
+}

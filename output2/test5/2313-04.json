@@ -1,0 +1,179 @@
+{
+  "title": "GATA6 Is Essential for Embryonic Development of the Liver but Dispensable for Early Heart Formation",
+  "authors": [
+    "Roong Zhao",
+    "Alistair J. Watt",
+    "Jixuan Li",
+    "Jennifer Luebke-Wheeler",
+    "Edward E. Morrisey",
+    "Stephen A. Duncan"
+  ],
+  "references": [
+    {
+      "doi": "10.1128/MCB.25.7.2622–2631.2005"
+    },
+    {
+      "doi": "",
+      "author": "Anonymous",
+      "journal": "Journal of Biological Chemistry",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "",
+      "author": "Anonymous",
+      "journal": "Developmental Cell",
+      "volume": "12",
+      "pages": "925-936"
+    },
+    {
+      "doi": null,
+      "authors": "Mistry",
+      "journal": "Journal of Developmental Biology",
+      "volume": "25",
+      "pages": "2005"
+    },
+    {
+      "doi": "10.1074/mcp.MCP200",
+      "authors": "Morrissey et al.",
+      "journal": "Molecular and Cellular Proteomics",
+      "volume": null,
+      "pages": "M900368-MCP200"
+    },
+    {
+      "doi": "10.1074/mcp.M500391200",
+      "authors": "Bergman et al.",
+      "journal": "Molecular and Cellular Proteomics",
+      "volume": null,
+      "pages": "M500391200"
+    },
+    {
+      "doi": "",
+      "author": "ZHAO ET AL.",
+      "journal": "MOL.CELL.BIOL.",
+      "volume": "2624",
+      "pages": ""
+    }
+  ],
+  "genes": [
+    "GATA6",
+    "GATA1",
+    "GATA2",
+    "GATA3",
+    "GATA4",
+    "GATA5",
+    "HNF4",
+    "Gata4",
+    "HNF4",
+    "PECAM",
+    "Hnf4"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, Wisconsin",
+      "Department of Medicine, Molecular Cardiology Research Center, University of Pennsylvania, Philadelphia, Pennsylvania",
+      "Purdue University",
+      "University of California, San Francisco",
+      "Albert Einstein College of Medicine",
+      "Friedrich Miescher Institute for Biomedical Research",
+      "Boston Children's Hospital",
+      "National Institutes of Health",
+      "University of Tokyo",
+      "Massachusetts General Hospital",
+      "University of Cambridge",
+      "Kyoto University",
+      "Harvard Medical School",
+      "Oxford University Press",
+      "Academic Press",
+      "Baylor College of Medicine"
+    ],
+    "experimental_methods": [
+      "tetraploid embryo complementation",
+      "in vivo footprinting analyses",
+      "PCR",
+      "RT-PCR",
+      "Southern blot analysis",
+      "in situ hybridization",
+      "Immunohistochemistry",
+      "genotyping",
+      "gene expression analysis",
+      "cardiac morphology assessment",
+      "conditional alleles",
+      "septum transversum mesenchyme",
+      "liver bud",
+      "endothelial cells",
+      "hepatocytes",
+      "adult livers",
+      "cardio-myocytes",
+      "endocardial cells",
+      "ventricular trabeculation",
+      "in situ hybridization",
+      "immunohistochemistry",
+      "PCR",
+      "RT-PCR",
+      "septum transversum mesenchyme",
+      "liver bud",
+      "endothelial cells",
+      "hepatocytes",
+      "adult livers",
+      "cardio-myocytes",
+      "endocardial cells",
+      "ventricular trabeculation",
+      "anti-phosphohistone H3 immunohistochemistry",
+      "terminal deoxy-nucleotidyltransferase-mediated dUTP-biotin nick end labeling (TUNEL)",
+      "PCR",
+      "Southern blot analyses",
+      "tetraploid embryo complementation",
+      "growth of Gata6/H11001//H11002 cells in a high concentration of G418"
+    ],
+    "software_tools": [
+      "Bioconductor",
+      "R",
+      "MATLAB"
+    ],
+    "reagents_chemicals": [
+      "extraembryonic endoderm",
+      "Paraformaldehyde",
+      "paraffin sections",
+      "primary antibodies recognizing HNF4 (Santa Cruz, catalog no. sc-6556)",
+      "GATA4 (Santa Cruz, catalog no. sc-1237)",
+      "platelet endothelial cell adhesion molecule (PECAM; CD31; BD PharMingen)",
+      "silver grains",
+      "hematoxylin",
+      "eosin",
+      "H11001tetraploid cells",
+      "H11002ES cell",
+      "Gata6/H11002//H11002 embryonic stem cells",
+      "phosphohistone H3",
+      "TUNEL",
+      "PECAM",
+      "Hprt",
+      "Hex mRNA",
+      "albumin",
+      "HNF4 mRNA",
+      "retinol binding protein (Rbp4)",
+      "transthyretin (Ttr)",
+      "wild-type extraembryonic endoderm",
+      "specific short interfering RNAs"
+    ],
+    "model_organisms": [
+      "mice",
+      "zebra fish",
+      "Caenorhabditis elegans",
+      "Drosophila melanogaster",
+      "Gata6/H11002//H11002 ES cells",
+      "R1 ES cells",
+      "wild-type Gata6 allele",
+      "mouse embryos",
+      "Gata6/H11002//H11002ES cell-derived embryos",
+      "GATA6-null mice",
+      "E8.0 embryos",
+      "E9.5 embryos",
+      "E8.5 ES cell-derived embryos",
+      "embryos containing 12 somites",
+      "embryos containing 25 somites",
+      "mice",
+      "mouse embryo"
+    ]
+  }
+}

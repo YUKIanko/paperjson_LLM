@@ -1,0 +1,108 @@
+{
+  "title": "Inducible control of tissue-speciﬁc transgene expression in Xenopus tropicalis transgenic lines",
+  "authors": ["Jeiwook Chae", "Lyle B. Zimmerman", "Robert M. Grainger"],
+  "references": ["Smith and Harland, 1991", "Kroll and Amaya, 1996", "Ofﬁeld et al., 2000", "Brandand Perrimon, 1993", "Hartley et al., 2001"],
+  "genes": ["TERT"],
+  "proper_nouns": {
+    "institutions": ["University of Virginia"],
+    "experimental_methods": ["GAL4/UAS system", "nuclear-transfer-mediated transgenesis", "crossing stable Xenopus tropicalis transgenic lines", "mRNA injection", "frog transgenes technique"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486"],
+    "model_organisms": ["Xenopus tropicalis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Wang et al., 1994", "Amaya et al., 1998", "Kroll and Amaya, 1996", "Hartley et al., 2001"],
+  "genes": ["UAS-effector", "GAL4 transactivator", "Upstream Activation Sequences (UAS)", "ECFP", "pCAR-RFP"],
+  "proper_nouns": {
+    "institutions": ["National Institute for Medical Research"],
+    "experimental_methods": ["transient expression assays", "crossing a UAS-effector line to a GAL4 transactivator line", "injecting synthetic GAL4 mRNA into embryos at the two-cell stage"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "GAL4 binding domain", "Upstream Activation Sequences (UAS)", "green fluorescent protein variant ECFP (Clontech)", "Red Fluorescent Protein", "cardiac actin promoter"],
+    "model_organisms": ["Xenopus tropicalis", "Xenopus laevis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ECFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["genomic Southern blotting", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["GAL4 RNA", "RFP-positive embryos", "ECFP reporter", "UAS sequences", "GFP expression", "Somatic muscle", "stage 19 embryos", "stage 45 embryos", "bright field", "GFP filter"],
+    "model_organisms": ["X. tropicalis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mathers et al., 1997", "Wang et al., 1994", "Burcin et al., 1998", "Zhao et al., 2001"],
+  "genes": ["Rx", "Rx"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["screening a X.tropicalis genomic library", "generated transgenic lines with GFP fused downstream of the 2.2 kb Rx promoter (pRx –GFP) and analyzed the F1 embryos for the GFP expression pattern"],
+    "software_tools": [],
+    "reagents_chemicals": ["a X.laevis Rx cDNA probe", "RU486"],
+    "model_organisms": ["X.laevis", "X.tropicalis", "pRx-GALPR transgenic lines with retina-specific expression of this chimeric transactivator"]
+  }
+}
+{
+  "title": "J. Chae et al. / Mechanisms of Development 117 (2002) 235 –241",
+  "authors": ["J. Chae", "<other-authors>"],
+  "references": [],
+  "genes": ["ECFP", "UAS-effector", "Rx"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microscopic examination", "Western analysis", "fluorescent images", "Western blot analysis", "crossing", "dissected eye tissue"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "EGFP antibody", "ECFP", "Actin", "Clontech", "modiﬁed progesterone receptor ligand-binding domain"],
+    "model_organisms": ["non-transgenic embryos", "embryos bearing one transgene", "both effector and transactivator transgenes", "RFP-positive embryos", "ECFP-positive embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Offield et al., 2000", "Phelps and Brand, 1998", "Wang et al., 1997", "Zhao et al., 2001", "Wang et al., 1994", "Brand, 1995"],
+  "genes": ["GAL4", "ECFP", "UAS-GFP", "EGFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RU486 treatment", "ligand-inducible regulatory system based on a mutated progesterone receptor ligand binding domain"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "progesterone", "ECFP fluorescence", "UAS-GFP gene transcription", "EGFP (Clontech)"],
+    "model_organisms": ["Xenopus tropicalis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Zaraisky, A., personal communication"],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microinjection", "transgene induction", "ECFP accumulation"],
+    "software_tools": [],
+    "reagents_chemicals": ["EGFP mRNA", "mRNA"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Rx", "ECFP", "Pax6", "Otx", "Crx", "SpOtx2", "pax6", "wild-type", "PAX6"],
+  "proper_nouns": {
+    "institutions": [
+      "National Institutes ofHealth",
+      "Minerva",
+      "Virginia.EDU"
+    ],
+    "experimental_methods": ["DNA constructs and generation of transgenic lines", "GAL4 mRNA injections", "RU486 treatments and Western analysis", "Photomicroscopy"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "SP6 polymerase", "pCS2/GAL4 template", "capped synthetic GAL4 RNA", "NP-40 lysis buffer", "Bradford assay reagent (Bio-Rad)", "nitrocellulose membrane (Osmonics Inc.)", "LivingColors A.v. Peptide antibody (Clontech)", "Anti-Actin antibody (Sigma)", "DMSO", "1 M acetic acid"],
+    "model_organisms": ["Xenopus tropicalis", "Xenopus laevis"]
+  }
+}

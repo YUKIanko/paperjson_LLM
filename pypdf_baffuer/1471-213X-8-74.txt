@@ -1,0 +1,770 @@
+BioMed Central
+Page 1 of 16
+(page number not for citation purposes)BMC Developmental Biology
+Open Access Research article
+GATA4 and GATA5 are essential fo r heart and liver development 
+in Xenopus  embryos
+Kim E Haworth1, Surendra Kotecha2, Timothy J Mohun2 and 
+Branko V Latinkic*1
+Address: 1School of Biosciences, Cardiff University, Museum Avenue, Card iff, CF10 3US, Wales, UK and 2Division of Develo pmental Biology, 
+National Institute for Medical Research, The Ridgeway, London NW7 1AA, UK
+Email: Kim E Haworth - haworthk@cardiff.ac.uk;  Surendra Kotecha - skotech@nimr.mrc.ac.uk ; Timothy J Mohun - tmohun@nimr.mrc.ac.uk; 
+Branko V Latinkic* - latinkicb@cf.ac.uk
+* Corresponding author    
+Abstract
+Background: GATA factors 4/5/6 have been implicated  in the development of the heart and
+endodermal derivatives in vertebrates. Work in ze brafish has indicated that GATA5 is required for
+normal development earlier than GATA4/6. However, the GATA5 knockout mouse has no
+apparent embryonic phenotype, thereby question ing the importance of the gene for vertebrate
+development.
+Results: In this study we show that in Xenopus embryos GATA5 is essentia l for early development
+of heart and liver precursors. In addition, we have found that in Xenopus embryos GATA4 is
+important for development of heart and liver primordi a following their specification, and that in this
+role it might interact with GATA6.
+Conclusion: Our results suggest that GATA5 acts earl ier than GATA4 to regulate development
+of heart and liver precursors, and indicate that one early direct target of GATA5 is homeobox gene
+Hex.
+Background
+GATA4/5/6 Zinc finger-containing transcription factors
+are regulators of gene expression in multiple tissues
+derived from mesoderm and endoderm in vertebrate
+embryos and adults [1-4]. They are expressed in overlap-
+ping patterns and share domain structure and most of
+their biochemical activities, including DNA binding site
+preference, raising a possibility of redundant function in
+vivo. Genetic analyses of the roles of GATA4/5/6 genes in
+vertebrate development has so far implicated that individ-
+ual factors have unique and shared roles. In the mouseGATA4 initially plays an essential role in endodermal
+development and indirectly in early heart morphogenesis
+[5-7]. Later roles of GATA4 have been revealed by analysis
+of a non-null allele that blocks interaction with FOG2
+cofactor, by myocardial-specific null mutation, and by
+careful analysis of heterozygous null mice [8-10]. A role
+for GATA4 in the mouse liver development was recently
+examined by tetraploid embryo complementation, and
+this work has indicated that GATA4 is required for expan-
+sion of liver bud [11]. In zebrafish, knockdown of GATA4
+by specific morpholino oligonucleotides (MO) has beenPublished: 28 July 2008
+BMC Developmental Biology  2008, 8:74 doi:10.1186/1471-213X-8-74Received: 28 November 2007
+Accepted: 28 July 2008
+This article is available from: http ://www.biomedcentral.com/1471-213X/8/74
+© 2008 Haworth et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons. org/licenses/by/2.0 ), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the orig inal work is properly cited.
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 2 of 16
+(page number not for citation purposes)shown to affect development of heart and liver precursors
+after their specification, in broad agreement with the
+results obtained in the mouse model [12].
+GATA6 is indispensable for development of exrtraembry-
+onic endoderm in the mouse, and also has later roles inthe developing liver and heart, following their specifica-
+tion [13]. These findings on the roles of GATA6 in the
+mouse are in good agreement with the results from Xeno-
+pus and zebrafish models [12,14].
+The function of GATA5 has been most extensively studied
+in the zebrafish embryo, where faust (GATA5) mutants
+were found to display defects in heart and endoderm
+development [15,16]. The heart phenotypes of faust
+embryos include an almost complete loss of cardiac pro-genitors and morphological defects such as cardia bifida[15]. More recently a role of GATA5 in zebrafish heartmorphogenesis was confirmed by MOs [17]. In contrast,targeting of the GATA5 gene in the mouse was reported to
+have no consequences for embryonic development, sug-
+gesting that the role of GATA5 in mammals may not beconserved [18].
+To improve our understanding of the roles played by
+GATA4 and GATA5 in early development of vertebrate
+embryos, we have analysed their function in Xenopus
+embryos using a gene knockdown approach.
+Results
+GATA5 is a dosage-sensitive regulator of early heart and 
+liver development
+To assess the role of GATA5 in Xenopus development we
+first used a translation-blocking MO, G5. This MO targetsboth GATA5 pseudoalleles in Xenopus laevis and GATA5
+mRNA in diploid Xenopus tropicalis (see Additional File 1).
+Doses of 20 ng or greater per X. laevis embryo resulted in
+gastrulation defects and lethality by mid-neurula stages.
+Therefore, to investigate the role of GATA5 in heart and
+liver development doses of 5–10 ng/embryo were used.This dose of G5 MO was shown to specifically and effec-tively block translation of the injected tagged GATA5mRNA (Fig. 1A).
+The phenotypes of morphant tadpoles were scored at st.
+35–37, when morphogenesis of the beating heart is well
+advanced, and is characterised by the expansion of thewalls of looped cardiac tube [19]. At this stage the adja-cent liver primordium is visible as a distinct thickening inthe anterior endoderm. At st. 35–37, the cardiomyocytedifferentiation-specific genes MLC2 and cTnI, and liver-
+enriched genes FOR1 and Hex are robustly expressed, and
+were used to visualise heart and liver development [20-23].Injection of G5 MO in X. laevis embryos in both blast-
+omeres at 2-cell stage or in presumptive anterior blast-
+omeres at 4-cell stage caused a severe reduction in the sizeof heart and liver primordia (Fig 1B1-5), whilst posteriortargeting of G5MO (Fig 1B6) or injection of two controlMOs at 50 ng/embryo has no obvious effect (Fig. 1B7-9).G5 MO caused a similar heart phenotype in X. tropicalis
+embryos (Fig 1C).
+The most frequent phenotype caused by G5MO was an
+almost complete loss of cardiac and liver markers (101/146; summarised below). The remaining morphants hada reduction of heart and liver primordia, and only rarely
+abnormal morphogenesis of the heart was observed.
+Our attempts to rescue GATA5 morphants by injection of
+a wide range of GATA5 mRNA amounts proved inconclu-sive (data not shown), most likely because overexpressionof even small amounts of GATA5 mRNA causes a severephenotype [24]; data not shown). It is likely that a suc-
+cessful rescue requires the precise regulation of the
+amount, place and time of exogenous GATA5 expression.We therefore wished to provide an additional line of evi-dence for the specificity of action of GATA5 MOs bydownregulating GATA5 in a way that would enable assess-ment of the status of endogenous GATA5. To achieve this,
+a splice site-blocking MO was used and its action was
+monitored by RT-PCR analyses of mRNA. Using genomicsequence available for X. tropicalis , a splice junction block-
+ing MO (G5SP) was designed which was predicted tocause in-frame skipping of exon 4. This exon encodes theC-terminal Zn finger (Fig. 2). Injection of G5SP MO
+caused an efficient and dose-dependent reduction in the
+level of the full-length GATA5 mRNA in X. tropicalis
+embryos (Fig. 2A). This MO also caused exon skipping inX. laevis (Fig. 2A, B), indicating conservation of intronic
+sequence at the exon/intron and intron/exon boundaries(currently X. laevis GATA5 genomic sequence is not avail-
+able to confirm this assumption).
+Injection of G5SP MO in both X. laevis and X. tropicalis
+resulted in correct in-frame exon 4 skipping, as confirmedby sequencing of PCR products (Fig. 2A). The action ofG5SP MO appeared to be specific for GATA5, sinceGATA4 transcripts were not affected by any of the doses of
+this MO analysed (Fig. 2A). Importantly, the phenotype
+observed following injection of the low-medium doses(9–18 ng/ X. laevis embryo) was similar to the one pro-
+duced by G5 MO, namely, severe heart and liver defects(Fig. 2C). Furthermore, given that 9 ng of G5SP MO elim-inated only approximately half of the full-length GATA5
+mRNA (Fig. 2B), these results suggest that in our experi-
+ments with translation-blocking MO, only a partial down-regulation of GATA5 was achieved, allowing themorphants to reach tadpole stages. RT-PCR data suggest
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 3 of 16
+(page number not for citation purposes)Figure 1
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 4 of 16
+(page number not for citation purposes)that doses of G5SP MO above 18 ng (44 and 66 ng) result
+in skipping of the exon 4 in all GATA5 transcripts in X. lae-
+vis (Fig. 2A, B) and cause severe gastrulation defects and
+death (data not shown). In our earlier experiments withhigher doses of the G5 MO (20–50 ng) we observed sim-
+ilar phenotypes. Taken together, this data indicate that
+higher doses of G5SP and G5 MOs result in complete ornearly complete loss of GATA5 and lethality.
+The action of G5SP MO results in the formation of mutant
+GATA5 protein with a d
+eleted C-terminal Zn finger,
+dGATA5 (Fig. 2E). Given that the C-terminus Zn finger is
+sufficient for DNA binding of GATA5 [25], we expectedthat the dGATA5 protein would be inactive. This was con-firmed by showing that dGATA5 is unable to activateGATA transcriptional reporter in animal cap explants (Fig.2D). The dGATA5 protein was efficiently expressed in ani-
+mal caps, indicating that its lack of transcriptional activity
+is likely due to loss of DNA-binding Zn finger, rather thenaltered protein levels (Fig 2E). dGATA5 retains most of thewt coding sequence, including the activation domainsand the N-terminal Zn finger. In order to test if dGATA5retained any activity which enabled it to interact with fac-
+tors such as the wild-type GATA5 or GATA4, we modelled
+the potential interaction between the wtGATA4/5 anddGATA5 proteins, as it may occur in vivo in G5SP mor-phants where the MO was 50% effective in generating thedGATA5 protein. An equal amount of mRNAs encodingwtGATA4/5 and dGATA5 proteins was co-injected intoembryos together with a GATA transcriptional reporter.
+We found that dGATA5 does not substantially alter tran-
+scriptional activity of either GATA5 or GATA4 in animalcaps (Fig. 2D). These results suggest that the phenotypecaused by the low doses of G5SP MO (9–18 ng) likelyresults from a reduction in the amount of the wt protein.
+An additional non-overlapping translation-blocking MO,
+G5UTR also caused deficiency in heart and liver tissue(Fig. 3). However, G5UTR MO was less effective (27/69severely affected embryos; Fig. 3B), requiring a 10 timesgreater dose then G5 MO to produce a similar phenotype.
+The difference in efficiency between these MOs mightreflect the different location of their target sequencesalong the GATA5 mRNA: the G5 MO target is immediatelydownstream of the START codon, whereas the G5UTR
+MO interacts with its target 8 nt upstream (Additional Fig.
+1), and its' efficiency might be affected by the 5'UTR sec-ondary structure.
+GATA4 is required for hear t and liver development in 
+Xenopus  embryos
+GATA4 was shown in both zebrafish [12] and mouse
+[11,26,27] to be essential for heart and liver developmentfollowing specification, but its role in Xenopus has not
+been investigated in detail. To address this question wedesigned a MO targeted against both X. laevis alleles and
+X tropicalis GATA4 (Additional File 1). This MO, G4,
+causes specific blocking of translation of injected mRNA
+(Fig. 4A) and results in heart and liver defects (Fig. 4B andalso Fig. 3). The majority of G4 morphants had heart mor-phogenesis defects but had detectable heart and liver geneexpression (Figs 3, 4). However, in these experiments thestatus of endogenous GATA4 in G4 morphants was
+unknown. Therefore, we additionally tested the role of
+GATA4 by using a splice-blocking MO, G4SP, which wasdesigned like the G5SP MO to cause in-frame removal ofexon 4 in its target. As shown in Fig. 4D, G4SP MO causeda dose-dependent splicing out of exon 4 in both X. tropi-
+calis and X. laevis , resulting in heart and liver defects. G4SP
+morphants closely resembled G4 morphants (Fig. 4).
+However, the maximum activity of the G4SP MO (~90%
+efficiency in inducing splicing) was reached at 80 ng/embryo (Fig. 4D, E), unlike G5SP MO, which was effectivein causing complete splicing above 18 ng/embryo. Furtherincrease in the dose of the G4SP MO to 100 and 120 ng/embryo did not improve the efficiency of splicing (Fig. 4E
+and data not shown). This result was observed in both X.
+laevis and X. tropicalis (Fig. 4C) and therefore likely repre-
+sents inherent property of the G4SP MO, rather then inef-ficient action caused by sequence divergence. G4SP MOInjection of G5 MO, but not of C1 and C2  control MOs, cause severe size reduction or loss of heart and liver in Xenopus embryosFigure 1
+Injection of G5 MO, but not of C1 and C2 control MOs, ca use severe size reduction or loss of heart and liver in 
+Xenopus embryos . A: Translation of injected GATA5-GR.HA mRNA, detected  by Western blotting with anti-HA antibody, 
+is blocked by G5 but not by other MOs in dicated. G5UTR MO ("G5U") do es not affect translation of GATA5-GR.HA, as this 
+constructs lacks the 5'UTR sequence. 1 ng of mRNA was injected into 1- or 2-cell embryos and 10–15 minutes later the 
+embryos were injected with 10 ng of G5, or 50 ng of G5UTR or G4 MOs.  E-Uninjected embryos. B: Injection of 5 ng of G5 
+MO results in a loss (B1,2) or severe re duction (B3-5) of cardiac and liver precurso rs, as revealed by whole-mount in situ 
+hybridisation for MLC2 (purple) and Hex (turquoise). Posterior injection of G5 MO (5ng) has no obvious effects (B6). Control 
+MOs 1 or 2 (C1 or C2, 50 ng/embryo) have no effect on normal development of heart and liver precursors (B7-9). B1-4, 8,9: 
+ventral view; B5-7: lateral view (anter ior to the left). In B3-5 arrows po int to the remnants of the heart. C: G5 MO (1 ng/
+embryo) causes heart defects in X. tropicalis (Xt) embryos (arrow points to the heart remnant), and C1 MO (10 ng) has no 
+effect on normal heart development (arrow head in C2). Complete bleaching of X. tropicalis embryos has removed the morpho-
+logical landmarks, and cement gland (cg) and eyes  (e) have been indicated to add visualisation.
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 5 of 16
+(page number not for citation purposes)Figure 2
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 6 of 16
+(page number not for citation purposes)did not cause splicing out of exon 4 in GATA5 mRNA (Fig.
+4D).
+Importantly, the phenotype caused by the doses of G4SP
+MO above 33 ng closely resembled the phenotype of G4
+morphants (Fig. 4), suggesting that loss of greater than50% of wt GATA4 leads to heart and liver defects. Theeffect of G4SP MO was dose dependent, with the propor-tion of embryos with cardiac and liver defects increasingfrom 33% at 33 ng/embryo to 95% at 80 ng/embryo (Fig.
+3). The GATA4 MOs were far less effective in causing
+severe phenotype (severe reduction or loss of heart andliver precursors) than the MOs against GATA5 (summa-rised in Fig. 3). The great majority (80–90%; Fig. 3) ofGATA4 morphants displayed defects in expansion or mor-phogenesis of the heart primordium, including cardia bif-
+ida, partial fusion of heart fields and abnormal looping.
+These results suggest that GATA4 is required for heartdevelopment after cardiac specification.
+GATA5 is required before GATA 4 for development of heart 
+and liver precursors
+To determine when GATA4 and GATA5 are required for
+heart development, we have examined the expression of
+Nkx2.5, a marker of heart field in late neurula stages,when it is robustly expressed [28,29]. Another reason forperforming the analysis at st. 22 was that previous fatemapping studies have shown that at st. 22 Nkx2.5-expressing cells contribute to the developing heart [29].
+We found that injection of any GATA5 MO, but not
+GATA4 or GATA6 MOs [14], cause a substantial reductionin expression of Nkx2.5 (Fig. 5A).The expression of another marker which is expressed in a
+subset of cardiac precursors at the same time, Tbx5 [30],was also reduced by GATA5 MO (Additional file 2), pro-viding further evidence that GATA5 is required for specifi-
+cation of cardiac precursors. We have additionally tested
+the effect of GATA5 MOs on Nkx2.5 expression at st. 14,near its' onset, [28] and just after cardiac specification[31]. Our RT-PCR analyses indicate that GATA5 MOs donot block expression of Nkx2.5 at st. 14 (data not shown).However, as early-expressing Nkx2.5-positive cells have
+not been fate mapped, and, more importantly, since there
+are no known cardiac-specific markers that uniquely iden-tify cardiac precursors at the time of their specification, theearliest requirement for GATA5 in heart developmentremains unknown at present.
+To examine the effect of GATA4 and GATA5 MOs on early
+liver precursors, we first established that Hex-expressingcells in the anterior ventral endoderm of st. 22 embryosare fated to become the liver primordium (Additional File3). We next established that injection of G5 MO (Fig. 5B),but not of control MO or GSP4 MO (Fig. 5B, C), leads toan almost complete loss of Hex expression. This result
+suggests that GATA5 is required for liver specification.
+However, additional specific markers are required toestablish the requirement of early liver precursors forGATA5.
+The same dose of G5 MO that causes a reduction of Hex
+expression at st. 22 and later cause heart and liver defects
+in tadpoles had no effect on Hex expression in gastrulae(data not shown). However, higher doses of G5 and G5SPMOs (that are more effective in downregulation ofG5SP MO creates GATA5 protein lacking the C-termin al Zn finger and causes heart and liver defects Figure 2
+G5SP MO creates GATA5 protein lacking the C-terminal Zn finger and causes heart and liver defects . A: G5SP 
+MO causes dose-dependent spli cing out of exon 4 in both Xenopus laevis and Xenopus tropicalis . The injected dose is indicated 
+(in ng). 3–4–5, cDNA that contains exon 4 and regions of exons 3 and 5 determined by  target sites of the primers; 3–5, cDNA 
+without exon 4. Below are shown the sequences of the wt 3–4–5 and 3–5 cDNAs showing in-frame splicing in both species. B: 
+G5SP MO causes a dose-dependent  reduction in the level of th e wt full-length mRNA (including exon 4; 3–4–5) and concomi-
+tant increase in the level of the mRNA th at lacks exon 4 (3–5), as revealed by RT-PCR with primers based in exons 2 and 4. 
+Injection of 9 ng of G5SP MO causes pa rtial loss (~50%) of wt GATA5 mRNA. The do se in ng used per embryo is given for 
+each MO. -PCR, control with no cDNA input. M-DNA marker. ODC- Orhith ine Decarboxylase load ing control. Embryos 
+were collected for RNA analysis at st. 15. C: Injection of 9 ng of G5SP MO into the same group of embryos analysed in (B) 
+causes severe reduction of hear t and liver st. 37 (C1,2). Injection of 50 ng of C1 MO has no effect on heart and liver develop-
+ment (C3). D: The dGATA5 protein can neither activate transcription nor can it significantly affect the ability of GATA5 or 
+GATA4 to activate a firefly luciferase report er driven by 2 GATA sites in animal cap explants. Dual luciferase assays were per-
+formed 3 hours after excision of explants, and firefly luciferase activi ty was normalised to renill a luciferase activity result ing 
+from TK-RL DNA. A representative experiment  (out of 3) is shown; whilst the levels  of induction varied between experiments, 
+the trend (activation by GATA4 or GATA5 and lack of  substantial effect by dGAT A5) remained consistent. E: Schematic rep-
+resentation of the effect of G4/5SP MOs (exo n-specific part shown as red line) on th e domain structure of their targets. TAD-
+Trans Activation Domain; NLS-Nucl ear Localisation Signal; N, C-Zn fingers. Below-Western blot showing efficient translation 
+of the dGATA5 protein in embryos, detecte d with anti-HA antibody. E-uninjected embr yos. d, wt-embryos injected with the d- 
+or wtGATA5-GR.HA mRNA, respectively.
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 7 of 16
+(page number not for citation purposes)GATA5; see above) lead to a reduction of Hex expression
+at st 11 (Additional file 4). These results indicate that
+GATA5 regulates Hex in time- and dose-dependent man-
+ner.
+We have additionally established that GATA5 is likely to
+be a direct regulator of Hex expression, as it is sufficient to
+induce Hex mRNA in an immediate-early fashion in gas-
+trula-stage animal caps (Fig. 5D). At this stage Hex expres-
+sion marks anterior endoderm [23]. Whether Hex is also
+an immediate-early target of GATA5 in liver precursors at
+st. 22 is not known.
+GATA5 is expressed in endoderm during gastrulation and
+subsequently during neurula and early tailbud stages in
+mesoderm and anterior endoderm [24]. In our experi-ments G5SP MO has been shown to be effective until tad-
+pole stages (Additional File 5), having the potential to
+affect both early and late phases of GATA5 expression,
+which could both be involved in normal development of
+heart and liver. Therefore, at present it is not clear when
+precisely GATA5 acts in the development of heart and
+liver precursors.
+Endodermal GATA4 and GATA5 are required for normal 
+heart development
+GATA4 and GATA5 are expressed in both cardiac meso-
+derm and hepatogenic endoderm, and are required for
+their normal development. In our experiments we have
+downregulated GATA4 and GATA5 in both heart and liver
+precursors, and therefore the cell autonomy of their func-
+tion was not addressed. To begin to address the specificSummary of effects of GATA4 and GATA5 MOs in Xenopus embryosFigure 3
+Summary of effects of GATA4 and GATA5 MOs in Xenopus embryos . A: Examples of phenotypic classes caused by 
+GATA5 and GATA4 MOs. Ventral views of embryos injected wit h G5UTR MO or G4 MO are shown (50 ng/embryo). Heart 
+and liver precursors have been revealed by MLC2 (BCIP) an d FOR1 (BM purple) probes, resp ectively. FOR1 was developed 
+first. Ventral views are shown,  with anterior at the top. B, C: Summary of frequencies with which the heart and liver pheno-
+types were observed for GATA5 MOs (B) and for GATA4 MOs (C). The doses of splicing MOs are indicated and for other 
+MOs are as in Figs. 1 and 4.
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 8 of 16
+(page number not for citation purposes)Figure 4
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 9 of 16
+(page number not for citation purposes)roles of GATA4 and GATA5 in heart and liver precursors
+in more detail, we have performed mosaic analysis by tar-geting GATA4 or GATA5 MOs at 32/64 cell-stage to ante-rior-vegetal blastomeres, fated to contribute to anteriorendoderm [32]. MOs were co-injected with rhodamine-dextran, and the fate of injected cells was followed from
+tailbud stages. This allowed us to examine heart develop-
+ment in real time in embryos with correct (largely anteriorendoderm-specific) targeting. In those embryos heartdevelopment was examined by using cardiac actin GFPreporter transgenic line [33]. As shown in Fig. 6, the pres-ence of both G4SP and G5SP MOs in anterior endoderm
+causes abnormal cardiac morphogenesis (defective loop-
+ing (Fig. 6C, G) or poor expansion of the ventricle (Fig.6A, E), suggesting that both factors can act in endoderm toaffect the development of neighbouring heart primor-dium. In these experiments we have not observed moresevere phenotypes that have been seen with uniform
+injection of the MOs (Figs 1, 2, 3, 4). However, given that
+it is difficult to specifically target all anterior endodermalprecursors by injections, and since the efficacy of mosai-cally expressed MOs is unknown, our knowledge of theroles of endodermal GATA4 and GATA5 is still incom-plete.
+GATA4 and GATA6 interact in heart and liver development 
+in Xenopus  embryos
+GATA4/5/6 are expressed in overlapping patterns in heart
+and endoderm in vertebrate embryos, and share manybiochemical properties, including the domain structureand DNA binding site preference [1,3,4]. We have
+addressed the possibility of redundancy between GATA4
+and GATA6, as their knockdowns cause a later and milderheart and liver precursor phenotype than a knockdown ofGATA5 (Fig. 1, 2, 3, 4, 5; [14]. Whilst suboptimal doses ofGATA4 and GATA6 (25 and 5 ng, respectively) have no
+effect or cause only a mild phenotype, their co-injectioncauses heart and liver defects that resemble the phenotypecaused by 50 ng of the GATA4 MO or 10 ng of the GATA6MO (Fig. 7). These results strongly suggest that GATA4and GATA6 interact during development of heart and
+liver.
+Discussion
+GATA5 is essential for early heart and liver development in 
+Xenopus  embryos
+In this report we have established that in Xenopus embryos
+GATA5 is required for the early development of heart and
+liver. Downregulation of GATA5 in both Xenopus laevis
+and Xenopus tropicalis using two non-overlapping transla-
+tion-blocking MOs and by using a splice-site blocking MOcauses a severe reduction in the number of heart and liverprecursors at the time of or shortly after their specifica-
+tion. Our results are in broad agreement with the analysis
+of the faust (GATA5) zebrafish mutants, which show
+abnormal development of the heart and endodermal tis-sues, including the liver [15,16]. However, the geneticanalyses of GATA5 in zebrafish have been limited by thefact that of two described faust alleles the stronger one
+remains uncharacterised at the molecular level, by consid-
+erable variability of the phenotype and by a possibility of
+maternal contribution [15].
+A recent report has examined the roles of GATA4/5/6 in
+heart development of Xenopus laevis and zebrafish
+embryos [34]. In contrast to our findings, Peterkin et al.
+have concluded that in Xenopus embryos GATA5 only
+plays a relatively minor role in heart development, afterspecification. This discrepancy likely reflects differentapproaches taken to address the role of GATA5: whilstGATA4 MOs cause defects in heart and liver development Figure 4
+GATA4 MOs cause defects in heart and liver development . A: Translation of injected GATA4-GR.HA mRNA, 
+detected by Western blotting with anti-HA antibody, is blocked by G4 but not by other MOs indicated. 1 ng of mRNA was 
+injected into 1- or 2-cell em bryos and 10–15 minutes later the embryos were in jected with 50 ng of indicated MOs. E-Unin-
+jected embryos. B: Injection of 50 ng/embryo of G4 MO leads to a reducti on in heart and liver precursors and to cardiac mor-
+phogenesis defects such as cardia  bifida, highlighted by arrows in B3 (B1-5). The same dose (5 0 ng/embryo) of the C2 MO has 
+no effect on heart and liver development (B 6,7). B1-3,5,7: ventral view. B4,6: latera l view. Heart and live r precursors were 
+revealed by MLC2 and Hex probes (BM purple and BCIP, respectively). C: 10 ng/embryo of C2 MO has no effect on heart in 
+X. tropicalis embryos, but the same dose of  G4 MO causes heart defects. D: G4SP MO causes dose-dependent splicing out of 
+exon 4 in both Xenopus laevis and Xenopus tropicalis . The injected dose is indicated (in ng ). 3–4–5, cDNA that contains exon 4 
+and regions of exons 3 and 5 determined by target sites of the primers; 3–5, cDNA without exon 4. Below are shown the 
+sequences of the wt 3–4–5 and 3–5 cDNAs show ing in-frame splicing in both species. E (top): Injection of 80 or 100 ng/
+embryo of G4SP MO, but not of 80 ng of C1 MO, causes splicing out of exon 4 wi th ~90% efficiency, as detected by RT-PCR 
+analyses of mRNA from st. 15 embryos. +/ - RT-indicates presence or absence of Reve rse Transcriptase in samples that were 
+analysed by PCR. E (bottom): 80 ng of C1 MO has no effect on heart and li ver development (E1), whereas the same amount 
+of the G4SP MO causes cardia bi fida and liver defects (E2-4). In  E2 remnants of cardiac tissue detected by weak expression of 
+cardiac marker in severely af fected embryo with cardia bifida are shown by  arrows. Ventral views are shown. Heart was 
+labelled by cTnI (purple) and liver wi th Hex (light blue/turquoise) probes.
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 10 of 16
+(page number not for citation purposes)Peterkin et al. have used a single MO (which is identical
+to the least effective GATA5 MO (G5UTR) that we have
+used in 20 out of 25 nucleotides), we have used two non-
+overlapping translation blocking MOs in addition to a
+splice site-blocking MO to induce similar phenotypes in
+two species, X. laevis and X. tropicalis . In addition, we have
+also documented the efficiency of splice-site blocking MO
+by gene expression analyses. The data of Peterkin et al. on
+the role of GATA5 in zebrafish based on the use of bothtranslation-blocking and splice-site blocking MOs have
+confirmed and extended the results obtained in faust
+mutants, that GATA5 is the most important and earliest-
+acting GATA factor in heart development and are in better
+agreement with our study. One difference, however, is
+that we found that high doses of G5 and G5SP MOs cause
+gastrulation defects and early lethality in Xenopus , whereas
+in the zebrafish GATA5 morphants have a milder pheno-
+type [34]. At present it is not clear if this reflects a greaterGATA5 is required for stable specification of heart and liv er precursors and is suffic ient to directly induce Hex Figure 5
+GATA5 is required for stable specification of heart and liver precursors and is sufficient to directly induce Hex . 
+A: GATA5 MOs (20/32 embryos for G5 (5 ng) and 14/25 embryos for G5UTR (50 ng) showed re duced expression), but not 
+GATA4 MOs (19/19 embryos for G4 (50 ng) and 22/22 embryos for G4SP (100 ng) expressed Nk x2.5) or GATA6 MO (10 ng; 
+14/14 embryos with normal expression), cause early deficiency of  heart precursors at st. 22 (arrowheads in A1-3). Heart field 
+was revealed by Nkx2.5 expression. Ventral vi ews are shown, with anterior at the top. B: Liver precursors in anterior endo-
+derm (see Additional File 3) expressing He x are affected by 10 ng of G5 MO (31/39), but not by 50 ng of C1 MO (20/23 nor-
+mal). Embryos injected uniformly are shown before (B1,3) and after (B) staining  for lineage tracer (pink). Ventral views are 
+shown, with anterior to the left. C: G4SP MO does not effect Hex expression. Em bryos injected with indicated MOs were ana-
+lysed at st. 22 for expression of Hex, splicing out of exon 4 of GATA4 and for ODC by RT-PCR. D: GATA5-GR induces 
+expression of Hex mRNA in animal caps e xplants in the presence or absence of cycl oheximide (Chx), which was added at st. 9. 
+All samples were treated with dexamethas one at the same time to activate GATA 5-GR protein. E-st. 11 control embryos.
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 11 of 16
+(page number not for citation purposes)reliance of the frog embryo on GATA5 for early develop-
+ment, as it is also possible that the apparent difference
+reflects maternal contribution to GATA5 function in
+zebrafish. Clearly, a direct comparison and more com-
+plete answer about the role of GATA5 in Xenopus and
+zebrafish will require the generation and characterisation
+of embryos without GATA5 activity in both models.
+Our results appear to disagree with the reported lack of
+embryonic phenotype of the GATA5 gene-targeted mice
+[18]. However, it has been suggested that in the mouse the
+targeting strategy might not have resulted in a null muta-
+tion [35], and it therefore remains to be established
+whether GATA5 plays a conserved role in early develop-
+ment of mammals.
+The findings of our study strongly suggest that GATA5 is
+required very early in the development of cardiac and liver
+precursors, and are consistent with the reported ability of
+GATA5 to induce cardiac and endodermal tissue in Xeno-
+pus and zebrafish embryos [15,16,24,36]. Having found
+that GATA5 is essential for heart and liver development in
+Xenopus embryos, it will now be important to understand
+how it acts. Our initial experiments designed to address
+the cellular basis of GATA5 action in heart and liver devel-
+opment have suggested that GATA5 MOs do not signifi-
+cantly alter the pattern of apoptosis or proliferation in
+heart and liver precursors at the time when their numbers
+are greatly reduced (i.e., st.22; KEH and BVL, unpub-
+lished). Whilst it is possible that GATA5 MOs affect cell
+proliferation and apoptosis in heart- and liver-forming
+area of the embryo at an earlier stage, ultimately better
+knowledge of the mechanism of action of GATA5 will
+require identification of the target genes that mediate its'Figure 6
+Injection of GATA4 and GATA5 MOs in endoderm inter-feres with heart morphogenesisFigure 6
+Injection of GATA4 and GATA5 MOs in endoderm 
+interferes with he art morphogenesis . Top: experimen-
+tal scheme showing targeted co -injections of MOs and rhod-
+amine-dextran (red fluorescence). The drawing of ventral 
+view of Nieuwkoop and Faber stage 41 embryo [55] is from 
+http://www.xenbase.org . Cardiac actin/GFP embryos were 
+injected at 32-cell stage with in dicated MOs and the fate of 
+injected cells was recorded at st. 41 by rhodamine fluores-
+cence (B, D, F, H, J) . A, C, E, G, I: GFP fluorescence was 
+used to observe heart develo pment (cardiac actin/GFP is 
+expressed in all striated muscles, and head muscles are visible 
+in all images), and GFP images were merged with rhodamine 
+images to highlight injected ar eas. Heart is indicated by 
+arrows, and in specimens where heart was partially injected 
+(C, G) , uninjected area is highlighted by an arrowhead. All 
+properly targeted embryos were  similarly affected by G4SP 
+and G5SP MOs (n = 8, 10, respectively), but not by C1 MO 
+(n = 7). Ventral views are show n, with anterior at the top.
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 12 of 16
+(page number not for citation purposes)action. In this report we have begun this process by show-
+ing that homeobox gene Hex is an immediate-early target
+of GATA5, and we are currently extending this finding by
+conducting a systematic search for targets of GATA5.Dose-dependent roles of GATA5 in early development
+In this report we have focused on the role of GATA5 in
+heart and liver development, however during the course
+of our work we have observed that GATA5 also plays an
+essential earlier role, during gastrulation. This early role
+was revealed using higher doses of G5SP MO which effi-Interaction between GATA4 and GATA6 in heart and liver developmentFigure 7
+Interaction between GATA4 and GATA 6 in heart and liver development . Suboptimal doses of G4 ( A, 25 ng) or G6 
+(B, 5 ng) MOs have only minor effects on heart and liver development at st. 37. 50 ng of G4 MO ( C, D ) or 10 ng of G6 MO 
+cause heart and liver defects. Si milar defects are seen in embryos coinjected wi th 25 ng of G4 MO and 5 ng of G6 MOs ( F). G, 
+H: 50 ng/embryo of C1 MO has no effect on heart and liver. I-frequencies of the phenotypes ob served. Heart and liver precur-
+sor have been analysed as in Fig. 1 with MLC2 and Hex markers.
+
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 13 of 16
+(page number not for citation purposes)ciently remove wt GATA5 mRNA (Fig. 2) and result in
+severe gastrulation defects and death (data not shown).
+However, one limitation of this result is that it remains tobe formally established whether the action of the G5SPMO represents the equivalent of a null mutation, despitethe fact that we found no evidence for activity of themutant dGATA5 protein (Fig 2). A very similar early phe-
+notype that likely results from a complete or nearly com-
+plete loss of GATA5 activity was obtained by higher dosesof G5 MO (20–40 ng/embryo; Additional file 4 and datanot shown), providing additional evidence that GATA5has an essential role during gastrulation.
+The two roles of GATA5 have a differential requirement
+for the level of GATA5 protein, with the development ofheart and liver precursors being more sensitive. A part ofour effort to identify targets of GATA5 is currently focusedon isolation of subsets of targets that require different lev-els of GATA5 activity. An interesting precedent for dose-dependent action of GATA factors has recently been estab-
+lished for GATA1, which has been shown to directly regu-
+late subsets of target genes that differentially respond to itslevels [37].
+The role of GATA4 in heart and liver development in 
+Xenopus  embryos
+Our work shows that in Xenopus laevis and Xenopus tropica-
+lis GATA4 is required for development of heart and liver
+precursors after their specification. This has been estab-lished by using a specific translation-blocking MO and asplice-site blocking MO that operates in a similar mannerto G5SP MO, resulting in the removal of exon 4. However,
+unlike G5SP MO, which at doses that cause approximately
+50% splicing of its target induces severe heart and liverdefects, the maximal activity of the G4SP MO, 90% ofsplicing of its target, results in a milder phenotype, char-acterised by heart morphogenesis defects. As mentionedabove, one limitation of the results obtained with splice-
+blocking GATA4/5 MOs is that it is unclear whether they
+create an equivalent of a null mutation. Nevertheless, ourresults show that Xenopus embryos have a greater and ear-
+lier requirement for GATA5 than for GATA4. A recentstudy by Peterkin et al, utilising translation-blocking MOsin Xenopus laevis has reported that GATA4 is required for
+cardiac morphogenesis, but not for cardiac gene expres-
+sion [34]. Whilst their conclusions on the role of GATA4
+in morphogenesis are in broad agreement with our study,our work suggests that GATA4 MOs also affect cardiacgene expression. It is possible that this apparent discrep-ancy reflects the unknown effect of translation-blockingMOs on endogenous GATA4 protein. As in the case of
+GATA5 stated above, the precise role of GATA4 in early
+development of Xenopus and zebrafish will be better
+defined when embryos lacking GATA4 become available.The role of GATA4 in heart and liver development in Xeno-
+pus embryos revealed by our study appears to be in good
+agreement with the results from zebrafish and mouseembryos [9,11,12,26,34]. GATA4 MOs frequently resultin embryos with cardia bifida (Fig. 4), a defect that alsocharacterises GATA4 null mouse embryos [5,7]. In themouse model, the cardia bifida phenotype is caused by
+GATA4-defective extraembryonic endoderm [6]. It is of
+note that in our Xenopus study specific downregulation of
+GATA4 in anterior endoderm also affects heart morpho-genesis (Fig. 6). It is possible that these distinct forms ofendoderm may share signalling activities despite being ofdifferent embryological origin.
+An additional conserved feature of the action of GATA4 in
+development of heart and liver in Xenopus is its dose-
+dependent interaction with GATA6, which has beenshown by genetic analyses of compound heterozygousmice and by MOs in zebrafish [12,38]. It is intriguing tospeculate that the mechanism of this genetic interaction
+involves direct interaction and synergism of GATA4 and
+GATA6 proteins, as suggested by in vitro studies [39].
+Development of heart and liver and GATA factors
+In our study we have assessed the roles of GATA4 andGATA5 in early heart and liver development. Remarkably,
+the vast majority of morphants for either GATA factor dis-
+played reduced or altered expression of both heart andliver markers. One implication of these results is that thedevelopment of heart and liver are closely linked. Inamniotes it has been shown that cardiac mesoderminduces liver fate in adjacent foregut endoderm [40,41],
+and conversely, endoderm is required for cardiac morpho-
+genesis, as revealed by GATA4 mutant mice [5-7]. Finally,work from Xenopus and chick models have established a
+role for anterior endoderm, which is fated to become liver,in cardiac specification [42-44]. The fates of heart andliver appear to be closely intertwined through reciprocal
+interactions and GATA factors may mediate at least some
+of those. Our mosaic analyses of GATA4 and GATA5 func-tion suggests that they can act in anterior endoderm toaffect heart morphogenesis non-cell autonomously. Theseresults are in good agreement with the null phenotype ofGATA4 mice, which display heart defects caused by defi-ciency of GATA4 in endoderm [6]. More recent studies of
+the function of GATA4 in the myocardium of the mouse
+embryo have also demonstrated a later cell-autonomousrole in growth of the heart [9], and we anticipate a similarrole for Xenopus GATA4. However, given that the resolu-
+tion of our experiments has been limited by the unknownefficacy of MOs targeted to a small part of the embryo, and
+by difficulty in uniquely targeting cardiac precursors by
+injections, better understanding of cell-specific role ofGATA factors in Xenopus will require genetic and trans-
+genic approaches [45,46].
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 14 of 16
+(page number not for citation purposes)Splice-site blocking morpholino oligonucleotides as a tool 
+for in vivo  structure-function mapping
+In this report we have shown that splice-site blocking
+MOs can be used to study the role of C-terminal Zn fingerdomain of GATA4 and GATA5 in development. This waspossible because functional domains of GATA4 andGATA5 are encoded by distinct exons, and because for
+both genes exons 3 and 5 are in the same coding frame.
+Our results suggest that the C-terminal Zn finger DNAbinding domain is essential for the function of GATA4and GATA5 in heart and liver development. However, asthe C-terminal Zn finger of GATA4 also determines inter-actions with MADS box and Nkx2.5 binding partners
+[47], the relative contribution of DNA- and protein-inter-
+actions to the function of this domain in embryos is notclear at present.
+Conclusion
+The main finding of this work is that in Xenopus embryos
+GATA5 plays an early, essential and dose-dependent role
+in the development of the heart and liver. Downregula-
+tion of GATA5 causes severe reduction in the number ofheart and liver precursors at the time of or shortly aftertheir specification. In addition, we have found that inXenopus GATA4 is required for heart and liver develop-
+ment only later after their specification. These results have
+confirmed and significantly extended previous studies on
+the roles of GATA5 and GATA4 in early vertebrate devel-opment.
+Methods
+Xenopus  embryos and injections
+Xenopus laevis embryos were obtained, cultured and
+injected with capped mRNA, DNA, MOs and a mix ofrhodamine dextran and biotinylated dextran (InvitrogenUK) lineage tracer as described [36,48,49]. MOs were syn-thesized by Gene Tools, LLC (Oregon, USA). They wereresuspended in 5 mM HEPES, pH 7.6 followed by gel fil-
+tration through Sephadex G-25 column (GE, UK). The
+sequences of all new MOs used are given in AdditionalFile 1. GATA6 MO was previously described [14]. Injec-tions of G4/5 MOs have the same effect on heart and liverdevelopment when injected either uniformly or in theanterior part of the embryo at the 4- or 8-cell stage. X. trop-
+icalis embryos were obtained and injected according to
+http://tropicalis.berkeley.edu/home/
+ and [50]. Treatment
+with cycloheximide (10 μg/ml) and dexamethasone (2
+μM; both from Sigma UK) in Fig. 4D was for 3 hours at
+21°C.
+Cell autonomy of GATA4 and GATA5 was examined by
+injecting 2 nl of effective concentration of SP MOs (0.9
+mg/ml for G5SP and 8 mg/ml for G4SP) in anterior-vege-tal blastomeres of 32/64 cell stage cardiac actin/GFP trans-genic embryos [33] together with rhodamine dextranlineage tracer. Embryos were viewed and imaged on Leica
+MZ16F microscope with Leica DFC300 FX camera and
+images were processed with Adobe Photoshop 6.
+Luciferase reporter assays
+1 ng of mRNA was injected with 30 pg each of 2XGATA-Luc [51] and TK-RL (Promega) and Dual Luciferase Assays
+(Promega UK) were carried out on extracts from 20 ani-
+mal caps per sample that were incubated for 3 hours afterexcision at st. 9.
+Gene expression analyses
+Whole mount in situ hybridisation (WMISH) was per-
+formed as described [48] with the following probes: for
+myocardium MLC2 [20] and cardiac Troponin I [21]; fortadpole liver primordia FOR1 [22] and Hex [23], for neu-rula/tailbud stage liver precursors Hex and for heart fieldNkx2.5 [28]. BCIP and BM purple alkaline phosphatasesubstrates (Roche) were used. After bleaching [48]injected biotinylated dextran was revealed using ExtrAvi-
+din-AP and Fast Red substrate (Sigma UK). To avoid
+under-representation of gene expression level that canoccur for the second probe in double WMISH, both heart->liver and liver->heart probe order of colour developmentin WMISH was used, together with a swap of more andless sensitive AP substrates.
+RT-PCR. RNA was isolated [52] and cDNA was synthe-
+sized with MMLV-RT according to manufacturer's recom-mendations (Promega UK). Primers for detection of thesplicing events caused by G5SP and G4SP MOs:G5forward 5'-CTACCCCTCTGTGGAGACGA, G5reverse
+5'-TCGAGCCTGTGGAAGTCTTT, G4forward 5'-ATGT-
+CAACCCCACTTTGGAG and G4reverse 5'-GAGCTGGTGGAAGGAGTGAG. Hexprimers: forward 5'-CTGCCATCTCCCAACTCACT and reverse 5'-CCTCTTCT-GTTCTGGAACCAGT. ODC (Orhithine Decarboxylase)primers: forward 5'-AACAAGCAGGCTGCTTCTGG and
+reverse 5'-GGCTGGGTTTATCACAGATG. The PCR prod-
+ucts were sized in comparison with a DNA marker (1 kb+,Invitrogen UK). The identity of wt (3–4–5) and spliced(3–5) GATA4 and GATA5 cDNAs were confirmed bysequencing, performed by the Molecular Biology Unit,Cardiff School of Biosciences.
+Cloning of dGATA5
+dGATA5a was cloned from Genbank L13701 DNA tem-plate [53] by PCR overlap method using Vent polymerase(NEB UK). In brief, the PCR product obtained usingSTART (5'-GACAGATCTGGTTTGTAGCACCGGAT-CATGT) and reverse (5'-ACGAGGCACCAGTCTTTTCTGT-
+GGCTTGAT) primers was combined with the product
+from the reaction using forward (5'-AGACTGGT-GCCTCGTCCTCTGGCCA) and STOP (5'-GCACTCGAGT-TAGGCAAGTGCCAGCGCGCACCA) primers. The
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 15 of 16
+(page number not for citation purposes)resulting dGATA5a coding region was cloned into pCS2
+vector and the sequence of the construct verified by DNA
+sequencing.
+Western blotting
+20 animal caps per sample were collected at st. 10 andlysed in extraction buffer [54]. SDS-PAGE and Western
+blotting were performed with rat anti-HA-HRP mono-
+clonal antibody (Roche UK) at 1:2000 dilution and fol-lowing stripping, anti-Erk or -HSP70 antibodies (SigmaUK) were used to provide loading controls. Chemilumi-nescent signal detection and stripping were performedaccording to manufacturer's instructions (Perbio UK).
+Authors' contributions
+KEH, SK and BVL carried out the experiments, TJM partic-ipated in the design of the study, BVL conceived of thestudy, and KEH and BVL wrote the paper. All authors haveapproved the final version of the paper.
+Additional material
+Acknowledgements
+This work was supported by Biotechnology and Biological Sciences 
+Research Council (KEH and BVL), Brit ish Heart Foundation (BVL) and by 
+Medical Research Council (SK and TJM) . We thank Drs. Marko Horb, Paul 
+Krieg, Mona Nemer, Roger Patient and Gerald Thomsen for generous gifts of plasmids. We are grateful to Drs.  Michael Sargent and Zoe Walters for 
+help with this project, and to Dr. Ly le Zimmerman for help in establishing 
+our Xenopus tropicalis colony.
+References
+1. Peterkin T, Gibson A,  Loose M, Patient R: The roles of GATA-4, -
+5 and -6 in vertebrate heart development.   Semin Cell Dev Biol
+2005, 16(1): 83-94.
+2. Charron F, Nemer M: GATA transcription factors and cardiac
+development.   Semin Cell Dev Biol  1999, 10(1): 85-91.
+3. Molkentin JD: The zinc finger-containin g transcription factors
+GATA-4, -5, and -6. Ubiquitously expressed regulators of tis-
+sue-specific gene expression.   J Biol Chem  2000,
+275(50): 38949-38952.
+4. Patient RK, McGhee JD: The GATA family (vertebrates and
+invertebrates).   Curr Opin Genet Dev  2002, 12(4): 416-422.
+5. Molkentin JD, Lin Q, Duncan SA, Olson EN: Requirement of the
+transcription factor GATA4 for heart tube formation and
+ventral morphogenesis.   Genes Dev  1997, 11(8): 1061-1072.
+6. Narita N, Bielinska M, Wilson DB: Wild-type endoderm abro-
+gates the ventral developmen tal defects associated with
+GATA-4 deficiency in the mouse.   Dev Biol  1997,
+189(2): 270-274.
+7. Kuo CT, Morrisey EE, Anandappa R,  Sigrist K, Lu MM, Parmacek MS,
+Soudais C, Leiden JM: GATA4 transcription factor is required
+for ventral morphogenesis and heart tube formation.   Genes
+Dev 1997, 11(8): 1048-1060.
+8. Crispino JD, Lodish MB, Thurbe rg BL, Litovsky SH, Collins T,
+Molkentin JD, Orkin SH: Proper coronary vascular develop-
+ment and heart morphogenesis depend on interaction of
+GATA-4 with FOG cofactors.   Genes Dev  2001, 15(7): 839-844.
+9. Zeisberg EM, Ma Q, Juraszek AL, Moses K, Schwartz RJ, Izumo S, Pu
+WT: Morphogenesis of the right ventricle requires myocar-
+dial expression of Gata4.   J Clin Invest  2005, 115(6): 1522-1531.
+10. Aries A, Paradis P, Lefebvre C, Schwartz RJ, Nemer M: Essential
+role of GATA-4 in cell surviv al and drug-induced cardiotox-
+icity.   Proc Natl Acad Sci U S A  2004, 101(18): 6975-6980.Additional file 1
+Sequences of morpholinos used in th is study and BLAS T alignments to 
+their targets.Click here for file
+[http://www.biomedcentral.com /content/supplementary/1471-
+213X-8-74-S1.doc]
+Additional file 2
+G5 MO reduces Tbx5 expression . Injection of 5 ng of G5 MO leads to a 
+reduction in Tbx5 expression at st. 23/24 (arrowhead), whereas 50 ng of 
+C1 MO has no effect. Ventral views are shown.Click here for file
+[http://www.biomedcentral.com /content/supplementary/1471-
+213X-8-74-S2.jpeg]
+Additional file 3
+St. 22 Hex-expressing anterior ventral endoderm is fated to give rise to liver precursors . A: st. 22 embryo, hybridised with Hex probe, is 
+aligned along a graticule. B: strategy used for fate mapping the st. 22–24 
+Hex expressing ventral endoderm dom ain. In brief, embryos were aligned 
+along the graticule using the pharynge al arches, cement gland and a ven-
+tral protrusion as landmarks. The em bryo was bisected caudal to the pha-
+ryngeal arches and the ventral protrusi on and a small spot of DiI (Sigma) 
+injected onto the exposed ventral endoderm. Bisected embryos were then 
+grown until they reached st. 35. In situ hybridisation was performed to 
+ascertain whether the position of the DiI corresponded to the position of Hexexpression. C, D: visible and fl uorescent light views of st.35 half-
+embryos. E: merged images C, D. F: in situ hybridisation of the DiI 
+labelled embryo using Hex antisense pr obe. Identical results were found in 
+all samples examined (n = 5).
+Click here for file
+[http://www.biomedcentral.com /content/supplementary/1471-
+213X-8-74-S3.jpeg]Additional file 4
+High doses of GATA5 MOs reduce  gastrula-stage Hex expression . G5 
+and G5SP MO cause downregulation of  Hex expression in gastrulae (st. 
+11) only at high doses (20 ng for G5 (30/37 embryos) and 44 ng for 
+G5SP (27/33 embryos), whereas 50 ng of C1 MO has no effect (15/17 
+embryos with normal expression). G5 MOs cause gastrulation defects which cause a delay in blastpore clos ure and the shape of Hex domain of 
+expression. Blastopore is highlighted by dashed line.
+Click here for file[http://www.biomedcentral.co m/content/supplementary/1471-
+213X-8-74-S4.jpeg]
+Additional file 5
+G5SP MO causes splicing out of exon 4 until at least st. 33 . Embryos 
+were injected with 9 ng of G5SP MO or 50 ng of C1 MO and mRNA extracted from st 25 or st 33 embr yos was analysed for GATA5 splicing 
+and ODC by RT-PCR. 3–4–5, cDNA that  contains exon 4 and regions of 
+exons 2 and 4; 3–5, cDNA without exon  4. E, control uninjected embryos. 
+The 3–5 cDNA was only detected in embryos injected with G5SP MO.
+Click here for file
+[http://www.biomedcentral.co m/content/supplementary/1471-
+213X-8-74-S5.jpeg]
+BMC Developmental Biology  2008, 8:74 http://www.biomedcentral.com/1471-213X/8/74
+Page 16 of 16
+(page number not for citation purposes)11. Watt AJ, Zhao R, Li J, Duncan SA: Development of the mamma-
+lian liver and ventral pancreas is dependent on GATA4.   BMC
+Dev Biol  2007, 7:37.
+12. Holtzinger A, Evans T: Gata4 regulates the formation of multi-
+ple organs.   Development  2005, 132(17): 4005-4014.
+13. Zhao R, Watt AJ, Li J, Luebke-Wheeler J, Morrisey EE, Duncan SA:
+GATA6 is essential for embryonic development of the liverbut dispensable for early heart formation.   Mol Cell Biol  2005,
+25(7): 2622-2631.
+14. Peterkin T, Gibson A, Patient R: GATA-6 maintains BMP-4 and
+Nkx2 expression during cardiomyocyte precursor matura-
+tion.   Embo J  2003, 22(16): 4260-4273.
+15. Reiter JF, Alexander J, Rodaway A, Yelon D, Patient R, Holder N,
+Stainier DY: Gata5 is required for the development of the
+heart and endoderm in zebrafish.   Genes Dev  1999,
+13(22): 2983-2995.
+16. Reiter JF, Kikuch i Y, Stainier DY: Multiple roles for Gata5 in
+zebrafish endoderm formation.   Development  2001,
+128(1): 125-135.
+17. Trinh LA, Yelon D, Stainier DY: Hand2 regulates epithelial for-
+mation during myocardial diferentiation.   Curr Biol  2005,
+15(5): 441-446.
+18. Molkentin JD, Tymitz KM, Richardson JA, Olson EN: Abnormalities
+of the genitourinary tract in  female mice lacking GATA5.
+Mol Cell Biol  2000, 20(14): 5256-5260.
+19. Mohun TJ, Leong LM, Weninger WJ, Sparrow DB: The morphology
+of heart development in Xenopus laevis .  Dev Biol  2000,
+218(1): 74-88.
+20. Chambers AE, Logan M, Kotecha S, Towers N, Sparrow D, Mohun TJ:
+The RSRF/MEF2 protein SL1 re gulates cardiac muscle-spe-
+cific transcription of a my osin light-chain gene in Xenopus
+embryos.   Genes Dev  1994, 8(11): 1324-1334.
+21. Drysdale TA, Tonissen KF, Patterson KD, Crawford MJ, Krieg PA:
+Cardiac troponin I is a hear t-specific marker in the Xenopus
+embryo: expression during abnormal heart morphogenesis.Dev Biol  1994, 165(2): 432-441.
+22. Seo YW, Sanyal S, Kim HJ, Won DH, An JY, Amano T, Zavacki AM,
+Kwon HB, Shi YB, Kim WS, Kang H, Moore DD, Choi HS: FOR, a
+novel orphan nuclear receptor  related to farnesoid X recep-
+tor.  J Biol Chem  2002, 277(20): 17836-17844.
+23. Newman CS, Chia F, Krieg PA: The XHex homeobox gene is
+expressed during development of the vascular endothelium:
+overexpression leads to an incr ease in vascul ar endothelial
+cell number.   Mech Dev  1997, 66(1-2): 83-93.
+24. Weber H, Symes CE, Walmsley  ME, Rodaway AR, Patient RK: A role
+for GATA5 in Xenopus  endoderm specification.   Development
+2000, 127(20): 4345-4360.
+25. Nemer G, Qureshi ST, Malo D, Nemer M: Functional analysis and
+chromosomal mapping of Gata5, a gene encoding a zinc fin-
+ger DNA-binding protein.   Mamm Genome  1999, 10(10): 993-999.
+26. Watt AJ, Battle MA, Li J, Duncan SA: GATA4 is essential for for-
+mation of the proepicardium and regulates cardiogenesis.
+Proc Natl Acad Sci U S A  2004, 101(34): 12573-12578.
+27. Rivera-Feliciano J, Lee KH, Kong SW, Rajagopal S, Ma Q, Springer Z,
+Izumo S, Tabin CJ, Pu WT: Development of heart valves
+requires Gata4 expression in  endothelial-derived cells.   Devel-
+opment  2006, 133(18): 3607-3618.
+28. Tonissen KF, Drysdale TA, Lints TJ, Harvey RP, Krieg PA: XNkx-2.5,
+a Xenopus  gene related to Nkx-2.5 and tinman: evidence for
+a conserved role in cardiac development.   Dev Biol  1994,
+162(1): 325-328.
+29. Raffin M, Leong LM, Rones MS, Sparrow D, Mohun T, Mercola M:
+Subdivision of the cardiac Nk x2.5 expression domain into
+myogenic and nonmyogenic compartments.   Dev Biol  2000,
+218(2): 326-340.
+30. Horb ME, Thomsen GH: Tbx5 is essential for heart develop-
+ment.   Development  1999, 126(8): 1739-1751.
+31. Sater AK, Jacobson AG: The specification of heart mesoderm
+occurs during gastrulation in Xenopus laevis .  Development  1989,
+105(4): 821-830.
+32. Dale L, Slack JM: Fate map for the 32-cell stage of Xenopus lae-
+vis.  Development  1987, 99(4): 527-551.
+33. Latinkic BV, Cooper B, Towers N, Sparrow D, Kotecha S, Mohun TJ:
+Distinct enhancers regulate sk eletal and cardiac muscle-spe-
+cific expression programs of the cardiac alpha-actin gene in
+Xenopus  embryos.   Dev Biol  2002, 245(1): 57-70.34. Peterkin T, Gibson A, Patient R: Redundancy and evolution of
+GATA factor requirements in  development of the myocar-
+dium.   Dev Biol  2007, 311(2): 623-635.
+35. Nemer G, Nemer M: Cooperative interaction between GATA5
+and NF-ATc regulates endothe lial-endocardial differentia-
+tion of cardiogenic cells.   Development  2002, 129(17): 4045-4055.
+36. Latinkic BV, Kotecha S, Mohun TJ: Induction of cardiomyocytes
+by GATA4 in Xenopus  ectodermal explants.   Development  2003,
+130(16): 3865-3876.
+37. Johnson KD, Kim SI, Bresnick EH: Differential sensitivities of
+transcription factor target ge nes underlie cell type-specific
+gene expression profiles.   Proc Natl Acad Sci U S A  2006,
+103(43): 15939-15944.
+38. Xin M, Davis CA, Molkentin JD, Li en CL, Duncan SA, Richardson JA,
+Olson EN: A threshold of GATA4 an d GATA6 expression is
+required for cardiovascular development.   Proc Natl Acad Sci U
+S A 2006, 103(30): 11189-11194.
+39. Charron F, Paradis P, Bronchain O, Nemer G, Nemer M: Coopera-
+tive interaction between GA TA-4 and GATA-6 regulates
+myocardial gene expression.   Mol Cell Biol  1999,
+19(6): 4355-4365.
+40. Rossi JM, Dunn NR, Hogan BL, Zaret KS: Distinct mesodermal
+signals, including BMPs from  the septum transversum mes-
+enchyme, are required in co mbination for hepatogenesis
+from the endoderm.   Genes Dev  2001, 15(15): 1998-2009.
+41. Jung J, Zheng M, Goldfarb M, Zaret KS: Initiation of mammalian
+liver development from endoderm by fibroblast growth fac-
+tors.   Science  1999, 284(5422): 1998-2003.
+42. Nascone N, Mercola M: An inductive role for the endoderm in
+Xenopus  cardiogenesis.   Development  1995, 121(2): 515-523.
+43. Schneider VA, Mercola M: Spatially distinct head and heart
+inducers within the Xenopus  organizer region.   Curr Biol  1999,
+9(15): 800-809.
+44. Schultheiss TM, Xydas S, Lassar AB: Induction of avian cardiac
+myogenesis by anterior endoderm.   Development  1995,
+121(12): 4203-4214.
+45. Chae J, Zimmerman LB, Grainger RM: Inducible control of tissue-
+specific transgene expression in Xenopus tropicalis  transgenic
+lines.   Mech Dev  2002, 117(1-2): 235-241.
+46. Goda T, Abu-Daya A, Carruthers S, Clark MD, Stemple DL, Zimmer-
+man LB: Genetic screens for mutati ons affecting development
+of Xenopus tropicalis .  PLoS Genet  2006, 2(6): e91.
+47. Temsah R, Nemer M: GATA factors and tran scriptional regula-
+tion of cardiac natr iuretic peptide genes.   Regul Pept  2005,
+128(3): 177-185.
+48. Sive HL Grainger, R. M. and Harland, R.M.: Early Development of
+Xenopus laevis: A Laboratory Manual.    Cold Sp ring Harb or
+Laboratory Press; 2000. 
+49. Latinkic BV, Mercurio S, Bennett B, Hirst EM, Xu Q, Lau LF, Mohun
+TJ, Smith JC: Xenopus  Cyr61 regulates gastrulation move-
+ments and modulates Wnt signalling.   Development  2003,
+130(11): 2429-2441.
+50. Khokha MK, Yeh J, Grammer TC, Harland RM: Depletion of three
+BMP antagonists from Spemann' s organizer leads to a cata-
+strophic loss of dorsal structures.   Dev Cell  2005, 8(3): 401-411.
+5 1 . M o r i n  S ,  C h a r r o n  F ,  Robitaille L, Nemer M: GATA-dependent
+recruitment of ME F2 proteins to target promoters.   Embo J
+2000, 19(9): 2046-2055.
+52. Chomczynski P, Sacchi N: Single-step method of RNA isolation
+by acid guanidinium thiocyan ate-phenol-chloroform extrac-
+tion.   Anal Biochem  1987, 162(1): 156-159.
+53. Jiang Y, Evans T: The Xenopus  GATA-4/5/6 genes are associ-
+ated with cardiac specificatio n and can regulate cardiac-spe-
+cific transcription during embryogenesis.   Dev Biol  1996,
+174(2): 258-270.
+54. Dorey K, Hill CS: A novel Cripto-related protein reveals an
+essential role for EGF-CFCs  in Nodal signalling in Xenopus
+embryos.   Dev Biol  2006, 292(2): 303-316.
+55. Nieuwkoop PD, Faber J: Normal table of Xenopus laevis (Dau-
+din) : a systematical and chrono logical survey of the develop-
+ment from the fertilized egg till the end of metamorphosis.
+New York ; London , Garland Pub; 1994:252 p., 10 folded leaves of
+plates. 

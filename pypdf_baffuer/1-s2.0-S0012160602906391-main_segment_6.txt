@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ACTA2",
+    "MYOD1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "GFP",
+      "activin"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "tadpoles",
+      "F1 transgenic embryos"
+    ]
+  }
+}

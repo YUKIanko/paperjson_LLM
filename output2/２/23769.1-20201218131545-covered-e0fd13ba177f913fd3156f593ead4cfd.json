@@ -1,0 +1,92 @@
+{
+  "title": "Morphogenesis of the right ventricle requires myocardial expression of Gata4",
+  "authors": [
+    "Elisabeth M. Zeisberg",
+    "Qing Ma",
+    "Amy L. Juraszek",
+    "Kelvin Moses",
+    "Robert J. Schwartz",
+    "Seigo Izumo",
+    "William T. Pu"
+  ],
+  "references": [
+    "https://doi.org/10.1172/JCI23769"
+  ],
+  "genes": [
+    "Gata4",
+    "Hand2",
+    "Nkx2-5",
+    "α myosin heavy chain",
+    "Tbx1",
+    "RV"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Beth Israel Deaconess Medical Center",
+      "Harvard Medical School",
+      "Children’s Hospital Boston",
+      "Baylor College of Medicine",
+      "Department of Molecular and Cellular Biology",
+      "Department of Pediatrics",
+      "Children's Hospital Boston",
+      "Novartis Institute for Biomedical Research"
+    ],
+    "experimental_methods": [
+      "Cre/loxP technology",
+      "conditional deletion",
+      "Cre recombinase driven by the α myosin heavy chain promoter",
+      "Nkx2-5Cre",
+      "qRT-PCR (quantitative RT-PCR)",
+      "immunofluorescence staining",
+      "in situ hybridization",
+      "cardiomyocyte-restricted deletion",
+      "early cardiomyocyte-restricted deletion",
+      "late cardiomyocyte-restricted deletion",
+      "secondary heart field enhancer"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "lacZ",
+      "Nfatc1 antibody",
+      "desmin",
+      "qRT-PCR",
+      "X-gal",
+      "R26Rstop lacZ reporter",
+      "α myosin heavy chain (MHC) promoter",
+      "Cre recombinase",
+      "Nkx2-5Cre",
+      "MHC αCre",
+      "TMR Red In Situ Death Detection kit (Roche Diagnostics)",
+      "RNA",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "ABI 7700 Sequence Detector (Applied Biosystems)",
+      "RNeasy kit (QIAGEN)",
+      "Taqman probes (GenScript)",
+      "18S RNA",
+      "TBR1D3 antibody"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "HEK293 cells",
+      "C57BL/6 mice",
+      "Nkx2-5Cre mice",
+      "R26Rstop lacZ mice",
+      "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK) embryos",
+      "E7.5 embryonic stage",
+      "E9.5 embryonic stage",
+      "G4MC embryos",
+      "control embryos",
+      "mutant embryos",
+      "G4MC hearts",
+      "E12.5 G4MC embryos",
+      "control ventricle",
+      "mutant ventricle",
+      "E13.5 embryos",
+      "G4NK embryos",
+      "G4MC embryos",
+      "Nkx2-5Cre",
+      "MHCαCre",
+      "R26RstoplacZ"
+    ]
+  }
+}

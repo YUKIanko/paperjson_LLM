@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cell transfection studies", "muscle induction assay"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["transgenic mice", "Xenopus embryos", "tadpoles", "adult frogs"]
+  }
+}

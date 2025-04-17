@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA5",
+    "GATA4",
+    "Hex",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "MOs (molecular probes)",
+      "rhodamine-dextran injection",
+      "Cardiac actin/GFP embryo injection",
+      "record fate of injected cells at st. 41"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["GATA5 MO", "GATA4 MO", "C1 MO"],
+    "model_organisms": ["Nieuwkoop and Faber stage 41 embryo"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "Hand1", "Tbx5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["myocyte-restricted deletion of Gata4"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos"]
+  }
+}

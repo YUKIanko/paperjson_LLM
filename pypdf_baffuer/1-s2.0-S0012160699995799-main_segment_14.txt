@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Schneider and Mercola, 1999", "Sater and Jacobson, 1989", "Sater and Jacobson, 1990b", "Nascone and Mercola, 1995", "Chien et al., 1993", "Doevendans and van Bilsen, 1996", "Lyons, 1996", "Siddiqui and Goswami, 1997", "Duroucher and Nemer, 1998"],
+  "genes": ["XNkx2.5", "XMHC-", "XMLC-2", "Tn-T c", "Tn-I cappeared", "cNkx2.5", "MHC m"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CT3 monoclonal antibody"],
+    "model_organisms": ["chick embryos"]
+  }
+}

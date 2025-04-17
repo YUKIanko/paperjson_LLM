@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["Audrey Holtzinger", "Todd Evans"],
+  "references": ["Zhao et al., 2005", "Westerfield, 1995", "Heicklen-Klein and Evans, 2004", "Lawson and Weinstein, 2002"],
+  "genes": ["Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": ["Albert Einstein College of Medicine", "Zebraﬁsh International Research Center (Eugene, OR)", "UCSF, CA"],
+    "experimental_methods": ["morpholino approach"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP", "PAC clone"],
+    "model_organisms": ["zebraﬁsh"]
+  }
+}

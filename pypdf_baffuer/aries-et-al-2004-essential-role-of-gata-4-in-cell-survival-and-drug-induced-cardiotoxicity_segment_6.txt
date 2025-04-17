@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["36", "37", "20", "38"],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["TUNEL assays", "echocardiography"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "/H92511-adrenergic agonists", "bone morphogenetic proteins", "retinoic acid", "Phe", "Bcl-X L"],
+    "model_organisms": ["GATA-4/H11001//H11002mice"]
+  }
+}

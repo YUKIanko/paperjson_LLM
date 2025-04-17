@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "Hex"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "Western blot", "dual luciferase assays"],
+    "software_tools": [],
+    "reagents_chemicals": ["ODC (Orhithine Decarboxylase)", "TK-RL DNA"],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis"]
+  }
+}

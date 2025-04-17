@@ -1,0 +1,197 @@
+{
+  "title": "The Xenopus GATA-4/5/6 Genes Are Associated with Cardiac Specification and Can Regulate Cardiac-Specific Transcription during Embryogenesis",
+  "authors": ["Yongmei Jiang", "Todd Evans"],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "xGATA-4/5/6"],
+  "proper_nouns": {
+    "institutions": ["Albert Einstein College of Medicine"],
+    "experimental_methods": ["Axis disruption experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "chick"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Litvin et al., 1993", "Sartorelli et al., 1992", "Grepin et al., 1994", "Ip et al., 1994", "Molkentin et al., 1994", "Thuerauf et al., 1994", "Laverriere et al., 1994", "Ness and Engel, 1994", "Pevny et al., 1995, 1991", "Tsai et al., 1994", "Arceci et al., 1993", "Kelley et al., 1993", "Grepin et al., 1994", "Tamura et al., 1996"],
+  "genes": ["GATA-1", "GATA-2", "GATA-3", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kelley et al., 1993", "Arceci et al., 1993", "Heikinheimo et al., 1994", "Laverriere et al., 1994", "Grepin et al., 1994", "Thuerauf et al., 1994", "Molkentin et al., 1994"],
+  "genes": ["GATA-1", "GATA-2", "GATA-3", "xGATA-4", "GATA-6", "mGATA-4", "cGATA-4", "xGATA-5", "cGATA-5", "GATA-4/5/6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["y axis disruption experiments", "microinjection", "RT/PCR", "random primed synthesis", "poly(A)/RNA isolated"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "GATA-6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "RT and PCR reactions",
+      "RNA Analysis",
+      "screen of 106 recombinant phage",
+      "screening a stage 13 whole embryo Xenopus cDNA library",
+      "standard hybridization conditions"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "JB485",
+      "TE271",
+      "TE283",
+      "TE284",
+      "polyATtract III system",
+      "RNAzol",
+      "proteinase K"
+    ],
+    "model_organisms": [
+      "Xenopus"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "FGFR", "cardiac actin", "MHCa", "EF1a"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blotting", "whole mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["[a-32P]dCTP", "poly(A)/RNA", "agarose/formaldehyde gels", "Genescreen plus membrane"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "Role of the xGATA-4/5/6 Genes",
+  "authors": [],
+  "references": ["Tamura et al. (1993)", "Harland, 1991", "Kelley et al., 1993", "Laverriere et al., 1994", "Kao and Elinson, 1988"],
+  "genes": ["xGATA-4", "xGATA-5a", "xGATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in vitro translation", "SDS±PAGE and gel mobility-shift experiments", "PCR products were subcloned into pSKII-", "RT/PCR", "minced testes culture", "UVL-21 lamp (UV Products, Inc.) UV treatment", "LiCl treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["BM purple AP substrate", "Ficoll", "0.11 MBS", "T3 polymerase", "DraIII digestion", "T7 polymerase", "HindIII digestion", "EagI digestion", "sense strand RNA synthesized from the xGATA-5a plasmid", "c-actin", "MHC"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT/PCR", "reverse PCR", "RNA isolation", "Northern blots"],
+    "software_tools": [],
+    "reagents_chemicals": ["pG4M", "SP6 polymerase", "T7 polymerase", "EF-1a"],
+    "model_organisms": ["adult frog"]
+  }
+}
+{
+  "title": "Role of the xGATA-4/5/6 Genes",
+  "authors": [],
+  "references": ["Laverriere et al., 1994"],
+  "genes": ["xGATA-1", "xGATA-2", "xGATA-3", "xGATA-4", "xGATA-5", "xGATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT/PCR assay"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus gastrula", "chicken"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kelley et al., 1993"],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole mount in situ hybridization technique", "Northern blotting"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["frog", "chick"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blots", "RT/PCR assay", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["MF-20 antigen", "cardiac actin", "albino embryos"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["xGATA-4", "xGATA-5", "xGATA-6", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole mount in situ hybridization", "LiCl treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["Albino embryos", "LiCl", "As shown in Fig. 4A", "RNA", "cardiac actin", "MHC a"],
+    "model_organisms": ["embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["xGATA-6", "xgata-4", "xgata-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["LiCl treatment", "UV treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["c-actin", "MHC a"],
+    "model_organisms": ["bryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus laevis",
+      "mouse",
+      "chick",
+      "frog"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-1",
+    "GATA-2"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["ER-GATA-1", "CBP/p300"],
+    "model_organisms": ["mouse embryonic stem cell-derived erythroid cell line G1E"]
+  }
+}

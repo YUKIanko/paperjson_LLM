@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["Molkentin et al."],
+  "references": ["Stalsberg and DeHaan 1968", "DeRuiter et al. 1992", "Glueksohn-Schoenheimier 1949"],
+  "genes": ["GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["rRNA product L7"],
+    "model_organisms": ["mouse mutation called kinky", "zebrafish mutations named miles apart and bonnie"]
+  }
+}

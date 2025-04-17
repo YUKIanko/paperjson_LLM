@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["immunohistochemistry", "in situ hybridization", "RT-PCR analysis", "genetic and molecular analyses"],
+    "software_tools": [],
+    "reagents_chemicals": ["PECAM", "Hprt"],
+    "model_organisms": ["mice"]
+  }
+}

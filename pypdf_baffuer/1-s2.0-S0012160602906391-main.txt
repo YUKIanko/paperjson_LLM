@@ -1,0 +1,644 @@
+Distinct Enhancers Regulate Skeletal and Cardiac
+Muscle-Speciﬁc Expression Programs of the Cardiac
+/H9251-Actin Gene in Xenopus Embryos
+Branko V. Latinkic ´, Brian Cooper,1Norma Towers, Duncan Sparrow,2
+Surendra Kotecha, and Timothy J. Mohun3
+Division of Developmental Biology, National Institute for Medical Research, The Ridgeway,
+London NW7 1AA, United Kingdom
+During vertebrate embryonic development, cardiac and skeletal muscle originates from distinct precursor populations.
+Despite the profound structural and functional differences in the striated muscle tissue they eventually form, suchprogenitors share many features such as components of contractile apparatus. In vertebrate embryos, the
+/H9251-cardiac actin
+gene encodes a major component of the myoﬁbril in both skeletal and cardiac muscle. Here, we show that expression ofXenopus cardiac
+/H9251-actin in the myotomes and developing heart tube of the tadpole requires distinct enhancers within its
+proximal promoter. Using transgenic embryos, we ﬁnd that mutations in the promoter-proximal CArG box and 5 bpdownstream of it speciﬁcally eliminate expression of a GFP transgene within the developing heart, while high levels ofexpression in somitic muscle are maintained. This sequence is insufﬁcient on its own to limit expression solely to themyocardium, such restriction requiring multiple elements within the proximal promoter. Two additional enhancers areactive in skeletal muscle of the embryo, either one of which has to interact with the proximal CArG box for correctexpression to be established. Transgenic reporters containing multimerised copies of CArG box 1 faithfully detect most sitesof SRF expression in the developing embryo as do equivalent reporters containing the SRF binding site from the c- fos
+promoter. Signiﬁcantly, while these motifs possess a different A/T core within the CC(A/T)
+6GG consensus and show no
+similarity in ﬂanking sequence, each can interact with a myotome-speciﬁc distal enhancer of cardiac /H9251-actin promoter, to
+confer appropriate cardiac /H9251-actin-speciﬁc regulation of transgene expression. Together, these results suggest that the role
+of CArG box 1 in the cardiac /H9251-actin gene promoter is to act solely as a high-afﬁnity SRF binding site. © 2002 Elsevier
+Science (USA)
+Key Words: cardiac /H9251-actin; muscle; SRF; Xenopus.
+INTRODUCTION
+In all vertebrates, skeletal muscle is derived from paraxial
+mesoderm, while cardiac muscle progenitors form from adistinct region of anterolateral mesoderm. The relativetiming of skeletal and cardiac differentiation varies be-tween different vertebrate classes, reﬂecting different strat-egies for embryonic development. For mammalian em-bryos, an early dependence on the maternal supply ofnutrients and the requirements of gas exchange both neces-
+sitate rapid development of a functional cardiovascularsystem. In contrast, embryos of most ﬁsh and amphibiarequire skeletal muscle early during embryogenesis in orderto swim, while the cardiovascular system develops rela-
+tively slowly, being required only later in larval stages ofdevelopment.
+During skeletal muscle differentiation, critical early roles
+are played by myogenic factors belonging to the basic–loop–helix family, including MyoD and Myf5. These factors areremarkable since not only are they required for skeletalmuscle development in the embryo, but their expression isalso sufﬁcient to convert nonmyogenic cell type into myo-tubes in culture. Myogenic factors execute their roles, atleast in part, by transactivating skeletal muscle-speciﬁcdifferentiation genes, and by down-regulating genes in-
+1Present address: Department of Medicine, University of Cali-
+fornia, San Diego, La Jolla, CA 92093.
+2Present address: Developmental Biology Unit, Victor Chang
+Cardiac Research Institute, Darlinghurst, NSW, Australia 2010.
+3To whom correspondence should be addressed. Fax: /H1100144 (20)
+8906-4977. E-mail:tmohun@nimr.mrc.ac.uk.Developmental Biology 245, 57–70 (2002)
+doi:10.1006/dbio.2002.0639, available online at http://www.idealibrary.com on
+0012-1606/02 $35.00
+© 2002 Elsevier Science (USA)All rights reserved.
+57
+volved in cell cycle and growth control (Puri and Sartorelli,
+2000). In contrast, no cardiogenic factors of equivalentpotency have, so far, been described. Instead, numerousstudies on regulation of cardiac-speciﬁc genes suggest thattheir transcription is regulated in a more complex manner,mediated by several families of transcription factors, noneof which is strictly restricted to myocardial muscle tissue.The homeobox gene Nkx2.5, MADS family proteins MEF2and Serum Response Factor (SRF), along with the zinc-ﬁnger factors GATA 4 –6 have all been implicated in
+regulation of myocardial-speci ﬁc genes (Fishman and
+Chien, 1997; Mohun and Sparrow, 1997). These transcrip-tion factors appear to act in concert in a variety of combi-nations to transactivate their target genes. Although poorlyunderstood, the basis of their interaction is most likely theformation of heterodimers, or even higher-order complexes(Belaguli et al., 2000; Biesiada et al., 1999; Chen and
+Schwartz, 1996; Morin et al., 2000, 2001).
+In addition to having a role in regulating expression of
+cardiac differentiation genes, each of these transcriptionfactors is involved in other developmental pathways ordifferentiated cell types. For example, Nkx2.5 is involved indevelopment of the pharynx (Tanaka et al., 2001), GATA-4
+in gut formation (Zaret, 1999), and MEF2 in skeletal muscledifferentiation (Black and Olson, 1998; Puri and Sartorelli,2000). SRF in particular, has been implicated in the regula-tion of diverse transcriptional pathways. As well as partici-pating in skeletal and cardiac muscle differentiation, it alsoplays a role in the regulation of genes that are inducible byserum growth factors and other extracellular stimuli (Tre-isman, 1995). In each role, SRF acts by binding to a DNArecognition site of consensus sequence CC(A/T)
+6GG
+(termed CArG box), present in the regulatory regions of itstargets (Treisman, 1995).
+How is speciﬁcity of SRF function achieved when the
+protein can regulate such a large number of dissimilar targetgenes in different cellular and developmental contexts?Studies to date have suggested that SRF activity is likely tobe regulated on several levels. Of critical importance is thecapacity of SRF to interact directly with numerous acces-sory proteins. For example, ETS-family proteins such asElk-1 simultaneously bind SRF and a sequence adjacent tothe serum response element (SRE) in the promoters ofseveral cellular immediate-early genes, including the c- fos
+proto-oncogene (Treisman, 1994). This ternary complexmediates the response of c-fos to a range of stimuli (Treis-
+man, 1994). Additionally, experiments with cultured cellsindicate that SRF can interact with tissue-restricted cofac-tors such as MyoD (Groisman et al., 1996) and GATA-4
+(Belaguli et al., 2000; Morin et al., 2001), and such interac-
+tions may play a role in restricting activity of SRF duringmuscle differentiation in vivo. Posttranslational modi ﬁca-
+tions of SRF protein are also known to regulate its activityand can be triggered by such diverse stimuli as growthfactors and cytoskeletal actin polymerisation (Sotiropouloset al., 1999; Treisman, 1995). Finally, multiple splicing
+pathways for the SRF gene transcript may produce function-ally distinct products, including at least one that appears to
+possess dominant-negative activity (Belaguli et al., 1999;
+Kemp and Metcalfe, 2000).
+Among striated muscle-speciﬁc genes identiﬁed as tar-
+gets of SRF, one of the best studied is the cardiac
+/H9251-actin
+gene. This encodes a major structural component of thestriated muscle myoﬁbril in vertebrate embryos. Four con-served CArG boxes are present in the promoters of thehuman, mouse, chick, and amphibian genes along withbinding sites for the MyoD family of myogenic factors.Previous studies have identiﬁed the most proximal CArGbox as essential for activity of the human cardiac
+/H9251-actin
+promoter in cultured cardiomyocytes, and a combination ofthis CArG box and adjacent binding sites for SP1 and MyoDare necessary for activation of the cardiac
+/H9251-actin promoter
+in differentiating myogenic cell lines (Biesiada et al., 1999;
+Sartorelli et al., 1990). In Xenopus, microinjected copies of
+the gene require the proximal CArG box and a distal
+myogenic factor binding site for expression in embryoexplants that have been induced to form skeletal muscle(Mohun et al., 1989b). In transgenic mouse embryos, a
+proximal enhancer of the mouse gene, including the fourCArG boxes, is sufﬁcient for correct but weak expression ofa transgene, while more distal sequences are required forappropriate expression in the adult (Biben et al., 1996).
+Since the cardiac
+/H9251-actin gene is activated during forma-
+tion of both cardiac and skeletal muscle in vertebrates, itsstudy may also shed light on the mechanisms that distin-guish terminal differentiation in these two muscle types. Inprevious studies, we have examined expression of a reporterdriven by the cardiac
+/H9251-actin gene promoter using a direct
+DNA injection assay (Mohun et al., 1989b). However,
+injected episomal DNA is unstable in embryos, and whilewe were able to examine expression of the reporter inembryonic skeletal muscle, we were unable to extended theassay to monitor expression in the developing heart. Trans-genesis (Kroll and Amaya, 1996) overcomes such limita-tions and we have now used this approach to delineatesequences necessary for transgene expression in striatedmuscle of the embryo. Our results indicate that distinct butoverlapping sets of regulatory sequences are responsible forexpression of the cardiac
+/H9251-actin gene in myotomal and
+cardiac muscle.
+MATERIAL AND METHODS
+Recombinant DNA
+A series of 8-bp linker scan (LS) mutations have been described
+previously (Mohun et al., 1989b). An internal deletion, LS10/13,
+was constructed by replacing the KpnI-EcoRI fragment from LS13
+with the equivalent fragment from LS10. All cardiac /H9251-actin
+promoter variants were cloned in front of a reporter comprising the
+mGFP5 coding region and the SV40 polyadenylation sequence(Sparrow et al., 2000a).58 Latinkic ´ et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+Heterologous Promoter Fusions
+A minimal promoter fragment comprising 48 bp of the cytoskel-
+etal actin promoter (Mohun and Garrett, 1987) was fused to the
+mGFP5/SV40 cassette; an equivalent construct comprising thethymidine kinase minimal promoter has been described previously(Sparrow et al., 2000a).
+The following oligonucleotides were used to construct synthetic
+promoters comprising sequences from the cardiac
+/H9251-actin pro-
+moter: CArG box 1 L; TACCAAATAAGGGTCACCTGCCTTTCC:CArG box 1 R; TACCAAATAAGGGCAGGCTATGATTCC: CArG
+Box 1 /H11001DS; TACCAAATAAGGGCAGGCTGCCTTTCC: mut
+Box 1-5; CTACCAAATTTGGGCAGGCTGCCTTTCC: mut Box1-6; CTACCTTTTAAGGGCAGGCTGCCTTTCC: E-CArG box 1;GCACCTGTCTACTCCATTTGCCAAATAAGGGCAGGC; c-fosSRE oligo sequence: GGATGTCCATATTAGGACATCT (Tayloret al., 1989). Complementary oligonucleotides were annealed and
+cloned in vectors (as indicated) via KpnI or Asp718 cohesive ends.
+All constructs were sequenced to establish the number and orien-tation of oligonucleotide copies cloned.
+A promoter fragment spanning nucleotides /H11002275//H1100292 of the
+cardiac
+/H9251-actin promoter was ampliﬁed by PCR. pF711 comprises
+the entire human c-fos gene and promoter; pF100 possesses a
+truncated promoter in which sequences upstream of /H11002100 (includ-
+ing the SRE) have been removed (Treisman, 1985). Cardiac /H9251-actin
+promoter variants were cloned as EcoRI/BamHI fragments in front
+of pF100.
+Xenopus Embryo Manipulations
+Blastula animal pole explants were dissected from Xenopus
+embryos and treated with activin as described previously (Sive,2000; Smith et al., 1988). DNA injections were performed at the
+two-cell stage by using 100 pg of DNA (Mohun et al., 1989a).
+Transgenic embryos were generated according to method of
+Amaya and Kroll (Kroll and Amaya, 1996), with modiﬁcations asdescribed (Sparrow et al., 2000b). To conﬁrm successful generation
+of transgenic embryos when using very weak or inactive cardiac
+/H9251-actin promoter variants, we included a /H9253-crystallin/GFP reporter
+(Ofﬁeld et al., 2000) with the test construct. We found that using an
+equimolar ratio of the full-length cardiac /H9251-actin/GFP and
+/H9253-crystallin/GFP reporters, approximately 75% of transgenic em-
+bryos coexpressed both transgenes.
+Analysis of Transgene Expression
+Embryos expressing GFP were analysed either by direct observa-
+tion of ﬂuorescence or by whole-mount in situ hybridisation to
+detect GFP mRNA (Sparrow et al., 2000a). GFP activity in trans-
+genic embryos was documented by using a CoolSnap digital camera(Roper Scientiﬁc) attached to a Leica MZFLIII dissecting micro-scope with ﬂuorescence illumination. Images were processed in
+Adobe Photoshop 5.0 and weak expression resolved from back-ground autoﬂuorescence by using the “auto levels” function. This
+procedure transforms the green colour of GFP ﬂuorescence to blue,
+which is then readily distinguished from auto- ﬂuorescence of yolk,
+which acquires an orange–yellow colour. Whole-mount in situ
+hybridisation was performed as previously described (Harland,1991), with probes speciﬁc for GFP (Sparrow et al., 2000a) and XSRF
+(Mohun et al., 1991). A second XSRF probe encompassing the 3/H11032
+half of the cDNA gave identical results to those presented here.Electrophoretic Mobility Shift Analysis
+Double-stranded oligonucleotides with 5/H11032GTAC overhangs (20
+ng) were labelled with [ /H9251-32P]-dCTP and Klenow DNA polymerase
+as described (Sambrook, 1989). Human SRF (Norman et al., 1988)
+was translated in vitro by using a coupled transcription-translation
+system (Promega) according to manufacturer’s instructions. Bind-ing reactions and competitions were as described (Norman et al.,
+1988).
+Oligonucleotides used for probes and competition assays are
+described above, except CArG mut (see Fig. 6B): CTAGGAAATA-AGGGCAGGCTGCCTTTC.
+Cell Transfections and RNase Protection Assays
+Serum stimulation assays using transfected NIH3T3 cells were
+performed and analysed by RNase protection assays exactly asdescribed previously (Taylor et al., 1989), using the expression of a
+transfected
+/H9251-globin construct as an internal reference (Treisman,
+1985).
+RESULTS
+580 bp of Cardiac /H9251-actin Promoter Is Sufﬁcient to
+Recapitulate the Endogenous Expression Pattern
+during Embryonic Development
+In previous studies, 580 bp of the cardiac /H9251-actin pro-
+moter were sufﬁcient to confer high levels of reporter gene
+expression from episomal, plasmid DNA in skeletal musclederived from Xenopus embryonic tissue (Mohun et al.,
+1989b). We therefore tested the activity of the same pro-moter fragment fused to a green ﬂuorescent protein (GFP)
+reporter in transgenic frog embryos. GFP expression wasﬁrst seen in the somites during neurula stages (Figs. 1A and1C), and subsequently detected in cardiac, facial, body walland tail muscles (Figs. 1B, 1D–1G). In later embryos, trans-gene expression was also detected in developing limb buds(data not shown).
+We next tested the ability of activin to induce expression
+of the GFP transgene in animal pole explants from F
+1
+transgenic embryos. By the time sibling control embryoshad reached neurula stages, GFP expression was readilydetected in the explants treated with activin, conﬁrmingthat skeletal muscle differentiation was induced (Figs. 1Hand 1I). Similarly, the cardiac
+/H9251-actin GFP transgene pro-
+vided a sensitive marker for cardiac muscle differentiation.Prolonged culture of anteroventral tissue explants encom-passing the heart ﬁeld of early tailbud embryos (Sater and
+Jacobson, 1990) resulted in the formation of primitive hearttubes. These were readily visible by GFP ﬂuorescence (Fig.
+1K) long before their detection was possible by morphologyalone. Larger explants subsequently developed facial andbody wall muscles, patterned in a manner remarkablysimilar to that detected in the whole embryo (Figs. 1J and1K). These results demonstrate that 580 bp of proximalpromoter sequence direct spatiotemporal expression duringembryogenesis in a manner indistinguishable from theendogenous gene.59 Cardiac Actin Gene Regulation in Xenopus
+© 2002 Elsevier Science (USA). All rights reserved.
+CArG Box1 and Immediate Proximal Sequences
+Are Necessary for Expression in the Heart
+We next tested the effect of individual 8-bp linker scan
+mutations on expression of the cardiac actin-GFP transgene
+in skeletal and cardiac muscle of transgenic embryos.Surprisingly, our results proved strikingly different fromthose obtained by direct DNA injection. In those studies,mutation of CArG box 1 (linker scan mutation LS29)abolished any expression of the reporter in embryonicskeletal muscle (Mohun et al., 1989b). By contrast, when
+tested by transgenesis, the same mutation had little or noapparent effect on GFP expression in the myotomes, ratherit selectively abolished later expression in differentiatingheart muscle (Fig. 2D). Mutation of ﬂanking sequences
+immediately upstream of CArG box1 (LS25) had no compa-rable effect but, unexpectedly, an equivalent mutationaffecting proximal ﬂanking nucleotides (LS13) also resulted
+in speciﬁc reduction or loss of heart-speci ﬁc expression
+(Figs. 2C and 2E).
+The Xenopus gene contains two other CArG motifs
+upstream of CArG box 1, each of which can bind SRF(Taylor et al., 1989) and functionally replace CArG box 1
+when moved to the equivalent position in the promoter.Not surprisingly, removal of all CArG boxes by deletion ofsequences from /H11002216 to /H1100280 (internal deletion LS10/13)
+also abolished expression of the transgene in cardiac muscle(Fig. 3A). Insertion of two copies of a short oligonucleotidecomprising only CArG box 1 and the immediate down-stream sequence into the internal deletion was suf ﬁcient to
+restore strong levels of transgene expression in the tadpoleheart (Fig. 3B). Furthermore, the temporal pattern of trans-gene expression was comparable with that of the full-lengthpromoter (data not shown).
+explants from F 1transgenic embryos cultured in the absence (H) or
+presence (I) of 8 U/ml activin until sibling embryos reached stage
+24. GFP activity is only seen in animal caps treated with activin,demonstrating that the transgene is activated by the mesoderm-inducing signal. GFP expression can be used to monitor heart andhead muscles in explants from F
+1transgenic embryos. (J) Stage 34
+control embryo, ventral view, anterior to the right. Strong expres-sion is detected in the heart (arrow) and head muscles (arrowheads). (K) A heart ﬁeld explant excised at stage 22, oriented in the
+same way as an embryo in (J).FIG. 2. E-boxes are dispensable for normal expression of cardiac
+/H9251-actin in embryos, while CArG box 1 and sequence immediately
+downstream of it are necessary for expression in the heart. (A)Deletion of sequences upstream of /H11002216 results in expression
+indistinguishable from that obtained with the entire 580-bp pro-moter. (B) 5/H11032/H9004-103 is expressed in the heart but not in the myo-tomes. It also gives inappropriate expression in the head. (C) Linkerscan mutation LS25 shows no effect on expression. (D) In contrast,LS29, which destroys CArG box 1, results in loss of heart expres-sion. (E) A sequence downstream of CArG box 1 is essential forexpression in the heart, as revealed by linker scan mutation LS13.
+FIG. 1. A portion of cardiac /H9251-actin promoter that is /H11002580 bp is
+sufﬁcient for correct expression in Xenopus embryos, tadpoles, and
+explants. (Top) Schematic presentation of /H11002580 cardiac /H9251-actin
+promoter. Transgene expression can be detected in the somites ofthe late neurula embryo and in myotomes, facial muscle and heart(h) of the larval tadpole, either by whole-mount in situ for GFP
+RNA (A, B) or by GFP ﬂuorescence (C, D). (E) GFP activity in the
+tail of 7-day-old tadpole. (F) Ventral view of a 7-day-old tadpole,showing strong GFP activity in the heart (boxed), body wall, andjaw muscles. Anterior is to the right. (G) Close-up of the heartregion boxed in (G). ot, outﬂow tract; v, ventricle. (H, I) Animal cap60 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+FIG. 3. (A) Internal deletion LS10/13 removes CArG boxes 1-4, resulting in weak expression in the myotomes and loss of expression in
+the heart. (B) An oligonucleotide comprising CArG box 1 and the adjacent 10 bp downstream are suf ﬁcient to restore normal expression
+to LS10/13. (C), L-LS10/13, in which 5 bp most proximal to CArG box 1 are changed, is not expressed in the heart but is expressed normally
+in the myotomes. (D) Mutation of the more distal 5 bp has no effect on transgene activity in the heart. (E) Mutant T-LS10/13 showsexpression in the myotomes, but not in the heart (arrow). (Transgenic constructs shown in B –E all contain two copies of the
+oligonucleotides; see Table 1.)FIG. 4. CArG Box 1 /H11001DS is sufﬁ cient for expression in myotomes and head and heart region. (A) A chimeric construct comprising
+oligonucleotide CArG Box 1 /H11001DS adjacent to the minimal cytoskeletal actin promoter gave expression in the myotomes, heart (arrowed), and
+branchial arches of the stage 33 tadpole. (B) Similar expression was obtained with this oligonucleotide in front of the thymidine kinase minimalpromoter. (C) However, at earlier stages, transgene expression directed by CArG Box 1 /H11001DS is premature and too broad, as seen in the
+presumptive heart ﬁeld of stage 22 embryo. (D, F) Using either the cardiac actin or cytoskeletal actin basal promoter, an E-box placed adjacent
+to the CArG box 1 /H11001DS restricts activity of transgene to the myotomes. No expression is seen in the heart (arrowed). (E) The CArG Box 1 /H11001DS
+oligonucleotide also directs premature and broad expression in the stage 22 embryo when placed in front of the 5 /H11032/H9004-103truncation of the cardiac
+/H9251-actin promoter. (G) Nucleotides spanning /H11002275 to /H1100291 of the cardiac /H9251-actin promoter can act as a weak myotome-speciﬁ c enhancer.
+Dorsolateral view of a stage. 25 embryo showing feint, but detectable ﬂuorescence in the myotomes. (NB, Strong ﬂuorescence in the forebrain,
+hindbrain, and eyes (arrows) results from the presence of a /H9253crystallin/GFP cotransgene). (A –E) Anterior to left. (G) Anterior at top.61 Cardiac Actin Gene Regulation in Xenopus
+In an effort to delineate more precisely the nucleotides
+downstream of CArG box 1 responsible for restoring expres-
+sion in the heart, we next tested CArG box 1 oligonucleo-tides that included variant ﬂanking sequence. Since the
+entire DS sequence except a central C is conserved betweenthe two amphibian species Xenopus laevis and Xenopus
+borealis, we compared mutation of four nucleotides on
+either side of this central residue. Two copies of eacholigonucleotide were cloned into the LS10/13 vector. Mu-tation of the nucleotides most distal to CArG box 1 (variantR-LS 10/13) had no apparent effect on the expressionpattern in either myotomes or heart (Fig. 3D). Conversely,alteration of four nucleotides most proximal to CArG box 1(variant L-LS 10/13) completely abolished transgene expres-sion within the heart (Fig. 3C). Together, these resultsdemonstrate that the most proximal CArG box, along withﬁve nucleotides downstream, are critical for expression ofthe cardiac
+/H9251-actin promoter in cardiac muscle of the
+embryo.
+E Boxes Are Dispensable for Expression of the
+Cardiac /H9251-Actin Gene in Vivo
+We next investigated sequences necessary for transgene
+expression in embryonic skeletal muscle. Several previous
+studies of the cardiac actin gene have emphasised impor-tance of E boxes for cell-speciﬁc promoter activity, includ-ing assays using differentiation of cultured myogenic celllines and skeletal muscle induction in Xenopus embryo
+explants (Mohun et al., 1989b; Sartorelli et al., 1990). Once
+again, however, our results with transgenic embryos provedquite different. Truncation of the promoter region from 580bp to the most proximal 216 bp removes all E box motifsalong with CArG box 4, yet transgenic embryos showedGFP expression that was qualitatively indistinguishablefrom the full-length promoter (Fig. 2A). Therefore, withinthe embryo, sequences distal from /H11002216 are not essential
+for correct embryonic expression of the cardiac
+/H9251-actin
+gene.
+Further truncation to remove all sequences upstream of
+CArG box 1 (/H11002103) had a profound impact on promoteractivity, severely reducing or abolishing expression in myo-tomal muscle (Fig. 2B, and data not shown). This transgenegave variable levels of GFP expression within the heartalong with ectopic expression throughout the head region.Sequences lying between /H11002580 and /H11002103, encompassing
+the E boxes and CArG boxes 2– 4, are therefore essential for
+proper regulation of the cardiac
+/H9251-actin gene in both myo-
+tomal and cardiac muscle.
+Sequences Encompassing CArG Boxes 1 –4 Are
+Required for Strong and Uniform Expression in
+Skeletal Muscle
+Since removal of sequences upstream of CArG box 4 had
+no apparent effect on expression within the myotomes,
+while truncation to CArG box 1 severely impaired orabolished expression in this tissue, we reasoned that theintervening sequences, while apparently unimportant forexpression in the heart (Figs. 3B –3D), must be important for
+myotomal expression. Consistent with this, internal dele-tion of sequences encompassing CArG boxes 1 –4 (LS10/13)
+signiﬁcantly altered transgene expression in the tadpolemyotomes. Instead of uniform, strong expression, stainingfor GFP transcripts and GFP ﬂuorescence itself were weak,
+appearing stronger in the posterior portion of the embryogradient of signal (Fig. 3A, and data not shown). Thisresembles the graded expression of the myogenic factorsduring normal development (Hopwood et al., 1991, 1992).
+Interestingly, replacement of the entire promoter region
+containing CArG boxes 1 –4 by two copies of the CArG box
+1-containing oligonucleotide not only restored transgeneexpression within the heart, but also reestablished strong,uniform expression throughout the myotomes (compareFigs. 3A and 3B). This result could not be attributed to thepresence of the CArG box 1 sequence alone since a trun-cated promoter comprising only CArG box 1 and moreproximal sequences (5/H11032/H9004-103; Fig. 2B) showed little or noexpression in the myotomes. This suggests that normalexpression in striated muscle was restored by the combina-tion of CArG box 1 and the distal, E-box-containing regionof the promoter.
+Taken together, our results suggest that expression of the
+full-length cardiac
+/H9251-actin promoter in skeletal muscle
+depends on several sequences dispersed throughout thepromoter, none of which is apparently indispensable. In theabsence of more proximal sequences, the most distal region,containing E box motifs, gives weak and graded expressionalong the A-P axis. The presence of proximal sequencesencompassing the CArG boxes is suf ﬁcient to establish a
+uniform pattern of expression, irrespective of whether dis-tal sequences are present. Finally, the same result can beobtained in the absence of such sequences, as long as boththe E-box-containing region and the most proximal CArGbox 1 sequence are present.
+CArG Box1 /H11545DS Is Sufﬁcient for Expression in the
+Myotomes, Head, and Heart Region
+Having identiﬁed sequences within cardiac /H9251-actin pro-
+moter that are necessary for expression in the heart andmyotomes, we next asked whether they were also suf ﬁcient
+to confer appropriate expression upon a heterologous pro-moter. A fragment encompassing all identi ﬁed cardiac
+/H9251-actin regulatory sequences (/H11002580//H1100273) gave a pattern of
+transgene expression indistinguishable from the endoge-nous gene when placed upstream of a minimal cytoskeletalactin promoter (Table 1, and data not shown). We thereforetested the activity of individual cardiac
+/H9251-actin promoter
+elements within the same context.
+Three copies of the CArG box1 /H11001DS sequence gave a
+pattern of expression within the myotomes that was iden-tical to that obtained with the full-length promoter (Fig.4A). Expression in the heart region, however, was prema-62 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+ture, commencing during early tailbud stages (stage 22 –24
+rather than stage 26); it was also too broad, encompassing
+an anteroventral region far larger than the tailbud heartﬁeld (Fig. 4C). By the early tadpole stage (stage 32–34),expression of this transgene was evident in the myotomes,the heart, and branchial arches (Fig. 4A).
+The expression pattern seen with CArG box 1 /H11001DS
+sequence could reﬂect the limited regulatory capacity ofthis sequence or it could result from an unexpected inter-action of this regulatory element with the minimal cy-toskeletal actin promoter. To differentiate between thesetwo possibilities, we also tested CArG box 1 /H11001DS in front
+of a minimal thymidine kinase promoter. Similar resultswere obtained with this transgene (Fig. 4B), indicating thatthe CArG box 1 and the sequence downstream of it act as anenhancer active in both the myotomes and a broad anteriordomain of the embryo including the heart. These data alsodemonstrate that other sequences within the promoter arenecessary to restrict anterior expression in the embryo tocardiac and facial (skeletal) muscle.
+Interestingly, when we used the same assay to test
+mutated versions of the CArG box 1 /H11001DS sequence, wefound that alteration of the most proximal sequences vari-ant L, in which sequences most proximal to CArG box 1were altered (see Fig. 3) was inactive in the myotomes(Table 1). This mutation therefore blocks activity of theCArG box 1 /H11001DS sequence as an independent myotome-
+speciﬁc enhancer, although the variant can still supporttransgene expression in the myotomes in the presence ofthe distal E-box-containing enhancer (Fig. 3, L-LS10/13).
+Promoter Region /H11546275//H1154692, Including CArG Boxes
+2–4 Is a Myotome-Speciﬁc Enhancer
+Our deletion data described above indicate that the pro-
+moter region encompassing CArG boxes 2 –4 (nucleotides
+/H11002275//H1100292) is important for expression of the cardiac
+/H9251-actin promoter in the myotomes. For example, the E-box-
+containing distal portion of the promoter can only directweak myotomal expression in a posterior-to-anterior gradi-ent (Fig. 3A), yet speci ﬁc mutation of CArG box 1 within
+the full promoter (LS29; Fig. 2D) leaves the normal, uniformexpression in the myotomes unaffected. We therefore testedthe activity of promoter region /H11002275//H1100292 when fusedTABLE 1
+Summary of Transgenesis Experiments
+Transgene promoter Insert Insert copy no. Embryos analysed Figure
+Cardiac 5/H11032/H9004-216 — NA 16/107 2A
+Cardiac LS29 — NA 34/109 2D
+Cardiac LS13 — NA 42/81 2E
+Cardiac LS25 — NA 11/43 2C
+Cardiac LS 10/13 — NA 16/40 3A
+Cardiac LS 10/13 (CArG box1 /H11001DS) 2 64/177 3B
+Cardiac LS 10/13 (CArG box1 R) 2 54/109 3D
+Cardiac LS 10/13 (CArG box1 L) 2 15/30 3C
+Cardiac LS 10/13 (CArG box1 T) 2 12/35 3E
+Cardiac LS 10/13 (SRE) 1 7/15 7A
+Cardiac LS 10/13 (SRE) 2 12/40 7B,C
+Minimal cyt. actin Cardiac prom /H11002580//H1100273 1 10/25 n/s
+Minimal cyt. actin Cardiac prom. /H11002275//H1100291 1 10/37 4G
+Minimal cyt. actin (CArG box1 /H11001DS) 3 66/261 4A,C
+Minimal cyt. actin (CArG box1 L) 3 0/20* n/s
+Minimal cyt. actin E/H11001CArG box1 /H11001DS 3 28/124 4D
+Minimal cyt. actin (CArGbox1 T) 3 2/12* n/s
+Minimal cyt. actin (E box) 3 3/15 n/s
+Minimal cyt. actin (CArG box1 m5) 3 0/15* n/s
+Minimal cyt. actin (CArG box1 m6) 5 2/13* n/s
+Minimal cyt. actin (SRE) 3 4/14 7D,E
+Cardiac 5/H11032/H9004-103 — NA 5/30 2B
+Cardiac 5/H11032/H9004-103 (CArG box1 /H11001DS) 3 7/8 4E
+Cardiac 5/H11032/H9004-103 (E/H11001CArG box1 /H11001DS) 3 22/47 4F
+Note. Each GFP transgene promoter construct used in the study is listed along with any inserted DNA sequence and its copy number
+within the promoter. Oligonucleotide insertions (detailed in Materials and Methods) are shown in parentheses. For each construct, the total
+number of embryos showing GFP expression is shown along with the total of developing embryos. In some experiments (*), inclusion ofa
+/H9253-crystallin/GFP cotransgene allowed selection of transgenic embryos, and in such cases, this total is shown. n/s, not shown; NA, not
+applicable.63 Cardiac Actin Gene Regulation in Xenopus
+© 2002 Elsevier Science (USA). All rights reserved.
+upstream of the minimal cytoskeletal actin promoter. The
+resulting transgene showed weak but uniform expression inthe myotomes (Fig. 4G), indicating that the /H11002275//H1100292
+region, encompassing CArG boxes 2 –4, can act indepen-
+dently, as a myotome-speciﬁc enhancer. The combinationof strong and uniform expression seen in the myotomes ofLS29 transgenic embryos presumably results from the com-bined activities of this enhancer and sequences within thedistal, E-box-containing portion of the promoter.Regulatory Interactions between Distal and
+Proximal Enhancers
+Two distinct effects of the distal, E-box-containing region
+of the promoter can be distinguished in our results. In
+isolation, this region acts as a weak myotomal-speci ﬁc
+enhancer (see above), but a second activity is detected usingconstructs that combine this region with the CArG box1/H11001DS sequence. Such transgenes show correct spatiotem-
+poral restriction of transgene expression in the heart, ratherthan the more widespread expression throughout the headregion displayed by constructs containing the CArGbox1-DS sequence alone (Fig. 3B). The distal enhancer thusappears to restrict expression driven by the proximal CArGbox 1 enhancer. We therefore tested whether either of theseresults could be replicated by using an E-box oligonucleo-tide rather than the entire distal region of the cardiac
+/H9251-actin promoter.
+Three copies of the principal functional E-box motif
+(Mohun et al., 1989b; Taylor et al., 1991) placed in front of
+the cytoskeletal actin promoter gave rise to an expressionpattern similar to that attributable to the entire distalpromoter region (Table 1, and data not shown). In contrast,a transgene comprising the E-box motif directly adjacent tothe CArG box 1 /H11001DS sequence on either the minimal
+cytoskeletal or cardiac actin promoters gave strong, uni-form myotomal expression (Figs. 4D and 4E). This is similarto that obtained with CArG box 1 /H11001DS sequence alone,
+suggesting either that the effects of the two myotomeenhancers is additive or that the activity of the CArG box1/H11001DS sequence predominates. However, such a synthetic
+promoter did not recapitulate the entire expression pro-gramme of the cardiac actin promoter. No detectable expres-sion was obtained with this promoter either in the heart, orin ectopic sites within the head (Figs. 4D and 4F). Oneexplanation for this may be inappropriate spacing betweenthe E-box and CArG box 1 motifs; alternatively, sequencespresent in the distal enhancer (/H11002580//H11002216), but absent inthe E-CArG box 1 /H11001DS oligo, may also be required for the
+interactions necessary for expression in cardiac muscle. Wecannot yet distinguish between these alternatives.
+Interactions Mediated by E-Boxes and CArG Sites
+also Restrict Activity in Serum-Induced Fibroblasts
+Our ﬁnding of a regulatory interaction mediated by the
+combination of E-box and CArG box sites in embryonic
+muscle prompted us to ask whether the same sequencesmight also be responsible for regulating transcription of thecardiac
+/H9251-actin promoter in other contexts. We have previ-
+ously shown that the CArG box 1 sequence of the cardiac
+/H9251-actin gene can replace the related SRE motif of the c-fos
+proto-oncogene promoter and mediate transcriptional in-duction of c-fos by serum response factor (Taylor et al.,
+1989). However, transcription of striated muscle-speci ﬁc
+genes containing CArG boxes, such as cardiac
+/H9251-actin, is
+not induced in ﬁbroblasts by serum growth factors and we
+FIG. 5. E-boxes mediate silencing of cardiac /H9251-actin promoter in
+serum-stimulated ﬁbroblasts. NIH3T3 ﬁbroblasts were transfected
+with test plasmids comprising the human c-fos gene driven by the
+full-length c-foshpromoter (Fos-711) or a chimeric promoter con-
+taining cardiac actin promoter sequences fused upstream of the
+c-fosh5/H11032/H9004-100. Three cardiac actin promoter regions were tested;
+the full-length promoter (/H11002 580), a 5/H11032 truncation that removes the
+E-box motifs (/H11002246), and an internal deletion of the 580-bp pro-moter that removes 31 bp encompassing the three E-box motifs(/H9004M). Cells were serum-starved (/H11002) and then stimulated withserum for 40 min (/H11001). Total RNA was analysed by RNase protec-tions. M-DNA markers; P-undigested riboprobes; C-probes hybri-dised to tRNA. Diagrams showing essential features of test plas-mids are shown below the gel. Protected Fosand globin transcripts
+are indicated.64 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+therefore sought to establish what might restrict SRF activ-
+ity on such promoters.
+Using a serum induction assay, we found that a chimeric
+reporter comprising a 580-bp region of the cardiac /H9251-actin
+promoter fused to the c-foshgene remained transcription-
+ally inactive in transfected ﬁbroblasts (Fig. 5). In contrast, 5/H11032
+truncations (/H9004-246) or an internal deletion (/H9004M) that re-moved the E-boxes from the cardiac
+/H9251-actin promoter
+portion resulted in rapid induction by serum growth factors.These results demonstrate that, in two distinct contexts,(embryonic muscle differentiation and serum induction ofﬁbroblasts), the activity of SRF at its CArG box 1/SREbinding site is modulated by factors binding to distal E-boxmotifs of the cardiac
+/H9251-actin promoter.
+Functionally Impaired CArG Box 1 Mutants Have
+Reduced Afﬁnity for SRF
+We have observed that mutating sequences downstream
+of CArG box 1 results in loss of heart expression from the
+full-length cardiac /H9251-actin promoter (LS13; Fig. 2E) and
+gives a similar result when tested with heterologous pro-moters (CArG-L; Fig. 3C). One explanation could be thatsuch mutations impair the binding of an essential, regula-tory transcription factor. However, we have been unable toidentify any consistent, qualitative difference in the capac-ity of wild-type and CArG-L variant sequences to bindproteins in embryonic extracts, despite testing a variety ofbinding conditions and extract preparation procedures (datanot shown). We have, however, consistently observed alower apparent afﬁnity of the CArG-L variant for SRFpresent in embryo extracts (as identiﬁed by anti-SRF anti-bodies), suggesting that the effect of such mutations is toreduce SRF binding to CArG box 1 (data not shown). Thiseffect is evident both in direct binding of each sequence torecombinant SRF (Fig. 6A) and from competition assays(Fig. 6B).
+Reduced Afﬁnity CArG Variants Are Not
+Expressed in Cardiac Muscle
+Mutation of the A/T rich core within CArG box 1 to an
+all-T sequence had little effect on the ability of the motif to
+interact with the distal enhancer of LS10/13, as judged byuniform expression in the myotomes (Fig. 3E; T-LS10/13).However, this construct gave no expression within thedeveloping tadpole heart, indicating that the core region ofthe CArG box 1 is important for its function as heartenhancer. In the absence of the upstream enhancer providedby the LS 10/13 promoter construct, CArG-T oligonucleo-tides, including the downstream DS element, were inca-pable of supporting any detectable transgene expressionfrom the minimal cytoskeletal actin promoter (data notshown; Table 1). Two additional constructs that introduceless radical changes in A/T-rich core of the CArG box 1 (Fig.6C; mutations m5 and m6) were also tested by using theheterologous promoter assay. Mutation of two A residues inthe proximal half of the core (mutation m5) showed noexpression in the embryo. Mutation of the distal three Aresidues (mutation m6) also generally showed lack of ex-pression, although occasional embryos showed very weakexpression in the myotomes and heart region. This mayreﬂect an intrinsic difference between the two mutations,but may also be a consequence of the increased oligonucle-otide copy number (5 rather than 3) in the m6/cyt/GFPtransgene. When either mutant sequence was tested for SRFbinding in a competition assay, each showed an af ﬁnity for
+the protein which was signi ﬁcantly reduced from that of
+the wild-type sequence, although somewhat greater thanthe CArG-L variant (Fig. 6).
+These results suggest that a reduction in af ﬁnity of the
+CArG box 1 sequence for SRF can speciﬁcally block expres-sion of the cardiac promoter within the developing heart.Such reductions can be achieved by mutations within theCArG box itself, (CArG-T, m5, and m6). They can also beobtained by mutations within adjacent downstream se-quences (LS13, CArG-L) which are not thought to beinvolved in speciﬁc binding to SRF (Pellegrini et al., 1995).
+If this interpretation is correct, as long as no other factors
+required for the CArG-SRF interaction are limiting, itshould be possible to activate the low af ﬁnity, inactive
+CArG-L variant simply by increasing concentration of SRF.Consistent with this, coinjection of the lower af ﬁnity
+CArG-L cyt/GFP reporter with CMV-SRF greatly increasedboth the frequency of GFP-expressing embryos and theirlevels of expression (Fig. 6D). These results suggest that thehigh afﬁnity of SRF for the CArG box 1 sequence is itself amajor determinant of cardiac
+/H9251-actin regulation.
+The c-fos SRE Can Replace CArG Box 1 in the
+Cardiac /H9251-Actin Promoter
+As a further test of the role of CArG box as SRF binding
+site, we examined whether a heterologous, high-afﬁnity
+SRF binding site could interact with the distal, E-box-containing enhancer of cardiac
+/H9251-actin promoter to restore
+normal expression on the LS10/13 internal deletion con-struct. Using the SRE sequence from the c-fos gene, which
+has different core and ﬂanking sequences from CArG box 1,
+we compared the activity of transgenes containing eitherone or two copies of the SRE oligonucleotide with thatobtained from two copies of the wild-type CArG box 1sequence (Fig. 3). Constructs containing a single copy of theSRE gave uniform expression in the myotomes with noother sites of expression (Fig. 7A). Such a pattern of expres-sion was also seen with two copies of the CArG-L variant(Fig. 3C) and with a single copy of the wild-type CArG box1 (data not shown). In contrast, constructs containing twocopies of the SRE were also expressed in other regions of theembryo. In approximately half the cases (5/12), this addi-tional expression was observed only in the heart (Fig. 7B),indicating that the c-fos SRE can indeed interact with the
+distal enhancer from cardiac
+/H9251-actin gene to direct expres-
+sion to myotomes and heart. In the remaining embryos, two65 Cardiac Actin Gene Regulation in Xenopus
+© 2002 Elsevier Science (USA). All rights reserved.
+copies of the SRE yielded a broader pattern of expression,
+encompassing heart and branchial arches (Fig. 7C).
+A simple explanation of these results is that their out-
+come reﬂects the relative afﬁnities of CArG box 1/SREvariants for SRF and the distribution of SRF within theembryo. To investigate the latter, we used whole-amount in
+situ hybridisation to determine the distribution of SRF
+RNA in Xenopus embryos. In the late neurula (stage 19),
+whole-mount in situ hybridisation indicates that SRF
+mRNA is present at the highest levels in the somites. Alower level is detected in the anterior region of the embryo,including the heart ﬁeld (Figs. 7F and 7G) and still lower
+levels can be detected uniformly in the surface ectoderm. Inthe hatching tailbud (stage 26), expression is strongest inthe myotomes and presumptive heart tube, but is readilydetectable in the head (Fig. 7H). By stage 33, strong sites ofexpression are evident throughout the embryo, includingthe myotomes, heart, body wall musculature, branchialarches, and restricted areas of the brain. Lower levels of SRFmRNA remain in the pronephros and in surface ectoderm(Figs. 7I and 7J).
+The distribution of active SRF protein need not, of course,
+match the distribution of its transcripts and we have noquantitative assay of SRF distribution. However, we mightexpect that transgenes driven by multimerised, high-afﬁnity SRF binding sites such as the c- fosSRE, or its even
+higher afﬁnity variant, ACTL (Taylor et al., 1989), would
+act broadly as sensors for SRF localisation. The expressionof such transgenes is indeed similar to that found for SRFRNA distribution (Fig. 7E, and data not shown).
+In this interpretation, when CArG box 1 variants with
+lower afﬁnity (such as CArG-L and CArG-T) are cloned intothe CArG-deﬁcient promoter LS10/13, the resulting trans-genes show expression in myotomes, but not heart, becausethe tadpole myotomes have higher levels of SRF expressionthan the developing cardiac muscle. Higher afﬁnity variants(such as the wild-type CArG box 1-DS sequence or the c- fos
+SRE) give correct expression in both myotomes and heart.The c-fos SRE appears to have a higher af ﬁnity for SRF than
+the CArG box 1 sequence in vitro (Taylor et al., 1989) and
+the widespread expression that can also be obtained whentwo copies of the c-fos SRE are present may then simply
+reﬂect the ability of such transgenes to respond to evenlower levels of SRF in a wide range of other tissues in theembryo. Consistent with this view, three copies of the c- fos
+SRE in front of the cytoskeletal actin promoter result in apattern of expression which is broader then expressiondriven by three copies of the CArG box 1-DS sequence(compare Figs. 7D and 7E with Figs. 4A and 4B).
+DISCUSSION
+Regulation of Expression in the Heart by SRF
+Our promoter analysis shows that not only is the CArG
+box 1 and its adjacent 5 bp downstream necessary forexpression of the Xenopus cardiac
+/H9251-actin gene in the heart,when multimerised it is also suf ﬁcient for expression in
+both the myotomes and anterior part of the embryo, includ-ing the heart. This sequence presents the only candidate“heart-speciﬁc” enhancer within the 580-bp promoter re-
+gion. Intriguingly, our data suggest that the role of thissequence may be relatively simple, acting as high-afﬁnitySRF binding site rather than functioning as a composite sitefor SRF and other accessory proteins. We base this conclu-sion on the following three observations. Mutations of the5 bp adjacent to the CArG box or within the A/T-rich coreaffect transgene expression in the heart and lower afﬁnity ofthe CArG sequence for SRF (Fig. 6). A heterologous, high-afﬁnity CArG box can interact with the distal enhancerfrom cardiac
+/H9251-actin gene in manner similar to that of the
+native CArG box 1 sequence, resulting in correct expressionin both the myotomes and heart (Fig. 7). Finally, thelow-afﬁnity, functionally impaired CArG box 1 variantCArG-L can be activated in embryos by providing exog-enous SRF (Fig. 6).
+This is a surprising ﬁnding because SRF has been impli-
+cated in regulation of many striated and smooth musclegenes, as well as in regulation of a subset of cellularimmediate-early genes. Previous studies of such genes havedeﬁned CArG/SRE box-adjacent sequences that providespeciﬁcity of regulation through the accessory factors thatbind them. The best example of this is provided by the c- fos
+SRE and ternary complex factors from ETS family (Treis-man, 1994). We cannot, of course, exclude the possibilitythat nucleotides adjacent to CArG box 1 act as a bindingsite for a factor that modulates CArG box 1 function.However, it is striking that these sequences are poorlyconserved amongst the cardiac
+/H9251-actin genes of vertebrates
+and it is difﬁcult to reconcile such variation with thepresence of a common binding site. Furthermore, since aheterologous SRE can productively interact with the distalenhancer of cardiac
+/H9251-actin gene, if the DS sequence adja-
+cent to CArG box 1 is indeed a binding site for an additionalfactor, it cannot be an essential heart-speciﬁc cofactor ofSRF.
+Our data show that the DS sequence affects the af ﬁnity of
+SRF for CArG box 1, most likely by modulating the struc-ture of the binding site. In the dystrophin promoter, aCArG-adjacent sequence essential for muscle-speci ﬁc ex-
+pression acts as a binding site for a factor that induces DNAbending (Galvagni et al., 1997). Similarly, the DS sequence
+could affect the afﬁnity of SRF for the cardiac actin pro-moter by modulating the structure of CArG box 1. If so,then such an interaction is either unnecessary with theheterologous c-fos SRE, or is supported by nucleotides
+included with this binding site, despite the apparent lack ofsequence similarity.
+Whether mutation of the DS sequence results in a change
+in the afﬁnity of SRF for CArG box 1 or a change in CArGbox 1 conformation, or both, such changes abolish heart-speciﬁc expression. This could be a direct consequence ofreduced SRF binding or it may result from an indirect effecton the association of SRF with an accessory factor which66 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+does not itself bind DNA but is nevertheless essential for
+heart-speciﬁc expression. An example of such a factor ismyocardin, a recently described transcriptional activator.Myocardin cooperates with SRF on muscle-speci ﬁc promot-
+ers bearing multiple CArG boxes, but not on the c- fos
+promoter, which has a single CArG box (Wang et al., 2001).
+It is noteworthy that in our experiments, correct cardiacexpression was indeed only restored to transgenes whenmore than one CArG box motif was present in the trans-gene promoter (Figs. 3 and 7).
+Recently, transgenic mouse studies have investigated
+regulatory capacity of isolated CArG boxes from smooth-muscle speciﬁc SM22 gene and c-fos (Chang et al., 2001;
+Strobeck et al., 2001). Chang et al., (2001) found that the
+high-afﬁnity c-fos SRE directs widespread expression
+within the embryo, whereas the lower af ﬁnity CArG box
+from the SM22 gene directs expression only in muscle celltypes which are sites of high SRF expression. These resultsmatch our ﬁndings with transgenic frog embryos. In con-
+trast, Strobeck et al., (2001) found that an isolated SRE hasno activity. The explanation for this discrepancy is unclear,but may in part result from the differing minimal promotersused in the transgenes.
+Enhancer Interactions in the Cardiac /H9251-Actin
+Promoter
+Our studies have identiﬁed three distinct enhancers that
+are involved in regulation of cardiac /H9251-actin in the somites
+and subsequently in the myotomes. The distal enhancer,containing three E-boxes, drives expression in a posterior-to-anterior gradient, resembling the expression of endoge-nous myogenic bHLH factors (Hopwood et al., 1991, 1992).
+CArG box 1 /H11001DS, discussed above, is an enhancer that
+gives uniform expression in the myotomes, when present inthree copies. Finally, region including CArG boxes 2-4 willconfer weak and uniform expression in the myotomes only.Interaction between any pair of these enhancers results instrong, uniform expression in the myotomes.
+Expression in cardiac muscle of the embryo appears to
+FIG. 6. CArG box 1 variants with impaired activity in vivo have low afﬁnity for SRF in vitro. (A) Designated probes of equal speciﬁc
+activity and integrity (lower panel, 8% native polyacrylamide gel) were incubated with SRF obtained from coupled transcription-translation
+reactions. Protein–DNA complexes were resolved on 6% native acrylamide gels. (B) The relative afﬁnities of variant CArG box 1 sequencesfor SRF were examined by testing the ability of a 20-, 50-, and 100-fold molar excess of unlabelled oligonucleotides to compete with thewild-type CArG box 1 probe. (C) Oligonucleotide sequences tested. The relative activity of these enhancer elements when tested bytransgenesis using the minimal cytoskeletal actin promoter is indicated. (Embryos were scored at the tadpole stage.) All constructs (detailedin Fig. 4 and Table 1) had three copies of oligonucleotides, except m6, which contained 5 copies (D) Exogenous SRF can activate L-cyt/GFPin embryos. Fertilised embryos were injected with 100 pg of L/cyt/GFP and CMV or CMV-SRF DNAs at 5:1 ratio, and embryos were scoredfor GFP activity from stage 19 onwards.67 Cardiac Actin Gene Regulation in Xenopus
+© 2002 Elsevier Science (USA). All rights reserved.
+result from further interactions between the most proximal
+and distal enhancers. While multimerised copies of theCArG box 1 /H11001DS sequence will result in transgene expres-sion in the heart, expression is not restricted to this tissuebut is detected more broadly throughout the head regionand commences prematurely. Addition of the E-box-containing enhancer appears to block expression of thetransgene in ectopic sites within the head, yielding apattern comparable with that of the endogenous cardiac
+/H9251-actin gene (compare Figs. 4A and 4B with Fig. 3B).
+Our experiments do not identify the critical sequence(s)
+within the distal promoter necessary for this interaction. Asa myotome-speciﬁc enhancer, the E-box sequence itself iscomparable with the entire distal region (Table 1). Further-more, we have found that in an another regulatory context(the serum-stimulation of ﬁbroblasts), interactions between
+factors binding at the E-box and CArG box 1 sites are indeedresponsible for restricting expression from cardiac
+/H9251-actin
+promoter. However, we were unable to replicate the inter-action between distal and proximal enhancers of the pro-moter using oligonucleotide copies of the E-box and CArGbox 1 motifs. Replacement of the entire E-box-containingenhancer with an E-box motif immediately adjacent to theCArG box 1 /H11001DS sequence blocked all expression in the
+head region, whether ectopic or cardiac restricted, whilstmyotomal expression was unaffected (Fig. 4). We do notunderstand why expression of the transgene is selectivelyaffected in this way but it may indicate that expression inmyotome and cardiac muscle is affected quite differently bythe precise distance or conﬁguration of the E-box and CArGbox binding sites.
+Comparison with Previous Studies
+of Cardiac /H9251-Actin
+In transgenic mice, the proximal portion of the cardiac
+/H9251-actin promoter is sufﬁcient for proper expression in
+embryos but inadequate for appropriate expression in post-
+natal mice (Biben et al., 1996). Our results are strikingly
+similar. Transgenes containing sequences of the Xenopus
+promoter up to /H11002580 are appropriately expressed in Xeno-
+pusembryos and tadpoles, but do not appear to be expressed
+in the heart muscle of adult frogs (B.L. and T.M., unpub-lished results). A notable difference between our studiesand earlier work is our ﬁnding that E-box sequences are
+dispensable. For example, in cell transfection studies, theE-box was found to be critical for activity of human cardiac
+/H9251-actin promoter (Sartorelli et al., 1990). Similarly, our
+earlier studies in Xenopus employing a muscle induction
+assay also identiﬁed the distal E-box region as essential forexpression in somitic muscle (Mohun et al., 1989b). Our
+earlier studies also found that CArG box 1 was necessary foractivity of cardiac
+/H9251-actin reporter in induced muscle tissue
+(Mohun et al., 1989b), while our transgenic studies indicate
+that it is only required for heart expression (Fig. 2). Atpresent, we cannot adequately account for these discrepan-cies but note the profound differences between the in vivo
+and in vitro assays employed, in particular the chromo-
+somal vs episomal status of the reporter DNA. Another
+FIG. 7. c-fos SRE activity in embryos can be restricted to heart and
+myotomes by interaction with the distal enhancer from the cardiac
+/H9251-actin gene. (A) A single copy of the SRE together with the /H11002580/
+/H11002275 enhancer can direct uniform expression of GFP in the myo-
+tomes, but not in the heart. Two copies of the SRE in this context also
+direct expression of GFP in the heart, resulting either in the correctpattern of expression for the cardiac
+/H9251-actin promoter (B) or a signi ﬁ-
+cantly broader expression pattern (C). With three copies of c- fosSRE,
+transgenic embryos show widespread expression of GFP, encompass-ing the myotomes, head, heart, and pronephric region (D, E). Lateralview of stage 32 embryos, anterior to the right. (F –J) Expression pattern
+of endogenous SRF mRNA. (F) Lateral view of a stage 19 embryoshowing strong expression in the somites, intermediate expressionlevels in ventroanterior region (arrow), and low uniform level ofexpression in the surface ectoderm. (G) Dorsal view of the sameembryo. (H) Stage 26 embryo, showing expression of SRF mRNA inthe myotomes, future heart (arrow) and head. (I) Stage 30 embryoshowing SRF mRNA in the heart and branchial arches. (J) Stage 33embryo, with SRF mRNA now also detectable in the body wallmuscles (arrows) and distinct regions in the brain. (Anterior to theright in all panels, except F and G, where anterior is to the top).68 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.
+potential basis for discrepancies may be the nonquantita-
+tive nature of GFP transgenic expression.
+Previous studies have suggested that multiple CArG
+boxes are required for activation of the chick skeletal andcardiac actin genes (Chen et al., 1996; Lee et al., 1991).
+Interaction between multiple CArG boxes within thesepromoters apparently leads to cooperative binding of SRF(Lee et al., 1991). In the chick cardiac actin promoter, such
+cooperative binding might displace repressor YY1 from its ’
+sites within CArG boxes 2 and 3 and thereby contribute tooverall activity of the promoter (Chen and Schwartz, 1996).In our study, we have also found that CArG boxes 2-4 caninteract with CArG box 1 to direct appropriate expressionfrom the Xenopus cardiac actin promoter, but we do not yet
+know whether this results from cooperative binding of SRF.As in the chick promoter, potential YY1 sites are presentwithin Xenopus CArG boxes 2 and 3, but whether YY1
+plays a role in regulating the Xenopus promoter remains to
+be established
+CArG boxes are required for regulation of all cardiac
+/H9251-actin genes studied. They have been shown to interact
+with several adjacent sequences: SP1 and E-box in humancardiac
+/H9251-actin (Biesiada et al., 1999; Sartorelli et al., 1990);
+Nkx2.5 and E-boxes in the chick gene (Chen et al., 1996;
+Chen and Schwartz, 1996). With the Xenopus gene, we have
+no evidence indicating a role for SP1, binding either directlyor through modulation of SRF binding (data not shown).Nor are any consensus Nkx2.5 binding sites present in the580-bp portion of the Xenopus cardiac
+/H9251-actin promoter.
+However, as the reported interaction of Nkx2.5 and SRFoccurs in the absence of DNA binding by Nkx2.5 (Chen andSchwartz, 1996), we cannot rule out participation ofNkx2.5, or any such SRF-accessory factor. A conservedfeature of cardiac
+/H9251-actin gene regulation in different spe-
+cies appears to be the interaction of CArG box motifs withother site(s). In future, it will be of great interest todetermine how the regulatory interactions we have de-tected occur, and to determine whether similar mecha-nisms regulate other striated muscle-restricted and cardiac-speciﬁc genes.
+REFERENCES
+Belaguli, N. S., Sepulveda, J. L., Nigam, V., Charron, F., Nemer, M.,
+and Schwartz, R. J. (2000). Cardiac tissue enriched factors serum
+response factor and GATA-4 are mutual coregulators. Mol. Cell.
+Biol. 20,7550 –7558.
+Belaguli, N. S., Zhou, W., Trinh, T. H., Majesky, M. W., and
+Schwartz, R. J. (1999). Dominant negative murine serum re-sponse factor: alternative splicing within the activation domaininhibits transactivation of serum response factor binding targets.Mol. Cell. Biol. 19,4582– 4591.
+Biben, C., Hadchouel, J., Tajbakhsh, S., and Buckingham, M. (1996).
+Developmental and tissue-speciﬁc regulation of the murinecardiac actin gene in vivo depends on distinct skeletal andcardiac muscle-speciﬁc enhancer elements in addition to theproximal promoter. Dev. Biol. 173, 200–212.Biesiada, E., Hamamori, Y., Kedes, L., and Sartorelli, V. (1999).
+Myogenic basic helix–loop– helix proteins and Sp1 interact as
+components of a multiprotein transcriptional complex required
+for activity of the human cardiac alpha-actin promoter. Mol.
+Cell. Biol. 19,2577–2584.
+Black, B. L., and Olson, E. N. (1998). Transcriptional control of
+muscle development by myocyte enhancer factor-2 (MEF2) pro-teins. Annu. Rev. Cell Dev. Biol. 14,167–196.
+Chang, P. S., Li, L., McAnally, J., and Olson, E. N. (2001). Muscle
+speciﬁcity encoded by speciﬁc serum response factor-bindingsites. J. Biol. Chem. 276, 17206 –17212.
+Chen, C. Y., Croissant, J., Majesky, M., Topouzis, S., McQuinn, T.,
+Frankovsky, M. J., and Schwartz, R. J. (1996). Activation of the
+cardiac alpha-actin promoter depends upon serum response fac-tor, Tinman homologue, Nkx-2.5, and intact serum responseelements. Dev. Genet. 19,119–130.
+Chen, C. Y., and Schwartz, R. J. (1996). Recruitment of the tinman
+homolog Nkx-2.5 by serum response factor activates cardiacalpha-actin gene transcription. Mol. Cell. Biol. 16,6372– 6384.
+Fishman, M. C., and Chien, K. R. (1997). Fashioning the vertebrate
+heart: earliest embryonic decisions. Development 124, 2099 –
+2117.
+Galvagni, F., Lestingi, M., Cartocci, E., and Oliviero, S. (1997).
+Serum response factor and protein-mediated DNA bending con-tribute to transcription of the dystrophin muscle-speciﬁc pro-moter. Mol. Cell. Biol. 17,1731–1743.
+Groisman, R., Masutani, H., Leibovitch, M. P., Robin, P., Soudant,
+I., Trouche, D., and Harel-Bellan, A. (1996). Physical interactionbetween the mitogen-responsive serum response factor and myo-genic basic-helix–loop– helix proteins. J. Biol. Chem. 271, 5258 –
+5264.
+Harland, R. M. (1991). In situ hybridization: An improved whole-
+mount method for Xenopus embryos. Methods Cell Biol. 36,
+685– 695.
+Hopwood, N. D., Pluck, A., and Gurdon, J. B. (1991). Xenopus
+Myf-5 marks early muscle cells and can activate muscle genesectopically in early embryos. Development 111, 551–560.
+Hopwood, N. D., Pluck, A., Gurdon, J. B., and Dilworth, S. M.
+(1992). Expression of XMyoD protein in early Xenopus laevis
+embryos. Development 114, 31–38.
+Kemp, P. R., and Metcalfe, J. C. (2000). Four isoforms of serum
+response factor that increase or inhibit smooth- muscle-speciﬁcpromoter activity. Biochem. J. 345, 445– 451.
+Kroll, K. L., and Amaya, E. (1996). Transgenic Xenopus embryos
+from sperm nuclear transplantations reveal FGF signaling re-quirements during gastrulation. Development 122, 3173–3183.
+Lee, T., Chow, K., Fang, P., and Schwartz, R. J. (1991). Activation of
+skeletal
+/H9251-actin gene transcription: The cooperative formation of
+serum response factor-binding complexes over positive cis-actingpromoter serum response elements displaces a negative-actingnuclear factor enriched in replicating myoblasts and non-myogenic cells. Mol. Cell. Biol. 11,5090 –5100.
+Mohun, T., and Sparrow, D. (1997). Early steps in vertebrate
+cardiogenesis. Curr. Opin. Genet. Dev. 7,628–633.
+Mohun, T. J., Chambers, A. E., Towers, N., and Taylor, M. V.
+(1991). Expression of genes encoding the transcription factor SRFduring early development of Xenopus laevis: Identiﬁcation of a
+CArG box-binding activity as SRF. EMBO J. 10,933–940.
+Mohun, T. J., and Garrett, N. (1987). An amphibian cytoskeletal-
+type actin gene is expressed exclusively in muscle tissue. Devel-
+opment 101, 393– 402.69 Cardiac Actin Gene Regulation in Xenopus
+© 2002 Elsevier Science (USA). All rights reserved.
+Mohun, T. J., Garrett, N., and Taylor, M. V. (1989a). Temporal and
+tissue-speciﬁc expression of the proto-oncogene c-fos during
+development in Xenopus laevis. Development 107, 835– 846.
+Mohun, T. J., Taylor, M. V., Garrett, N., and Gurdon, J. B. (1989b).
+The CArG promoter sequence is necessary for muscle-speci ﬁc
+transcription of the cardiac actin gene in Xenopus embryos.EMBO J. 8,1153–1161.
+Morin, S., Charron, F., Robitaille, L., and Nemer, M. (2000).
+GATA-dependent recruitment of MEF2 proteins to target pro-moters. EMBO J. 19,2046 –2055.
+Morin, S., Paradis, P., Aries, A., and Nemer, M. (2001). Serum
+response factor-GATA ternary complex required for nuclearsignaling by a G-protein-coupled receptor. Mol. Cell. Biol. 21,
+1036 –1044.
+Norman, C., Runswick, M., Pollock, R., and Treisman, R. (1988).
+Isolation and properties of cDNA clones encoding SRF, a tran-scription factor that binds to the c-fos serum response element.Cell 55,989–1003.
+Ofﬁeld, M. F., Hirsch, N., and Grainger, R. M. (2000). The devel-
+opment of Xenopus tropicalis transgenic lines and their use in
+studying lens developmental timing in living embryos. Develop-
+ment 127, 1789 –1797.
+Pellegrini, L., Tan, S., and Richmond, T. J. (1995). Structure of
+serum response factor core bound to DNA. Nature 376, 490–498.
+Puri, P. L., and Sartorelli, V. (2000). Regulation of muscle regulatory
+factors by DNA-binding, interacting proteins, and post-trans-criptional modiﬁcations. J. Cell. Physiol. 185, 155–173.
+Sambrook, J., Fritsch, E. F., and Maniatis, T. (1989). “Molecular
+Cloning: A Laboratory Manual.” Cold Spring Harbor Laboratory
+Press, Cold Spring Harbor, NY.
+Sartorelli, V., Webster, K. A., and Kedes, L. (1990). Muscle-speciﬁc
+expression of the cardiac alpha-actin gene requires MyoD1,CArG-box binding factor, and Sp1. Genes Dev. 4,1811–1822.
+Sater, A. K., and Jacobson, A. G. (1990). The restriction of the heart
+morphogenetic ﬁeld in Xenopus laevis. Dev. Biol. 140, 328–336.
+Sive, H. L., Grainger, R. M. and Harland, R. M. (2000). “Early
+Development of Xenopus laevis: A Laboratory Manual.” Cold
+Spring Harbor Laboratory Press, Cold Spring Harbor, NY.
+Smith, J. C., Yaqoob, M., and Symes, K. (1988). Puriﬁcation, partial
+characterization and biological effects of the XTC mesoderm-inducing factor. Development 103, 591– 600.
+Sotiropoulos, A., Gineitis, D., Copeland, J., and Treisman, R.
+(1999). Signal-regulated activation of serum response factor ismediated by changes in actin dynamics. Cell 98,159–169.Sparrow, D. B., Cai, C., Kotecha, S., Latinkic, B., Cooper, B.,
+Towers, N., Evans, S. M., and Mohun, T. J. (2000a). Regulation of
+the tinman homologues in Xenopus embryos. Dev. Biol. 227,
+65–79.
+Sparrow, D. B., Latinkic, B., and Mohun, T. J. (2000b). A simpliﬁed
+method of generating transgenic Xenopus. Nucleic Acids Res. 28,
+E12.
+Strobeck, M., Kim, S., Zhang, J. C., Clendenin, C., Du, K. L., and
+Parmacek, M. S. (2001). Binding of serum response factor to
+CArG box sequences is necessary but not sufﬁcient to restrictgene expression to arterial smooth muscle cells. J. Biol. Chem.
+276, 16418 –16424.
+Tanaka, M., Schinke, M., Liao, H. S., Yamasaki, N., and Izumo, S.
+(2001). Nkx2.5 and Nkx2.6, homologs of Drosophila tinman, arerequired for development of the pharynx. Mol. Cell. Biol. 21,
+4391– 4398.
+Taylor, M., Treisman, R., Garrett, N., and Mohun, T. (1989).
+Muscle-speciﬁc (CArG) and serum-responsive (SRE) promoterelements are functionally interchangeable in Xenopus embryosand mouse ﬁbroblasts. Development 106, 67–78.
+Taylor, M. V., Gurdon, J. B., Hopwood, N. D., Towers, N., and
+Mohun, T. J. (1991). Xenopus embryos contain a somite-speciﬁc,MyoD-like protein that binds to a promoter site required formuscle actin expression. Genes Dev. 5,1149 –1160.
+Treisman, R. (1985). Transient accumulation of c-fos RNA follow-
+ing serum stimulation requires a conserved 5/H11032 element and c-fos
+3/H11032sequences. Cell 42,889–902.
+Treisman, R. (1994). Ternary complex factors: Growth factor regu-
+lated transcriptional activators. Curr. Opin. Genet. Dev. 4,
+96–101.
+Treisman, R. (1995). Journey to the surface of the cell: Fos regula-
+tion and the SRE. EMBO J. 14,4905– 4913.
+Wang, D., Chang, P. S., Wang, Z., Sutherland, L., Richardson, J. A.,
+Small, E., Krieg, P. A., and Olson, E. N. (2001). Activation ofcardiac gene expression by myocardin, a transcriptional cofactorfor serum response factor. Cell 105, 851– 862.
+Zaret, K. (1999). Developmental competence of the gut endoderm:
+Genetic potentiation by GATA and HNF3/fork head proteins.Dev. Biol. 209, 1–10.
+Received for publication November 19, 2001
+Revised February 26, 2002
+Accepted February 26, 2002
+Published online April 14, 200270 Latinkic ´et al.
+© 2002 Elsevier Science (USA). All rights reserved.

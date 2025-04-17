@@ -1,0 +1,22 @@
+{
+  "title": "Cloning and analysis of rat GATA-5",
+  "authors": ["G. Nemer", "S. Qureshi", "D. Malo", "M. Nemer"],
+  "references": [
+    "Kelley et al. 1993",
+    "Morrisey et al. 1997a",
+    "Laverriere et al. 1994",
+    "Charron et al. 1999",
+    "de la Pompa et al. 1998",
+    "Durocher et al. 1997",
+    "Visvader et al. 1995"
+    // Additional references omitted for brevity
+  ],
+  "genes": ["GATA-5", "GATA4", "GATA6", "MSX1", "GNAS", "PCK1", "SYBL1-Ps", "NFATc"],
+  "proper_nouns": {
+    "institutions": ["Gibco-IRCM", "Fonds de la recherche en sante´ du Que´bec (FRSQ)"],
+    "experimental_methods": ["Northern blots", "RT-PCR", "EMSAs", "Westernblots", "southern blots", "cotransfection assays", "in situ hybridization studies"],
+    "software_tools": [],
+    "reagents_chemicals": ["32P-radiolabeled GATA-5 probe", "32P-labeled oligonucleotides", "anti-HA antibody", "ANF proximal promoter", "ET-1 promoter", "GATA element", "ANF GATA probe"],
+    "model_organisms": ["Xenopus", "Sprague Dawley rats", "rodent embryos", "CV1 cells", "Helacells", "mice", "rat"]
+  }
+}

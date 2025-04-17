@@ -1,0 +1,60 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "deutsch_g": "Gata6",
+      "jung_j": "Gata4, Foxa2, Hex"
+    },
+    {
+      "tremblay_kd": "Ttr",
+      "zaret_k_s": ""
+    },
+    {
+      "gualdi_r": "Rbp",
+      "zheng_m": "",
+      "hamada_y": "",
+      "coleman_jr": "",
+      "zaret_k_s_2": ""
+    },
+    {
+      "jung_j_2": "Ttr, Gata4, Hex",
+      "goldfarb_m": "",
+      "zaret_k_s_3": ""
+    },
+    {
+      "rossi_jm": "Rbp",
+      "dunn_r_n": "",
+      "hogan_blm": "",
+      "zaret_k_s_4": ""
+    },
+    {
+      "bort_r": "Hex",
+      "martinez-barbera_jp": "",
+      "beddington_rs": "",
+      "zaret_k_s_5": ""
+    },
+    {
+      "duncan_sa": "Ttr, Gata4, Hex"
+    },
+    {
+      "zaret_k_s_6": "Ttr, Gata4, Hex"
+    }
+  ],
+  "genes": [
+    "GATA6",
+    "AFP",
+    "GATA4",
+    "RBP",
+    "TTR",
+    "FOXA2",
+    "HEX"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

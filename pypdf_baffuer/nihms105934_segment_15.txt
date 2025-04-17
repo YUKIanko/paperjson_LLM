@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Proc. Natl. Acad. Sci. USA", "J. Clin. Invest"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Endothelial-restricted inactivation of Gata4", "Fate mapping", "T2Cre+; R26Rstop lacZ embryos", "Gata4T2del embryos", "E9.5, β-galactosidase reporter expression", "AV cushions", "Outflow cushion", "Endothelial-derived OT cushion mesenchyme", "Myocardium", "Proepicardium"],
+    "software_tools": [],
+    "reagents_chemicals": ["β-galactosidase reporter", "Gata4 exon 2-specific probe", "DAPI counterstain"],
+    "model_organisms": ["control embryos", "mutant embryos"]
+  }
+}

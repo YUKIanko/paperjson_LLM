@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Offield et al., 2000", "Phelps and Brand, 1998", "Wang et al., 1997", "Zhao et al., 2001", "Wang et al., 1994", "Brand, 1995"],
+  "genes": ["GAL4", "ECFP", "UAS-GFP", "EGFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RU486 treatment", "ligand-inducible regulatory system based on a mutated progesterone receptor ligand binding domain"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "progesterone", "ECFP fluorescence", "UAS-GFP gene transcription", "EGFP (Clontech)"],
+    "model_organisms": ["Xenopus tropicalis"]
+  }
+}

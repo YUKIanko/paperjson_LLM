@@ -1,0 +1,56 @@
+{
+  "title": "Abnormalities of the Genitourinary Tract in Female Mice Lacking GATA5",
+  "authors": [
+    "JEFFERY D. MOLKENTIN",
+    "KEVIN M. TYMITZ",
+    "JAMES A. RICHARDSON",
+    "ERIC N. OLSON"
+  ],
+  "references": [],
+  "genes": [
+    "GATA1",
+    "GATA2",
+    "GATA3",
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "University of Texas Southwestern Medical Center at Dallas",
+      "Children’s Hospital Medical Center",
+      "Cincinnati, Ohio"
+    ],
+    "experimental_methods": [
+      "Southern blotting",
+      "electroporation",
+      "RT-PCR mRNA quantitation",
+      "hybridization",
+      "RT-PCR",
+      "RT-PCR",
+      "Southern blotting",
+      "PhosphorImager analysis",
+      "Histology"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Geneticin",
+      "Fialuridine (FIAU)",
+      "NotI",
+      "KG-1 embryonic stem (ES) cell line",
+      "C57BL/6 blastocysts",
+      "some-associated protein L7",
+      "[a-32P]dCTP",
+      "10% buffered formalin",
+      "hematoxylin and eosin"
+    ],
+    "model_organisms": [
+      "mouse",
+      "zebra fish",
+      "mice",
+      "mouse",
+      "C57BL/6",
+      "Sv 129"
+    ]
+  }
+}

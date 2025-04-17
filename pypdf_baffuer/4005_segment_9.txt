@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Zhao et al., 2005", "Peterkin et al., 2003"],
+  "genes": ["GATA6", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid complementation approach", "morpholino", "transgenic embryos", "cmlc2 :GFP fish", "gata6:GFP transgenic embryos"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino for blocking GATA6", "GFP (Green Fluorescent Protein)"],
+    "model_organisms": ["mouse embryos", "zebrafish embryos"]
+  }
+}

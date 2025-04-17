@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kinoshita et al., 1995", "Yabe et al., 2003", "Yokota et al., 2003", "LaBonne and Whitman, 1997", "Faure et al., 2000", "Whitman, 2001"],
+  "genes": ["XCR1", "Xnr1", "Xnr2", "Xnr4", "Xnr5", "Xnr6", "Smad2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Western blotting", "stage injection", "dissected and cultivated", "analysed by Western blotting", "antiphosphorylated Smad2 antibody", "detecting expression of the endogenous XCR1 protein", "overexpression of eFGF"],
+    "software_tools": [],
+    "reagents_chemicals": ["synthetic mRNAs", "morpholinos against XCR1 (MO CR1)", "control morpholino (MO C)", "antiphosphorylated Smad2 antibody", "anti-P-Erk antibody", "eFGF"],
+    "model_organisms": ["Xenopus laevis"]
+  }
+}

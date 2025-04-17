@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Durocher et al. 1997", "Harats et al. 1995", "NEN Life Sciences, Boston", "The Jackson Laboratory Backcross DNA BSB panel (C57BL/6J × Mus spretus)", "http://www.jax.org/resources/documents/cmdata/BSB.htlm"],
+  "genes": ["GATA-5", "ANF", "ET-1"],
+  "proper_nouns": {
+    "institutions": ["The Jackson Laboratory", "NEN Life Sciences, Boston", "Santa Cruz Biotechnology Inc."],
+    "experimental_methods": ["linkage analysis", "genomic DNA digestion", "electrophoresis in 1% agarose gel", "blotted onto a nylon membrane under standard protocols", "polymerase chain reaction (PCR)"],
+    "software_tools": [],
+    "reagents_chemicals": ["radiolabeled probe", "Laemmli buffer", "SDS-PAGE", "Hybond-PVDF membranes", "anti-HA antibody", "32P-dATP random primer-labeled probe", "denatured salmon sperm DNA"],
+    "model_organisms": ["CV1 cells", "Xenopus", "Sprague Dawley rats", "Mus spretus"]
+  }
+}

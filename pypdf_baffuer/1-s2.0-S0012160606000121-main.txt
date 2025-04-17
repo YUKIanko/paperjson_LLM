@@ -1,0 +1,657 @@
+A novel Cripto-related protein reveals an essential role for EGF-CFCs in
+Nodal signalling in Xenopus embryos
+Karel Dorey1, Caroline S. Hill⁎
+Laboratory of Developmental Signalling, Cancer Research UK London Research Institute, 44 Lincoln Ts Inn Fields, WC2A 3PX London, UK
+Received for publication 8 November 2005; revised 28 December 2005; accepted 2 January 2006
+Available online 21 February 2006
+Abstract
+The location, timing and intensity of Nodal signalling are all critical for proper patterning of the vertebrate embryo. Genetic evidence from
+mouse and zebrafish indicates that EGF-CFC family members are essential for Nodal ligands to signal. However, the Xenopus EGF-CFC, FRL1,
+has been implicated in Wnt signalling and in activation of Erk MAP kinase. Here, we identify two additional Xenopus EGF-CFCs, XCR2 and
+XCR3. We have focused on the role of XCR1/FRL1 and XCR3, which are both expressed at gastrula stages when Nodal signalling is active. We
+demonstrate spatial and temporal regulation of XCR1 protein expression, whereas XCR3 appears to be expressed ubiquitously. Using gain andloss of function approaches, we show that XCR1 and XCR3 are required for Nodal-related ligands to signal during early Xenopus development.
+Moreover, different Nodal-related ligands require different XCRs to signal. When both XCR1 and XCR3 are knocked down, activation of the
+Nodal intracellular signal transducer, Smad2, is severely inhibited and neither gastrulation nor mesendoderm formation occurs. Together our
+results indicate that the XCRs are important for modulation of the timing and intensity of Nodal signalling in Xenopus embryos.
+© 2006 Elsevier Inc. All rights reserved.
+Keywords: EGF-CFC; FRL1; Nodal; Smad2; XCR
+Introduction
+Nodal and closely related ligands are members of the
+Transforming Growth Factor- β(TGF- β) superfamily which
+play important roles in vertebrate development required for
+mesoderm and endoderm specification and patterning, for
+promoting gastrulation movements and establishing the left –
+right axis ( Hill, 2001; Whitman, 2001 ). Inhibition of Nodal
+signalling by targeted disruption in mouse, mutation of the twoNodal-related genes cyclops andsquint in zebrafish or use of
+inhibitors such as Lefty or a truncated derivative of Cerberus inXenopus results in defects in the anterior structures, reduced
+mesendoderm and defects in the left –right axis ( Whitman,
+2001 ). Conversely, ectopic expression of Nodal-related genes in
+presumptive ectoderm in Xenopus induces cells to becomemesoderm or endoderm in a dose-dependent fashion ( Schier,
+2003 ).
+TGF-βligands signal by binding a type II serine/threonine
+kinase receptor which then recruits and activates a type Ireceptor. This in turn phosphorylates and activates intracellular
+signal transducers, the receptor-regulated Smads ( Shi and
+Massagué, 2003 ), which, for the Nodal-related ligands, are
+Smad2 and Smad3. These activated Smads form heteromericcomplexes with Smad4, which accumulate in the nucleus and inassociation with specific transcription factors regulate thetranscription of target genes ( Shi and Massagué, 2003 ). In
+contrast to the one or three Nodal-related ligands in mammalsand zebrafish, respectively, there are six Nodal-related ligands
+(Xnr1-6) in Xenopus and a further three functionally related
+ligands: Derrière, Vg-1 and Activin. All but Xnr3 are thought toinduce phosphorylation of Smad2 and Smad3 ( Whitman, 2001 ).
+Genetic data from mice and zebrafish indicate that
+members of the membrane-bound EGF-CFC family areessential for Nodal signalling ( Schier, 2003 ). This family is
+defined by four founding members: mammalian Cripto and
+Developmental Biology 292 (2006) 303 –316
+www.elsevier.com/locate/ydbio
+⁎Corresponding author.
+E-mail address: caroline.hill@cancer.org.uk (C.S. Hill).
+1Current address: Wellcome Trust/Cancer Research UK Gurdon Institute,
+Tennis Court Road, Cambridge CB2 1QN, UK.
+0012-1606/$ - see front matter © 2006 Elsevier Inc. All rights reserved.
+doi:10.1016/j.ydbio.2006.01.006
+Cryptic ( Ciccodicola et al., 1989; Dono et al., 1993 ), zebrafish
+Oep ( Zhang et al., 1998 ) and Xenopus FRL1 (FGF-Related
+Ligand) ( Kinoshita et al., 1995 ). They have an N-terminal signal
+sequence, a variant Epidermal Growth Factor (EGF)-like motif,a novel cysteine-rich domain called the CFC domain (forCripto-FRL1-Cryptic) and a C-terminal hydrophobic regionbearing a glycosylphosphatidylinositol (GPI)-anchor signal(Minchiotti et al., 2000 ). Zebrafish lacking both maternal and
+zygotic Oep activity phenocopy the double mutant for squint
+andcyclops (Gritsman et al., 1999 ). In mouse, cripto , like nodal ,
+is necessary for establishing the anterioposterior axis ( Whitman,
+2001 ) and targeted disruption of cryptic results in defects in
+left–right asymmetry, a process in which Nodal signalling is
+also involved ( Yan et al., 1999 ). Biochemical data indicate that
+Cripto physically interacts with Nodal and ALK4 in 293T cells(Yan et al., 2002 ), with Xnr1 and ALK4 in Xenopus embryos
+(Harms and Chang, 2003 ) and with Nodal or Xnr1 in the context
+of the ALK4/ActRIIB or ALK7/ActRIIB receptor complexes(Cheng et al., 2003; Reissmann et al., 2001; Yeo and Whitman,
+2001 ). This has led to a model in which EGF-CFC family
+members act as coreceptors required for Nodal to bind thereceptor complexes and thus activate downstream Smads.
+In contrast to zebrafish and mouse, there is little evidence that
+theXenopus EGF-CFC family member, FRL1, is linked to
+Nodal signalling ( Gritsman et al., 1999; Tanegashima et al.,
+2004 ). Firstly, it was isolated in a yeast screen as a potential FGF-
+receptor ligand ( Kinoshita et al., 1995 ). Recent work has
+suggested that FRL1 is involved in neural induction through itsability to inhibit the BMP pathway via the activation of Erk MAPkinase signalling ( Yabe et al., 2003 ). Finally, maternal FRL1 can
+interact with Wnt11 to activate the canonical Wnt pathway ( Tao
+et al., 2005 ) and when overexpressed, FRL1 can synergise with
+Xnr3 ( Yokota et al., 2003 ). Thus, it is thought that FRL1 has a
+divergent function to the other EGF-CFC family members.
+Here, we identify two additional EGF-CFC family members
+that are expressed during early Xenopus development. To reflect
+their relationship with other EGF-CFC family members, wepropose to rename FRL1, XCR1, and to name the two newmembers, XCR2 and XCR3 (see also Onuma et al., 2005 ). We
+have studied in detail the function of XCR1 and XCR3, whose
+mRNAs are expressed ubiquitously both maternally and
+zygotically until early neurulation. XCR1 protein expression,in contrast, is temporally and spatially regulated, being primarilyexpressed during gastrula stages in the animal cap and themarginal zone, but not in the vegetal region. Using bothbiochemical and embryological approaches and synergy andloss of function experiments, we demonstrate that XCR1 andXCR3 are essential for Nodal signalling in Xenopus .
+Materials and methods
+Cloning of Xenopus EGF-CFC family members and other constructs
+XCR1 αwas isolated from a stage 10 Xenopus cDNA library in λZAPII by
+PCR and cloned into pFTX4K, a derivative of pFTX5 ( Howell and Hill, 1997 ).
+The XCR1 αsequence is identical to the published sequence ( Kinoshita et al.,
+1995 ) but for one substitution (C184G) (accession number: AJ864897). Full-length XCR1 αwas used as a probe to screen the cDNA library, which resulted in
+the isolation of the XCR1 pseudo-allele (XCR1 β, accession number:
+AJ864898).
+XCR2 (accession number: AJ864899) and XCR3 were both isolated from the
+cDNA library by PCR and were cloned into pFTX4K. XCR3 has two splice
+forms: XCR3short andXCR3long , which has an insertion of 72 amino acids after
+Thr 22 (accession numbers: AJ864900 and AJ864901). The construct UTR-
+XCR3short contains 45 nucleotides of 5 ′UTR and the coding sequence of
+XCR3short cloned into pFTX4K.
+Xnrs 4 ,5and6were subcloned into pFTX4K, and the following constructs
+have been described: Xnr1 ,Xnr2 ,mActivin βAandeFGF in pSP64T ( Jones et al.,
+1995; Schulte-Merker and Smith, 1995 );Xnr3 andDerrière in pCS2+ ( Smith et
+al., 1995; Sun et al., 1999 ).
+Embryo manipulations, synthetic mRNA, morpholino injections and in
+situ hybridisation
+Fertilisation, culture, staging, preparation of synthetic mRNAs for injection
+and microinjection of Xenopus embryos were performed as described ( Howell
+and Hill, 1997 ). The quantity of synthetic mRNA encoding the Nodal-related
+ligands injected at the 1-cell stage was the lowest quantity capable of inducing a
+detectable signal on a Western blot using the antiphosphorylated Smad2antibody at stage 8 or 10 (for Derrière). The amounts used were: 125 pg of Xnr1 ,
+20 pg of Xnr2 , 1 ng of Xnr3 , 100 pg of Xnr4 ,4 0p go f Xnr5 , 500 pg of Xnr6 ,2 0
+pg of Activin βAand 1 ng of Derrière . For XCR1 ,XCR3 andGFP, 250 pg of
+synthetic mRNA was injected and for eFGF , 1 ng.
+Morpholino oligonucleotides (Gene Tools LLC) designed for XCR1 were:
+MO XCR1.1, 5 ′CAAGAAATCTTAAAAACTGCAT3 ′(which targets both
+alleles), MO XCR1.2, 5 ′AAACTGCATTGTTTTCTGCAAAGGC3 ′(which
+targets XCR1 α)(Yabe et al., 2003 ), and MO XCR1.3, 5 ′ATTTAATGTGTCCT-
+CAGCAAAAGCC3 ′(which targets XCR1 β). For the experiments in Fig. 2 ,a
+mixture of MO XCR1.1 and MO XCR1.2 was injected; for the experiments in
+Fig. 5 , a mixture of MO XCR1.2 and MO XCR1.3 was injected. The latter
+combination does not inhibit the translation of the mRNA synthesised frompFTX4K XCR1 α. For XCR3, two morpholinos were designed and injected
+together: 5 ′CATGGCACAGTCCTGCTCCAACTAA3 ′and 5 ′CCAGAC-
+CATGGCACAGTCCTGCTCC3 ′. The morpholino control was as described
+(Howell et al., 2002 ). 40 ng of morpholinos was injected per embryo at the 1-cell
+stage.
+In situ hybridisation was as described ( Harland, 1991 )w i t hm i n o r
+modifications. Antisense probes for Xnot (Gont et al., 1993 ),N-tubulin
+(Oschwald et al., 1991 )Xbra ,Mixer andXFKH1 (
+Howell et al., 2002 ) were
+labelled with digoxigenin-UTP (Roche).
+RNase protection assay
+Isolation of total RNA from Xenopus embryos, RNase protection assays and
+theEF-1αandFGF-R probes were as described ( Howell et al., 1999 ). Other
+antisense probes protected nucleotides encoding the following: XCR1 , amino
+acids 1 –123; XCR2 , amino acids 1 –106; XCR3 , amino acids 88 –161 of
+XCR3short and 160 –251 of XCR3long , resulting in a single protected fragment.
+Antibodies, protein extracts and Western blotting
+Peptides corresponding to amino acids 63 –79 of XCR1 and 57 –73 of XCR3
+were used to generate rabbit antisera against XCR1 and XCR3, respectively.IgGs were precipitated from total sera with caprylic acid and affinity purified.
+Other antibodies used were: antiphosphorylated Smad2, antiphosphorylated
+Smad1 and anti-Erk (p42/44) (Cell Signalling Technology); antiphosphorylatedErk (clone YT, Sigma); anti-Smad2 and anti-E-cadherin (BD Biosciences) andanti-Smad1 (MADR1, Upstate Technology).
+Total cell extracts were prepared by lysing embryos or animal caps in
+lysis buffer (20 mM Tris pH 8; 2 mM EDTA pH 8; 1 mM EGTA pH 8; 0.5%NP-40; 25 mM β-glycerophosphate; 100 mM NaF; 20 nM Calyculin A; 100
+mM pyrophosphate and proteases inhibitors). For XCR1 and XCR3 blots,
+total protein extracts were treated for 1 h at 37°C with PNGase F (New
+England Biolabs). The equivalent of one embryo or 10 animal caps was304 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+fractionated on an SDS-polyacrylamide gel. After electrophoresis, proteins
+were transferred to PDVF membrane (Millipore) and immunoblotted usingstandard techniques. The antiphosphorylated Smad2 signals were quantifiedby gel densitometry using ImageJ and normalised to the total amount of
+Smad2. The fold activation corresponds to the ratio with/without XCR1
+overexpression for each ligand whereas the repression corresponds to the ratioof phosphorylated Smad2 when XCR expression is impaired/not impaired by
+morpholino injection.
+Results
+Analysis of the temporal expression of XCR1 mRNA and
+protein
+XCR1 mRNA is expressed maternally and zygotically until
+the end of gastrulation (stage 12.5) and then rapidly disappearsat early neurula stages ( Fig. 1 A). The relative expression level
+ofXCR1 was determined by normalising to the expression of
+theFGF-receptor . The amount of XCR1 mRNA remains
+constant until the late blastula stage (stage 9) and then increases2.5-fold at mid-gastrulation. After which, XCR1 mRNA starts to
+disappear and is absent by stage 16 ( Fig. 1 A).
+XCR1 protein was detected using a rabbit polyclonal
+antibody raised against an XCR1 peptide. To aid visualisationof XCR1, the protein extracts were treated or not with PNGase F,
+which removes N-linked sugars from glycosylated proteins. The
+anti-XCR1 antibody recognised the overexpressed protein ( Fig.
+1B, right panel), which migrates at 26/17 kDa before and afterPNGase F treatment, respectively. A similar pattern of bands was
+observed in extracts from uninjected embryos, demonstratingthat the antibody recognises the endogenous protein. XCR1protein was detected only at very low levels maternally, itsexpression increased during blastula stages, when levels ofmRNA were constant, and peaked at gastrula stages beforerapidly disappearing at stage 12 ( Fig. 1 B). This pattern of protein
+expression differs from that of XCR1 mRNA expression and
+indicates that, at blastula stages, expression of XCR1 must be
+regulated post-transcriptionally. Because the XCR1 proteinexpression pattern correlates with the temporal pattern of Smad2activation in Xenopus embryo ( Whitman, 2001 ), we investigated
+whether it was involved in Nodal signalling.
+XCR1 synergises with a subset of Nodal-related ligands in
+early Xenopus embryos
+InXenopus , there are nine Nodal-related ligands, but when
+this study was done, Vg-1 was thought not to be correctlyproessed and active in Xenopus embryos ( Birsoy et al., 2005 )s o
+we did not study it further. For the other eight ligands, we injected1-cell embryos with a dose of synthetic mRNA sufficient toinduce only a low level of Smad2 phosphorylation and askedwhether overexpression of XCR1 could potentiate the activity of
+the ligands. The embryos were harvested at stage 8 when there is
+no phosphorylation of Smad2 by endogenous ligands ( Fig. 2 A,
+UI). XCR1 alone did not induce phosphorylation of Smad2.
+Fig. 1. The temporal expression of XCR1 during embryogenesis. (A) Temporal expression of XCR1 mRNA in staged embryos assayed by RNase protection. Levels of
+expression were quantified by Phospho-Imager and normalised to FGF-R expression. The results are the mean and standard deviation of three independent
+experiments. tRNA lane, negative control. (B) The temporal expression of XCR1 protein. Total protein extracts from staged embryos (left panel) or fr om embryos
+injected with synthetic mRNA encoding XCR1 (right panel) were treated (+) or not ( −) with PNGase F and the expression of XCR1 was detected by Western blot
+analysis using the anti-XCR1 antibody. The arrows indicate the position of migration of XCR1 ± treatment with PNGase F. The molecular weights (kDa) of markers
+are indicated.305 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+However, XCR1 potentiated the signalling activity of Xnr1,
+Xnr2, Xnr5 and Xnr6, but did not synergise with Xnr3, Xnr4,Activin or Derrière ( Fig. 2 A). Derrière is only active from stage 9
+onwards ( Lee et al., 2001 ) but we could not detect any synergybetween Derrière and XCR1 even at later stages (data not
+shown). Xnr3 did not induce phosphorylation of Smad2 at anydose, although it was functional as it induced expression ofNCAM in animal caps (data not shown) ( Hansen et al., 1997 ).
+Fig. 2. XCR1 is necessary for signalling by some, but not all Nodal-related ligands (A). Embryos were injected at the 1-cell stage with the indicated sy nthetic mRNAs;
+UI denotes uninjected. Der, Derrière; Act, Activin. Embryos were harvested at stage 8 and protein extracts analysed by Western blotting (left panel) , detecting activated
+Smad2 with the antiphosphorylated Smad2 antibody ( α-PS2). The membrane was stripped and reprobed with the anti-Smad2 antibody ( α-S2) as a loading control. For
+Smad2 and P-Smad2, the upper band is full-length Smad2 and the lower one is a spliced variant lacking exon 3 ( Faure et al., 2000 ). Expression of injected XCR1
+mRNA was confirmed using the anti-XCR1 antibody. The histogram shows the quantification of three independent experiments (mean ± standard deviatio n). (B)
+Embryos were injected at the 1-cell stage with synthetic mRNAs encoding Nodal-related ligands as in panel A together with 40 ng of morpholino control ( MO C) or 40
+ng of morpholinos against XCR1 (MO CR1). Animal caps were dissected at stage 8 and harvested when sibling embryos reached stage 10. Total protein extra cts were
+analysed by SDS-PAGE and Western blotted with the indicated antibodies (left panel). The histogram shows the quantification of three independent ex periments
+(mean ± standard deviation). In the histograms in panels A and B, the dotted line indicates a level of 1, corresponding to no activation or repression, r espectively. (C)
+Embryos were injected at the 1-cell stage with morpholinos or synthetic mRNA encoding eFGF or XCR1 and harvested at stages 8, 9 or 10. Total protein extr acts were
+analysed by SDS-PAGE and Western blotted for activated Erk ( α-PErk, upper panel). Equal loading was confirmed by reprobing the same membrane with an anti-Erk
+antibody ( α-Erk, middle panel) and expression and knockdown of XCR1 were confirmed with the anti-XCR1 antibody (lower panel).306 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+XCR1 is required for signalling by a subset of Nodal-related
+ligands in early Xenopus embryos
+Having established that XCR1 specifically synergises with a
+subset of Nodal-related ligands to activate Smad2, we nextinvestigated the requirement of endogenous XCR1 for signal-ling by Nodal-related ligands. We designed a combination ofmorpholinos which targeted both XCR1 pseudo-alleles. Em-
+bryos were injected at the 1-cell stage with synthetic mRNAs
+encoding the eight different Nodal-related ligands with eitherthe control morpholino (MO C) or morpholinos against XCR1(MO CR1). At stage 8, animal caps were dissected andcultivated until sibling embryos reached stage 10 and were thenanalysed by Western blotting using the antiphosphorylatedSmad2 antibody ( Fig. 2 B). The efficacy of the morpholinos was
+assessed by detecting expression of the endogenous XCR1
+protein in embryos injected with MO C or with MO CR1. MO C
+did not affect the expression of XCR1, but the injection of MOCR1 severely impaired translation of the endogenous XCR1gene ( Fig. 2 B, lower panel of blots). The knockdown of
+endogenous XCR1 by the morpholinos had a significant effecton the ability of Xnr1, Xnr2, Xnr4, Xnr5 and Xnr6 to activateSmad2. Knockdown of XCR1 had no effect on the signallingactivity of Derrière, Activin or Xnr3 ( Fig. 2 B). Similar results
+were obtained when whole embryos at stage 8 were assayed
+instead of animal caps (data not shown). This indicates that theeffects are direct.
+Both gain and loss of function experiments thus show that
+XCR1 is not involved in signalling by Xnr3, Activin andDerrière, but is required for Xnr1, 2, 4, 5 and 6 to be fully active.
+Loss or gain of function of XCR1 has no effect on the Erk
+signalling pathway
+Having demonstrated that XCR1 acts upstream of Smad2,
+we investigated its possible involvement in the Erk pathway, asprevious work has implicated XCR1 in this pathway ( Kinoshita
+et al., 1995; Yabe et al., 2003; Yokota et al., 2003 ). Extracts
+were prepared from embryos at stages 8, 9 and 10 injected withMO CR1, MO C or synthetic RNA encoding XCR1 or a strong
+activator of the Erk pathway, eFGF ( LaBonne and Whitman,
+1997 ). Activation of the Erk pathway was assessed by Western
+blotting with an anti-P-Erk antibody ( Fig. 2 C). Whole embryos
+were used, as opposed to explants, in order to avoid woundingeffects known to activate the Erk MAPK pathway ( LaBonne
+and Whitman, 1997 ). Overexpression of eFGF potently
+activated Erk phosphorylation at all three stages. However,neither overexpressing nor knocking down XCR1 had any
+effect on Erk phosphorylation at any of the stages assayed,
+suggesting that XCR1 is not involved in Erk signalling.
+XCR1 is expressed in the animal cap and the marginal zone,
+but not in the vegetal pole of gastrulating embryos
+The Smad2 pathway is activated dynamically in a spatially
+regulated fashion. Phosphorylated Smad2 first appears in the
+marginal zone at stage 8.5. By stage 9.5, it is predominantlypresent in the dorsal marginal zone (DMZ) and in the vegetal
+pole (VP), then becomes restricted to the ventral/vegetal side ofthe embryo ( Faure et al., 2000; Whitman, 2001 ).
+We investigated whether XCR1 mRNA and protein are
+expressed in stage 10 –10.25 embryos where Smad2 activation
+is detected. Embryos were dissected into animal caps (AC),marginal zones (MZ), vegetal poles (VP), dorsal and ventralhalves (D and V, respectively), using expression of Sox17 α
+(predominantly localised to the vegetal pole) ( Hudson et al.,
+1997 ) and Xbra (enriched in the marginal zone) ( Smith et al.,
+1991 ) as controls for the dissection. XCR1 mRNA is present
+throughout the embryo at this stage and when the levels ofmRNA were quantitated and normalised to EF-1 α, the ratio was
+approximately constant ( Fig. 3 A, data not shown). We then
+assessed the regional expression of XCR1 by Western blottingprotein extracts from stage 10 –10.25 embryos dissected exactly
+as for the RNase protection assay. XCR1 protein is present both
+in dorsal and ventral halves at similar levels. It is also present inthe animal cap and the marginal zone, but is not detectable in thevegetal pole ( Fig. 3 B, upper panel). E-cadherin (the loading
+control) is detectable in all samples ( Fig. 3 B, lower panel)
+demonstrating that membrane proteins have been extracted. Wecompared the expression pattern of XCR1 with the distributionof phosphorylated Smad2 ( Fig. 3 C). Smad2 is expressed
+throughout the embryo and is phosphorylated both in the dorsal
+and ventral halves and in the marginal zone and strongly in thevegetal pole, but not in the animal cap ( Fig. 3 C).
+These data indicate that the pattern of expression of XCR1
+protein only partially overlaps with the expression of XCR1
+mRNA, suggesting a spatial regulation of XCR1 expression.We have established above that XCR1 is required for signallingby a subset of Nodal ligands. Since Smad2 is strongly activated
+in the vegetal region of the embryo in the absence of detectable
+levels of XCR1, it is unlikely that XCR1 is responsible for
+regulating Nodal signalling there. However, in the marginalzone, expression of XCR1 does correlate with the presence ofphosphorylated Smad2, suggesting a role for XCR1 in Nodalsignalling in this region of the embryo.
+Identification of two new EGF-CFC family members
+expressed in Xenopus embryos
+Since XCR1 can only synergise with a subset of Nodal-
+related ligands, and Smad2 is activated in a region of theembryo where XCR1 is not detectable, we looked for otherEGF-CFC family members in Xenopus embryos, and identified
+two new family members in EST databases, which we havenamed XCR2 and XCR3 ( Fig. 4 A). We isolated two isoforms of
+XCR3 by PCR, XCR3short (XCR3s) and XCR3long (XCR3l),
+which differ by an additional 72 amino acids in the N-terminalpart of the protein. The different EGF-CFC family membersshare approximately 30% identity overall, but more than 65%identity in the EGF-like domain and more than 40% in the CFCdomain. They are no more obviously related to Cripto than toCryptic (Fig. S1).
+XCR2 mRNA is expressed at an extremely low level
+maternally. Zygotic expression of XCR2 starts at stage 12.5 at307 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+the beginning of neurulation, increases until stage 20 and
+remains constant thereafter ( Fig. 4 B, upper panel). The pattern
+of expression of XCR3 mRNA, in contrast, is similar to that of
+XCR1 . Using an RNase protection probe that detects both
+XCR3s and XCR3l mRNAs, and normalising to FGF-R
+expression, we showed that XCR3 is expressed at a constant
+level maternally and zygotically until mid-gastrula (stage 10.5;Fig. 4 B, middle panel) and then is reduced by 80% by stage 14.
+The same kinetics were observed using probes specific forXCR3s and XCR3l (data not shown). As for XCR1 ,XCR3
+mRNA is present throughout the embryo at stage 10 –10.25
+(Fig. S2).
+XCR3 is required for signalling by a subset of Nodal-related
+ligands in early Xenopus embryos
+Since we were primarily interested in the role of EGF-CFC
+family members in Nodal signalling during gastrulation, wefocused on XCR3, which is expressed at this stage. We producedan antibody that recognises both XCR3l and XCR3s. XCR3l
+migrates at 35/28 kDa and XCR3s at 27/20 kDa before and afterPNGase F treatment, respectively (Fig. S3). Unfortunately, we
+were not able to detect endogenous XCR3 in total Xenopus
+embryo extracts, possibly because the antibody is not sensitiveenough or because endogenous XCR3 is present only at low
+levels. However, we designed morpholinos that could specifi-
+cally prevent the translation of a synthetic mRNA containing the5′UTR and the coding sequence of XCR3s (Fig. S3).
+We investigated the role of XCR3 in Nodal signalling,
+performing both synergy and knockdown experiments as wehad done for XCR1. We were unable to demonstrate synergybetween XCR3 and any of the eight Nodal-related ligands (datanot shown), possibly because there is already sufficient XCR3
+in the embryo for the ligands to signal efficiently. However, we
+could demonstrate a requirement for XCR3 for signalling by asubset of Nodal-related ligands in knockdown experiments.Knockdown of XCR3 impaired the ability of Xnr1, Xnr2, Xnr4,Xnr6 and Derrière to activate Smad2, but had no effect on thesignalling activity of Xnr3, Xnr5 and Activin ( Fig. 4 C). The
+same results were obtained in extracts from stage 8 embryos,suggesting a direct effect of XCR3 knockdown (data not
+shown).
+Fig. 3. Spatial expression pattern of XCR1 mRNA and protein. Whole embryos (WE), dorsal halves (D), ventral halves (V), animal caps (AC), marginal zon es (MZ)
+and ventral poles (VP) were harvested at stage 10 –10.25 to (A) analyse the expression of XCR1 mRNA and (B) analyse the expression of XCR1 protein. In panel A,
+total RNA was purified and XCR1 expression was assayed by RNase protection assay. EF-1αwas used as a loading control. In panel B, total protein extracts were
+treated ± PNGase F prior to analysis by SDS-PAGE. XCR1 protein was detected using the anti-XCR1 antibody. The two arrows indicate the position of XCR1 p rotein.
+E-cadherin was used as a loading control. (C) Total protein extracts not treated with PNGase F as in panel B were analysed for the distribution of activa ted Smad2 by
+Western blotting using the antiphosphorylated Smad2 antibody ( α-PS2) and for the distribution of Smad2 using the anti-Smad2 antibody ( α-S2).308 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+XCR1 and XCR3 are therefore required for signalling by a
+partially overlapping subset of ligands. Xnr5 signalling
+specifically requires XCR1 and signalling by Derrière specif-
+ically requires XCR3. Xnr1, Xnr2, Xnr4 and Xnr6 require bothXCR1 and XCR3 to signal efficiently.
+XCR1 and XCR3 are necessary for full activation of the Smad2
+pathway
+To assess the role of XCR1 and XCR3 on signalling by
+endogenous Nodal-related ligands, embryos were injected at the1-cell stage with morpholinos against XCR1 (CR1), morpho-
+linos against XCR3 (CR3), a combination of morpholinos
+against both XCRs (CR1 + CR3) or the morpholino control
+(MO C). At stage 9, depletion of XCR1 or XCR3 individuallyhad no effect, but knockdown of both had a small, butreproducible effect on the phosphorylation of Smad2 ( Fig. 5 A,
+upper panel). At stage 10, knockdown of XCR3 had a smalleffect on Smad2 phosphorylation compared to embryos injectedwith MO C and impairing expression of both XCR1 and XCR3had a strong effect on the activation of the Smad2 pathway. At
+stage 10.5, embryos injected with MO CR3 failed to fully
+Fig. 4. Characterisation of two new EGF-CFC family members in Xenopus embryos. (A) Sequence analysis of XCR2 and XCR3. The sequences of XCR1, XCR2,
+XCR3 and mCripto were aligned. Conserved residues are marked with (*) and the identical residues with (|). The EGF-like domain and the CFC domain are in dicated
+(black and grey line, respectively). (B) Kinetics of expression of XCR2 andXCR3 during Xenopus embryogenesis. Total RNA purified from staged Xenopus embryos
+was assayed for the presence of XCR2 , both splice variants of XCR3 or the FGF-Receptor (FGF-R ) mRNA as loading control by RNase protection. (C) Embryos were
+injected at the 1-cell stage with synthetic mRNAs encoding Nodal-related ligands as in Fig. 2 together with 40 ng of morpholino control (MO C) or a combination of
+the two morpholinos against XCR3 (MO CR3) or were uninjected (UI). Der, Derrière; Act, Activin. Animal caps were dissected at stage 8 and harvested whe n sibling
+embryos reached stage 10. Total protein extracts were analysed by SDS-PAGE and Western blotted with the indicated antibodies (left panel). The histo gram shows the
+quantification of three independent experiments (mean ± standard deviation). The dotted line indicates a level of 1, corresponding to no repression .309 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+Fig. 5. The role of XCR1 and XCR3 in endogenous signalling by Nodal-related ligands. (A –D) Embryos were injected at the 1-cell stage with a total of 40 ng of the
+indicated morpholinos alone, or with 250 pg synthetic mRNA encoding XCR1 and/or XCR3 which are resistant to the morpholinos. Embryos were harvested a t the
+indicated stage and total protein extracts were analysed by SDS-PAGE and Western blotted with the indicated antibodies. (A) XCR1 and XCR3 are require d for full
+activation of the Smad2 pathway but not the Smad1 and Erk pathways. (B) Overexpression of XCR1 and XCR3 rescues the effect of the morpholinos. The aster isk
+indicates a background band that comigrates with overexpressed XCR3. (C) XCR3, but not XCR1, is necessary for Smad2 activation in the vegetal pole. Em bryos
+were injected as above, but also with synthetic mRNA encoding GFP as a tracer. At stage 10, marginal zones and vegetal poles of GFP-positive embryos wer e dissected
+and harvested. (D) XCR1 or XCR3 rescues loss of Smad2 phosphorylation in the vegetal pole. Embryos were injected as in panel C and dissected and harvest ed at
+stage 10.310 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+Fig. 6. Phenotype of XCR1 and XCR3 morphants. Embryos were injected at the 1-cell stage with a total of 40 ng of the indicated morpholinos and mRNAs toget her
+with GFP mRNA as a tracer. (A) Depletion of XCR1 or XCR3 or both impairs gastrulation. GFP positive embryos were sampled when MO C-injected embryos
+reached stage 11. (B) Expression of XCR1 and XCR3 rescues the phenotype of embryos depleted for XCR1 and XCR3. (C) Only XCR1 morphants develop further
+than gastrulation. Embryos were injected as in panel A and scored for survival. (D) Phenotype of XCR1 morphants at neurula stages (stage 16, upper pane ls) and
+tailbud stages (stage 45, lower panels). (E and F) Whole-mount in situ hybridisation analysis of the expression of mesendodermal markers ( XFKH1 ,Xnot,Xbra and
+Mixer ) or the neuronal marker ( N-tubulin ) at stage 10.5 (E) and stage 16 (F). Pictures show a vegetal view of embryos at stage 10.5 and 11; for stage 16 embryos, dorsal
+view with anterior up and for tailbud, lateral view.311 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+activate Smad2 to almost the same extent as embryos injected
+with MO CR1 + CR3 ( Fig. 5 A, upper panel), suggesting that by
+stage 10.5 most of the endogenous ligands are XCR3-dependentrather than XCR1-dependent.
+We also investigated whether XCR1 and/or XCR3 are
+involved in the Smad1 or the Erk pathways ( Fig. 5 A). Injection
+of morpholinos against XCR1 and XCR3, individually ortogether, had no effect on the activation of the Smad1 or the Erk
+pathways, indicating that these EGF-CFC family members are
+specific for the Smad2 pathway in Xenopus embryos. The
+effects of the morpholinos are specific as coinjection ofsynthetic mRNAs encoding XCR1 and XCR3 which areresistant to the morpholinos rescued the loss of phosphorylatedSmad2 ( Fig. 5 B).
+XCR3 is necessary for Smad2 activation in the vegetal region
+We next investigated the contribution of XCR1 and XCR3
+to Nodal signalling in different regions of the embryo, inparticular assessing whether XCR3 is active in the vegetalregion. Embryos were injected as indicated in Fig. 5 A
+together with a synthetic mRNA encoding GFP and weselected only the GFP-posi tive embryos. At stage 10,
+knockdown of XCR1 or XCR3 individually or together had
+a strong effect on the activation of Smad2 in the marginal
+zone, which could be rescued by the expression of XCR1 andXCR3 ( Fig. 5 C, left panel). In the vegetal pole, knockdown
+of XCR1 had no effect on Smad2 phosphorylation asexpected, but the injection of MO CR3 substantiallydecreased Smad2 phosphorylation, showing that XCR3protein is present and necessary for Nodal signalling in thevegetal pole. This effect was specific as it could be rescued
+by expression of XCR1 and XCR3 ( Fig. 5 C, right panel).
+Interestingly, either XCR1 or XCR3 can rescue the loss ofSmad2 phosphorylation in the vegetal pole, suggesting thatXCR1-dependent ligand(s) is/are functional in this region, butbecause XCR1 is not normally expressed there, they mightnot be fully active ( Fig. 5 D).
+Thus, both XCR1 and XCR3 are involved in endogenous
+Nodal signalling in gastrulating embryos. XCR1 activity is
+restricted to the marginal zone, but XCR3 is active both in the
+marginal zone and the vegetal pole.
+Downregulation of XCR1 and/or XCR3 expression impairs
+Xenopus development
+Having established the role of XCR1 and XCR3 in the
+activation of the Nodal/Smad2 pathway during gastrulation, we
+then analysed the phenotype of XCR1 and/or XCR3 morphants
+(Fig. 6 ).Table 1 summarises three independent experiments.
+Depletion of XCR1 alone does not inhibit the formation of
+the blastopore lip, although it delays its formation. XCR3morphants in contrast have a much stronger phenotype. Theblastopore lip failed to form in 32% of the embryos. In 45% ofthe XCR3 morphants, the formation of the lip was severelydelayed, misplaced and did not close. Embryos depleted of
+both XCR1 and XCR3 exhibited an even stronger phenotypeand 78% of them had no blastopore lip and did not gastrulate.
+These results suggest that XCR1 does play a role duringgastrulation but its function is partially redundant with that ofXCR3 at this stage. These effects are specific, as the MO C-injected embryos develop as the uninjected embryos. More-over, the phenotype of the XCR1 + XCR3 morphants can berescued by the expression of XCR1 and XCR3 in 85% of the
+embryos ( n= 62, Fig. 6 B).
+As most of the XCR3 and XCR1 + XCR3 morphants do not
+gastrulate and subsequently die ( Fig. 6 C), we only studied the
+phenotype of XCR1 morphants at later stages. At neurulastages, embryos depleted for XCR1 lacked almost all theanterior neural structures and failed to close their neural tube(Fig. 6 D, upper panels). This phenotype is also evident at the
+tailbud stage when XCR1 morphants have reduced anterior
+structures (most noticeably the eye) and reduced neural crestTable 1
+Phenotypes of embryos injected with MOs against XCR1 and/or XCR3
+Stage 11aWild type (%) Weak (%) Medium (%) Strong (%)
+MO CR1
+(n= 191)05 2 3 5 1 3
+MO CR3
+(n= 175)02 3 4 5 3 2
+MO CR1 +
+CR3
+(n= 268)0 0 22 78
+MO C
+(n= 166)83 15 0 2
+UI (n= 240) 95 5 0 0
+Stage 14bWild type (%) Anterior
+defect
+(%)Neural
+tube
+closure (%)Gastrulation
+defects (%)Death
+(%)
+MO CR1
+(n= 191)4 51 n/a 13 32
+MO CR3
+(n= 175)0 17 34.5 11.5 52
+MO CR1 +
+CR3
+(n= 268)0 4.5 3 26 68
+MO C
+(n= 166)76.5 0 0 15.5 8
+UI (n= 240) 85.5 0 0 8.5 6
+Stage 45cWild type (%) Anterior
+defect
+(%)Size (%) Other (%)
+MO CR1
+(n= 89)88 6 6 46
+MO C
+(n= 132)81 6 0 13
+UI (n= 205) 91 0 0 9
+aStrong, no blastopore; medium, blastopore not closed and lip defects; weak,
+wider blastopore, embryos developmentally delayed.
+bAnterior defect, lack of anterior structures and open neural tube; gastrulation
+defects, failure to close the blastopore; death, embryos degenerated.
+cPhenotypes for embryos injected with MO CR3 and MO CR1 + CR3 are not
+included at this stage as most of them do not survive; anterior defect, lack of
+anterior structures and eyes reduced; size, reduced length compared with
+uninjected (UI) or MO C embryos.312 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+derivatives. These embryos were overall shorter compared to
+controls ( Fig. 6 D, lower panels).
+Because XCR1 and XCR3 morphants have gastrulation
+defects, we investigated the expression patterns of mesendo-dermal markers by whole-mount in situ hybridisation ( Fig. 6 E).
+At mid-gastrula stages, the expression of dorsal mesendodermalmarkers such as XFKH1 ,Xnot,Xbra andMixer was reduced in
+both XCR1 and XCR3 morphants and totally absent in the
+double morphants. The ability of Xnr1 to induce mesendodermal
+markers in animal caps was also impaired by knocking down theexpression of XCR1 and XCR3 (Fig. S4). At later stages,embryos deficient in XCR1 exhibited a strong neuronal defect,and we found that they showed a downregulation of the neuralmarker N-tubulin (Fig. 6 F, upper panels) but not of the posterior
+mesodermal marker, Xnot (Fig. 6 F, lower panels). In contrast, the
+few XCR3 morphants surviving to neurula stages showed a
+reduced expression of Xnot, but not of N-tubulin (Fig. S5).
+Altogether, these results show that XCR3 is required for the
+specification of the mesendoderm at gastrula stages, but doesnot seem to play a role in the neural specification. In contrast,XCR1 is not essential for the gastrulation to occur, possiblybecause of redundancy with XCR3, but plays an important rolein the formation of anterior and neural tissues.
+Discussion
+The EGF-CFC family in Xenopus embryos
+Here, we show that at least three EGF-CFC family members
+are expressed during early Xenopus development, which are well
+conserved in the EGF-like and CFC domains. XCR1 is cleavedboth at the N- and C-termini (our unpublished data) suggesting
+that it is GPI-linked and expressed at the cell surface as has been
+reported for hCripto ( Minchiotti et al., 2000 ). In addition, the
+change in mobility after PNGase F treatment of endogenousXCR1, as well as all XCRs when overexpressed, demonstratesthat these proteins are N-glycosylated in Xenopus embryos.
+Human Cripto has also been shown to be O-fucosylated on Thr
+88 and this is essential for its activity ( Schiffer et al., 2001 ). The
+fucosylation site is conserved in all three XCRs, but we do not
+know yet whether Xenopus EGF-CFCs are fucosylated.
+XCR1 mRNA is expressed ubiquitously throughout the
+embryo up until stage 14. However, using an antibody whichrecognises the endogenous protein, we show that XCR1 is onlyvery weakly expressed maternally. Its expression increasesduring blastula stages, at a time when mRNA levels areconstant, to peak at stage 11. XCR1 protein then disappearsrapidly and is not detectable after stage 12. Thus, the protein
+levels are temporally regulated independently of the mRNA
+levels. Furthermore, the protein is present only in the animal capand the marginal zone of stage 10 embryos and is absent fromthe vegetal pole, whereas the mRNA is ubiquitously expressed.Several possible mechanisms could explain these results. Thestability of the protein could be regulated temporally andspatially. We cannot completely rule this out, but believe it isunlikely because upon synthetic mRNA injection, XCR1 is
+expressed as early as stage 4, indicating that the protein isprobably stable at these early stages (our unpublished data).
+Another possibility that is currently under investigation, is thatXCR1 mRNA is subject to translational control. Indeed, in
+Xenopus , polyadenylation of some mRNAs has been shown to
+be regulated during development ( Simon and Richter, 1994 ). It
+is possible that expression of XCR3 is also regulated spatiallyand temporally, but we have been unable to address this as wecould not detect endogenous XCR3 with our antibody.
+EGF-CFC family members act as coreceptors for Nodal in
+Xenopus embryos
+Here, we demonstrate that Nodal-related ligands in Xenopus
+embryos require members of the EGF-CFC family to signal. Byperforming both gain and loss of function experiments, we haveshown that the requirement of the different Xenopus Nodal-
+related ligands for EGF-CFCs is not identical. Xnr5 signalling is
+dependent only on XCR1, Derrière signalling requires onlyXCR3 and maximal signalling by Xnr1, 2, 4 and 6 requires bothXCR1 and XCR3 ( Fig. 7 A). Xnr3 does not activate Smad2
+under any condition tested. We also found that Activin signalsindependently of XCRs, which is consistent with previouspublished observations in zebrafish ( Gritsman et al., 1999 ).
+Knockdown of both XCR1 and XCR3 strongly reduces the
+activation of Smad2 by endogenous ligands at late blastula and
+early gastrula stages, but does not affect the Smad1 or ErkMAPK pathways. This strongly suggests that EGF-CFCs arespecific for the Smad2 pathway during Xenopus gastrulation.
+We have investigated the phenotypic consequences of theknockdown of XCR1 and XCR3 during development. Atgastrulation stages, XCR1 morphants are delayed but doeventually gastrulate and exhibit defects at neurula stages in
+the neural tube and anterior structures, consistent with a
+previous study ( Yabe et al., 2003
+). XCR3 morphants have a
+much stronger phenotype at gastrula stages with more than 60%of the embryos failing to develop further. Importantly, thedouble knockdown gives an even more severe phenotype thanknocking down either XCR1 or XCR3 individually, with 94%of the embryos either dying before stage 14 or exhibiting severegastrulation defects ( Fig. 6 ;Table 1 ). The phenotype of the
+XCR1 + XCR3 morphant embryos is consistent with the
+phenotype of VegT-depleted embryos, which do not expressXnr1, 2, 4 or Derrière ( Kofron et al., 1999 ) or embryos injected
+with Cer-S, a well-characterised Xnr inhibitor ( Agius et al.,
+2000 ). The fact that the XCR1 + XCR3 morphant embryos have
+a stronger gastrulation phenotype than the XCR3-depletedembryos indicates that XCR1 also has a role in gastrulation,which is masked by the presence of the ubiquitously expressed
+XCR3. The presence of XCR3 might explain why this
+gastrulation role for XCR1 was not previously detected ( Yabe
+et al., 2003 ). XCR1, in contrast, cannot compensate effectively
+for loss of XCR3, probably because it is absent from the vegetalpole, where Nodal signalling is high.
+It should be noted that knockdown of XCR1 and XCR3 does
+not completely abolish Smad2 phosphorylation, which could bedue to incomplete knockdown of these proteins. Indeed, the
+effect of morpholinos against XCR1 and/or XCR3 is much313 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+clearer when GFP is coinjected and only GFP-positive embryos
+are analysed (compare Figs. 5 A and C). Alternatively, it could be
+due to the presence of yet unknown EGF-CFC members or thepresence of endogenous Activin, which has been recently shownto be expressed during early Xenopus development ( Piepenburg
+et al., 2004 ) and whose activity is EGF-CFC-independent.
+It was previously suggested that XCR1 synergises with Xnr3
+in an animal cap elongation assay, and that this requiressignalling through the FGF receptor ( Yokota et al., 2003 ), and it
+was also reported that XCR1 induces neural genes through the
+inhibition of the BMP pathway via activation of the MAPKpathway ( Kinoshita et al., 1995; Yabe et al., 2003 ). Although we
+also observe neural defects in the XCR1 morphants, we wereunable to demonstrate any role for XCRs in the Erk MAPKpathway or the BMP pathway, as measured by Smad1 activation,suggesting that the neural phenotype may arise indirectly as aresult of a defect in the specification of the organiser in these
+embryos. Nevertheless, our experiments cannot completely ruleout an involvement of the XCRs in other signalling pathways.
+Maternal XCR1 (FRL1) has also been proposed to be involved
+in the specification of the dorso-ventral axis through itsinteraction with Wnt11 ( Tao et al., 2005 ). We have not addressed
+the role of maternal XCR1, but have focused on the function ofthe zygotically expressed protein.
+In summary, our data clearly demonstrate that Xenopus EGF-
+CFCs are necessary for the different Nodal family members toactivate their downstream signalling pathways. Furthermore,
+we show that XCR1 and XCR3 have different specificities for
+the different Nodal-related ligands ( Fig. 7 A).
+Why are multiple EGF-CFCs expressed at the gastrula stage of
+Xenopus embryos?
+We have shown that two EGF-CFCs are expressed during the
+gastrula stages of Xenopus embryogenesis which have different
+specificities for the Nodal-related ligands. Their pattern of
+Fig. 7. Schematic model for XCRs function in Nodal signalling during gastrulation. (A) Different Nodal-related ligands require different EGF-CFC t o signal. Xnr5
+requires XCR1; Derrière requires XCR3. Xnr1, Xnr2, Xnr4 and Xnr6 require both XCR1 or XCR3 to signal efficiently. (B) EGF-CFC expression patterns in t he
+embryo will dictate patterns of Nodal signalling. The vegetal pole is shown in green, the marginal zone in pink and the animal cap in blue. For details, s ee Discussion.314 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+expression is not identical. XCR1 protein is only expressed in
+the animal cap and marginal zone, whereas our morpholino datasuggest that XCR3 protein is expressed throughout the embryo,since knocking it down in animal caps, marginal zones orvegetal poles has a marked effect on either endogenous orexogenous Nodal signalling. Several non-mutually exclusivepossibilities can be envisaged to explain why at least two EGF-CFCs are expressed during gastrulation.
+The EGF-CFCs could be required for the different Nodal-
+related ligands to signal through different receptor complexes.Little is known about which specific receptor complexes thedifferent Xnrs bind to, although there is some indication thatALK7 is required for Xnr1 activity, but not for the activity ofXnr2. However, these Xnrs have the same requirement for EGF-CFCs as they require both XCR1 and 3 for activity, which wouldsuggest that, at least for the type I receptors, there is no
+specificity for a particular EGF-CFC. Alternatively, different
+EGF-CFCs could confer different signalling properties on theXnrs. We could not find a good correlation, however, betweenthe ability of a specific ligand to activate a given gene and itsdependency on a particular EGF-CFC to signal.
+Perhaps the most likely reason for the existence of multiple
+EGF-CFCs during gastrulation is to modify the spatial andtemporal activity of Nodal-related ligands ( Fig. 7 B). Although
+we know little about where each Nodal-related protein is
+expressed, the broad boundaries of expression can be inferredfrom their mRNA expression patterns. In situ hybridisationindicates that Xnr5 and6are the first to be expressed in the
+presumptive endoderm from stage 8+ ( Takahashi et al., 2000 ).
+Xnr1 and2are expressed somewhat later and accumulate in the
+dorsal marginal zone by stage 10 and Xnr4 expression is
+restricted to the deep cells of the organiser at this stage ( Jones et
+al., 1995; Joseph and Melton, 1997 ).Derrière is initially
+expressed throughout the presumptive mesendoderm and is thenrestricted to posterior mesendoderm ( Sun et al., 1999 ). Derrière
+activity requires XCR3, which appears to be ubiquitouslyexpressed. Thus, Derrière is probably active wherever it isexpressed. Xnr5, however, which requires XCR1, will only beactive in regions where its expression overlaps with that ofXCR1. The dependency of Xnr1, 2, 4 and 6 on both XCR1 and
+XCR3 for their full activity will limit the maximal activity of
+these ligands to regions of the embryo where both XCRs and theligands are expressed. These ideas will be more systematicallytested in the future when it is possible to determine exactly wherethe different ligands are expressed.
+In summary, we show here that at least two EFC-CFC family
+members are expressed during gastrulation in Xenopus
+embryos. Our data indicate that the different Nodal-related
+ligands require different EGF-CFC family members to signal in
+gastrulating embryos. We propose that this is important for theregulation and modulation of signalling by Nodal-relatedligands during gastrulation.
+Acknowledgments
+We would like to thank Patrick Blader, John Gurdon, Richard
+Harland, Mike Jones, Michael King, Patrick Lemaire, HazelSive and Jim Smith for providing reagents. We are grateful to
+Enrique Amaya, Erik Sahai, Nic Tapon, Malcolm Whitman andthe members of the laboratory for helpful discussions and/oruseful comments on the manuscript. We wish to especiallythank Julie Batut for her help with the characterisation of thephenotypes. The work was supported by Cancer Research UKand an EU Marie Curie Individual Fellowship to K.D.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found
+in the online version at doi:10.1016/j.ydbio.2006.01.006 .
+References
+Agius, E., Oelgeschlager, M., Wessely, O., Kemp, C., De Robertis, E.M., 2000.
+Endodermal Nodal-related signals and mesoderm induction in Xenopus .
+Development 127, 1173 –1183.
+Birsoy, B., Berg, L., Williams, P.H., Smith, J.C., Wylie, C.C., Christian, J.L.,
+Heasman, J., 2005. XPACE4 is a localized pro-protein convertase requiredfor mesoderm induction and the cleavage of specific TGF βproteins in
+Xenopus development. Development 132, 591 –602.
+Cheng, S.K., Olale, F., Bennett, J.T., Brivanlou, A.H., Schier, A.F., 2003. EGF-
+CFC proteins are essential coreceptors for the TGF- βsignals Vg1 and
+GDF1. Genes Dev. 17, 31 –36.
+Ciccodicola, A., Dono, R., Obici, S., Simeone, A., Zollo, M., Persico, M.G.,
+1989. Molecular characterization of a gene of the ‘EGF family ’expressed in
+undifferentiated human NTERA2 teratocarcinoma cells. EMBO J. 8,
+1987 –1991.
+Dono, R., Scalera, L., Pacifico, F., Acampora, D., Persico, M.G., Simeone, A.,
+1993. The murine cripto gene: expression during mesoderm induction andearly heart morphogenesis. Development 118, 1157 –1168.
+Faure, S., Lee, M.A., Keller, T., ten Dijke, P., Whitman, M., 2000. Endogenous
+patterns of TGF βsuperfamily signaling during early Xenopus development.
+Development 127, 2917 –2931.
+Gont, L.K., Steinbeisser, H., Blumberg, B., de Robertis, E.M., 1993. Tail
+formation as a continuation of gastrulation: the multiple cell populations of
+theXenopus tailbud derive from the late blastopore lip. Development 119,
+991–1004.
+Gritsman, K., Zhang, J., Cheng, S., Heckscher, E., Talbot, W.S., Schier, A.F.,
+1999. The EGF-CFC protein one-eyed pinhead is essential for nodal
+signaling. Cell 97, 121 –132.
+Hansen, C.S., Marion, C.D., Steele, K., George, S., Smith, W.C., 1997. Direct
+neural induction and selective inhibition of mesoderm and epidermis
+inducers by Xnr3. Development 124, 483 –492.
+Harland, R.M., 1991. In situ hybridization: an improved whole-mount method
+forXenopus embryos. Methods Cell Biol. 36, 685 –695.
+Harms, P.W., Chang, C., 2003. Tomoregulin-1 (TMEFF1) inhibits nodal
+signaling through direct binding to the nodal coreceptor Cripto. Genes Dev.17, 2624 –2629.
+Hill, C.S., 2001. TGF- βsignalling pathways in early Xenopus development.
+Curr. Opin. Genet. Dev. 11, 533 –540.
+Howell, M., Hill, C.S., 1997. XSmad2 directly activates the activin-inducible,
+dorsal mesoderm gene XFKH1 in Xenopus embryos. EMBO J. 16,
+7411 –7421.
+Howell, M., Itoh, F., Pierreux, C.E., Valgeirsdottir, S., Itoh, S., ten Dijke, P., Hill,
+C.S., 1999. Xenopus Smad4 βis the co-Smad component of developmentally
+regulated transcription factor complexes responsible for induction of early
+mesodermal genes. Dev. Biol. 214, 354 –369.
+Howell, M., Inman, G.J., Hill, C.S., 2002. A novel Xenopus Smad-interacting
+forkhead transcription factor (XFast- 3) cooperates with XFast-1 in
+regulating gastrulation movements. Development 129, 2823 –2834.
+Hudson, C., Clements, D., Friday, R.V., Stott, D., Woodland, H.R., 1997.
+Xsox17 αand - βmediate endoderm formation in Xenopus . Cell 91,
+397–405.315 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316
+Jones, C.M., Kuehn, M.R., Hogan, B.L., Smith, J.C., Wright, C.V., 1995. Nodal-
+related signals induce axial mesoderm and dorsalize mesoderm duringgastrulation. Development 121, 3651 –3662.
+Joseph, E.M., Melton, D.A., 1997. Xnr4: a Xenopus nodal-related gene
+expressed in the Spemann organizer. Dev. Biol. 184, 367 –372.
+Kinoshita, N., Minshull, J., Kirschner, M.W., 1995. The identification of two
+novel ligands of the FGF receptor by a yeast screening method and their
+activity in Xenopus development. Cell 83, 621 –630.
+Kofron, M., Demel, T., Xanthos, J., Lohr, J., Sun, B., Sive, H., Osada, S.,
+Wright, C., Wylie, C., Heasman, J., 1999. Mesoderm induction in Xenopus
+is a zygotic event regulated by maternal VegT via TGF βgrowth factors.
+Development 126, 5759 –5770.
+LaBonne, C., Whitman, M., 1997. Localization of MAP kinase activity in early
+Xenopus embryos: implications for endogenous FGF signaling. Dev. Biol.
+183, 9 –20.
+Lee, M.A., Heasman, J., Whitman, M., 2001. Timing of endogenous activin-like
+signals and regional specification of the Xenopus embryo. Development
+128, 2939 –2952.
+Minchiotti, G., Parisi, S., Liguori, G., Signore, M., Lania, G., Adamson, E.D.,
+Lago, C.T., Persico, M.G., 2000. Membrane-anchorage of Cripto protein byglycosylphosphatidylinositol and its distribution during early mousedevelopment. Mech. Dev. 90, 133 –142.
+Onuma, Y., Yeo, C.Y., Whitman, M., 2005. XCR2, one of three Xenopus EGF-
+CFC genes, has a distinct role in the regulation of left –right patterning.
+Development 133, 237 –250.
+Oschwald, R., Richter, K., Grunz, H., 1991. Localization of a nervous system-
+specific class II β-tubulin gene in Xenopus laevis embryos by whole-mount
+in situ hybridization. Int. J. Dev. Biol. 35, 399 –405.
+Piepenburg, O., Grimmer, D., Williams, P.H., Smith, J.C., 2004. Activin redux:
+specification of mesodermal pattern in Xenopus by graded concentrations of
+endogenous activin B. Development 131, 4977 –4986.
+Reissmann, E., Jornvall, H., Blokzijl, A., Andersson, O., Chang, C., Minchiotti,
+G., Persico, M.G., Ibanez, C.F., Brivanlou, A.H., 2001. The orphan receptor
+ALK7 and the Activin receptor ALK4 mediate signaling by Nodal proteins
+during vertebrate development. Genes Dev. 15, 2010 –2022.
+Schier, A.F., 2003. Nodal signaling in vertebrate development. Annu. Rev. Cell
+Dev. Biol. 19, 589 –621.
+Schiffer, S.G., Foley, S., Kaffashan, A., Hronowski, X., Zichittella, A.E., Yeo,
+C.Y., Miatkowski, K., Adkins, H.B., Damon, B., Whitman, M., Salomon,D., Sanicola, M., Williams, K.P., 2001. Fucosylation of Cripto is required forits ability to facilitate nodal signaling. J. Biol. Chem. 276, 37769 –37778.
+Schulte-Merker, S., Smith, J.C., 1995. Mesoderm formation in response to
+Brachyury requires FGF signalling. Curr. Biol. 5, 62 –67.
+Shi, Y., Massagué, J., 2003. Mechanisms of TGF- βsignaling from cell
+membrane to the nucleus. Cell 113, 685 –700.Simon, R., Richter, J.D., 1994. Further analysis of cytoplasmic polyadenylation
+inXenopus embryos and identification of embryonic cytoplasmic poly-
+adenylation element-binding proteins. Mol. Cell. Biol. 14, 7867 –7875.
+Smith, J.C., Price, B.M., Green, J.B., Weigel, D., Herrmann, B.G., 1991.
+Expression of a
+Xenopus homolog of Brachyury (T) is an immediate-early
+response to mesoderm induction. Cell 67, 79 –87.
+Smith, W.C., McKendry, R., Ribisi Jr., S., Harland, R.M., 1995. A nodal-related
+gene defines a physical and functional domain within the Spemann
+organizer. Cell 82, 37 –46.
+Sun, B.I., Bush, S.M., Collins-Racie, L.A., LaVallie, E.R., DiBlasio-Smith,
+E.A., Wolfman, N.M., McCoy, J.M., Sive, H.L., 1999. Derriere: a TGF- β
+family member required for posterior development in Xenopus . Develop-
+ment 126, 1467 –1482.
+Takahashi, S., Yokota, C., Takano, K., Tanegashima, K., Onuma, Y., Goto, J.,
+Asashima, M., 2000. Two novel nodal-related genes initiate early inductive
+events in Xenopus Nieuwkoop center. Development 127, 5319 –5329.
+Tanegashima, K., Haramoto, Y., Yokota, C., Takahashi, S., Asashima, M., 2004.
+Xantivin suppresses the activity of EGF-CFC genes to regulate nodal
+signaling. Int. J. Dev. Biol. 48, 275 –283.
+Tao, Q., Yokota, C., Puck, H., Kofron, M., Birsoy, B., Yan, D., Asashima, M.,
+Wylie, C.C., Lin, X., Heasman, J., 2005. Maternal Wnt11 activates thecanonical Wnt signaling pathway required for axis formation in Xenopus
+embryos. Cell 120, 857 –871.
+Whitman, M., 2001. Nodal signaling in early vertebrate embryos: themes and
+variations. Dev. Cell 1, 605 –617.
+Yabe, S.I., Tanegashima, K., Haramoto, Y., Takahashi, S., Fujii, T., Kozuma, S.,
+Taketani, Y., Asashima, M., 2003. FRL-1, a member of the EGF-CFC
+family, is essential for neural differentiation in Xenopus early development.
+Development 130, 2071 –2081.
+Yan, Y.T., Gritsman, K., Ding, J., Burdine, R.D., Corrales, J.D., Price, S.M.,
+Talbot, W.S., Schier, A.F., Shen, M.M., 1999. Conserved requirement for
+EGF-CFC genes in vertebrate left –right axis formation. Genes Dev. 13,
+2527 –2537.
+Yan, Y.T., Liu, J.J., Luo, Y., Haltiwanger, C., Abate-Shen, R.S., Shen, C., 2002.
+Dual roles of cripto as a ligand and coreceptor in the nodal signalingpathway. Mol. Cell. Biol. 22, 4439 –4449.
+Yeo, C., Whitman, M., 2001. Nodal signals to Smads through Cripto-dependent
+and Cripto-independent mechanisms. Mol. Cell 7, 949 –957.
+Yokota, C., Kofron, M., Zuck, M., Houston, D.W., Isaacs, H., Asashima, M.,
+Wylie, C.C., Heasman, J., 2003. A novel role for a nodal-related protein;Xnr3 regulates convergent extension movements via the FGF receptor.
+Development 130, 2199 –2212.
+Zhang, J., Talbot, W.S., Schier, A.F., 1998. Positional cloning identifies
+zebrafish one-eyed pinhead as a permissive EGF-related ligand required
+during gastrulation. Cell 92, 241 –251.316 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316

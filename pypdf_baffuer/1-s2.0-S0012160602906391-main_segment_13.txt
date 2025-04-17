@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Pellegrini et al., 1995"],
+  "genes": ["SRF", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["uniform expression", "competition assays", "heterologous promoter assay", "SRF binding in a competition assay"],
+    "software_tools": [],
+    "reagents_chemicals": ["CArG-T oligonucleotides", "DS element", "minimal cytoskeletal actin promoter", "cyt/GFP transgene", "CMV-SRF"],
+    "model_organisms": ["developing tadpole heart", "embryo"]
+  }
+}

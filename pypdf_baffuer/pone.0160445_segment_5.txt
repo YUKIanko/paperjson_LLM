@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": [],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Edman degradation", "Steinberg's salt solution (ST)", "S1 Movie", "S2 Movie"],
+    "software_tools": [],
+    "reagents_chemicals": ["degenerate primers", "total RNA of oviductal cells", "anti-SMIS antibody", "FITC-P3", "FITC-P1", "cysteine-knot (CK) motif", "mucin 5", "Wnt inhibitors", "Sclerostin", "Wise", "oligo-peptides", "axial rod of the tail"],
+    "model_organisms": ["C.pyrrhogaster", "R"]
+  }
+}

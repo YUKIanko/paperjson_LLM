@@ -1,0 +1,123 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "key": "1",
+      "authors": "Hoffman JI",
+      "year": "1995",
+      "journal": "Pediatr. Cardiol.",
+      "volume": "16",
+      "pages": "103–113"
+    },
+    {
+      "key": "2",
+      "authors": "Waldo KL, et al.",
+      "year": "2001",
+      "journal": "Development",
+      "volume": "128",
+      "pages": "3179–3188"
+    },
+    {
+      "key": "3",
+      "authors": "Mjaatvedt CH, et al.",
+      "year": "2001",
+      "journal": "Dev. Biol.",
+      "volume": "238",
+      "pages": "97–109"
+    },
+    {
+      "key": "4",
+      "authors": "Kelly RG, Brown NA, and Buckingham ME",
+      "year": "2001",
+      "journal": "Dev. Cell.",
+      "volume": "1",
+      "pages": "435–440"
+    },
+    {
+      "key": "5",
+      "authors": "Runyan RB and Markwald RR",
+      "year": "1983",
+      "journal": "Dev. Biol.",
+      "volume": "95",
+      "pages": "108–114"
+    },
+    {
+      "key": "6",
+      "authors": "Srivastava D and Olson EN",
+      "year": "2000",
+      "journal": "Nature",
+      "volume": "407",
+      "pages": "221–226"
+    },
+    {
+      "key": "7",
+      "authors": "Srivastava D, Cserjesi P, and Olson EN",
+      "year": "1995",
+      "journal": "Science",
+      "volume": "270",
+      "pages": "1995–1999"
+    },
+    {
+      "key": "8",
+      "authors": "Srivastava D, et al.",
+      "year": "1997",
+      "journal": "Nat. Genet.",
+      "volume": "16",
+      "pages": "154–160"
+    }
+  ],
+  "genes": [
+    "Gata4",
+    "Gata6",
+    "Nkx2-5",
+    "Carp",
+    "ANF",
+    "cyclin D1",
+    "cyclin D2",
+    "cyclin D3",
+    "Hop",
+    "Bmp10"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Roche Diagnostics",
+      "Children’s Hospital Boston",
+      "Novartis Institute for Biomedical Research",
+      "Department of Cardiology",
+      "Enders 13"
+    ],
+    "experimental_methods": [
+      "TMR Red In Situ Death Detection kit",
+      "qRT-PCR",
+      "collected and frozen in liquid nitrogen",
+      "on-column DNase digestion",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "Real-time qRT-PCR",
+      "ABI 7700 Sequence Detector"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "TMR Red In Situ Death Detection kit",
+      "RNeasy kit",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "ABI 7700 Sequence Detector",
+      "Taqman probes",
+      "Gata4",
+      "Gata6",
+      "Nkx2-5",
+      "Carp",
+      "ANF",
+      "cyclin D1",
+      "cyclin D2",
+      "cyclin D3",
+      "Hop",
+      "Bmp10",
+      "18S"
+    ],
+    "model_organisms": [
+      "E9.5 (G4NK)",
+      "E12.5 (G4MC)"
+    ]
+  }
+}

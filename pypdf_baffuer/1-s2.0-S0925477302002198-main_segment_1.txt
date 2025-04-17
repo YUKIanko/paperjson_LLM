@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Wang et al., 1994", "Amaya et al., 1998", "Kroll and Amaya, 1996", "Hartley et al., 2001"],
+  "genes": ["UAS-effector", "GAL4 transactivator", "Upstream Activation Sequences (UAS)", "ECFP", "pCAR-RFP"],
+  "proper_nouns": {
+    "institutions": ["National Institute for Medical Research"],
+    "experimental_methods": ["transient expression assays", "crossing a UAS-effector line to a GAL4 transactivator line", "injecting synthetic GAL4 mRNA into embryos at the two-cell stage"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "GAL4 binding domain", "Upstream Activation Sequences (UAS)", "green fluorescent protein variant ECFP (Clontech)", "Red Fluorescent Protein", "cardiac actin promoter"],
+    "model_organisms": ["Xenopus tropicalis", "Xenopus laevis"]
+  }
+}

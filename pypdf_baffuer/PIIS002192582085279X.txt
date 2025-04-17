@@ -1,0 +1,349 @@
+FOR, a Novel Orphan Nuclear Receptor Related to
+Farnesoid X Receptor*
+Received for publication, December 11, 2001, and in revised form, February 11, 2002
+Published, JBC Papers in Press, February 26, 2002, DOI 10.1074/jbc.M111795200
+Young-Woo Seo,a,b,cSabyasachi Sanyal,a,c,dHan-Jong Kim,aDong Hwan Won,eJee-Young An,f
+Tosikazu Amano,gAnn Marie Zavacki,hHyuk-Bang Kwon,aYun-Bo Shi,gWon-Sun Kim,f
+Heonjoong Kang,eDavid D. Moore,iand Hueng-Sik Choia, j
+From theaHormone Research Center,dDepartment of Biology, Chonnam National University, Kwangju 500-757, Republic
+of Korea, theeMarine Biotechnology Laboratory, School of Earth and Environmental Science, Seoul National University,
+Republic of Korea, thefDepartment of Life Science, Sogang University, Seoul 121-742, Republic of Korea, thegLaboratory
+of Molecular Embryology, NICHD, National Institutes of Health, Bethesda, Maryland 20892-5431, thehThyroid Division,
+Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts 02115, and theiDepartment of Cellular
+and Molecular Biology, Baylor College of Medicine, Houston, Texas 77030
+We have identified and characterized a new amphib-
+ian orphan member of the nuclear receptor superfamily
+and termed it FOR1 (farnesoid X receptor (FXR)-like
+Orphan Receptor) because it shares the highest amino
+acid identity with the mammalian FXR. We also identi-fied a variant of FOR1, called FOR2, which has 15 addi-tional C-terminal amino acids. Both variants include anunusual insertion of 33 amino acids in the helix 7 regionof the canonical ligand binding domain sequence, sug-gesting a unique structure for FOR. Northern blot anal-ysis demonstrates that the FOR gene is highly expressed
+in adult and tadpole liver, kidney, and tail bud stage ofthe embryo. Detailed expression analysis using in situ
+hybridization indicates that FOR expression is first de-tectable at stage 30/31 in the presumptive liver regionlasting until stage 41 with a peak level evident at stage35/36. FOR forms heterodimeric complexes with retinoidX receptor (RXR) as demonstrated by biochemical andmammalian two-hybrid approaches. Gel mobility shiftassays demonstrate that FORs form specific DNA-pro-tein complexes on an FXR binding element consisting ofan inverted repeat DNA element with 1 nucleotide spac-ing (IR1) from the phospholipid transfer protein gene
+promoter. Finally, although FORs do not exhibit consti-tutive transcriptional activity, frog gallbladder extractsignificantly augments the transcriptional activities ofFORs.
+The nuclear receptor superfamily comprises a large group of
+structurally related ligand-dependent transcription factors
+regulated by a variety of steroid and non-steroid hormones. Italso includes a large number of related proteins that do nothave known ligands, referred to as orphan nuclear receptors(reviewed in Refs. 1–3). The nuclear receptors modulate targetgene transcription by direct binding to specific DNA sequences,called hormone response elements (HRE),
+1which are generally
+located in the promoter of the specific target genes. In general,both classic nuclear hormone receptors and orphan nuclearhormone receptors consist of four or five different modules ordomains; A/B, C, D, E, and F (1). The non-conserved N-terminalregion of nuclear receptors (A/B domain) is involved in trans-activation in some cases but is of unknown function or is absentin others. The DNA-binding C-domain (DBD) shows the strong-est sequence similarity among different nuclear receptors andis engaged in the binding of these receptors to cognate HREs.The C-domain consists of 65–68 amino acids, among which 8cysteine residues are absolutely conserved and form two zinc-binding modules (1, 3, 4). The D-domain, called the hingeregion, shows relatively low sequence similarity and containssequences involved in HRE binding at its N terminus. TheE-domain directly binds to ligands or hormones and is alsoinvolved in nuclear localization and receptor dimerization. TheC terminus of the LBD contains a conserved motif that, to-gether with other portions of the LBD, forms the binding sitefor transcriptional coactivators (1). The F-domain is an addi-tional C-terminal extension found in only subset of receptors.The function of this non-conserved segment is unclear.
+A large number of orphan nuclear receptor genes have been
+discovered by several different approaches. These include 1)screening cDNA libraries with conventional receptor cDNAprobes at relaxed stringency (5) or with degenerate oligonucleo-tides based on the conserved regions (6), 2) performing PCRwith degenerate oligonucleotide PCR primers from the DBD (7,8), 3) screening cDNA libraries using nuclear receptor ligandbinding domains (LBD) or receptor interaction domains of co-activators as bait in a yeast two-hybrid system (9, 10).
+Although the biological functions of most orphan nuclear
+* This work was supported by KOSEF through the Hormone Re-
+search Center (HRC1999L0001) and in part by KOSEF Grant 96-0401-
+08-01-3 (to H. S. C.), by Grant 00-J-LF-01-B-78 from Critical Technol-ogy 21 on Life Phenomena and Function Research of the ministry ofScience & Technology (to H. K.), and by Grant KRF-1999-015-DI0093from the Korea Research Foundation (to W. S. K.). The costs of publi-cation of this article were defrayed in part by the payment of pagecharges. This article must therefore be hereby marked “advertisement”in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+The nucleotide sequence(s) reported in this paper has been submitted
+to the GenBank
+TM/EBI Data Bank with accession number(s) AF456451,
+AF456452, and AF456453.
+cBoth authors contributed equally to this work.
+bPresent address: Korea Basic Science Institute, Kwangju Branch,
+Kwangju 500–757, Republic of Korea.
+jTo whom correspondence should be addressed. Tel.: 82-62-530-0503;
+Fax: 82-62-530-0500; E-mail: hsc@chonnam.chonnam.ac.kr.1The abbreviations used are: HRE, hormone response element; FXR,
+farnesoid X receptor; FOR, FXR-like orphan receptor; DBD, DNA bind-ing domain; LBD, ligand binding domain; PLTP, phospholipid transferprotein; RXR, retinoid X receptor; EcRE, ecdysone response element;hsp27, heat-shock protein 27; WISH, whole mount in situ hybridization;
+GST, glutathione S-transferase; MEM, modified Eagle’s medium;
+cFXR, chicken FXR; rFXR, rat FXR; CMV, cytomegalovirus; TTNPB,4-[(E)-2-(5,6,7,8,-tetrahydro-5,5,8,8-tetramethyl-2-napthalenyl)-1-pro-peny)]benzoicacid; EcR, ecdysone receptor; SHP, small heterodimerpartner; DAX-1, dosage-sensitive sex reversal, AHC critical region onthe X chromosome, gene 1.THEJOURNAL OF BIOLOGICAL CHEMISTRY Vol. 277, No. 20, Issue of May 17, pp. 17836–17844, 2002
+Printed in U.S.A.
+This paper is available on line at http://www.jbc.org 17836
+This is an Open Access article under the CC BY  license.
+receptors remain to be elucidated, evidence indicates that or-
+phan nuclear receptors can play key roles in cell growth, dif-ferentiation, and cell death. For example, NGF-induced clone Bis involved in apoptosis of immune T cells (11) and SHP func-tions as a negative regulator of receptor-dependent signalingpathways (12). The regulation of steroidogenesis in gonad andadrenal gland (reviewed in Ref. 13) and homozygous loss of theHNF-4 gene in mice causes early embryonic lethality, whereas
+loss of a single copy of this gene in human causes MODY(maturity onset diabetes of the young) (14).
+The former orphan nuclear receptor originally called RIP14
+was isolated from mouse liver using the yeast two-hybrid ap-proach using the RXR ligand binding domain as a bait (15). Itsrat homologue, FXR, was initially found to be activated byfarnesol and its metabolites (16), and both proteins were laterfound to be activated by TTNPB and synthetic retinoids (17).More recently, bile acids, particularly chenodeoxycholic acid,have been shown to be endogenous ligands for this receptor,which is now referred to as FXR (18 –20). This receptor shows
+81% amino acid identity in the DBD to Drosophila nuclear
+receptor EcR, and both FXR and EcR bind to an ecdysone
+response element (EcRE) from the Drosophila hsp27 gene pro-
+moter (15) as a dimer with either RXR or ultraspiracle (USP),theDrosophila homologue of RXR. More recently, natural and
+potential binding sites for FXR were discovered in the promoterof several genes, including intestinal bile acid binding protein(21), cholesterol 7
+/H9251-hydroxylase (22), phospholipid transfer
+protein (PLTP) (23), SHP (24, 25), and ileal bile acid-bindingprotein (18, 21).
+In the current study, we describe the isolation and charac-
+terization of a novel Xenopus orphan nuclear receptor, FOR,
+that associates with RXR and shares extensive sequence sim-ilarity to the orphan nuclear receptor FXR. Two isoforms ofFOR were isolated from Xenopus liver cDNA library, termed
+FOR1 and FOR2. FOR1 and FOR2 share more than 90% aminoacid sequence identity. FOR1 and FOR2 differ by a frameshiftchange at amino acid number 501 of FOR2 resulting in 15 extraamino acids in FOR2. Interestingly, when compared with othernuclear receptors, the FORs bear an unusual insertion in thehelix 7 motif of the canonical LBD structure due to an additionof 33 extra amino acids. FOR mRNA is highly expressed inadult liver and kidney, and FOR expression is also detected inthe liver and kidney of metamorphosing tadpoles. Electro-phoretic mobility shift assays demonstrate that both FOR1 andFOR2 specifically bind an IR1 element from the PLTP gene
+promoter, previously described as an FXR target. Finally, bothFOR1 and FOR2 show significant transcriptional activity upontreatment with frog gallbladder extract. These results suggestthat FORs function as ligand-dependent transcription factorsduring frog development and in adult organ function.
+MATERIALS AND METHODS
+Isolation of FOR cDNAs—Degenerate primers derived from the most
+conserved regions of the nuclear receptor DBD were used to amplify
+PCR products from a Xenopus laevis liver cDNA library (Stratagene).
+The primers and PCR conditions were used precisely as previouslydescribed (8). The expected 130-bp PCR products were isolated byelectrophoresis on a 1.5% agarose gel (high resolution, Sigma ChemicalCo.) and cloned into the pGEM-T Easy system (Promega), and theclones were sequenced by dideoxy nucleotide sequencing (Sequenase,U.S. Biochemicals). A 130-bp DNA fragment showing high nucleotidesequence homology to FXR was labeled by random priming and used toscreen a X. laevis liver cDNA library according to the manufacturer’s
+protocols. Five positive clones were excised and subcloned into pBSSK(/H11001) using in vivo excision by the Exassist system supplied with the
+library and sequenced. Two clones revealed an entire coding regioncorresponding to FOR1, and three clones represented FOR2.
+Plasmids—FOR1 and FOR2 cDNAs from pBS SK(/H11001) were subcloned
+into mammalian expression vector pCDNA3 (Invitrogen) at the NotIand ApaI sites. For mammalian two-hybrid assays, the LBD region of
+FOR corresponding to 319 amino acids for FOR1 and 346 amino acids
+for FOR2 was subcloned in-frame into pCMX-GAL4 in the XbaI and
+BglII sites downstream of the GAL4 DBD. VP16AD fusion constructsfor FOR1 and -2 were generated by inserting fragments of FOR1 and -2into pCMX-VP16. All the constructs were confirmed by sequencing.
+In Vitro Translation—FOR1, FOR2, and RIP14/FXR cDNA in pBlue-
+script (Stratagene) were transcribed and translated in vitro using a
+coupled rabbit reticulocyte system (TNT, Promega) in the presence of[
+35S]methionine (Amersham Biosciences, Inc.) according to the manu-
+facturer’s instructions. The translated proteins were analyzed on 10%SDS-polyacrylamide gels and visualized by autoradiography.
+Experimental Animals and Manipulation—Eggs were obtained from
+female X. laevis primed with 800 units of human chorionic gonadotropin
+(Sigma). After in vitro fertilization the embryos were dejellied in 2%
+cystein, pH 8.0, and cultured in 0.4/H11003 Marc’s Modified Ringer (28) until
+stage 4 then transferred to 0.1/H11003 Marc’s Modified Ringer. Embryos were
+staged according to Nieuwkoop and Faber (29).
+Northern Blot Analysis—Approximately 30
+/H9262g of total RNA from X.
+laevis adult tissues was isolated, and Northern blot analysis was car-
+ried out as described previously (30). For embryonic stage blot, 10 /H9262go f
+total RNA was isolated from whole specimens from stage 0 (ovary) andembryonic stages 33, 41, 45, 50, 54, 58, 62, and 66. Embryonic stageNorthern blot analyses were carried out as described previously (31).
+Whole Mount in Situ Hybridization—Whole mount in situ hybridiza-
+tion (WISH) was performed according to the standard protocols (32, 33)with minor modifications. Briefly, fixed whole embryos were hybridizedwith digoxigenin labeled sense or FOR1 riboprobes, followed by exten-sive washing and chromogenic detection with alkaline phosphataseconjugated to anti-digoxigenin antibody and BM Purple as an artificialsubstrate.
+GST-Pull-down Assay—A GST pull-down assay was performed as
+described previously (10). Briefly, the GST fusion proteins and GSTcontrol protein were expressed in Escherichia coli BL21(DE3)pLys bac-
+terial culture and purified using glutathione-Sepharose 4B beads (Am-ersham Biosciences, Inc.). GST fusion proteins bound to glutathione-Sepharose-4B beads were incubated for2ha t4 °C with various
+35S-
+labeled receptors expressed by in vitro translation. Bound proteins were
+eluted from beads with 15 m Mreduced glutathione in 50 m MTris (pH
+8.0) and analyzed by SDS-polyacrylamide gel electrophoresis and visu-alized by a phosphorimaging analyzer (BAS-1500, Fuji)
+Gallbladder Extraction and Solvent Partition—The gallbladders (1 g)
+dissected from bullfrogs were freeze-dried and extracted twice with 2 mlof methanol and dichloromethane (1:1, v/v). The combined extract wasconcentrated under reduced pressure and partitioned between hexane
+and methanol. The methanol-soluble fraction was further partitionedthree times between ethyl acetate and water. The final solvent partitionwas accomplished between 1-butanol and water. Each fraction wasdried under vacuum and used in cotransfection assays. The butanol-soluble fractions were further fractionated by silica open column chro-matography (230 –400 mesh, 40 –63
+/H9262m, EM science) and eluted with
+methylene chloride and methanol (3:1, v/v). These fractions were ana-lyzed for luciferase activities as described below.
+Cell Culture and Transient Transfection—For mammalian two-hy-
+bird assays, CV-1 cells were seeded in 24-well plates in Dulbecco’smodified Eagle’s medium (Invitrogen) supplemented with 10% fetalbovine serum and transfected with the indicated plasmids using Super-fect (Qiagen), according to the manufacturer’s instructions. Cells wereharvested at 48 h, and luciferase activities were assayed as describedpreviously (15). Luciferase activities were normalized to the
+/H9252-galacto-
+sidase activity expressed from the control plasmid CMX- /H9252-GAL. For
+ligand testing, 293 human embryonic kidney cells were grown in min-imal Eagle’s medium (MEM) supplemented with 10% resin-charcoal-stripped fetal bovine serum, 50 units/ml penicillin G, and 50
+/H9262g/ml
+streptomycin sulfate in humidified air containing 5% CO2at 37 °C.
+Transient transfections were carried out using SuperFect (Qiagen) ac-cording to the manufacturer’s instructions. Cytomegalovirus-driven re-ceptor expression vectors (0.19
+/H9262g/105cells), and luciferase reporter
+construct containing the herpesvirus thymidine kinase promoter linkedthe corresponding response elements (1.04
+/H9262g/105cells) and CMX- /H9252-GAL
+(0.56 /H9262g/105cells) as an internal control were added as indicated. After
+16 h, cells were treated with MEM-supplemented 5% resin-charcoal-stripped fetal bovine serum and antibiotics containing amphibian gall-bladder extract dissolved in dimethyl sulfoxide for /H1101124 h. The cells were
+then harvested and assayed for luciferase and
+/H9252-galactosidase activity.
+Electrophoretic Mobility Shift Assay—Electrophoretic mobility shift
+assays were performed essentially as described previously (23). Briefly,10,000 cpm of end-labeled IR1 or EcRE oligonucleotides (15, 23) wasCloning and Characterization of Orphan Nuclear Receptor FOR 17837
+FIG.1 .FOR is a novel member of nuclear receptor superfamily. A, deduced amino acid sequences of FOR1 (GenBankTMaccession number
+AF456451) and FOR2 (GenBankTMaccession number AF456452) were aligned using MacVector software from Macintosh. The DBD is underlined,
+and the numbers represent corresponding amino acids. B, comparison of amino acid identities between FOR and related members of the nuclear
+receptor superfamily. The amino acid identities are indicated as percentages. The numbers represent position of amino acids corresponding to the
+A/B, C, or DEF domains. C, sequence alignment of the helix 7 motif in the LBD of FOR with related nuclear receptors. The unusual addition of
+amino acids in the helix 7 motif is characterized in SHP, DAX-1, and FOR. Numbers represent respective amino acid positions. D, genomic
+Southern blot analysis of the FOR gene. 20 /H9262go fXenopus genomic DNA was digested with indicated restriction enzymes and hybridized with
+32P-labeled FOR1 cDNA. E, deduced amino acid sequences of the A/B domain, DBD, or part of the LBDs of FOR, rFXR, and cFXR (GenBankTM
+accession number AF456453) were aligned as indicated. The hinge region is marked by a gray bar. Helices 1 and 2 are underlined. Dark shading
+represents identical amino acids, and light shading represents similar amino acids.Cloning and Characterization of Orphan Nuclear Receptor FOR 17838
+incubated with in vitro transcribed and translated FOR1, FOR2, and
+RXR in indicated combinations. The reaction mixtures were subjected
+to 5% non-denaturing gel electrophoresis followed by autoradiography.
+RESULTS
+Identification of FOR cDNA from X. laevis—To identify new
+members of the nuclear hormone receptor superfamily, degen-
+erate oligonucleotide primers based on the most conservedregion of the DBD (8) were used to amplify nuclear receptor-related cDNA fragments from a cDNA library of X. laevis liver.
+Amplified PCR fragments were subcloned and sequenced, re-vealing several known nuclear hormone receptors. Amongthese clones, one clone showed 86% amino acid identity withthe DBD of rat FXR (rFXR). This fragment was further used asa probe to re-screen a Xenopus liver cDNA library to find the
+full-length receptor. As shown in Fig. 1 A, two different isoforms
+of FOR, termed FOR1 and FOR2, were isolated. Based on thenucleotide sequence, these two isoforms are encoded by dis-tinct, but highly related genes. The DBD of FOR1 and FOR2
+shared identical amino acid sequences (with 98% nucleotidesequence identity), whereas the LBD showed 91% amino acidsequence identity. A single nucleotide insertion was found atthe position of amino acid number 501 in the C-terminal regionof FOR2, relative to FOR1, which caused an addition of 15amino acids and eliminated the classical AF-2 consensus motiffound in FOR1 (Fig. 1A). Both FOR1 and FOR2 were found toshare 89% amino acid identity in the DBD with FXR, indicatinga relatively close relationship. However, they share only 45%identity in the LBD (Fig. 1 B). This is modestly higher than
+observed in pairwise comparisons with other members of thenuclear receptor subfamily 1, group H, which also includes theoxysterol receptors LXR
+/H9251and/H9252, the vitamin D receptor, and
+the xenobiotic receptors constitutive androstane receptor(CAR), pregnane X receptor (PXR), and steroid and xenobioticreceptor (SXR) (Fig. 1B).
+FIG.1—continuedCloning and Characterization of Orphan Nuclear Receptor FOR 17839
+Although FOR1 and FOR2 include matches to conserved
+regions of the LBD, both showed an unusual 33-amino acid
+insertion in the putative helix 7 (Fig. 1 C). A range of shorter
+amino acid additions are also present in this region of themammalian orphan nuclear receptors SHP (9), DAX-1 (34), andzebrafish RXR delta and epsilon (35) (Fig. 1 Cand data not
+shown). However, the functional significance of this unusualstructural feature remains unclear.
+The high degree of homology between FOR1 and FOR2 and
+the fact that X. laevis is a pseudotetraploid animal prompted us
+to determine the copy number of the FOR gene. To this end,
+genomic Southern blot analysis was carried out. Several posi-tive bands were obtained with the various restriction enzymes(Fig. 1D). Assuming that the FOR1 andFOR2 genes, like other
+nuclear receptor genes, contain a number of introns, theseresults are consistent with the possibility that there are onlytwoFOR genes in the Xenopus genome. However, it is possible
+that there are a limited number of additional copies.
+In search of homologues of FXR in other vertebrate species
+we also cloned a partial complementary DNA from chicken(cFXR) (Fig. 1E). Surprisingly, this clone demonstrated a veryhigh amino acid identity with rat FXR (rFXR). FOR and rFXRshared an amino acid identity of 20% in the hyper variable A/Bdomain whereas cFXR and rFXR shared 53% amino acid iden-tity in this region. The DBD of these two FXRs shared 92%identity, and the DE region comprising the hinge region, thecomplete helix 1, and helix 2 sequence showed amino acididentity of 76%, whereas the DBD and DE domain of FOR1 andrFXR shared amino acid identity of 86 and 46%, respectively.Fig. 1E demonstrates domain by domain alignment of FOR1
+and rFXR with the partial cFXR cDNA. Taken together theseresults demonstrate that FORs are novel members of the FXRsubfamily.
+Expression of FOR—To confirm the predicted size of the FOR
+proteins, an in vitro translation assay was performed. As
+shown in Fig. 2A, SDS-PAGE analysis of in vitro translatedFOR1 and FOR2 showed products close to 58 and 60 kDa,respectively. These results are consistent with the estimatedprotein sizes based on the open reading frames of the FOR1 andFOR2 cDNAs.
+To characterize the expression of the FOR genes, Northern
+blot analysis was performed. An /H110111.8-kb FOR mRNA tran-
+script is dominantly expressed in liver and kidney in adultXenopus (Fig. 2B). FOR mRNA was not detected at significant
+levels in early embryonic stages (morula, blastula, gastrula,and neurula, data not shown) but is transiently present intadpoles between stages 33 and 45 (Fig. 2C). To further under-stand the spatio-temporal expression profile of FOR, wholemount in situ hybridization (WISH) was performed in a series
+of developing Xenopus embryos. The examined stages are fol-
+lowing; one cell (stage 1), mid-blastula (stage 8), early gastrula(stage 10), yolk plug (stage 12), neural plate (stage 14), neuralfold (stage 16), neural tube (stage 20), early tail bud (stage 25),mid-tail bud (stage 30), hatching larvae (stage 35), swimminglarvae (stage 41), and feeding larvae (stage 45).
+In agreement with the Northern blot analysis, FOR expres-
+sion began to be detected around stage 30 in the presumptiveliver region (Figs. 3, Aand B), and the peak level of FOR
+expression was found at stages 35 to 36 (Fig. 3, Cand D).
+Especially, at this peak stage, not only the intensity of hybrid-ization signal was higher but also the expression domain wasbroader than those in the previous stages. Expression declinedafter stages 35 to 36, and only a low level of hybridizationsignal was detected in the stage 41 embryos (Fig. 3, EandF).
+Thereafter, FOR expression was no longer detected.
+The expression profile of FOR was consistent among the
+Xenopus embryos examined by WISH, and very little variation
+was observed among sibling embryos in their FOR signal ex-pression. Throughout the whole developmental stages, only abackground level of hybridization signal was detected withsense probe (data not shown). Taken together, these resultssuggest that FOR expression primarily functions in liver and
+FIG.2 .Expression of FOR. A, SDS-
+PAGE analysis of in vitro transcribed and
+translated FOR1 and FOR2. FOR1 and
+FOR2 were transcribed and translated inthe presence of [
+35S]methionine in vitro,
+and resolved by 12% PAGE. Murine FXRwas used as a positive control. Numbers
+on the right indicate molecular mass in
+kilodaltons. The positions of the proteinbands are indicated by an arrow. B, ex-
+pression of FOR in adult Xenopus tissues.
+A Northern blot containing /H1101130
+/H9262go ft o -
+tal RNA from the indicated Xenopus tis-
+sues was hybridized with FOR1 cDNAand following washing was autoradio-graphed. Equal loading of total RNA ineach lane was demonstrated with 18 Sribosomal RNA. C, expression of FOR
+mRNA in developmental stages. 10
+/H9262go f
+total RNA was isolated from the indicateddevelopmental stages, and Northern blotanalysis was performed using the FOR1cDNA as a probe. As an RNA loading con-trol, the blot was reprobed with the cDNAfor the ribosomal protein L8 (rpL8).Cloning and Characterization of Orphan Nuclear Receptor FOR 17840
+kidney in adult Xenopus and may also play an important role in
+liver development during late embryonic stages.
+Interaction of FOR with RXR—To determine whether FORs
+could form heterodimeric complexes with the universal het-
+erodimeric partner RXR, GST pull-down assays were per-formed. As shown in Fig. 4 (A and B), FOR1 and FOR2 were
+able to form heterodimeric complexes with RXR in vitro.T o
+further confirm the interaction between RXR and FOR1 orFOR2 in vivo, a mammalian two-hybrid assay was performed.
+The LBD of both FOR1 and FOR2 were fused to the GAL4 DBDin a CMV promoter-driven mammalian expression vector, andthe RXR LBD was similarly fused to the VP16 activation do-main. Transient transfection experiments were performed inCV-1 cells using a reporter in which luciferase expression iscontrolled by a promoter containing GAL4 DNA binding sites.As shown in Fig. 4C, the combination of the FOR and RXRhybrids resulted in strong activation of this reporter, demon-strating that FOR formed a heterodimeric complex with RXR.
+However, neither homodimerization nor heterodimerizationbetween the two FOR isoforms were observed. These resultsdemonstrate that FOR, as expected from its relationship withFXR, forms a heterodimeric complex with RXR.
+DNA Binding Properties of FOR —Because the DBDs of FOR
+and FXR showed 86% sequence identity and an identical P boxmotif, which specifies the DNA hexamer recognized by receptormonomers (28), we examined whether FOR binds to previouslyreported FXR binding sites. Electrophoretic mobility shift as-says were performed using an oligonucleotide containing theIR1 site from the PLTP gene promoter (23). As expected, both
+FOR1 and FOR2 formed specific DNA protein complexes withthis element when combined with RXR, and this complex couldbe successfully competed with a 50-fold molar excess of cold IR1but not with a 50-fold molar excess of unrelated oligonucleotide(Fig. 5A). Neither FOR1 nor FOR2 formed a monomeric com-plex with the IR1 site in the absence of RXR. Surprisingly,FORs did not bind other FXR binding sites, including theecdysone response element (EcRE) from the Drosophila heat-
+shock protein 27 promoter (hsp27) (Fig. 5 B) and various other
+direct and inverted repeat DNA elements that have been re-ported as potential FXR target sites (data not shown).
+FORs Are Activated by Frog Gallbladder Extract—Solvent-
+partitioned organic extracts of tissues known to express FOR,gallbladder and kidney, were examined to identify naturalFOR ligands. HEK 293 cells were cotransfected with fusionproteins consisting of the GAL4 DNA binding domain and theligand binding domains of FOR1 or hRXR
+/H9251, along with an
+appropriate luciferase reporter plasmid and a vector express-ing the LBD of hRXR
+/H9251as indicated. Following transfection,
+cells were treated with gallbladder tissue extracts. Interest-ingly, the 1-butanol extract of bullfrog gallbladder inducedGAL-FOR1-mediated luciferase activity by 1.4-fold at 10
+/H9262g/ml,
+whereas GAL4-hRXR /H9251and L-hRXR /H9251(data not shown) demon-
+strated no response to the extract (Fig. 6A) indicating that theeffect of this tissue extract was FOR-specific. Coexpression ofthe RXR ligand binding domain with GAL4-FOR1 resulted in asomewhat higher activation (1.8- fold) at the same concentra-tion than observed with GAL4-FOR1 alone. These effects weredose-dependent (Fig. 6B), and similar results were obtainedusing GAL4-FOR2 (data not shown). These results indicatethat the 1-butanol-soluble extract of bullfrog gallbladder con-tains activators of the two orphan nuclear receptors, FOR1 andFOR2. To further investigate this response, full-length FORsand a reporter construct driven by three copies of IR1 elementsfrom PLTP promoter were cotransfected in HEK 293 cells fol-lowed by treatment with indicated doses of 1-butanol extract.Results similar to those with the chimeric FOR1 were obtained,and the 1-butanol extract was more effective in activating FOR2than FOR1 (Fig. 6C ). To further confirm the gallbladder extract-
+mediated FOR activity, the active 1-butanol-soluble fraction wasfurther fractionated by a silica open column and eluted sequen-tially with methyl chloride and methanol (3:1, v/v) and 100%methanol containing 0.01% trifluoroacetic acid. Among 56 frac-tions collected, the sixth fraction ( R
+f/H110050.75– 0.85) significantly
+activated GAL4-FOR 2 (Fig. 6 D, 3.8-fold, p/H110210.001), and similar
+responses were obtained with GAL4-FOR1 (data not shown).
+These results showed that the amphibian gallbladder containsone or more distinct ligands for FORs. However, known FXRagonists, including chenodeoxycholic acid and synthetic retinoidTTNPB failed to activate the FORs indicating that the amphib-ian bile acids, which act as the agonist for FORs, may structur-ally differ from the mammalian bile acids.
+Taken together, FORs are ligand-responsive and their trans-
+activation functions were mediated through FOR1/RXR or
+FIG.3 .The expression profiles of FOR in the developing Xeno-
+pus embryos. FOR expression was examined by whole mount in situ
+hybridization using digoxigenin-labeled antisense riboprobe. The ex-
+pression of FOR is limited to the presumptive liver region indicated bythewhite arrowhead. Panels A, C, and Eare lateral views of developing
+embryos and B,D, and Fare ventral views, respectively. Aand B,
+embryos at stage 30 (mid-tail bud stage). The FOR expression begins to
+be detected from this stage in the presumptive liver region (indicated bythewhite arrowhead). Cand D, embryo at stage 35. The FOR expres-
+sion in the embryo reaches a peak level at this stage. Note more intensestaining in the broader expression domain compared with the embryosat stage 30. EandF, embryos at stage 41. The FOR expression declines
+remarkably at this stage.Cloning and Characterization of Orphan Nuclear Receptor FOR 17841
+FOR2/RXR heterodimers, and these results indicate that FORs
+are ligand-activated receptors and their specific ligands arepresent in the gallbladder of frogs. It is expected that theseligands would be bile acids, and currently the potential role ofamphibian bile acids as ligands for FOR1 and FOR2 are underinvestigation.
+DISCUSSION
+Herein we describe the isolation and characterization of a
+novel orphan nuclear receptor that we have named FOR. Theamino acid sequence of FOR is most closely related to thepreviously characterized orphan nuclear receptor FXR. LikeFXR, FORs form heterodimeric complexes with RXR and aremost abundantly expressed in adult liver and kidney (15, 16).
+Tissue-specific expression was also observed in metamorphos-ing tadpole liver. FOR is not expressed in early embryonicstages but shows a peak expression in early tadpole stages,
+raising the possibility that FOR plays a role in development ofliver in amphibians.
+Several lines of evidence demonstrate that FOR is not an
+orthologue of mammalian FXR. The simplest is that the LBD of
+FOR shows only 45% amino acid identity to that of FXR,whereas human and Xenopus RAR
+/H9251, for example, share 88%
+identity in the LBD. Moreover, comparison of FOR, rFXR, anda newly cloned cFXR amino acid sequences revealed that, al-though the cFXR and rFXR shared a very high amino acididentity, FOR exhibited significantly high homology with rFXRonly in the DBD. To identify potentially closer relatives of FXR,several rounds of screening of appropriate Xenopus cDNA li-
+braries with various low and high stringent conditions wereperformed using mouse FXR cDNA as a probe. However, nocDNA clones except FOR1 and FOR2 were isolated, indicating
+FIG.4 .FOR interacts with RXR both in vitro and in vivo. AandB, GST-pull-down assay of FOR1 and FOR2. Equal amounts of in vitro
+translated, [35S]-methionine labeled FOR1 and FOR2 were incubated with either GST or GST RXR fusion protein. In vitro translated RXR was
+used as a positive control. The complex of GST-FOR1 and FOR2 was extensively washed, eluted with reduced glutathione, and resolved by
+SDS-PAGE. Specific bands corresponding to FOR1 and FOR2 were visualized by autoradiography. C, mammalian two-hybrid assay of FOR1 and
+FOR2. CV-1 cells were transiently cotransfected with a luciferase reporter construct driven by four copies of GAL4 upstream activating sequenceand CMV promoter-driven expression vectors encoding the yeast GAL4-DBD alone, GAL4-FOR1 and FOR2-LBD, herpesvirus VP16 transactiva-tion domain alone, or the VP16 activation domain linked to the amino-terminal end of RXR, FOR1 LBD, and FOR2 LBD, as indicated. 48 h post
+transfection, cells were lysed and luciferase activity was measured and normalized against
+/H9252-galactosidase activity. The result shown is the mean
+of three independent experiments. F1, FOR1; F2, FOR2; R, RXR; N; empty vector.
+FIG.5 .FORs specifically bind IR1
+element from PLTP gene promoter.End-labeled oligonucleotides correspond-ing to IR1 from PLTP (A) gene promoter
+or EcRE (B) of the hsp27 promoter wereincubated with in vitro transcribed and
+translated FOR1, FOR2, and RXR in var-ious combinations as indicated in the Fig.10- or 50-fold molar excess of correspond-ing specific unlabeled oligonucleotides orunrelated oligonucleotides (ns) were in-cluded in the reactions as indicated. TheDNA-protein complexes were resolved by5% non-denaturing PAGE and analyzedby autoradiography.Cloning and Characterization of Orphan Nuclear Receptor FOR 17842
+that FOR may be the sole representative of the FXR subfamily
+inXenopus.
+More direct evidence of the functional differences between
+theXenopus and mammalian protein is provided by the finding
+that, although FOR binds the IR1 from PLTP gene promoter, it
+does not bind other preferential FXR recognition elements,including the EcRE from Drosophila hsp27 gene promoter,
+despite the 86% amino acid identity between their DBDs. Thisresult was somewhat surprising, because FXR and the ecdys-one receptor (EcR), which share 81% identity, can both bind tothis element. Furthermore, several potential FXR ligands, in-cluding TTNPB, chenodeoxycholic acid, and a large number ofbile acid derivatives failed to cause any change in FOR activity,indicating that although FORs are structurally similar to theFXR their ligand selectivity is quite different.
+The 33-amino acid insertion in the putative helix 7 of FORs
+may be responsible for the differences in DNA binding andtranscriptional characteristics of FORs and FXR. A somewhatsimilar phenomenon has been observed in zebrafish, wherezebrafish RXR delta and epsilon (35) contain an insertion in thesimilar region and these isoforms neither bind RXR recognitionelements nor are activated by RXR ligands. However, the abil-ity of the FOR LBD to interact with RXR demonstrates thatthis domain retains at least this function.The ability of partially purified frog gallbladder extract to
+activate FORs indicates that FORs, like FXR, are ligand-
+activated receptors. Several reports have demonstrated the pres-ence of bile acids and bile alcohols in amphibians that are mark-edly different from their mammalian counterparts (26, 27). Suchamphibian bile acids or bile alcohols may represent potentialFOR ligands. Alternatively, identification of the FOR ligand(s)may require purification and detailed characterization.
+In summary, we have isolated a novel orphan nuclear recep-
+tor termed FOR, which is most closely related to the mamma-lian bile acid receptor FXR. FOR belongs to the nuclear hor-mone receptor superfamily 1 group H and, like several othermembers of this group, is expressed in liver. Both the limitedamino acid sequence conservation of the LBD and the lack offunctional similarities indicate that these relatives are nottrue orthologues. Thus, FOR may be involved in the regula-tion of metabolism of either endogenous or exogenous com-pounds in adult animals, and in liver development in tad-poles, but its physiological functions in amphibians remain tobe identified.
+Acknowledgments—We thank Dr. Jae Woon Lee for critical reading
+of the manuscript and Joon Young Kim and Indranil Chatterjee for
+excellent technical assistance.
+FIG.6 .Transactivation of FOR genes induced by extract of bullfrog gallbladders. A, GAL4 chimeric FOR1 was activated by extract of
+gallbladders on 293 cells. The 293 cells were transiently transfected with indicated receptors and reporter plasmids and treated with a 10 /H9262g/ml
+1-butanol-soluble extract of bullfrog gallbladders or vehicle alone in triplicate. Luciferase activity was normalized to the internal control
+(/H9252-galactosidase) and plotted as -fold induction relative to untreated cells. Each experiment was repeated more than three times. Band C,
+dose-response profiles on the 293 cells transfected with indicated receptor and reporter that is regulated either by GAL4 (B) or by FOR responseelement (PLTP, C).D, following cotransfection of GAL4-FOR2 with GAS Luc, the cells were treated with indicated fractions (40
+/H9262g/ml) eluted from
+a silica open column with methyl chloride and methanol (3:1, v/v). The fractions dissolved in Me2SO were tested in triplicate, and the experiments
+were performed at least three times. Single anddouble asterisks indicate the respective pvalues as determined by Student’s one-tailed unpaired
+ttest. GAL4N, empty vector containing GAL4 DBD only; L-hRXR /H9251, human RXR /H9251LBD; C,M e2SO vehicle alone.Cloning and Characterization of Orphan Nuclear Receptor FOR 17843
+REFERENCES
+1. Evans, R. M. (1988) Science 240, 889–895
+2. Gigue `re, V. (1999) Endocr. Rev. 20,689–725
+3. Umesono, K., and Evans, R. M. (1989) Cell 57,1139 –1146
+4. Gigue `re, V. (1994) Endocr. Rev. 15,61–79
+5. Gigue `re, V., Yang, N., Segui, P., and Evans, R. M. (1988) Nature 331, 91–94
+6. Baes, M., Gulick, T., Choi, H.-S., Martinoli, M. G., Simha, D., and Moore, D. D.
+(1994) Mol. Cell. Biol. 14,1544 –1551
+7. Dumas, B., Harding, H. P., Choi, H. S., Lehmann, K. A., Chung, M., Lazar,
+M. A., and Moore, D. D. (1994) Mol. Endocrinol. 8,996–1005
+8. Kostrouch, Z., Kostrouchova, M., and Rall, J. E. (1995) Proc. Natl. Acad. Sci.
+U. S. A. 92,156–159
+9. Seol, W., Choi, H. S., and Moore, D. D. (1996) Science 272, 1336 –1339
+10. Hong, H., Yang, L., and Stallcup, M. R. (1999) J. Biol. Chem. 274,
+22618 –22626
+11. Woronicz, J. D., Calnan, B., Ngo, V., and Winoto, A. (1994) Nature 367,
+277–281
+12. Seol, W., Chung, M., and Moore, D. D. (1997) Mol. Cell. Biol. 17,7126 –7131
+13. Parker, K. L. (1998) Mol. Cell. Endocrinol. 145, 15–20
+14. Yamagata, K., Furuta, H., Oda, N., Kaisaki, P. J., Menzel, S., Cox, N. J.,
+Fajans, S. S., Signorini, S., Stoffel, M., and Bell, G. I. (1996) Nature 384,
+458–460
+15. Seol, W., Choi, H.-S., and Moore, D. D. (1995) Mol. Endocrinol 9,72–85
+16. Forman, B. M., Goode, E., Chen, J., Oro, A. E., Bradly, D. J., Perlmann, T.,
+Noonan, D. J., Burka, L. T., McMorris, T., Lamph, W. W., Evans, R. M., and
+Weinberger, C. (1995) Cell 81,687– 693
+17. Zavacki, A. M., Lehmann, J. M., Seol, W., Willson, T. M., Kliewer, S. A., and
+Moore, D. D. (1997) Proc. Natl. Acad. Sci. U. S. A. 94,7909 –7914
+18. Makishima, M., Okamoto, A. Y., Repa, J. J., Tu, H., Learned, R. M., Luk, A.,
+Hull, M. V., Lustig, K. D., Mangelsdorf, D. J., and Shan, B. (1999) Science
+284, 1362–1365
+19. Parks, D. J., Blanchard, S. G., Bledsoe, R. K., Chandra, G., Consler, T. G.,
+Kliewer, S. A., Stimmel, J. B., Willson, T. M., Zavacki, A. M., Moore, D. D.,and Lehmann, J. M. (1999) Science 284, 1365–1368
+20. Wang, H., Chen, J., Hollister, K., Sowers, L. C., and Forman, B. M. (1999) Mol.
+Cell 3,543–553
+21. Grober, J., Zaghini, I., Fujii, H., Jones, S. A., Kliewer, S. A., Willson, T. M.,
+Ono, T., and Besnard, P. (1999) J. Biol. Chem. 274, 29749 –29754
+22. Chiang, J. Y. L., Kimmel, R., Weinberger, C., and Stroup, D. (2000) J. Biol.
+Chem. 275, 10918 –10924
+23. Laffitte, B. A., Kast, H. R., Nguyen, C. M., Zavacki, A. M., Moore, D. D., and
+Edwards, P. A. (2000) J. Biol. Chem. 275, 10638 –10647
+24. Goodwin, B., Jones, S. A., Price, R. R., Watson, M. A., McKee, D. D., Moore,
+L. B., Galardi, C., Wilson, J. G., Lewis, M. C., Roth, M. E., Maloney, P. R.,
+Willson, T. M., and Kliewer, S. A. (2000) Mol. Cell 6,517–526
+25. Lu, T. T., Makishima, M., Repa, J. J., Schoonjans, K., Kerr, T. A., Auwerx, J.,
+and Mangelsdorf, D. J. (2000) Mol. Cell 6,507–515
+26. Une, M., Matsumoto, N., Kihira, K., Yasuhara, M., Kuramoto, T., and Hoshita,
+T. (1980) J. Lipid Res. 21,269–276
+27. Noma, Y., Une, M., Kihira, K., Yasuda, M., Kuramoto, T., and Hoshita, T.
+(1980) J. Lipid Res. 21,339–346
+28. Ubbels, G. A., Hara, K., Koster, C. H., and Kirschner, M. W. (1983) J. Embryol.
+Exp. Morphol. 77,15–37
+29. Niewkoop, P. D., and Faber, J. (1994) Normal Table of Xenopus laevis, 2nd Ed.,
+North Holland, Amsterdam
+30. Lee, H.-K., Lee, Y.-K., Park, S.-H., Kim, Y.-S., Park, S. H., Lee, J. W., Kwon,
+H.-B., Soh, J., Moore, D. D., and Choi, H.-S. (1998) J. Biol. Chem. 273,
+14398 –14402
+31. Liang, V. C., Sedgwick, T., and Shi, Y.-B. (1997) Cell Res. 7,179–193
+32. Harland, R. M. (1991) Methods. Cell Biol. 36,685– 695
+33. Weinstein, D. C., Ruiz i Albata, A., Chen, W. S., Hoodless, P., Prezioso, V. R.,
+Jessel, T. M., and Darnell, J. E., Jr. (1994) Cell 78,575–588
+34. Zanaria, E., Muscatelli, F., Bardoni, B., Strom, T. M., Guioli, S., Guo, W., Lalli,
+E., Moser, C., Walker, A. P., McCabe, E. R. B., Meitinger, T., Monaco, A. P.,Sassone-Corsi, P., and Camerino, G. (1994) Nature 372, 635– 641
+35. Jones, B. B., Ohno, C. K., Allenby, G., Boffa, M. B., Levin, A. A., Grippo, J. F.,
+and Petkovich, M. (1995) Mol. Cell. Biol. 15,5226 –5234Cloning and Characterization of Orphan Nuclear Receptor FOR 17844

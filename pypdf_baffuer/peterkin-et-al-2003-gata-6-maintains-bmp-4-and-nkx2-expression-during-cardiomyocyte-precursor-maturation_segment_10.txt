@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["C40", "C72", "C65", "C41", "C45", "C116", "C97", "C103", "C101", "C100", "C109", "C82", "C78", "C77"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

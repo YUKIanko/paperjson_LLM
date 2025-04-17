@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "Nkx2-5",
+    "CSX/Nkx2.5",
+    "dHAND",
+    "Hand1",
+    "Hand2",
+    "GATA1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mouse",
+      "murine",
+      "chicken"
+    ]
+  }
+}

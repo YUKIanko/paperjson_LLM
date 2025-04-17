@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Hex", "Nkx2.5 MO", "C1 MO", "lineage tracer", "GATA 5-GR protein", "cycl oheximide (Chx)", "dexamethas one"],
+    "model_organisms": ["Xenopus", "zebrafish", "mouse"]
+  }
+}

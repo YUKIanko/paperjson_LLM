@@ -1,0 +1,101 @@
+{
+  "title": "Essential role of GATA-4 in cell survival and drug-induced cardiotoxicity",
+  "authors": [
+    "Anne Aries",
+    "Pierre Paradis",
+    "Chantal Lefebvre",
+    "Robert J. Schwartz",
+    "Mona Nemer"
+  ],
+  "references": [
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "genes": [
+    "GATA-4",
+    "BCL-XL",
+    "Bcl-X",
+    "ANF",
+    "BCL-X",
+    "P/H110210"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Institut de Recherches Cliniques de Montre´al",
+      "Universite´ de Montre´al",
+      "Department of Cell Biology, Baylor College of Medicine",
+      "Massachusetts Institute of Technology",
+      "Charles River Breeding Laboratories"
+    ],
+    "experimental_methods": [
+      "RNA and protein extractions and analysis",
+      "Dox treatment",
+      "infusion of Phe (phenylephrine)",
+      "treatment with Dox i.p.",
+      "Anesthesia with Avertin",
+      "tail-cuff technique",
+      "Two-dimensional guided M-mode echocardiography",
+      "immunohistochemistry",
+      "TUNEL technique",
+      "Northern blot analyses",
+      "transcription",
+      "cardiomyocyte differentiation",
+      "mutational analysis",
+      "gel-shift analyses",
+      "RNA and protein analysis",
+      "Western blot analyses",
+      "actinomycin D treatment",
+      "semiquantitative RT-PCR",
+      "immunohistochemistry",
+      "Northern blot analysis",
+      "TUNEL assays",
+      "echocardiography",
+      "TUNEL assay",
+      "quantitative PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "doxorubicin",
+      "anthracyclines",
+      "Dox (doxorubicin)",
+      "RNA",
+      "protein",
+      "Phe (phenylephrine)",
+      "ascorbic acid",
+      "Alzet microosmotic pump model 1002",
+      "fentanyl",
+      "droperidol",
+      "1:1 mixture of fentanyl and droperidol",
+      "agarose pad",
+      "acoustic coupling gel",
+      "Apoptag kit (Inter-gen, Purchase, NY)",
+      "methyl green",
+      "Dox",
+      "actinomycin D",
+      "RNA polymerase",
+      "serum response factor (SRF)",
+      "GATA-4 antibodies",
+      "GATA /H20862SRE probe",
+      "Dox",
+      "Bcl-X L",
+      "adenovirus vectors",
+      "/H9262m.",
+      "Bcl-X LmRNA and protein",
+      "adenoviruses expressing LacZ or GATA-4",
+      "antisense G4",
+      "cold competitor DNAs"
+    ],
+    "model_organisms": [
+      "mouse",
+      "Mice (C3H)",
+      "mice",
+      "Gata4 null mice",
+      "Gata4/H11001//H11002mice",
+      "Wt",
+      "NIH 3T3-overexpressing GATA-4 or cardiomyocytes"
+    ]
+  }
+}

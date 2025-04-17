@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XCR1", "FGF-receptor", "Smad2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNase protection", "Phospho-Imager", "Western blot analysis", "PNGase F treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["rabbit polyclonal antibody", "Xenopus embryo", "synthetic mRNA", "Smad2 phosphorylation", "Vg-1"],
+    "model_organisms": ["Xenopus"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XCR1", "XCR3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNase protection assay", "In situ hybridisation", "Western blotting"],
+    "software_tools": ["ImageJ"],
+    "reagents_chemicals": ["morpholinos", "digoxigenin-UTP", "caprylic acid", "antibodies", "protein extracts", "PNGase F"],
+    "model_organisms": ["Xenopus"]
+  }
+}

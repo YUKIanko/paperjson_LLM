@@ -1,0 +1,13 @@
+{
+  "title": "Distinct Enhancers Regulate Skeletal and Cardiac Muscle-Speciﬁc Expression Programs of the Cardiac/H9251-Actin Gene in Xenopus Embryos",
+  "authors": ["Branko V. Latinkic´", "Brian Cooper", "Norma Towers", "Duncan Sparrow", "Surendra Kotecha", "Timothy J. Mohun"],
+  "references": ["Elsevier Science (USA) © 2002"],
+  "genes": ["ACTN1", "/H9251-actin"],
+  "proper_nouns": {
+    "institutions": ["National Institute for Medical Research, The Ridgeway, London NW7 1AA, United Kingdom"],
+    "experimental_methods": ["transgenic embryos", "promoter-proximal CArG box", "multimerised copies of CArG box 1", "equivalent reporters containing the SRF binding site from the c- fos promoter"],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9251-cardiac actin gene", "GFP transgene"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

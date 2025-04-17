@@ -1,0 +1,138 @@
+{
+  "title": "Essential role of GATA-4 in cell survival and drug-induced cardiotoxicity",
+  "authors": ["Anne Aries", "Pierre Paradis", "Chantal Lefebvre", "Robert J. Schwartz", "Mona Nemer"],
+  "references": [],
+  "genes": ["GATA-4", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": ["Institut de Recherches Cliniques de Montre´al", "Universite´ de Montre´al", "Department of Cell Biology, Baylor College of Medicine", "University of Texas Southwestern Medical Center"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["doxorubicin"],
+    "model_organisms": ["mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Bcl-2", "GATA-4", "Bcl-XL", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": [
+      "Charles River Breeding Laboratories",
+      "Institut de Recherches Cliniques de Montréal"
+    ],
+    "experimental_methods": ["RNA and protein extractions and analysis", "treatment with Dox, saline with or without s.c. infusion of Phe, vehicle by using Alzet microosmotic pump model1002"],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "anthracyclines",
+      "Dox",
+      "phenylephrine (Phe)",
+      "ascorbic acid"
+    ],
+    "model_organisms": ["C3H mice", "Gata4/H11001//H11002 mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": ["Institut de Recherches Cliniques de Montre´al"],
+    "experimental_methods": ["tail-cuff technique", "Two-dimensional guided M-mode echocardiography", "imunohistochemistry", "Terminal Deoxynucleotidyltransferase-mediated dUTP end-labeling (TUNEL)", "Student's unpaired t-test", "one-way ANOVA test", "repeated-measures ANOVA test", "Kaplan-Meier survival analysis"],
+    "software_tools": ["Sonos 5500"],
+    "reagents_chemicals": ["1.5% isoflurane", "fentanyl", "droperidol", "agarose pad", "acoustic coupling gel", "methyl green", "Apoptag kit (Inter-gen, Purchase, NY)"],
+    "model_organisms": ["mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [28, 29, 30, 31, 32],
+  "genes": ["ANF"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blot analyses", "gel-shift analyses", "Western blot analyses", "RNA and protein analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "actinomycin D", "RNA polymerase inhibitor"],
+    "model_organisms": ["mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semiquantitative RT-PCR", "immunohistochemistry", "Northern blot analysis", "adenovirus-mediated gene transfer", "TUNEL assay"],
+    "software_tools": [],
+    "reagents_chemicals": ["actinomycin D", "cycloheximide", "doxorubicin (Dox)", "antibody to TUNEL", "adenovirus vector for GATA-4 sense transcript", "adenovirus vector for GATA-4 antisense transcript"],
+    "model_organisms": ["Gata4 null mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["DNA microarrays", "real-time quantitative PCR", "Western blot analysis", "gel-shift assays", "cotransfection assays"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox (doxorubicin)", "TUNEL assay", "Bcl-X L"],
+    "model_organisms": ["Gata4/H11001//H11002 mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["36", "37", "20", "38"],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["TUNEL assays", "echocardiography"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "/H92511-adrenergic agonists", "bone morphogenetic proteins", "retinoic acid", "Phe", "Bcl-X L"],
+    "model_organisms": ["GATA-4/H11001//H11002mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["TUNEL assay", "Northern blot analyses", "gel-shift analyses", "Western blot", "quantitative PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "Phe", "Bcl-X LmRNA", "Bcl-X protein", "adenoviruses expressing LacZ or GATA-4", "antisense GATA-4 transcripts (ASG4)", "cold competitor DNAs"],
+    "model_organisms": ["NIH 3T3-overexpressing GATA-4"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Aries"],
+  "references": [],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "/H92511-adrenergic agonist", "/H11001Phe"],
+    "model_organisms": ["mice"]
+  }
+}

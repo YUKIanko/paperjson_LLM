@@ -1,0 +1,51 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA6",
+    "GATA4",
+    "HAND1",
+    "HAND2",
+    "NKX2-5",
+    "SRF",
+    "MYOCD",
+    "NCX1",
+    "/H9251MHC",
+    "/H9252MHC",
+    "Cardiac alpha actin",
+    "MLC2A",
+    "MLC2V",
+    "ANF",
+    "Skeletal actin",
+    "FGF1",
+    "BMP2",
+    "BMP4",
+    "AFP",
+    "ALB1",
+    "HNF4",
+    "RBP",
+    "TTR"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Southern blot analysis",
+      "RT-PCR",
+      "dissecting microscope",
+      "in situ hybridization",
+      "Immunohistochemistry"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Pregnant mare serum gonadotropin",
+      "Qiagen’s RNeasy minikit",
+      "Tungsten needles",
+      "/H9251MHC",
+      "/H9252MHC"
+    ],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

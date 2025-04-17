@@ -1,0 +1,24 @@
+{
+  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR 17840",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Fxr",
+    "For"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern blot",
+      "12% PAGE"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "18 S ribosomal RNA",
+      "rpL8"
+    ],
+    "model_organisms": [
+      "Xenopus"
+    ]
+  }
+}

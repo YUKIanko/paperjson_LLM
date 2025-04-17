@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["Kim Y", "Ma AG", "Kitta K", "Fitch SN", "Ikeda T", "Ihara Y"],
+  "references": [],
+  "genes": ["GATA-4", "GATA5", "GATA6", "NF-ATc"],
+  "proper_nouns": {
+    "institutions": ["Nottingham.ac.uk"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "Xenopus"]
+  }
+}

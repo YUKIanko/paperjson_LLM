@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "PECAM", "TBX2", "NPPA"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["T2Cre-mediated activation", "R26RstoplacZ reporter", "X-gal staining", "sagittal plane sectioning", "AVC explants production", "endocardial GATA4 activity is required for mesenchyme formation in AV cushion explants", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["Pecam-expressing endothelial cells", "SMA (smooth muscle alpha-actin)", "blue", "yellow", "red"],
+    "model_organisms": ["Gata4T2del embryos"]
+  }
+}

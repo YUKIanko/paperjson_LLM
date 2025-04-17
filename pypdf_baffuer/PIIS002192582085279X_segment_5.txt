@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [23],
+  "genes": ["FOR1", "FOR2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Electrophoretic Mobility Shift Assay", "transient transfections", "cloning and characterization of orphan nuclear receptor FOR17837", "genomic Southern blot analysis"],
+    "software_tools": ["MacVector software"],
+    "reagents_chemicals": ["MEM", "resin-charcoal-stripped fetal bovine serum", "penicillin G", "streptomycin sulfate", "SuperFect (Qiagen)", "amphibian gall-bladder extract", "dimethyl sulfoxide", "end-labeled IR1 or EcRE oligonucleotides"],
+    "model_organisms": ["X. laevis"]
+  }
+}

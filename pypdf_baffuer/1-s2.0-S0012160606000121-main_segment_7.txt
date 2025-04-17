@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["SOX17", "Xbra", "EF-1α", "XCR1", "Smad2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNase protection assay", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["E-cadherin"],
+    "model_organisms": ["Xenopus"]
+  }
+}

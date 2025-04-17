@@ -1,0 +1,339 @@
+{
+  "title": "Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis",
+  "authors": [
+    "Jeffery D. Molkentin",
+    "Qing Lin",
+    "Stephen A. Duncan",
+    "Eric N. Olson"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "University of Texas Southwestern Medical Center at Dallas",
+      "The Rockefeller University"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Nascone and Mercola 1996", "Srivastava et al. 1995", "Lyons et al. 1995", "Felsenfeld 1989", "Tsai et al. 1989", "Yamamoto et al. 1990", "Arceci et al. 1993", "Kelley et al. 1993", "Laverriere et al. 1994", "Morrisey et al. 1996, 1997", "Blobel et al. 1995", "Evans and Felsenfeld 1989", "Tsai et al. 1989", "Martin et al. 1990", "Wilson et al. 1990", "Yamamoto et al. 1990", "Lee et al. 1991", "Zon et al. 1991", "Dorfman et al. 1992"],
+  "genes": ["eHAND", "dHAND", "Nkx2.5", "GATA4", "GATA1", "GATA2", "GATA3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA1", "GATA2", "GATA3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["targeted disruption in ES cells"],
+    "software_tools": [],
+    "reagents_chemicals": ["antisense GATA4 transcripts", "DMSO"],
+    "model_organisms": ["mice", "P19 embryonic carcinoma cells", "Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["C57BL/6 mice", "Sv129"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "ANF", "MLC1A", "~-MHC", "MLC2A", "MLC2V", "Nkx2.5", "eHAND", "dHAND"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA4 null embryos", "wild-type embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Candia et al. 1992", "Ang et al. 1993", "Sasaki and Hogan 1993"],
+  "genes": ["GATA4", "ANF", "Moxl", "HNF3", "MLC1A", "MHC"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["sectioning transversely", "whole-mount in situ hybridization analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["ANF", "MLC1A", "MHC"],
+    "model_organisms": ["GATA4 null embryos", "E8.5 E9.5 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["MHC", "ANF", "GATA4", "HNF313", "OTX2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA4 null embryo"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Heikinheimo et al. 1994", "Laverriere et al. 1994", "Morrisey et al. 1996", "Chen et al. 1994"],
+  "genes": ["GATA4", "HNF3B", "OTX2", "Brachyury", "goosecoid", "Flkl", "Moxl", "HNF4", "c-fetoprotein"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ analysis", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["Brachyury antibody", "goosecoid antibody", "Flkl antibody", "Moxl mRNA", "c-fetoprotein antibody"],
+    "model_organisms": ["GATA4 null embryos", "HNF4 null embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HNF3", "GATA4", "OTX2", "AIP", "HNF4", "APOE", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "whole-mount hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["~-fetoprotein", "L7"],
+    "model_organisms": ["mouse embryo"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Molkentin et al."],
+  "references": ["Stalsberg and DeHaan 1968", "DeRuiter et al. 1992", "Glueksohn-Schoenheimier 1949"],
+  "genes": ["GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["rRNA product L7"],
+    "model_organisms": ["mouse mutation called kinky", "zebrafish mutations named miles apart and bonnie"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Chen et al. 1996", "Stainier et al. 1996", "Suzuki et al. 1995"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": ["Cold Spring Harbor Laboratory"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA4 mutant mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Grepin et al.", "Ip et al.", "Molkentin et al.", "Thuerauf et al.", "Nascone and Mercola", "Grepin et al.", "Morrisey et al."],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["DMSO"],
+    "model_organisms": ["GATA4 null mice"]
+  }
+}
+{
+  "title": "GENES & DEVEL",
+  "authors": [],
+  "references": ["Gove et al. 1997", "J. Molkentin and E. Olson, unpubl.", "Copp 1995", "Chen et al. 1994", "Healy et al. 1995", "Duncan et al. 1997", "Gardner 1983", "Duncan et al. 1994", "Soudais et al. 1995"],
+  "genes": ["GATA6", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus embryos", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Ramirez-Solis et al. (1993)"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": ["Cold Spring Harbor Laboratory"],
+    "experimental_methods": [
+      "electroporation",
+      "growth of ES cells on STO feeder fibroblasts",
+      "FIAU resistance",
+      "Southern analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Sv129 ~ genomic library", "pTK-NEO (Fig. 1)", "AB2.2 ES cells", "STO feeder fibroblasts", "C57BL/6 mice", "pseudopregnant Swiss foster female mice"],
+    "model_organisms": ["C57BL/6 mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR", "Southern blot", "Taq PCR buffer", "whole-mount in situ analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Triton X-100", "proteinase K", "digoxigenin-dUTP"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "GATA4 directs heart tube formation",
+  "authors": [],
+  "references": [
+    {
+      "authors": ["Ang", "S.L.", "A. Wierda", "D. Wong", "K.A. Stevens", "S. Cascio", "J. Rossant", "K.S. Zaret"],
+      "title": "The formation and maintenance of the definitive endoderm lineage in the mouse: Involvement of HNF-3/fork head proteins",
+      "journal": "Development",
+      "year": 1993,
+      "volume": 119,
+      "pages": "1301-1316"
+    },
+    {
+      "authors": ["Arceci", "R.J.", "A.A.J. King", "M.C. Simon", "S.H. Orkin", "D.B. Wilson"],
+      "title": "Mouse GATA-4: A retinoic acid-inducible GATA-binding transcription factor expressed in endodermally derived tissues and heart",
+      "journal": "Mol. Cell. Biol.",
+      "year": 1993,
+      "volume": 13,
+      "pages": "2235-2246"
+    },
+    {
+      "authors": ["Barnes", "J.D.", "J.L. Crosby", "C.M. Jones", "C.V.E. Wright", "B.L.M. Hogan"],
+      "title": "Embryonic expression of Lim-1, the mouse homolog of Xenopus Xlim-1, suggests a role in lateral mesoderm differentiation and neurogenesis",
+      "journal": "",
+      "year": 1994
+    }
+  ],
+  "genes": [
+    "GATA4",
+    "L7",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "total RNA extraction with Trizol reagent",
+      "reverse transcribed with Moloney murine leukemia virus reverse transcriptase",
+      "Taq polymerase-directed PCR reaction",
+      "L7 primers",
+      "GATA6 primers"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Trizol reagent (GIBCO BRL)",
+      "Moloney murine leukemia virus (Mo-MLV) reverse transcriptase",
+      "random hexamers (GIBCO BRL)",
+      "[a-'~2P]dCTP",
+      "L7 primers",
+      "GATA6 primers"
+    ],
+    "model_organisms": [
+      "GATA4 null embryos",
+      "wild-type embryos"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "GATA-2", "HNF-4", "Mox-1", "Mox-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["nonradioactive whole mount in situ hybridization technique"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["quail embryos", "zebrafish", "mouse embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Grepin", "C.", "Dagnino", "L.", "Robitaille", "L.L.", "Haberstroh", "L.L.", "Antakly", "T.", "Nemer", "M.", "Healy", "A.M.", "Rayburn", "H.B.", "Rosenberg", "R.D.", "Weiler", "H.", "Heikinheimo", "M.", "Scandrett", "J.M.", "Wilson", "D.B."],
+  "references": ["EMBO J.", "Mol. Cell. Biol.", "Proc. Natl. Acad. Sci.", "Dev. Biol."],
+  "genes": ["GATA-6", "GATA-4"],
+  "proper_nouns": {
+    "institutions": ["Xenopus embryos", "mouse embryo"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "NF-E1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "Xenopus", "zebrafish"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G4", "G4SP", "C2", "MLC2", "Hex", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["MO injection", "RT-PCR analyses"],
+    "software_tools": [],
+    "reagents_chemicals": ["G4 MO", "C2 MO", "G4SP MO", "MLC2 probe", "Hex probe", "cTnI (purple) probe", "Hex (light blue/turquoise) probes"],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis", "faust mutants", "zebrafish"]
+  }
+}

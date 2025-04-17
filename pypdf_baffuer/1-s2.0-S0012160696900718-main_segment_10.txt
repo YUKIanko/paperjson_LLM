@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["xGATA-4", "xGATA-5", "xGATA-6", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole mount in situ hybridization", "LiCl treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["Albino embryos", "LiCl", "As shown in Fig. 4A", "RNA", "cardiac actin", "MHC a"],
+    "model_organisms": ["embryos"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "GATA4 is essential for formation of the proepicardium and regulates cardiogenesis",
+  "authors": ["Alistair J. Watt", "Michele A. Battle", "Jixuan Li", "Stephen A. Duncan*"],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": ["Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin", "University of Texas Southwestern Medical Center"],
+    "experimental_methods": ["tetraploid embryocomplementation", "generated clonalembryonic day 9.5 Gata4/H11546//H11546embryos directly from embryonic stem cells"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}

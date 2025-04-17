@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mohun et al., 1989b", "Kroll and Amaya, 1996", "Sparrow et al., 2000a", "Mohun and Garrett, 1987", "Tayloret al., 1989", "Treisman, 1985", "Sive, 2000", "Smith et al., 1988"],
+  "genes": ["H9251-actin", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["direct DNA injection assay", "transgenesis", "Xenopus embryo manipulations", "blastula animal pole explants dissection", "DNA injections"],
+    "software_tools": [],
+    "reagents_chemicals": ["activin", "mGFP5", "SV40 polyadenylation sequence", "oligonucleotides", "KpnI", "Asp718", "PCR", "EcoRI/BamHI fragments", "pF711", "pF100"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

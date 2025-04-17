@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "G5SP", "G5MO", "G5UTR", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["animal cap explants", "co-injected into embryos", "modelled the potential interaction", "designed a MO targeted against both X. laevis alleles and X tropicalis GATA4"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["X. laevis", "Xenopus embryos", "zebrafish", "mouse"]
+  }
+}

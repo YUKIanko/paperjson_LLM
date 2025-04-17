@@ -1,0 +1,13 @@
+{
+  "title": "A novel Cripto-related protein reveals an essential role for EGF-CFCs in Nodal signalling in Xenopus embryos",
+  "authors": ["Karel Dorey", "Caroline S. Hill"],
+  "references": ["lefty", "cyclops", "squint", "cerberus", "Schier (2003)", "Hill (2001)", "Whitman (2001)"],
+  "genes": ["Nodal", "Smad2", "Smad3", "Smad4", "FRL1", "XCR1", "XCR3"],
+  "proper_nouns": {
+    "institutions": ["Cancer Research UK London Research Institute"],
+    "experimental_methods": ["gain and loss of function approaches"],
+    "software_tools": [],
+    "reagents_chemicals": ["Cripto-related protein", "Nodal-related ligands", "Smad2", "Smad3", "Smad4"],
+    "model_organisms": ["Xenopus embryos", "mouse", "zebrafish"]
+  }
+}

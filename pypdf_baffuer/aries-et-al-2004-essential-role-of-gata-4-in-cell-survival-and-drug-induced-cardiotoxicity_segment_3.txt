@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [28, 29, 30, 31, 32],
+  "genes": ["ANF"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blot analyses", "gel-shift analyses", "Western blot analyses", "RNA and protein analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "actinomycin D", "RNA polymerase inhibitor"],
+    "model_organisms": ["mice"]
+  }
+}

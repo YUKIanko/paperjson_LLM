@@ -1,0 +1,13 @@
+{
+  "title": "Differential sensitivities of transcription factor target genes underlie cell type-specific gene expression profiles",
+  "authors": ["Kirby D. Johnson", "Shin-Il Kim", "Emery H. Bresnick*"],
+  "references": [],
+  "genes": ["GATA-1", "FOG-1", "Tac-2"],
+  "proper_nouns": {
+    "institutions": ["University of Wisconsin School of Medicine"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

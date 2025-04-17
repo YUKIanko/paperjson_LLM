@@ -1,0 +1,31 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Gata5",
+    "Epo",
+    "FOG",
+    "HNF3",
+    "HNF4",
+    "TGF"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "UCSF",
+      "Skirball Institute",
+      "UCLA",
+      "AECOM",
+      "Mount Sinai"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "zebrafish",
+      "Xenopus",
+      "mouse"
+    ]
+  }
+}

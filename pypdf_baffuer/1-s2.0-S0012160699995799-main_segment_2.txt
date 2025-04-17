@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Tonissen et al., 1994", "Drysdale et al., 1997", "Jacobson, 1960", "Fautrez and Amano, 1961", "Orts-Llorca, 1964", "DeHaan, 1965", "Rosenquist and DeHaan, 1966", "Jacobson and Duncan, 1968", "Sarasa and Climent, 1987", "Sater and Jacobson, 1990a", "Goldstein and Fishman, 1998", "Cleaver et al., 1996"],
+  "genes": ["XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["lineage", "3D reconstruction", "explant experiments", "Culture of Embryos", "Histology", "Feulgen/Light Green/Orange G triple stain", "SURFdriver2.0 software package"],
+    "software_tools": ["SURFdriver2.0 software package"],
+    "reagents_chemicals": ["Xenopus eggs", "cysteine solution", "Marc’s modified Ringer’s solution", "MEMFA", "Fibrowax", "Feulgen/Light Green/Orange G triple stain"],
+    "model_organisms": ["Xenopus", "zebrafish"]
+  }
+}

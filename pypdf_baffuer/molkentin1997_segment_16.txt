@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR", "Southern blot", "Taq PCR buffer", "whole-mount in situ analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Triton X-100", "proteinase K", "digoxigenin-dUTP"],
+    "model_organisms": []
+  }
+}

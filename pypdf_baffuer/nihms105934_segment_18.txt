@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["EMT", "Homozygous for a hypomorphic Gata4 allele (H/H)", "controls", "vehicle (NS, no significant difference)", "U0126-treated wt/wt", "Rivera-Feliciano et al."],
+    "software_tools": [],
+    "reagents_chemicals": ["U0126", "collagen gel"],
+    "model_organisms": ["Gata4T2del/Ki (Gata4Ki/flox; Tie2Cre+)", "embryos"]
+  }
+}

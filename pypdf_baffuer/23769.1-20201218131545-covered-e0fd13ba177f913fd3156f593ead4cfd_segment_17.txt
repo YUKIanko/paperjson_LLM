@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HAND2", "GATA4", "NKX2-5", "MHC", "TNC"],
+  "proper_nouns": {
+    "institutions": ["Beth Israel Deaconess Medical Center", "Boston Children’s Hospital", "Harvard Medical School"],
+    "experimental_methods": ["gene targeting", "Flp-mediated removal", "Cre recombinase expression", "Histology and gene expression", "Embryo dehydration", "Ethanol series embedding", "In situ hybridization", "Whole-mount in situ hybridization", "X-gal staining", "Immunofluorescent staining", "Antigen retrieval with HCl and trypsin digestion"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU", "TOPRO3", "Tyramide-Cy3", "Sigma-Aldrich's ABC method"],
+    "model_organisms": ["Mice", "G4NK embryos", "G4MC embryos"]
+  }
+}

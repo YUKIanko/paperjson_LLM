@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["BMP", "ANF", "SRF", "GATA-4", "Nkx2.5", "GATA-6", "MEF-2C", "Tbx5", "Tbx20", "Gja5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["co-immunoprecipitation assays"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mice"]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "GATA6 Is Essential for Embryonic Development of the Liver but Dispensable for Early Heart Formation",
+  "authors": [
+    "Roong Zhao",
+    "Alistair J. Watt",
+    "Jixuan Li",
+    "Jennifer Luebke-Wheeler",
+    "Edward E. Morrisey",
+    "Stephen A. Duncan"
+  ],
+  "references": [
+    "10.1128/MCB.25.7.2622–2631.2005"
+  ],
+  "genes": [
+    "GATA6",
+    "GATA4",
+    "HNF4",
+    "Hex",
+    "Prox1"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, Wisconsin",
+      "Department of Medicine, Molecular Cardiology Research Center, University of Pennsylvania, Philadelphia, Pennsylvania"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice",
+      "Xenopus laevis"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1", "FOR2", "FXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR", "Southern blot analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["X. laevis", "chicken"]
+  }
+}

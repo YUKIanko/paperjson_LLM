@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Drysdale et al., 1994", "Harland, 1991", "Logan and Mohun, 1993", "Tonissen et al., 1994"],
+  "genes": ["Nkx2.5", "XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNA whole-mount in situ hybridization", "Fate Mapping", "In Situ Hybridization", "Sandwich recombinants"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI (Molecular Probes)", "1% agarose", "0.753 MMR", "gentamicin sulfate (Sigma)", "MEMFA", "PBS with sodium azide", "gelatin (Bober et al., 1994)"],
+    "model_organisms": ["Stage 22 embryos", "Stage 28 embryos"]
+  }
+}

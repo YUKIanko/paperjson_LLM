@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Notch1", "ErbB3", "Thbs1", "Plxnc1", "Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "in situ hybridization", "western blotting", "Alcian Blue staining", "BT20 cells co-transfection", "Adenoviral expression", "M199 containing heregulin culture"],
+    "software_tools": [],
+    "reagents_chemicals": ["AV cushions", "Hyaluronic acid", "GFP-expressing cells", "Erbb3 protein", "pRL-null", "U0126"],
+    "model_organisms": ["E9.5 embryos", "E10.5 embryos", "Gata4T2del EC"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Jiang et al., 1998", "Reiter et al., 1999"],
+  "genes": ["Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino oligomers", "semi-quantitative RT-PCR", "RT reactions", "PCR reactions"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino oligomers", "transgenic animals expressing GFP", "GFP", "gata4:GFP embryos", "one-cell stage embryos", "ATG-targeted morpholino"],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}

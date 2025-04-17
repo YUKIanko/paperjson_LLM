@@ -1,0 +1,78 @@
+{
+  "title": "Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis",
+  "authors": [
+    "Jeffery D. Molkentin",
+    "Qing Lin",
+    "Stephen A. Duncan",
+    "Eric N. Olson"
+  ],
+  "references": [
+    "Nascone and Mercola 1996",
+    "Srivastava et al. 1995",
+    "Lyons et al. 1995",
+    "Felsenfeld 1989",
+    "Tsai et al. 1989",
+    "Yamamoto et al. 1990",
+    "Arceci et al. 1993",
+    "Kelley et al. 1993",
+    "Laverriere et al. 1994",
+    "Morrisey et al. 1996, 1997",
+    "Blobel et al. 1995",
+    "Evans and Felsenfeld 1989",
+    "Wilson et al. 1990",
+    "Yamamoto et al. 1990",
+    "Lee et al. 1991",
+    "Zon et al. 1991",
+    "Dorfman et al. 1992"
+  ],
+  "genes": [
+    "GATA4",
+    "E7.0",
+    "E9.5",
+    "resid-",
+    "eHAND",
+    "dHAND",
+    "Nkx2.5",
+    "GATA1",
+    "GATA2",
+    "GATA3",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Molecular Biology and Oncology; University of Texas Southwestern Medical Center at Dallas, Dallas, Texas 75235-9148 USA",
+      "Laboratory of Molecular Cell Biology, The Rockefeller University, New York, New York 10021 USA"
+    ],
+    "experimental_methods": [
+      "diffusible factors",
+      "specification to a cardiogenic fate",
+      "molecular organization and migration along the anterior intestinal portal",
+      "convergence at the midline of the embryo",
+      "cardiogenic crescent-shaped structure folding ventrally",
+      "fusion of the cardiac primordia at the midline",
+      "formation of the linear heart tube",
+      "looping morphogenesis",
+      "septation"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "neo gene",
+      "TK gene",
+      "C29 cell clone",
+      "E3.5 blastocysts",
+      "pseudopregnant Swiss foster mothers"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "P19 embryonic carcinoma cells",
+      "ES cells",
+      "GATA4 null embryos",
+      "C57BL/6 mice",
+      "C57BL/6 x Sv129 genotypic mice",
+      "GATA4 heterozygous mice",
+      "GATA4 null embryos",
+      "E7.5 unaffected littermate",
+      "HEK293 cells"
+    ]
+  }
+}

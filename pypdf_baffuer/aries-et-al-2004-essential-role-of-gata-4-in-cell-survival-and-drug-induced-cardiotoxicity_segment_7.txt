@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["TUNEL assay", "Northern blot analyses", "gel-shift analyses", "Western blot", "quantitative PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "Phe", "Bcl-X LmRNA", "Bcl-X protein", "adenoviruses expressing LacZ or GATA-4", "antisense GATA-4 transcripts (ASG4)", "cold competitor DNAs"],
+    "model_organisms": ["NIH 3T3-overexpressing GATA-4"]
+  }
+}

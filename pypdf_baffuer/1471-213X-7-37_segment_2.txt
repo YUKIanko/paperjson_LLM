@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [23, 24, 25, 26, 27, 28, 29, 30, 31],
+  "genes": ["GATA4", "FOXA", "GATA6", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino-mediated depletion", "immunoistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}

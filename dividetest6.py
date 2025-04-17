@@ -29,7 +29,11 @@ def extract_pdf_text(pdf_path):
                 file_text += page_text + "\n"
     return file_text
 
-def split_text(text, max_chars=3000, tail_lines=150):
+# テキストを分割するための定数
+MAX_CHARS = 6000 #1セグメントの最大文字数
+MAX_SEGMENTS = 30 # セグメント数の上限
+
+def split_text(text, max_chars=MAX_CHARS, tail_lines=150):
     lines = text.strip().split("\n")
     #行数が150以下のときは全部tail_textに入れる
     # それ以上のときは、tail_lines行を除いた部分をmain_textに入れ
@@ -49,7 +53,10 @@ def split_text(text, max_chars=3000, tail_lines=150):
         segments.append(tail_text)
 
     return segments
-
+segments = split_text(full_text, max_chars=MAX_CHARS)
+if len(segments) > MAX_SEGMENTS:
+    print(f"分割数が{MAX_SEGMENTS}を超えました。")
+    print(f"分割数: {len(segments)}")
 
 #プロンプト生成関数を用途別に分割(文献情報があるか判定する)
 def detect_if_references(segment_text):

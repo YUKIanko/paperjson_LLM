@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Pevny et al. 1995", "Weiss et al. 1994", "Tsai et al. 1994", "Pandolfi et al. 1995", "Gre´pin et al. 1994", "Jiang and Evans 1996", "Kelley et al. 1993", "Laverriere et al. 1994", "Heikinheimo et al. 1994", "Ip et al. 1994", "Molkentin et al. 1994", "Gre´pin et al. 1995, 1997", "Molkentin et al. 1997"],
+  "genes": ["GATA-2", "GATA-3", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["axis disruption experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "amphibians", "mammals", "mice"]
+  }
+}

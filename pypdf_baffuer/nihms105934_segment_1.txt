@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ERBB3",
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

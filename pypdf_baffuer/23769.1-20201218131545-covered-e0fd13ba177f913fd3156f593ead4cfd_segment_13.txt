@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["BrdU labeling", "TOPRO3 staining", "desmin staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU (5-bromo-2'-deoxyuridine)", "TOPRO3", "desmin"],
+    "model_organisms": ["G4NK mutant embryos", "G4MC hearts", "transgenic mice"]
+  }
+}

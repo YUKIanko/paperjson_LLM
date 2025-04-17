@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": ["University of Texas Southwestern Medical Center at Dallas"],
+    "experimental_methods": ["RT-PCR mRNA quantitation", "hybridization", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["some-associated protein L7"],
+    "model_organisms": []
+  }
+}

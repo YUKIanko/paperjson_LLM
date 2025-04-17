@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Heikinheimo et al. 1994", "Laverriere et al. 1994", "Morrisey et al. 1996", "Chen et al. 1994"],
+  "genes": ["GATA4", "HNF3B", "OTX2", "Brachyury", "goosecoid", "Flkl", "Moxl", "HNF4", "c-fetoprotein"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ analysis", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["Brachyury antibody", "goosecoid antibody", "Flkl antibody", "Moxl mRNA", "c-fetoprotein antibody"],
+    "model_organisms": ["GATA4 null embryos", "HNF4 null embryos"]
+  }
+}

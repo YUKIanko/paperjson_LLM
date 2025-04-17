@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata6", "Hnf4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Tetra-ploid embryo complementation", "Southern blot analyses", "PCR analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["paraform-aldehyde", "paraffin sections", "primary antibodies recognizing HNF4 (Santa Cruz, catalog no. sc-6556)", "GATA4 (Santa Cruz, catalog no. sc-1237)", "platelet endothelial cell adhesion molecule (PECAM; CD31; BD PharMingen)", "G418"],
+    "model_organisms": ["Gata6/H11002//H11002 ES cells", "Gata6/H11546//H11546 ES cell-derived embryos", "Gata6/H11546//H11546 knockout mice", "Tetraploid embryos"]
+  }
+}

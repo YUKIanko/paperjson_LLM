@@ -1,0 +1,34 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["4"],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": [
+      "Yamagata University",
+      "Institute of Amphibian Biology, Hiroshima University",
+      "PLUSTinc Limited Company"
+    ],
+    "experimental_methods": [
+      "hand",
+      "hibernation",
+      "anesthetized in 0.1% MS222 and then pithed",
+      "daily injection",
+      "electrotransferred to a polyvinylidene difluoride membrane",
+      "Edman degradation"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "0.1% MS222",
+      "human chorionic gonadotropin (Aska Pharmaceutical, Tokyo, Japan)",
+      "trypsin",
+      "0.02% diaminobenzidine",
+      "Chemicon International Inc."
+    ],
+    "model_organisms": [
+      "Rhacophorus arboreus",
+      "Bufo japonicus",
+      "Xenopus laevis"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis",
+  "authors": [
+    "Jeffery D. Molkentin",
+    "Qing Lin",
+    "Stephen A. Duncan",
+    "Eric N. Olson"
+  ],
+  "references": [
+    {
+      "doi": "",
+      "authors": "Nascone and Mercola",
+      "journal": "",
+      "volume": "1996"
+    },
+    {
+      "doi": "",
+      "authors": "Srivastava et al.",
+      "journal": "",
+      "volume": "1995"
+    },
+    {
+      "doi": "",
+      "authors": "Lyons et al.",
+      "journal": "",
+      "volume": "1995"
+    },
+    {
+      "doi": "",
+      "authors": "Felsenfeld",
+      "journal": "",
+      "volume": "1989"
+    },
+    {
+      "doi": "",
+      "authors": "Tsai et al.",
+      "journal": "",
+      "volume": "1989"
+    },
+    {
+      "doi": "",
+      "authors": "Yamamoto et al.",
+      "journal": "",
+      "volume": "1990"
+    },
+    {
+      "doi": "",
+      "authors": "Arceci et al.",
+      "journal": "",
+      "volume": "1993"
+    },
+    {
+      "doi": "",
+      "authors": "Kelley et al.",
+      "journal": "",
+      "volume": "1993"
+    },
+    {
+      "doi": "",
+      "authors": "Laverriere et al.",
+      "journal": "",
+      "volume": "1994"
+    },
+    {
+      "doi": "",
+      "authors": "Morrisey et al.",
+      "journal": "",
+      "volume": "1996",
+      "pages": ""
+    },
+    {
+      "doi": "",
+      "authors": "Morrisey et al.",
+      "journal": "",
+      "volume": "1997"
+    },
+    {
+      "doi": "",
+      "authors": "Blobel et al.",
+      "journal": "",
+      "volume": "1995"
+    }
+  ],
+  "genes": [
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Molecular Biology and Oncology; University of Texas Southwestern Medical Center at Dallas, USA",
+      "Laboratory of Molecular Cell Biology, The Rockefeller University, New York, USA"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "diffusible factors",
+      "specification",
+      "cardiogenic fate",
+      "bilateral symmetric cardiogenic precursors",
+      "migrate along the anterior intestinal portal (AIP)",
+      "converge at the midline of the embryo to form the cardiac crescent",
+      "cardiac primordia",
+      "linear heart tube",
+      "looping morphogenesis",
+      "atrial region",
+      "ventricular region",
+      "septation"
+    ],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

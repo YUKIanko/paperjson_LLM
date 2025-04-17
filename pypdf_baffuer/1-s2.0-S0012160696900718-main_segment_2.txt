@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kelley et al., 1993", "Arceci et al., 1993", "Heikinheimo et al., 1994", "Laverriere et al., 1994", "Grepin et al., 1994", "Thuerauf et al., 1994", "Molkentin et al., 1994"],
+  "genes": ["GATA-1", "GATA-2", "GATA-3", "xGATA-4", "GATA-6", "mGATA-4", "cGATA-4", "xGATA-5", "cGATA-5", "GATA-4/5/6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["y axis disruption experiments", "microinjection", "RT/PCR", "random primed synthesis", "poly(A)/RNA isolated"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}

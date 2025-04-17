@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["(1926)", "(1990a)"],
+  "genes": ["KDR", "XNKX2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microinjections", "explantculture", "heart regeneration"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Ambystoma"]
+  }
+}

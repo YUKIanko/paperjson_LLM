@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["splice-blocking MO", "in situ hybridisation", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-HA antibody", "MLC2 (purple)", "Hex (turquoise)"],
+    "model_organisms": ["X. tropicalis", "X. laevis", "Xenopus"]
+  }
+}

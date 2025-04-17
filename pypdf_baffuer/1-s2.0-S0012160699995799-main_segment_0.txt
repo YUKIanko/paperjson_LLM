@@ -1,0 +1,23 @@
+{
+  "title": "Subdivision of the Cardiac Nkx2.5 Expression Domain into Myogenic and Nonmyogenic Compartments",
+  "authors": ["Michael Rafﬁn", "Li Ming Leong", "Melissa S. Rones", "Duncan Sparrow", "Tim Mohun", "Mark Mercola"],
+  "references": [],
+  "genes": ["Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [
+      "Harvard Medical School",
+      "National Institute for Medical Research",
+      "The Ridgeway",
+      "Mill Hill"
+    ],
+    "experimental_methods": ["fate mapping", "microsurgical experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus embryos",
+      "chick embryos",
+      "newts",
+      "zebrafish"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2-5", "XMLC-2a", "XMHC-a", "XTn-I c"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": []
+  }
+}

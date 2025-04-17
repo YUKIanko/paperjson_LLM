@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ECFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["genomic Southern blotting", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["GAL4 RNA", "RFP-positive embryos", "ECFP reporter", "UAS sequences", "GFP expression", "Somatic muscle", "stage 19 embryos", "stage 45 embryos", "bright field", "GFP filter"],
+    "model_organisms": ["X. tropicalis"]
+  }
+}

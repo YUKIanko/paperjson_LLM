@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["Katz SG", "Williams A", "Yang J", "Fujiwara Y", "Tsang AP", "Epstein JA", "Orkin SH", "Rivera-Feliciano et al.", "Kisanuki YY", "Hammer RE", "Miyazaki J", "Williams SC", "Richardson JA", "Yanagisawa M", "Kuo CT", "Morrisey EE", "Anandappa R", "Sigrist K", "Lu MM", "Parmacek MS", "Soudais C", "Leiden JM", "Lakkis MM", "Lee KH", "Evans S", "Ruan TY", "Lassar AB", "Lee Y", "Shioi T", "Kasahara H", "Jobe SM", "Wiese RJ", "Markham BE", "Izumo S", "Liang Q", "Bueno OF", "Dai YS", "Molkentin JD", "Lobe CG", "Koop KE", "Kreppner W", "Lomeli H", "Gertsenstein M", "Nagy A", "Mao X", "Fujiwara Y", "Orkin SH", "Molkentin JD"],
+  "references": ["Proc. Natl. Acad. Sci.", "", "Rivera-Feliciano et al.", "Dev. Biol", "Genes Dev", "Development", "Development", "Development", "Mol. Cell. Biol", "Mol. Cell. Biol", "Dev. Biol", "Nucleic Acids Res", "Proc. Natl. Acad. Sci. USA", "Genes Dev", "J. Biol. Chem", "Circ. Res"],
+  "genes": ["FOG1", "GATA4"],
+  "proper_nouns": {
+    "institutions": ["NIH-PA Author Manuscript", "NIH-PA Author Manuscript", "NIH-PA Author Manuscript"],
+    "experimental_methods": ["Cre-mediated recombination", "Cre recombinase-mediated DNA excisions in mice", "Tie2-Cre transgenic mice"],
+    "software_tools": ["rVISTA 2.0"],
+    "reagents_chemicals": ["Z/AP", "a mutant transforming growth factor-beta(1) transgene in the heart"],
+    "model_organisms": ["Rivera-Feliciano et al.", "Kisanuki YY", "Molkentin JD"]
+  }
+}

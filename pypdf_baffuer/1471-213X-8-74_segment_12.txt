@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G5SPMO", "dGATA5", "GATA1", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["translation-blocking MO", "splice-site blocking MO", "MO"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis", "zebrafish", "mouse"]
+  }
+}

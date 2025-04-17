@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "TGF-beta",
+    "BMP",
+    "Cx/Nkx2.5",
+    "FOG-2"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "NIH"
+    ],
+    "experimental_methods": [
+      "expression of transforming growth factor beta 2 RNA during murine embryogenesis",
+      "invasion of mesenchyme into three-dimensional collagen gels: a regional and temporal analysis of interaction in embryonic heart tissue"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

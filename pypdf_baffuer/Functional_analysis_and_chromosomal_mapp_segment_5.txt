@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kelly et al. 1995", "Laverriere et al. 1994"],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["polymerase chain reaction (PCR)", "Northern blot analysis", "RT-PCR amplification", "agarose gel electrophoresis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Bluescript vector (pKS)", "oligonucleotides", "radiolabelled GATA-5 probe", "32P-radiolabelled GATA-5 probe", "18S probe"],
+    "model_organisms": ["Xenopus", "chicken", "mouse", "Sprague Dawley rats", "14-day mouse embryos"]
+  }
+}

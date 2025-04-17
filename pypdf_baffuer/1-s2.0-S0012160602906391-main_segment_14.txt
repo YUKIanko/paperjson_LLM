@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ARF", "ACTL"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-amount in situ hybridisation"],
+    "software_tools": [],
+    "reagents_chemicals": ["CArG-L variant", "wild-type CArG box 1 sequence", "SRE oligonucleotide", "CARG-T"],
+    "model_organisms": ["Xenopus"]
+  }
+}

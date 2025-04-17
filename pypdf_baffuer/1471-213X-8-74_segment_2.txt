@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "G5MO", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analyses", "genomic sequence available for X. tropicalis", "splice site-blocking MO", "splice junction blocking MO (G5SP)", "injection of GATA5 mRNA amounts", "sequencing of PCR products"],
+    "software_tools": [],
+    "reagents_chemicals": ["MOs", "mRNA", "Xenopus tropicalis embryos", "X. laevis embryos", "PCR products"],
+    "model_organisms": ["Xenopus tropicalis", "X. laevis"]
+  }
+}

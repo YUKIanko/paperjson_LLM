@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "Southern blotting", "PhosphorImager analysis", "Histology"],
+    "software_tools": [],
+    "reagents_chemicals": ["[a-32P]dCTP", "10% buffered formalin", "hematoxylin and eosin"],
+    "model_organisms": ["C57BL/6", "Sv 129"]
+  }
+}

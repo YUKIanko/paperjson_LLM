@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["39", "40", "41"],
+  "genes": ["MHCα", "ANF", "GATA4", "GATA5", "GATA6", "NKX2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cardiomyocyte-restricted inactivation", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["R26Rstop lacZ reporter"],
+    "model_organisms": ["Xenopus", "mouse", "embryo"]
+  }
+}

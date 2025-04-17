@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mouse embryos",
+      "Caenorhabditis elegans"
+    ]
+  }
+}

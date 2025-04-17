@@ -1,0 +1,243 @@
+Functional analysis and chromosomal mapping of Gata5, a gene
+encoding a zinc finger DNA-binding protein
+Georges Nemer,1Salman T. Qureshi,2,3Danielle Malo,2,3Mona Nemer1
+1Laboratoire de de ´veloppement et diffe ´renciation cardiaques, Institut de recherches cliniques de Montre ´al, 110 des Pins Ouest, Montre ´al, Que´bec,
+Canada H2W 1R7 and De ´partement de Pharmacologie, Universite ´ de Montre ´al, Montre ´al, Que´bec, Canada
+2Department of Medicine and Human Genetics, McGill University, Montre ´al, Que´bec, Canada H3G1Y6
+3Centre for the Study of Host Resistance, L11-144 Montre ´al General Hospital, 1650 Cedar, Montre ´al, Que´bec, Canada H3G1A4
+Received: 17 December 1998 / Accepted: 9 June 1999
+Abstract. The GATA family of zinc finger proteins are transcrip-
+tional regulators with critical functions in lineage differentiationand embryonic development. Based on structural and expressionpattern comparisons, the GATA proteins have been subdividedinto two groups. The first subgroup consists of GATA-1, -2, and-3, which are all highly expressed in the hematopoietic system,whereas GATA-4, -5, and -6 are present essentially in the heartand gut. We have isolated and functionally characterized the ratGATA-5 cDNA, which encodes a 45-kDa protein with 71%, 73%,and 97% homology to its amphibian, avian, and murine homologs,respectively. Northern blot analysis showed that rat GATA-5 isexpressed in a dynamic pattern during embryonic and postnataldevelopment.Inthemidgestationembryo,GATA-5transcriptsaremost abundant in the heart and decrease dramatically in the post-natal heart; in contrast, GATA-5 expression is upregulated in thelung and gut during postnatal development. Functional studieswithrecombinantGATA-4,-5,and-6proteinsshowthatGATA-5has preferential affinity for a subset of GATA elements found oncardiac promoters and differentially activate cardiac gene tran-scription. Structure-function analysis revealed the presence of anactivation domain within the carboxy terminal region of GATA-5that is essential for transcriptional regulation of target promoters.Linkage analysis localized Gata5to distal mouse Chromosome
+(Chr) 2 in a conserved linkage group with genes localized to ratChr 3q43 and human Chr 20q13.2-q13.3. The results suggest thatGATA-5mayhavespecificdownstreamtargetsandthatGATA-4,-5, and -6 can only partially substitute for each other in cardio-genesis. Thus, Gata5probably plays a specialized evolutionary
+conserved role in cardiac development.
+Introduction
+GATA proteins are lineage-restricted zinc finger transcription fac-
+tors that play critical roles during cellular growth and differentia-tion. Indeed, the three GATA factors that are expressed in hema-topoietic derived cells are required for embryonic developmentand have nonredundant essential functions for normal hematopoi-esis (Pandolfi et al. 1995; Tsai et al. 1994). GATA-1, the foundingmember of the family, is expressed in all erythroid precursors, andtargeted disruption of its gene arrests erythropoiesis at the pro-erythroblast stage both in vivo and in vitro (Pevny et al. 1995;Weiss et al. 1994). Similarly, inactivation of the GATA-2 gene,whose expression is very high in hematopoietic stem cells, inter-feres with normal hematopoiesis by inhibiting expansion of hema-topoietic progenitor cells (Tsai et al. 1994). Hematopoiesis is alsoimpaired in the absence of GATA-3 (Pandolfi et al. 1995).Three other GATA factors, GATA-4, -5, and -6, were recently
+identified (Gre ´pin et al. 1994; Jiang and Evans 1996; Kelley et al.
+1993; Laverriere et al. 1994). Based on sequence homologies andtissue distribution—mainly in the heart and gut—it has been sug-gestedthatGATA-4,-5,and-6formasubfamilyofGATAfactorsthat may have important roles during cardiogenesis. The expres-sion pattern of all three genes in the developing heart and thefunctionalanalysisofGATA-4supportthishypothesis.Thus,bothin amphibians and in mammals, GATA-4 transcripts are detectedin precardiac cells and persist throughout the embryonic and post-natal heart (Gre ´pin et al. 1994; Heikinheimo et al. 1994; Jiang and
+Evans 1996). In Xenopus, axis disruption experiments show thatGATA-4 transcription correlates with specification of cardiac pro-genitors (Jiang and Evans 1996), and in adults, GATA-4 expres-sion is restricted to the heart and gonads (Gre ´pin et al. 1994;
+Laverriere et al. 1994). Consistent with a role for GATA-4 inmyocardialdifferentiation,cardiac-specifictranscriptionofseveralcardiac marker genes requires conserved GATA binding sites, andrecombinant GATA-4 is a potent transactivator of their promoters(Gre´pin et al. 1994; Ip et al. 1994; Molkentin et al. 1994). In an in
+vitro stem cell model, GATA-4 transcription correlates spatiallyand temporally with cardiac differentiation, and inhibition ofGATA-4 expression blocks formation of terminally differentiatedbeating myocytes, while ectopic expression of GATA-4 potenti-ates cardiogenesis, suggesting a role for GATA-4 in developmentof the cardiogenic lineage (Gre ´pin et al. 1995, 1997). Consistent
+with this, inactivation of the Gata4gene in mice resulted in em-
+bryonic lethality owing to failure of the embryos to form a primi-tive heart tube (Molkentin et al. 1997).
+The expression pattern of GATA-4 in the myocardium of the
+developing heart overlaps with that of GATA-6, although it re-mains uncertain whether both factors colocalize or whether theyare differentially expressed in distinct cell populations (Jiang andEvans 1996; Tamura et al. 1993). GATA-6 is also more broadlyexpressed than GATA-4, most notably in stomach and small in-testineofbirds,amphibians,andmammals(JiangandEvans1996;Laverriere et al. 1994; Tamura et al. 1993). While the Gata5gene
+is also transcribed in the precardiac mesoderm of birds and am-phibians (Jiang and Evans 1996; Laverriere et al. 1994), its ex-pression pattern is different from that of Gata4and6as it is less
+abundant in the dorsal precardiac lateral plate and is detected inmore posterior regions of the ventral midline (Jiang and Evans1996). Moreover, unlike GATA-4 and GATA-6, expression ofGATA-5 is found predominantly in the endocardium of the em-bryonic heart of both species, raising the possibility that GATA-5might play a specific role in endocardial development.
+We report the cloning of the rat GATA-5 cDNA, its functional
+characterization,andthechromosomallocalizationof Gata5inthe
+mouse genome. The results indicate that the Gata5gene has been
+Correspondence to: M. NemerMammalian Genome 10, 993–999 (1999).
+© Springer-Verlag New York Inc. 1999Incorporating Mouse Genome
+evolutionarily conserved from amphibians to mammals and that
+GATA-5 has higher affinity than the other cardiac GATA proteinsto some GATA elements; consequently, some GATA-dependentcardiac promoters—such as endothelin 1 (ET-1)—are preferentialGATA-5 targets. These results suggest a distinct role for GATA-5in differentiation of the cardiogenic lineage.
+Materials and methodsCloning and DNA sequencing.
+Total RNA was extracted by the gua-
+nidinium–thiocyanate–phenol/chloroform method (Gre ´pin et al. 1994)
+from hearts of 3-day-old Sprague Dawley rats. cDNA was synthesizedfrom 5 mg total RNA with dT
+12–18adaptor primer and the avian myelo-
+blastosis virus reverse transcriptase enzyme(AMV-RT). The cDNA wasamplified with two degenerate oligonucleotides in the sense: TA(CT)CA(CT) AA(AG) ATG AA(CT) GG and antisense orientation: CG(AG)TG(AGCT)A(AG)(CT)TTCAT(AH)TAbasedonthesequenceofXeno-pus and chicken GATA-5, which amplifies a 177-bp fragment. The PCRproductwasclonedinBluescriptvector(pKS)/ EcoRVandsequencedwith
+universal and reverse primers. Two specific sense and antisense primerswere synthesized according to the sequence read, and PCR was carried inthe same manner as above with, on the one hand, a sense primer and anantisense oligonucleotide corresponding to the region spanning the stopcodon (TAGGCCAGGGCCAGGGCACACCAG), and, on the other hand,
+a sense oligonucleotide corresponding to the region around the start codon(ATGTATCAGGGTCTGGCTC), and a specific GATA-5 antisenceprimer. The two fragments obtained were cloned in pKS/ EcoRV and se-
+quenced.
+Northern blots and RT-PCR. Total RNAs from different embryonic,
+neonates, and adult tissues of Sprague Dawley rats were extracted by theguanidinium-thiocyanate method. Samples of 20 mg were loaded on form-
+aldehyde agarose gels, transferred to Nytran-nylon membranes (Schleicher& Schuell), and hybridized to a random primed radiolabeled
+32P-rGATA-5
+probe corresponding to the entire coding region. Blots were washed twicefor 15 min at 65°C in 0.1 × SSC, 0.1% SDS, and exposed for 4 days at−70°C. The membranes were then stripped and reprobed with the 18Sprobe as previously described (Gre ´pin et al., 1994).
+For PCR amplification, two oligonucleotides in the sense: GAAC-
+CAGTGTGCAACGCCTG and antisense orientation: CTAGGCCAG-GGCCAGGGCACACCAG were used on cDNA transcribed from theRNA extracted from different tissues. The PCR products corresponding tothe C-terminal region of GATA-5 (nucleotides 806–1215) were separatedby agarose gel electrophoresis, transferred to nylon membranes, and hy-bridizedwiththerandomlyradiolabeledGATA-5DNAprobe(correspond-ingtotheentirecodingregion),washedfor15minat65°Cwith0.1×SSC,0.1% SDS, and exposed with Kodak Xomat/AR film fo r1ha tr o o m
+Fig. 1.Analysis of rGATA-5 primary sequence. (A)Comparison between
+the mouse, chicken, Xenopus, and rat GATA-5 proteins. The computer-assisted sequence analysis shows that the overall homology is about 72%between the rat and Xenopus and chicken, and 94% between the rat andmouse. The zinc finger domains delimited by the arrows are >94% ho-mologous. (B)Amino acid sequence comparison between the rat GATA-4
+(access no. L22761), GATA-5 (access no., submitted), and GATA-6 (ac-cess no. L22760). The homology is high in the zinc finger DNA-bindingdomains (>90%), whereas the overall sequence homology varies between58% and 65%.G. Nemer et al.: Cloning and analysis of rat GATA-5 994
+temperature. The same cDNA samples were subjected to amplification of
+rat tubulin transcripts as previously described (Gre ´pin et al. 1997).
+Cell culture and transfections. HeLa and CV1 cells were grown in
+Dulbecco’s modified Eagle’s medium (DMEM) supplemented with 10%fetal calf serum. DNA was transfected by the calcium phosphate precipi-tation technique 24 h after plating. The amount of the reporter expressionvector was kept constant at 3 mg per 35-mm culture dish. The cells were
+harvested 36 h after transfection, and luciferase activity was measured byan LKB luminometer. The results are the mean of three independent ex-periments done each in duplicate. The ANP- and BNP-luciferase reporterswere described in Gre ´pin et al. (1994). The GATA-4 and -6 expression
+vectors were described in Durocher et al. (1997). The mouse ET-1 lucif-erase reporter plasmid was a generous gift of Hiroki Kurihara (Universityof Tokyo, Japan) and was described in Harats et al. (1995). The GATA-4and -6 expression vectors were described in Charron et al. (1999) andGATA-2inLeeetal.(1991).TheGATA-5expressionvectorwaspreparedby subcloning the entire coding region into the pCDNA3 vector ( XhoI/
+KpnI). The GATA-5 mutant constructs were obtained by PCR-mediated
+mutagenesis and subcloned in the same manner in pCDNA3. The C-terminaldeletionmutant( DC)consistsofaa1–300,theN-terminal( DN)of
+aa 180–405, the single carboxy zinc finger mutant of aa 256–405, and thedouble mutant deletion ( DCN) retains only the DNA binding domain of aa
+180–300. All constructs were confirmed by DNA sequencing.
+Electrophoretic mobility shift-assays (EMSA). CV1 cells devoid of
+GATA-binding activity were transfected with the rat GATA-5 expressionvector. 500,000 cells were plated 24 h before transfection with 50 mgo f
+GATA-2, GATA-4, GATA-5, or GATA-5 mutant expression vectors.Nuclear extracts were prepared as previously described (Gre ´pin et al.
+1994).Double-strandedoligonucleotidescorrespondingeithertotheproxi-mal GATA site of the ANF promoter (Durocher et al. 1997) or the ET-1GATA element (Harats et al. 1995) were used. Five mg of extracts was
+incubated with the radiolabeled probe for 15 min at room temperature in a20-ml volume of 4 m
+MTris-HCl(pH 48), 24 m MEDTA, 0.4 m MMgCl,
+and 1.6% Ficoll and, where necessary, 100-fold excess of cold unlabeledprobes. The samples were loaded on a 4% electrophoresis polyacrylamideg e la n dr u nf o r3ha t2 0 0v olts.
+Westernblots. Nuclearextracts(20 mg)ofCV1cellstransfectedwiththe
+different GATA expression vectors were boiled in Laemmli buffer andresolvedinSDS-PAGE.ProteinsweretransferredonHybond-PVDFmem-branes and immunoblotted with the Renaissance Chemiluminescence sys-tem (NEN Life Sciences, Boston). Anti-HA antibody was purchased fromSanta Cruz Biotechnology Inc. (Santa Cruz, Calif.) and used at a dilutionof 1/1000.
+Genetic mapping of the mouse Gata-5 gene. To establish the chro-
+mosomal location of murine Gata5,we performed a linkage analysis with
+The Jackson Laboratory Backcross DNA BSB panel (C57BL/6J × Mus
+spretus)F1× C57BL/6J. Genomic DNA of 94 backcross progeny was
+digested with XbaI, electrophoresed in 1% agarose gel, and blotted onto a
+nylon membrane under standard protocols. Blots were hybridized with a409-bp
+32P-dATP random primer-labeled probe corresponding to nucleo-
+tides 807–1215 of the rat Gata-5 cDNA. Hybridization was carried out at42°C in 50% formamide, 10% dextran sulfate, 1% sodium dodecyl sulfate(SDS), 5× SSC (0.75
+MNaCl, 75 m MNa citrate), 2 m MTris (pH 7.5), 1×
+Denhardt’ssolution(0.1%BSA,0.1%Ficoll,0.1%polyvinylpyrrolidone),and 200 mg/ml denatured salmon sperm DNA. Washing was carried out to
+a final stringency of 0.5 × SSC/1.0% SDS at 60°C. Autoradiography wasdone at −70°C using Kodak XAR film with the intensification screens;films were developed after exposure for 24–48 h. Detailed mapping dataare available at Backcross Panel Mapping Resonace page (http://www.jax.org/resources/documents/cmdata/BSB.htlm).
+Results
+The GATA-5 protein is conserved between species. Five GATA
+proteins have been identified so far in mammals: GATA-1,GATA-2, and GATA-3, which are highly restricted to the hema-topoietic system, and GATA-4 and -6, which are confined to theheart, the digestive system, and the gonads. The cloning in Xeno-
+pus (Jiang and Evans 1996) and in chicken (Laverriere et al. 1994)of GATA-5, the sixth member of the family, whose expression,much like GATA-4 and GATA-6, is restricted to heart and gut,suggested the existence of a subclass of GATA factors that mightplay important roles in heart and gut development. In order toanalyze the evolutionary conservation of GATA-5 and study itsrole in mammalian heart, we isolated the rat GATA-5 cDNA.Degenerate oligonucleotides corresponding to the highly con-served region of the second zinc finger region of the Xenopus andchickenGATA-5weresynthesized,andpolymerasechainreaction(PCR) was carried on cDNA transcribed from RNA of hearts of3-day-old Sprague Dawley rats. A fragment of 177 bp was clonedin Bluescript vector (pKS): the deduced sequence showed highhomology with the corresponding region of the Xenopus andchicken GATA-5 (>98%), compared with 94% and 93% for thesame region of rat GATA-4 and rat GATA-6. Two oligonucleo-tides synthesized according to the sequence read in antisense andsense orientation were used for PCR with two degenerate oligo-nucleotides corresponding respectively to the start codon (senseorientation) and stop codon (antisense orientation) regions. Twofragments of 806 and 409 bp were cloned in pKS and sequenced.An additional PCR was performed on the two fragments to gen-eratea1215-bpcDNAcorrespondingtotheentirecodingregionofGATA-5 encoding a protein of 405 amino acids with a predictedmolecularweightof45kDa.Computer-assistedsequenceanalysesshowed that the rat GATA-5 protein is highly homologous to itschicken (73%), Xenopus (71%), and the recently identified mouse(97%) counterparts, as illustrated in Figure 1A; the overall homol-ogy to the rat GATA-4 and -6 proteins was 60–62%, while theFig. 2.Tissue distribution of the rGATA-5 mRNA. (A)Northern blot
+analysis: each lane contains 20 mg of total RNA run on formaldehyde
+agarose gels, transferred to a nylon membrane, and hybridized with a
+32P-radiolabelled GATA-5 probe as described in Materials and methods.
+The radiolabeled 18S probe was used as an internal control. (B)RT-PCR
+amplification of transcripts from various rat adult tissues with specificoligonucleotides as described in Materials and methods, with the amplifi-cationoftubulinasaninternalcontrol.Productswereseparatedonagarosegel electrophoresis, transferred to a nylon membrane, and hybridized to aspecific radiolabeled probe as described in Materials and methods. B(brain), H (heart), I (intestine), L (liver), S (stomach), Lu (lungs), M (skel-etal muscle), O (ovaries), T (testes), S (spleen), K (kidney), V (ventricles),UB (upper body), LB (lower body), PL (placenta). Neonates correspond to3-day-oldSpragueDawleyrat.Embryonictissueswerefrom14-daymouseembryos.G. Nemer et al.: Cloning and analysis of rat GATA-5 995
+homologyinthezincfingerdomainwasmuchhigher,around94%
+(Fig. 1B).
+GATA-5 transcripts are expressed at highest levels in the devel-
+oping heart. Expression of the rat Gata5gene was analyzed by
+Northern blots and RT-PCR. A radiolabeled32P GATA-5 probe
+wasusedon20 mgoftotalRNAextractedfromdifferenttissuesof
+neonate and adult Sprague Dawley rats, as well as embryos at day14ofgestation.AsshowninFig.2A,auniquebandof ~2.0kbwas
+detected in embryonic hearts and in cardiac and extracardiac post-natal tissues. As previously reported for xenopus and chicken(Kelly et al. 1995; Laverriere et al. 1994), expression of GATA-5in the heart decreased sharply between embryonic and postnatal,suggesting that GATA-5 is mainly an embryonic cardiac regulator(notethatthetimeofexposurefortheadultblotis7days,whereasthat of the embryonic blot is 2 days at −70°C).
+In order to better detect low abundant GATA-5 transcripts in
+postnataltissues,RT-PCRanalysiswascarriedout.A409-bpfrag-ment corresponding to nucleotides 806–1215 was amplified withtwo specific oligonucleotide primers, and the PCR products werefurther confirmed by Southern blots with a radiolabeled GATA-5DNA probe. A 546-bp rat tubulin fragment was amplified as in-
+ternal control. The results showed that, besides the heart, GATA-5transcriptsarefoundinstomach,intestine,andlung(Fig.2D).Thisis similar to the reported tissue distribution of GATA-5 transcriptsin adult mouse (Morrisey et al. 1997a) and in postnatal avian(Laverriere et al. 1994) tissues.
+Functional properties of the rat GATA-5 protein. In order to per-
+form functional analysis of the GATA-5 protein, the cDNA frag-ment containing the entire coding region was cloned in the eu-karyotic expression vector (pCDNA3) downstream of the CMVpromoter and transfected into CV1 cells that lack GATA-bindingactivity. Nuclear extracts from CV1 cells transfected with thisvector or with the corresponding GATA-4 vector were tested forbinding to the well-characterized GATA element of the ANFproximal promoter (Charron et al. 1999). As shown in Fig. 3A,both GATA proteins formed a specific complex over this site.Because Gata5 expression is predominant in endocardial cells, wealso analyzed the interaction of GATA-5 with the GATA elementof the ET-1 promoter. ET-1 is a peptide hormone with potentvasoconstrictive activity synthesized in endothelial and endocar-Fig. 3.DNA-binding properties of rGATA-5. Gel
+shift analyses were carried out with
+32P-radiolabeled oligonucleotides corresponding
+either to the proximal ANF or ET-1 GATAelements. (A)3mg of nuclear extracts from CV1
+cells untransfected (Ctl) or transfected withGATA-4 or GATA-5 expression vectors were usedwith or without (−) 100-fold excess of unlabeledprobe (Self), or a mutant form that no longerbinds GATA factors (Mut). (B)3o r5 mgo f
+nuclear extracts from CV1 cells transfected withGATA-4 or GATA-5 expression vectors wereincubated with the
+32P-labeled ET-1 GATA
+element. Competitions were carried out with 25 ×and 100 × molar excess of either unlabeled ANFGATA probe (ANF) or the ET-1 GATA element(Self).(C)5mg of nuclear extracts from CV1
+cells transfected with the GATA-2, -4, -5, and -6expression vectors were incubated with 40,000cpm of
+32P-radiolabeled ET-1 GATA
+oligonucleotide. Arrows indicate specific GATAbinding complexes.G. Nemer et al.: Cloning and analysis of rat GATA-5 996
+dial cells; the ET-1 promoter contains a GATA element and was
+shown to be transactivated by the endothelial GATA-2 factor (Leeet al. 1991). When used in EMSAs, the ET-1 GATA displayedpreferential binding to GATA-5 compared with GATA-4 (Fig.3B), while the ANF GATA element bound equally well bothGATA proteins (Fig. 3A), in accordance with previous studies(Charronetal.1999).Infact,theET-1GATAelementhadatleastthree times higher affinity for GATA-5 than the ANF GATA site,as revealed from competition assays (Fig. 3B). Interestingly, theaffinity of the ET-1 GATA element was highest for GATA-2 and-5 (Fig. 3C). The transcriptional properties of GATA-5 were alsoassessedbycontransfectionwithreporterconstructsunderthecon-trol of the ANF, BNP, or ET-1 promoters. The results show thatGATA-5 was as effective as GATA-4 in activating the threeGATA-dependent promoters (Fig. 4). The highest GATA-5 effectwas observed on the ET-1 promoter (20×), which appeared to bea preferential GATA-5 and GATA-2 target, a result that parallelsthedifferentialaffinitiesofthevariousGATAproteinstotheET-1GATA site. This raises the possibility that GATA-5 may haveDNA-binding and functional properties that are distinct from theother GATA factors.
+InordertomapthefunctionaldomainsintheGATA-5protein,
+we generated four mutant constructs that delete either the N- or
+C-terminal domain or both, or a truncated form with only thecarboxy zinc finger and the carboxy terminal region; none of thesemutants alter the nuclear localization signal (NLS). All GATA-5proteins were hemagglutinin (HA) tagged to allow for immuno-detection. As shown in Fig. 5B, all GATA-5 proteins were prop-erly produced from the expression vectors, as assayed by Westernblots with an anti-HA antibody. Both wild-type and mutated pro-teins interacted specifically with a GATA probe (Fig. 5C). How-ever, in cotransfection assays, the C-terminal domain appearedcritical for transactivation, as its deletion resulted in a four-folddecrease in ET-1 promoter activation, both in CV1 and in HeLacells (Fig. 5D). In contrast, the N-terminal deletion mutant was asefficient as the full-length protein in transactivation. Interestingly,the truncated GATA-5 protein that retained the C-terminal regionand the carboxy zinc finger was able to bind DNA and activatetranscription, suggesting that the N-terminal region and the firstzinc finger are dispensable in some cases (the lower degree ofactivation may be due to differences in expression levels, as sug-gested by Fig. 5B). The pattern of activity of the various GATA-5mutants was similar when tested on the ANF and BNP promoters(Fig. 5E). These results map the activation domain for GATA-5 tothe C-terminal region, which may be unique to GATA-5 since theactivation domains for GATA-1, -2, and -3 were found in theN-terminal region (Visvader et al. 1995), and in the case ofGATA-4,twoC-andN-terminaldomainsweremapped(Durocheret al. 1997).
+Chromosomallocalizationofthemousegata-5gene. Usinga
+32P-
+radiolabeled C-terminal (409-bp) rat cDNA probe, an informativeRFLP was observed after XbaI digestion of genomic DNA ob-
+tainedfrominbredmousestrainsusedtocreatethemappingpanel.Parentalalleleswereidentifiedasspecificbandsat9.5kb(C57BL/6J) and 6.5 kb ( Mus spretus ). The location of mouse Gata5was
+determined by comparing the inheritance of the Mus spretus allele
+among 93 backcross progeny with 890 loci previously mapped inthis cross. Gene order was established by minimizing the numberof double recombination events. The results indicate that Gata5
+maps to distal Chr 2, cosegregating with three microsatellites,D2Mit74, D2Ucl18, andD2Ucl29 (Fig. 6). Two recombinants
+were detected between Gata5and a cluster of markers including
+another microsatellite, D2Ucl1, as well as the Gs protein alpha
+stimulatory regulator gene ( Gnas), the phosphoenolpyruvate car-
+boxykinase 1 gene ( Pck1), and the synaptobrevin-like 1 pseudo-
+gene (Sybl1-ps). Two mouse mutants are known to map to thetelomeric region of Chr 2 in the vicinity of Gata5,ragged (ra) and
+wasted (wst) (1). With the exception of edema in ra/rahomozy-
+gotes, however, defects involving the cardiac or gastrointestinalsystem that would be consistent with a Gata5mutation have not
+been described in association with either mutation. The humanorthologue of mouse Gata5is predicted to map to Chr 20q13 (24)
+and the rat Gata5gene to Chr 3q43 (http://www.informatics.
+jax.org/homology.html)
+Discussion
+In this paper, we report the cloning and characterization of rat
+GATA-5, a member of the GATA family of transcription factorsexpressed in the developing heart. While GATA-4, -5, and -6transcripts are present in the heart, GATA-5 mRNAs are the leastabundant (5- to 10-fold less than GATA-4), suggesting that onlyspecific subsets of cells express GATA-5 in the heart. Indeed, insitu hybridization studies show that, both in Xenopus and rodent,GATA-5 mRNA is found predominantly in the endocardium aswellastheoutflow-tract(Kelleyetal.1993;Morriseyetal.1997a;and our unpublished data). Except for NFAT
+c(de la Pompa et al.
+1998), few transcription factors that are implicated in the differ-entiation of the endocardial endothelial cells are known. Endocar-dial differenation is accompanied by the expression of specificgenes such as the homeobox gene msx-1(Chan-Thomase et al.
+1993; Eisenberg and Markwald 1995; Shen et al. 1994) fibulin,fibronectin and tenascin-X (Bristow 1995; Eisenberg and Mark-wald 1995). The presence of conserved GATA motifs in some ofthese genes, like msx-1(Shen et al. 1994), tenascin-x (Bristow et
+al.1993),andendothelin-1(Wilsonetal.1990),suggestsaroleforGATA-5 in regulating endocardial genes and thus in cardiac lin-eage differentiation. Interestingly, some myocardial cells coex-pressGATA-4andGATA-5intheembryonicheart(G.NemerandM. Nemer, unpublished data). Given that GATA-5 is as potent anactivator of cardiac promoters as GATA-4, it may well be able tosubstitute—at least in part—for GATA-4 with respect to cardiactranscription; this may in turn be relevant for understanding the
+Fig.4.TransactivationpropertiesoftherecombinantrGATA-5protein.In
+all cotransfections, the amounts of the reporter genes (ANF, BNP, orET-1-luc) were kept constant at 3 mg. The data shown are the mean of two
+tofourindependentexperiments,eachcarriedoutinduplicateinCV1cells.The results are expressed as fold activation relative to cotransfection withthe backbone vector; 25–500 ng of GATA-2, -4, -5, and -6 expressionvectors were used. Similar results were also obtained in HeLa cells. NotethedifferentscalesusedandthehighersensitivityoftheET-1promoterforGATA-5 and -2 relative to GATA-4.G. Nemer et al.: Cloning and analysis of rat GATA-5 997
+presence of many markers of cardiomyocyte differentiation in the
+cardiac crescent of GATA-4 null embryos (Molkentin et al. 1997).The results presented also revealed that GATA-5 may have pref-erential downstream targets in cells coexpressing other GATAfactors. Indeed, the ET-1 promoter was more sensitive to GATA-5than -4 and was induced three times more by similar levels ofGATA-5 and -4 (21 × vs 7 ×), possibly a result of differentialaffinity of the two proteins for the ET-1 GATA elements. In con-trast, the ANF and BNP promoters were activated similarly by thethree cardiac GATA factors. Thus, GATA-4, -5, and -6 couldsubstitute for each other in activation of some but not all cardiacgenes; this in turn suggests that they could only partially compen-sate for each other in heart formation.
+Interestingly, the major activation domain of GATA-5 mapped
+to the C-terminal region. In contrast, the major activation domainsfor GATA-1, -2, and -3 were found in N-terminal domain (Vis-vader et al. 1995), whereas two independent activation domainswere mapped in the C- and N-terminal domains of GATA-4 (Mor-risey et al. 1997b). In this respect it is noteworthy that the C-terminal region of GATA-5 proteins is highly conserved acrossspecies, suggesting evolutionary pressure to preserve an importantfunction.Forexample,a60-aminoacidC-terminaldomainlocatedbetween aa 366 and 405 is 70% identical among Xenopus,chicken, and rodent GATA-5. Whether this domain interacts withother cofactors, such as members of the NK2 family, will be in-teresting to investigate. Indeed, GATA-5 was shown to cooperatewith the cardiac-specific Nkx2-5 protein, probably through theC-terminal domain (Durocher et al. 1997). Other members of theNK2 family are also expressed in similar tissues as GATA-5; thisincludes Nkx2-3 and Nkx2-6 which are found in the gut (Biben etal. 1998; Buchberger et al. 1996), and Nkx2-1, which is expressedamong others in lung (Lazzaro et al. 1991). Thus, it is tempting tospeculate that GATA-5 might play important roles in these tissuesthrough cooperative interaction with other tissue-specific factors.
+Finally, the mouse Gata-5gene maps to Chr 2, whereas theFig. 5.Structure-function analysis of the
+rGATA-5 protein. (A)Schematic representation of
+the different GATA-5 constructs. (B)Western blot
+analysis of the different GATA-5 recombinantproteins. Nuclear extracts from CV1 cellsuntransfected (−) or transfected with the differentGATA-5 tagged constructs (WT, DN,DC, CZn,
+andDCN) were used. Revelation of the tagged
+proteins run on an SDS-PAGE was carried outwith an anti-HA antibody. (C)Gel shift analysis
+confirms that all the different recombinant proteinsare able to bind GATA elements (specificcomplexes shown by arrows). (D)100 ng of each
+of the full-length (WT) GATA-5 construct, the N-and C-terminal mutant deletion, or both ( DN,DC,
+DCN) or the single carboxy zinc finger and the
+carboxy domain (CZn) were used in allexperiments in CV1 and Hela cells with 3 mgo f
+the ET-1-luciferase reporter gene. The results areexpressed as fold activation relative tocotransfection with the backbone vector. (E)
+Cotransfection assays in CV1 cells were carriedout with 3 mg of the ANF and BNP reporter genes
+and 100 ng of GATA-5 expression. The results arethe mean of three independent experiments, eachin duplicate.
+Fig. 6.Chromosomal mapping of the mouse Gata5gene.(A)Haplotypes
+observed in 94 backcross mice segregating Gata5with Chr 2 markers.
+Open boxes represent homozygous progeny; closed boxes represent het-erozygous progeny. The number of animals exhibiting each haplotype isshown at the bottom of each column. (B)A partial linkage map of mouse
+Chr 2 showing the location of Gata5in relation to flanking markers.
+Recombinationdistancesincentimorgans(±SE)areshowntotheleftofthechromosomal map.G. Nemer et al.: Cloning and analysis of rat GATA-5 998
+Gata4andGata6genes are localized on mouse Chrs 14 and 18,
+respectively (Qureshi et al. 1996; Sebastiani et al. 1995). Thus,despite extensive sequence homology, these genes appear to havebeen duplicated from an ancestral precursor early in evolution.
+Acknowledgments. We are grateful to Lise Laroche for secretarial assis-
+tance, to Daniel Durocher for help with the isolation of a GATA-5 cDNAfragment, and to other members of the Nemer laboratory for reagents andhelpful discussions. This work was supported by research grants from theMedical Research Council of Canada (MRC). G. Nemer holds a Gibco-IRCM studentship. S. Qureshi is a recipient of a Clinician Scientist Awardfrom MRC and a Career Award in the Biomedical Sciences from theBurroughs Welcome Fund. D. Malo is a scholar of Fonds de la rechercheen sante´ du Que´bec (FRSQ), and M. Nemer is an MRC scientist.
+References
+Biben C, Hatzistavrou T, Harvey RP (1998) Expression of NK-2 class
+homeobox gene Nkx2-6 in foregut endoderm and heart. Mech Dev 73,125–127
+Bristow J (1995) The search for genetic mechanisms of congenital heart
+disease. Cell Mol Biol Res 41, 307–319
+BristowJ,TeeMK,GitelmanSE,MellonSH,MillerWL(1993)Tenascin-
+X: a novel extracellular matrix protein encoded by the human XB geneoverlapping P450c21B. J Cell Biol 122, 265–278
+Buchberger A, Pabst O, Brand T, Seidl K, Arnold HH (1996) Chick NKx-
+2.3 represents a novel family member of vertebrate homologous to theDrosophila homeobox gene tinman—differential expression of cNKx-2.3 and cNKx-2.5 during heart and gut development. Mech Dev 56,151–163
+Chan-ThomasPS,ThompsonRP,RobertB,YacoubMH,BartonPJ(1993)
+Expression of homeobox genes Msx-1 (Hox-7) and Msx-2 (Hox-8) dur-ing cardiac development in the chick. Dev Dyn 197, 203–216
+Charron F, Paradis P, Bronchain O, Nemer G, Nemer M (1999) Coopera-
+tive interaction between GATA-4 and GATA-6 regulates myocardialANF gene expression. Mol Biol Cell, 19, 4355–4365
+de la Pompa JL, Timmerman LA, Takimoto H, Yoshida H, Elia AJ, et al.
+(1998) Role of the NF-ATc transcription factor in morphogenesis ofcardiac valves and septum. Nature 392, 182–186
+Durocher D, Charron F, Warren R, Schwartz RJ, Nemer M (1997) The
+cardiac transcription factors Nkx2-5 and GATA-4 are mutual cofactors.EMBO J 16, 5687–5696
+Eisenberg LM, Markwald RR (1995) Molecular regulation of atrioventric-
+ular valvuloseptal morphogenesis. Circ Res 77, 1–6
+Gre´pin C, Dagnino L, Robitaille L, Haberstroh L, Antakly T et al. (1994)
+A hormone-encoding gene identifies a pathway for cardiac but not skel-etal muscle gene transcription. Mol Cell Biol 14, 3115–3129
+Gre´pin C, Robitaille L, Antakly T, Nemer M (1995) Inhibition of tran-
+scription factor GATA-4 expression blocks in vitro cardiac muscle dif-ferentiation. Mol Cell Biol 15, 4095–4102
+Gre´pin C, Nemer G, Nemer M (1997) Enhanced cardiogenesis in embry-
+onic stem cells overexpressing the GATA-4 transcription factor. Devel-opment 124, 2387–2395
+Harats D, Kurihara H, Belloni P, Oakley H, Ziober A, et al. (1995) Tar-
+geting gene expression to the vascular wall in transgenic mice using themurine preproendothelin-1 promoter. J Clin Invest 95, 1335–1344
+Heikinheimo M, Scandrett JM, Wilson DB (1994) Localization of tran-
+scription factor GATA-4 to regions of the mouse embryo involved incardiac development. Dev Biol 164, 361–373
+Ip HS, Wilson DB, Heikinheimo M, Tang Z, Ting CN et al. (1994) The
+GATA-4 transcription factor transactivates the cardiac muscle-specifictroponin C promoter-enhancer in nonmuscle cells. Mol Cell Biol 14,7517–7526
+JiangYM,EvansT(1996)TheXenopusGATA-4/5/6genesareassociatedwith cardiac specification and can regulate cardiac-specific transcription
+during embryogenesis. Dev Biol 174, 285–270
+Kelley C, Blumberg H, Zon LI, Evans T (1993) GATA-4 is a novel
+transcription factor expressed in endocardium of the developing heart.Development 118, 817–827
+Kelly R, Alonso S, Tajbakhsh S, Cossu G, Buckingham M (1995) Myosin
+light chain 3F regulatory sequences confer regionalized cardiac andskeletal muscle expression in transgenic mice. J Cell Biol 129, 383–396
+Laverriere AC, MacNeill C, Mueller C, Poelmann RE, Burch JB et al.
+(1994) GATA-4/5/6, a subfamily of three transcription factors tran-scribed in developing heart and gut. J Biol Chem 269, 23177–23184
+Lazzaro D, Price M, De Felice M, Di Lauro R (1991) The transcription
+factor TTF-1 is expressed at the onset of thyroid and lung morphogen-esis and in restricted regions of the foetal brain. Development 113,1093–1104
+Lee ME, Temizer DH, Clifford JA, Quertermous T (1991) Cloning of the
+GATA-binding protein that regulates endothelin-1 gene expression inendothelial cells. J Biol Chem 266, 16188–16192
+Molkentin JD, Kalvakolanu DV, Markham BE (1994) Transcription factor
+GATA-4 regulates cardiac muscle-specific expression of the a-myosinheavy-chain gene. Mol Cell Biol 14, 4947–4957
+Molkentin JD, Lin Q, Duncan SA, Olson EN (1997) Requirement of the
+transcription factor GATA4 for heart tube formation and ventral mor-phogenesis. Genes Dev 11, 1061–1072
+Morrisey EE, Ip HS, Tang ZH, Lu MM, Parmacek MS (1997a) GATA-
+5—a transcriptional activator expressed in a novel temporally and spa-tially restricted pattern during embryonic development. Dev Biol 183,21–36
+Morrisey EE, Ip HS, Tang Z, Parmacek MS (1997b) GATA-4 activates
+transcription via two novel domains that are conserved within theGATA-4/5/6 subfamily. J Biol Chem 272, 8515–8524
+Pandolfi PP, Roth ME, Karis A, Leonard MW, Dzierzak E et al. (1995)
+Targeted disruption of the GATA3 gene causes severe abnormalities inthe nervous system and in fetal liver haematopoiesis. Nat Genet 11,40–44
+Pevny L, Lin CS, D’Agati V, Simon MC, Orkin SH (1995) Development
+of hematopoietic cells lacking transcription factor GATA-1. Develop-ment 121, 163–172
+QureshiST,BronchainO,NemerM,MaloD(1996)Mappingofthe Gata6
+gene to mouse chromosome 18. Mamm Genome 7, 705–706
+Sebastiani G, Gre ´pin C, Nemer M, Malo D (1995) The mouse Gata4
+transcription factor maps to chromosome 14. Mamm Genome 6, 442–445
+Shen R, Chen Y, Huang L, Vitale E, Solursh M (1994) Characterization of
+the human MSX-1 promoter and an enhancer responsible for retinoicacid induction. Cell Mol Biol Res 40, 297–312
+Tamura S, Wang XH, Maeda M, Futai M (1993) Gastric DNA-binding
+proteins recognize upstream sequence motifs of parietal cell-specificgenes [published erratum appears in Proc Natl Acad Sci USA 1994 May10;91(10):4609]. Proc Natl Acad Sci USA 90, 10876–10880
+Tsai FY, Keller G, Kuo FC, Weiss M, Chen J et al. (1994) An early
+haematopoietic defect in mice lacking the transcription factor GATA-2.Nature 371, 221–226
+Visvader JE, Crossley M, Hill J, Orkin SH, Adams JM (1995) The C-
+terminal zinc finger of GATA-1 or GATA-2 is sufficient to inducemegakaryocytic differentiation of an early myeloid cell line. Mol CellBiol 15, 634–641
+Weiss MJ, Keller G, Orkin SH (1994) Novel insights into erythoid devel-
+opment revealed through in vitro differentiation of GATA-1 embryonicstem cells. Genes Dev 8, 1184–1197
+Wilson DB, Dorfman DM, Orkin SH (1990) A non-erythroid GATA-
+bindingproteinisrequiredforfunctionofthehumanpreproendothelin-1promoter in endothelial cells. Mol Cell Biol 10, 4854–4862G. Nemer et al.: Cloning and analysis of rat GATA-5 999

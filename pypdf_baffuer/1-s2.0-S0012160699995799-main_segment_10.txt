@@ -1,0 +1,30 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "XNkx2.5",
+    "XNkx2.3",
+    "XTn-Ic",
+    "cardiac actin",
+    "XMHC-aa",
+    "XMLC-2a"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "RT-PCR",
+      "in situ hybridization"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "lateral heart field cells",
+      "cardiomyogenesis",
+      "intact embryos",
+      "L HF explants",
+      "L HF–N explants",
+      "stage 22"
+    ]
+  }
+}

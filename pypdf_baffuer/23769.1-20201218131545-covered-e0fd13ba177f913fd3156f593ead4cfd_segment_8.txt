@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HAND1", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["BrdU labeling", "TUNEL staining", "in situ hybridization", "phosphohistone H3 staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU (BrdU)", "phosphohistone H3"],
+    "model_organisms": ["G4NK embryos", "G4MC embryos"]
+  }
+}

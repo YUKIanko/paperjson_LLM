@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "ER-GATA-1", "ER-GATA-1( /H9004N)", "ER-GATA-1( ∆NClone)", "ER-GATA-1( ∆NER-GATA-1)", "ER-GATA-1( ∆N) ER-GATA-1", "Gata2", "Tubulin", "Alas2", "Tac-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["estradiol treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["estradiol"],
+    "model_organisms": ["mice"]
+  }
+}

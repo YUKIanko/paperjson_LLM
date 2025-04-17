@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kelley et al., 1993"],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole mount in situ hybridization technique", "Northern blotting"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["frog", "chick"]
+  }
+}

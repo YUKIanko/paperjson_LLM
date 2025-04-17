@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "NKX2-5",
+    "TBX1",
+    "TBX5",
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

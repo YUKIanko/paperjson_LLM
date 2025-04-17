@@ -1,0 +1,40 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["Sive et al[ 8]"],
+  "genes": [
+    "SMIS"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Thermo Fisher Scientific",
+      "NIH",
+      "Xenbase",
+      "Eurofins Genomics",
+      "Roche",
+      "DITECT"
+    ],
+    "experimental_methods": [
+      "whole mount in situ hybridization",
+      "In situ hybridization",
+      "Fluorescence staining"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "3500; Thermo Fisher Scientific",
+      "paraformaldehyde in PBS",
+      "DIG-labeled probes",
+      "Modified Steinberg’s salt solution (ST)",
+      "1 μM to 10 mM",
+      "FITC-P1 and FITC-P3",
+      "methanol"
+    ],
+    "model_organisms": [
+      "X.laevis J-strain 8.0",
+      "C.pyrrhogaster",
+      "R.arboreus",
+      "B.japonicus",
+      "X.laevis"
+    ]
+  }
+}

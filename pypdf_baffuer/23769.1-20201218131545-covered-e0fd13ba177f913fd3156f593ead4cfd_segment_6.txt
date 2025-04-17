@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["TNC", "GATA4", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["tenascin C (TNC)", "RNA"],
+    "model_organisms": ["Hand2-null embryos", "G4NK hearts", "G4NK mutants"]
+  }
+}

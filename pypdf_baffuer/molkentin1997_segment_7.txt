@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Candia et al. 1992", "Ang et al. 1993", "Sasaki and Hogan 1993"],
+  "genes": ["GATA4", "ANF", "Moxl", "HNF3", "MLC1A", "MHC"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["sectioning transversely", "whole-mount in situ hybridization analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["ANF", "MLC1A", "MHC"],
+    "model_organisms": ["GATA4 null embryos", "E8.5 E9.5 embryos"]
+  }
+}

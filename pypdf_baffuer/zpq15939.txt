@@ -1,0 +1,633 @@
+Differential sensitivities of transcription factor
+target genes underlie cell type-specific geneexpression profiles
+Kirby D. Johnson, Shin-Il Kim, and Emery H. Bresnick*
+Molecular and Cellular Pharmacology Program, Department of Pharmacology, University of Wisconsin School of Medicine, 383 Medical Sciences Center ,
+1300 University Avenue, Madison, WI 53706
+Edited by Stuart H. Orkin, Harvard Medical School, Boston, MA, and approved August 15, 2006 (received for review May 16, 2006)
+Changes in transcription factor levels and activities dictate devel-
+opmental fate. Such a change might affect the full ensemble oftarget genes for a factor or only uniquely sensitive targets. Weinvestigated the relationship among activity of the hematopoietictranscription factor GATA-1, chromatin occupancy, and target genesensitivity. Graded activation of GATA-1 in GATA-1-null cells re-vealed high-, intermediate-, and low-sensitivity targets. GATA-1activity requirements for occupancy and transcription often corre-lated. A GATA-1 amino-terminal deletion mutant severely dereg-ulated the low-sensitivity gene Tac-2 . Thus, cells expressing
+different levels of a cell type-speciﬁc activator can have qualita-tively distinct target gene expression patterns, and factor muta-tions preferentially deregulate low-sensitivity genes. Unlike othertarget genes, GATA-1-mediated Tac-2 regulation was bimodal,
+with activation followed by repression, and the coregulator Friendof GATA-1 (FOG-1) selectively mediated repression. A GATA-1mutant defective in FOG-1 binding occupied a Tac-2 regulatory
+region at levels higher than wild-type GATA-1, whereas FOG-1facilitated chromatin occupancy at a distinct target site. Theseresults indicate that FOG-1 is a determinant of GATA factor tar-get gene sensitivity by either facilitating or opposing chromatinoccupancy.
+chromatin /H20841erythroid /H20841GATA /H20841hematopoietic
+Changes in transcription factor levels and activities underlie the
+regulation of key processes such as cell differentiation, prolif-
+eration, and survival. Transcription factors often occupy variants oftheir cognate cis elements at target genes, and such variants canhave distinct binding affinities in vitro . Thus, changes in transcrip-
+tion factor activities might result in differential occupancy of targetgenes commensurate with in vitro binding affinities. However,
+affinities measured with oligonucleotides might not correlate withchromatin occupancy, and rules governing chromatin occupancyare poorly understood. Considerable progress has been made indefining chromatin target sites for GATA transcription factorfamily members.
+GATA-1 and GATA-2 have distinct and shared roles to regulate
+hematopoiesis (1). GATA-2 promotes the proliferation and sur-vival of multipotent precursors (2, 3), whereas GATA-1 regulateserythroid, megakaryocyte, and eosinophil differentiation (4–7).GATA factors engage DNA and coregulators via a dual zinc fingerdomain (8), and other regions modulate activity (9, 10). GATA-1increases histone acetylation, dimethylation of histone H3 at lysine4 (11–13), and RNA polymerase II recruitment (14) and induceshigher-order chromatin changes (15).
+GATA-1 and GATA-2 preferentially bind (A /H20862T)GATA(A /H20862G)
+in vitro (16, 17) but also recognize GATC (16, 18). GATA motifs
+are abundant in DNA and reside at most erythroid-specific genes(8, 19). GATA-1 and GATA-2 occupy a small subset of theconserved GATA motifs at the
+/H9252-globin locus with qualitatively
+similar patterns (13, 14). Sites can differ in apparent affinities, as
+/H9252major promoter occupancy requires a greater activity /H20862level of an
+estrogen receptor (ER) ligand binding domain fusion to GATA-1(ER-GATA-1) vs. the locus control region (13). At the Gata2 and
+/H9251-globin loci, GATA-1 and GATA-2 have common and unique
+target sites. GATA-2 occupies sites 3.9, 2.8, and 1.8 kb upstream ofthe active Gata2 1S promoter (20, 21). GATA-1-induced Gata2
+repression involves ‘‘GATA switches’’ in which GATA-1 replacesGATA-2 at /H110023.9- and /H110022.8-kb regions. GATA-1-mediated loss
+of GATA-2 occupancy at the /H110021.8-kb site occurs without high-level
+GATA-1 occupancy. At the
+/H9251-globin locus, GATA-2 occupies
+DNaseI hypersensitive site-12 (HS-12) and HS-26, whereasGATA-1 occupies these and additional regions later in develop-ment (22).
+GATA factor chromatin occupancy is likely to be regulated by
+GATA motif features, chromatin, neighboring cis elements, andGATA factor concentration (23, 24). GATA-1 DNA bindingactivity is 10-fold greater in primitive vs. definitive chicken ery-throid cells (25), although the consequence of this differencevis-a`-vis chromatin occupancy is unknown. In the GATA-1-null
+mouse embryonic stem cell-derived erythroid cell line G1E, ER-GATA-1 preferentially occupies sites at the
+/H9252-globin locus in which
+high-level histone acetylation and chromatin accessibility are pre-established (13). GATA-1 binds the acetyltransferases CBP /H20862p300
+(26) and induces histone acetylation (11, 12), but whether CBP /H20862
+p300 enhance GATA-1 occupancy is unknown. The GATA-1 andGATA-2 coregulator Friend of GATA-1 (FOG-1), which mediatesactivation and repression (27), facilitates GATA-1 occupancy (28,29) and GATA switches (28). FOG-1 represses GATA-1 targetgenes via the NuRD corepressor complex (30). GATA-1 binds Sp1
+and EKLF transcription factors (31, 32), and their DNA bindingsites can coreside with GATA motifs, but it is unclear whether thesefactors regulate GATA-1 occupancy.
+How GATA-1 concentration relates to chromatin occupancy and
+gene expression is of considerable interest. The absence (33) orsevere depletion (34) of GATA-1 in mice is embryonic-lethalbecause of defective primitive erythropoiesis, and a 5-fold reductionin GATA-1 delays erythropoiesis (35). Mutations that reduceGATA-1 activity uncouple survival, proliferation, and differentia-tion functions of GATA-1. As little as 5% GATA-1 expressionprotects cells from apoptosis and induces leukemogenesis (36). Inhumans with Down syndrome, expression of a ‘‘short’’ GATA-1(GATA-1s) lacking amino-terminal sequences is linked to a tran-sient myeloproliferative disorder and acute megakaryoblastic leu-kemia (37–39). GATA-1s expression in megakaryoblast precursors
+Author contributions: K.D.J. and E.H.B. designed research; K.D.J. performed research; K.D.J.
+and S.-I.K. contributed new reagents /H20862analytic tools; K.D.J. and E.H.B. analyzed data; and
+K.D.J. and E.H.B. wrote the paper.
+The authors declare no conﬂict of interest.This article is a PNAS direct submission.Abbreviations: ER, estrogen receptor; FOG-1, Friend of GATA-1; HS, DNaseI hypersensitive
+site.
+*To whom correspondence should be addressed. E-mail: ehbresni@wisc.edu.© 2006 by The National Academy of Sciences of the USA
+www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0604041103 PNAS /H20841October 24, 2006 /H20841vol. 103 /H20841no. 43 /H2084115939–15944
+GENETICS
+
+deregulates genes that promote proliferation, which are normally
+repressed by GATA-1 (39, 40).
+The findings described above highlight the importance of under-
+standing the relationship between GATA factor levels, chromatinoccupancy, and target gene regulation. Herein, we segregateGATA-1 target genes based on differential sensitivities to GATA-1levels and provide evidence that various factor levels /H20862activities
+establish qualitatively distinct expression profiles. Furthermore,analysis of the low-sensitivity GATA-1 target gene Tac-2 revealed
+mechanistic insights into GATA-1 and FOG-1 function.
+Results and Discussion
+Differential Sensitivities of GATA-1 Target Genes. Conditional acti-
+vation of ER-GATA-1 stably expressed in GATA-1-null G1E cells(G1E-ER-GATA-1 cells) induces differentiation, recapitulating anormal window of erythropoiesis (41). Treating G1E-ER-GATA-1cells with increasing concentrations of
+/H9252-estradiol or tamoxifen
+yields graded ER-GATA-1 occupancy at chromatin sites (13, 21).ER-GATA-1 activation involves both increased ER-GATA-1 levels(Fig. 6, which is published as supporting information on the PNAS
+web site) and increased activity. Using this approach, we testedwhether GATA-1 target genes respond similarly or distinctly tochanges in the GATA-1 level /H20862activity. G1E-ER-GATA-1 cells were
+treated with increasing concentrations of
+/H9252-estradiol for 16 h, and
+GATA-1 target gene expression was quantitated (Fig. 1 A). A low
+ER-GATA-1 level /H20862activity repressed Gata2 ,Nab2 , and Lyl1 and
+activated /H9251-globin ,/H9252major ,Slc4a1 ,Fog1,Abcb10 ,Ebp4.9 , and Ahsp.
+A moderate level /H20862activity activated Gtlf3b ,Ptdss2 ,Cldn13 ,Alas2 ,
+andCsF2r /H92522and repressed c-Myb andRgs18 . A high level /H20862activity
+activated Tac-2 . These results demonstrating differential sensitivi-
+ties of GATA-1 target genes (Fig. 1 B) were not predictable based
+on the kinetics of GATA-1 target gene expression upon maximalER-GATA-1 activation, because Gata2 repression and
+/H9252major
+activation are early and late events, respectively (42).
+A fundamental determinant of the sensitivity of target loci to a
+trans-acting factor is the ease with which the factor accesseschromatin sites. To establish whether differential chromatin accessunderlies the distinct sensitivities, the ER-GATA-1 level /H20862activity
+was titrated with 5, 10, or 40 nM
+/H9252-estradiol for 16 h, and chromatin
+occupancy was measured at sites defined previously (13, 14, 20, 22,28, 43–45). ER-GATA-1 occupied
+/H9252-globin HSs1–4 maximally and
+the/H9252major promoter nearly maximally in 10 nM /H9252-estradiol-treated
+cells (Fig. 2 A)./H9252major expression was also maximal at this con-0255075100% of Maximal Expression
+01 02 03 04 05 0
+β-estradiol (nM)0255075100% of Maximal Expression
+01 0 2 0 3 0 4 0 5 0
+β-estradiol (nM)
+-8.6
+ 13
+       66
+368
+-8.4
+4.0
+-12
+6818
+20
+5.2
+-3.8
+-9.0
+10
+31
+98
+2941Fold
+Change mRNA
+Gata2
+α-globin
+βmajor
+Slc4a1
+Nab2Fog1
+Lyl1
+Ebp4.9Ahsp
+Abcb10
+Gtlf3b
+c-Myb
+Rgs18Ptdss2
+Cldn13
+Csf2r β2
+Alas2Tac-2EC    (nM)
+50βmajor
+α-globinAhsp
+Alas2
+Gata2c-MybTac-2
+Gata2 α-globin
+βmajor AhspAlas2 Tac-2GATA-1GATA-1
+Sensitivity: high medium lowB
+   c-MybA
+Nab2
+Nab2Gtlf3b
+Fog1
+0255075100% of Maximal Expression
+Fog1Gtlf3b Abcb10
+Ebp4.9
+Lyl1   Rgs18
+   Ptdss2
+   Cldn13Csf2r β2
+Slc4a12
+ 3
+       3
+34444
+5
+5
+688
+8
+9
+1212
+16Rgs18
+Lyl1
+Csf2r β2
+Slc4a1
+Ebp4.9
+Fig. 1. Differential sensitivities of GATA-1 target genes. Shown is real-time
+RT-PCR quantitation of mRNA in G1E-ER-GATA-1 cells treated with varyingconcentrations of
+/H9252-estradiol for 16 h. Values representing the highest activ-
+ities were designated as 100 (mean /H11006SE; three independent experiments).
+Fold changes in mRNA levels and EC 50values are indicated in the table in
+Bottom Right . Graphs depicting Abcb10 ,Ptdss2 , and Cldn13 expression are
+not shown. ( B) Summary of target gene sensitivities.
+0.050.100.150.20
+HS4 HS3 HS2 HS1 βmajor  Promoter
+00.020.040.060.08Tac-2  Intron 700.050.100.150.20
+α-globin  HS-26
+00.050.100.150.20
+Gata2  -2.8
+β-globin  HS4Tac-2  Intron 7
+α-globin  HS-26
+Alas2  Intron 8A
+B CER-GATA-1 Occupancy
+(Relative Units)ER-GATA-1 Occupancy
+(Relative Units)0
+ER-GATA-1
+PI
+β-estradiol (nM) 0 5 10 40 0 5 10 40 05  1 0 4 0 0 5 10 40 0 5 10 40
+0 5 10 4000.050.100.150.20Alas2  Intron 8ER-GATA-1 Occupancy
+(Relative Units)
+0 5 10 40200 bp
+WGATAR
+WGATA or GATAR
+& Conserved (m/h) ER-GATA-1
+PI
+β-estradiol (nM)Fig. 2. Differential ER-GATA-1 activity require-
+ments for occupancy of endogenous chromatinsites. Shown are quantitative ChIP analyses of ER-GATA-1 occupancy in G1E-ER-GATA-1 cells treatedfor 16 h with 0, 5, 10, or 40 nM
+/H9252-estradiol (mean /H11006
+SE; three independent experiments). ( A) ER-GATA-1
+occupancy at previously characterized /H9252-globin lo-
+cus sites (13). ( B) ER-GATA-1 occupancy at /H9251-globin
+HS-26, Alas2 intron 8, the Gata2/H110022.8-kb region, and
+Tac-2 intron 7. ( C) Distribution of WGATAR (A /H20862
+TGATAA /H20862G), WGATA, and GATAR sites located
+within 500 bp on either side of the region analyzedby ChIP. Black bars represent ChIP amplicons. Con-servation is between mouse and human. PI, preim-mune sera.
+15940 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0604041103 Johnson et al .
+
+centration (Fig. 1 A). Previously (13) we demonstrated that /H9252major
+promoter occupancy requires a greater GATA-1 level /H20862activity than
+occupancy at HSs1–4; the 16-h /H9252-estradiol treatment in Fig. 2 was
+not optimal for revealing this difference. Consistent with the highER-GATA-1 sensitivity of
+/H9251-globin andGata2 ,5n M /H9252-estradiol
+induced nearly maximal ER-GATA-1 occupancy at /H9251-globin HS-26
+and the Gata2/H110022.8-kb region (Fig. 2 B). Maximal ER-GATA-1
+occupancy at the Alas2 intron 8 enhancer required 10 nM /H9252-estra-
+diol, and Alas2 activation required moderate ER-GATA-1 activity
+(Fig. 1 A). ER-GATA-1 occupancy at Tac-2 intron 7 required a high
+ER-GATA-1 level /H20862activity, similar to the /H9252major promoter and
+differing from other sites (Fig. 2 B).
+Despite having a similar number of A /H20862TGATAA /H20862G,
+nGATAA /H20862G, and A /H20862TGATAn motifs, including conserved motifs,
+vs. other sites tested (Fig. 2 C),Tac-2 activation requires a consid-
+erably higher ER-GATA-1 level /H20862activity than other genes. Tac-2 is
+highly induced upon differentiation of human peripheral blooderythroid precursors and is also expressed in mouse Ter119 /H11001bone
+marrow erythroid cells (45).
+Deletion of the GATA-1 Amino Terminus Severely Deregulates a
+Low-Sensitivity Target Gene. GATA-1 amino-terminal sequences
+are required for maximal transactivation (9), but the underlyingmechanisms are unknown. Gene expression profiling inmegakaryoblasts from GATA-1s transgenic mice demonstratedthat GATA-1 target genes are differentially deregulated (39, 46).We reasoned that mutations impairing GATA-1 activity preferen-tially affect target genes requiring high GATA-1 activity. To test thisprediction, GATA-1 target gene expression was measured in G1Eclones stably expressing ER-GATA-1( /H9004N) or ER-GATA-1 at
+levels differing by /H110212-fold (Fig. 3). ER-GATA-1( /H9004N) activation
+with 1
+/H9262M/H9252-estradiol for 24 h induced several GATA-1 targets, but
+at levels lower than with ER-GATA-1. ER-GATA-1( /H9004N) activated
+/H9252major 417-fold, 5-fold lower than with ER-GATA-1. ER-GATA-
+1(/H9004N) activated /H9251-globin ,Ahsp, and Alas2/H110214-fold lower than with
+ER-GATA-1. ER-GATA-1( /H9004N) repressed Gata2 (20) and c-Kit
+(47) 3.5-fold and 2.6-fold lower, respectively, vs. ER-GATA-1.ER-GATA-1( /H9004N) was almost completely defective in activating
+Tac-2 .Tac-2 expression increased only in clone 34 (4.6-fold),
+whereas activation by ER-GATA-1 averaged 29-fold. The capacityof ER-GATA-1( /H9004N) to partially regulate most GATA-1 target
+genes analyzed, yet fail to activate Tac-2 , is consistent with the
+greater GATA-1 level /H20862activity requirement for Tac-2 activation.
+Because high-level GATA-1( /H90041–83) expression is required to
+rescue hematopoiesis in mice with reduced GATA-1 levels (10),low-sensitivity targets might have important functions.
+GATA-1 zinc fingers are sufficient for DNA binding with naked
+DNA templates (9, 48), but it is unclear whether other GATA-1sequences regulate chromatin occupancy. To determine whetherthe impaired activity of ER-GATA-1( /H9004N) arises from defective
+chromatin occupancy, we compared ER-GATA-1( /H9004N) and ER-
+GATA-1 chromatin occupancy. ER-GATA-1( /H9004N) and ER-
+GATA-1 occupied HS3 and HS4 and the /H110022.8-kb region of Gata2
+similarly, demonstrating that ER-GATA-1( /H9004N) fully occupies cer-
+tain sites (Fig. 7, which is published as supporting information onthe PNAS web site). ER-GATA-1( /H9004N) occupancy at
+/H9251-globin
+HS-26, Alas2 intron 8, and Tac-2 intron 7 was /H110152-fold lower,
+whereas occupancy at the /H9252major promoter was 4-fold lower vs.
+GATA-1. Thus, deletion of the amino terminus variably affectedchromatin occupancy. The /H110152-fold reduction of ER-GATA-1( /H9004N)
+occupancy at Tac-2 intron 7 could, in principle, reduce ER-
+GATA-1 below a critical threshold required for activation, consid-ering that the absolute level of ER-GATA-1 occupancy at intron 7is lower than at other sites (Fig. 2 AandB). Alternatively, the amino
+terminus might enhance Tac-2 activation after DNA binding,
+consistent with its transactivation activity (9).Unique Biphasic Tac-2 Expression Pattern. Tac-2 encodes a neuroki-
+nin-B (NK-B) precursor protein. Tac-2 is expressed during eryth-
+ropoiesis (45), in the placentas of women with preeclampsia (49),and by certain neuronal cells (50). Analysis of ER-GATA-1 occu-pancy at conserved GATA motifs within an /H11015100-kb chromosomal
+region containing Tac-2 revealed high-level ER-GATA-1 occu-
+pancy at Tac-2 intron 7 (45). To investigate the mechanism under-
+lying GATA-1-mediated Tac-2 activation, we tested whether the
+kinetics of ER-GATA-1-induced Tac-2 expression resembles that
+of other GATA-1 target genes. Tac-2 mRNA increased during the
+24-h
+/H9252-estradiol treatment (Fig. 4 A), but, in contrast to othermRNA Levels
+(Relative Units)mRNA Levels
+(Relative Units)TubulinER-GATA-1
+∆NClone 52 5 3 41 0 1 31 6∆NER-GATA-1mRNA Levels
+(Relative Units)mRNA Levels
+(Relative Units)417 +/- 2102089 +/- 939
+12 +/- 5.338 +/- 13
+ 5.4 +/- 1.718 +/- 7.8
+61 +/- 20
+ 2.3 +/- 1.475 +/- 36
+29 +/- 17
+6.4 +/- 1.6 22 +/- 132.4 +/- 0.1 6.4 +/- 2.801.02.03.04.0
+00.51.01.52.0
+00.51.01.52.0
+Alas200.51.01.52.0
+00.51.01.52.0
+00.51.01.52.0Tac-2
+Gata2 c-Kitβmajor
+Ahsp α-globin
+β-estradiol
+Clone   5   25   34  10  13 16
+ER-GATA-1( ∆N) ER-GATA-1  5   25  34  10  13 16
+ER-GATA-1( ∆N) ER-GATA-11 413
+ER-GATA-1
+ER-GATA-1( ∆N) 194ZF A
+B CERER
+ZF
+01.02.03.04.0
+M  x 10r-3105
+75
+50
+50
+Fig. 3. Truncation of the GATA-1 amino terminus preferentially ablates
+Tac-2 activation. ( A) Proteins analyzed. ( B) Western blot analysis of ER-GATA-
+1(/H9004N) and ER-GATA-1 stably expressed in G1E clonal cell lines. ( C) GATA-1
+target gene expression was compared in G1E clones expressing ER-GATA-1(/H9004N) or ER-GATA-1. Real-time RT-PCR analysis was conducted after induction
+with 1
+/H9262M/H9252-estradiol for 24 h (mean /H11006SE; three independent experiments).
+The/H9252-estradiol-induced fold change in mRNA was averaged for the three
+clones of ER-GATA-1( /H9004N) or ER-GATA-1; the differences between values from
+cells expressing ER-GATA-1( /H9004N) and values from cells expressing ER-GATA-1
+were statistically signiﬁcant ( P/H110050.003, 0.001, 0.002, 0.002, 0.006, and 0.023 for
+/H9252major ,/H9251-globin ,Ahsp ,Tac-2 ,Gata2 , and c-Kit , respectively) for all genes
+except Alas2 .
+Johnson et al . PNAS /H20841October 24, 2006 /H20841vol. 103 /H20841no. 43 /H2084115941
+GENETICS
+
+targets, Tac-2 mRNA declined 11-fold by 40 h. This expression
+pattern occurred in two independent G1E-ER-GATA-1 clonallines that varied /H110154-fold in ER-GATA-1 expression (data not
+shown).
+To test whether biphasic expression results from transcriptional
+activation, followed by mRNA destabilization, Tac-2 mRNA sta-
+bility was measured after 24 or 40 h of
+/H9252-estradiol treatment. Tac-2
+mRNA was constant afte r4ho f actinomycin D treatment regard-
+less of the duration of /H9252-estradiol treatment (Fig. 4 B). Thus, Tac-2
+mRNA is not unstable or destabilized. Because Bcl-xL mRNA,
+which increases late in G1E-ER-GATA-1 differentiation (42, 51),had a t
+1/2of/H110151 h, the assay discriminates between unstable and
+stable mRNAs. Rapid turnover of Tac-2 mRNA therefore does not
+explain the reduced mRNA levels, indicating that Tac-2 is tran-
+scriptionally repressed.
+Because Tac-2 activation requires a high ER-GATA-1 level /H20862
+activity and the modestly impaired activity of ER-GATA-1( /H9004N)
+catastrophically reduces Tac-2 expression, Tac-2 repression might
+result from a small reduction in ER-GATA-1 level /H20862activity late in
+differentiation. Western blot analysis after 40 h of /H9252-estradiol
+treatment revealed a small decrease in ER-GATA-1, although theER-GATA-1 /H20862tubulin ratio was constant (Fig. 4 C). Under these
+conditions, 2- to 3-fold losses in ER-GATA-1 occupancy wereobserved at all chromatin sites tested (Fig. 4 D). Because Tac-2
+activation requires the highest GATA-1 level /H20862activity, comparable
+decreases in occupancy at all sites might preferentially deregulateTac-2 .
+Dual GATA-1-Mediated Activation and Repression of a Target Gene:
+Selective FOG-1 Utilization for Repression. FOG-1 facilitates
+GATA-1 chromatin occupancy at certain sites, is required forGATA switches (28, 29), and mediates activation and repression.
+The GATA-1 amino-terminal zinc finger binds FOG-1 (52, 53), andmutation of V205 within this finger disrupts binding (27, 53).ER-GATA-1(V205) mutants fail to complement GATA-1 loss inGATA-1-null G1E cells and do not regulate most GATA-1 targetgenes (27). GATA-1 increases Eklf(27) and Fog1 (42) transcription
+in a FOG-1-independent manner, but GATA-1-null G1E cellsexpress these genes, and GATA-1 only modestly increases theirmRNAs. Thus, although GATA-1 up-regulates Eklf and Fog1,
+GATA-1 is dispensable for establishing their active state. Thisfinding contrasts with FOG-1-dependent GATA-1 targets, in whichGATA-1 is often critical for high-level activation or repression.
+To determine whether Tac-2 activation is FOG-1-dependent, we
+tested whether ER-GATA-1(V205G) can activate Tac-2 (Fig. 5 A).
+ER-GATA-1(V205G) activated Tac-2 3- to 4-fold greater than with
+ER-GATA-1. Unlike ER-GATA-1, the induction was sustained for40 h (Fig. 5 B). Thus, V205, which is known only to mediate FOG-1
+binding, is required for Tac-2 repression but not activation. Fur-
+thermore, ER-GATA-1 activated Tac-2 expression 124-fold in
+FOG-1-null cells (54) overexpressing ER-GATA-1 (28), whereasAhsp andAlas2 were induced only 2.4- and 15-fold, respectively
+(Fig. 5 C). Combined with the V205G mutant data, the results
+establish that Tac-2 activation is FOG-1-independent. Tac-2 acti-
+vation in G1E and FOG-1-null cells in which differentiation isblocked, the rapid activation kinetics, and GATA-1 occupancy of
+the conserved GATA motif-containing intron 7 indicate that Tac-2
+is a direct target. Tac-2 is therefore the only FOG-1-independent
+GATA-1 target gene reported that critically requires GATA-1 fortranscriptional activity.10100
+24 h β-estradiol 10100
+0123440 h β-estradiol
+0123440 h β-estradiol 24 h β-estradiol% Maximal mRNA
+Actinomycin D (h)B
+Tac-2 Bcl-xL
+Actinomycin D (h)50 50
+0 h 24 h 40 h00.0150.0300.0450.060
+PI ER-GATA-1Tac-2  Intron 7ER-GATA-1 Occupancy
+(Relative Units)DA
+020406080100
+Tac-2
+0612182430
+Bcl-xL
+0 4 8 12 16 24 32 4002404807209601200
+βmajor
+0 4 8 12 16 24 32 40mRNA Levels
+(Fold Induction)
+β-estradiol (h)010002000300040005000
+Alas2
+M   x  10 -3rER-GATA-1
+50 Tubulin105
+75
+0 4 8 12 16 24 32 40
+β-estradiol (h)CUntreated
+Actinomycin D
+PI ER-GATA-1α-globin  HS-26
+PI ER-GATA-1βmajor
+Promoter
+PI ER-GATA-1β-globin  HS4070140210280350
+Ahsp
+0 4 8 12 16 24 32 40
+β-estradiol (h) β-estradiol (h) β-estradiol (h)0 4 8 12 16 24 32 40 0 4 8 12 16 24 32 40
+β-estradiol (h)
+10100
+50
+10100
+50
+Tac-2 Bcl-xL
+Actinomycin D (h) Actinomycin D (h)01234 01234
+00.060.120.180.24
+PI ER-GATA-1Alas2  Intron 8
+Fig. 4. Unique biphasic pattern of GATA-1-mediated Tac-2 regulation. ( A) Real-time RT-PCR analyses of GATA-1 target gene mRNA in G1E-ER-GATA-1 cells
+treated with 1 /H9262M/H9252-estradiol for up to 40 h (mean /H11006SE; three independent experiments). ( B) Real-time PCR analysis of Tac-2 and Bcl-xL mRNA stability.
+G1E-ER-GATA-1 cells were treated with 1 /H9262M/H9252-estradiol for 24 or 40 h before adding actinomycin D (10 /H9262g/H20862ml) for up to 4 h (mean /H11006SE; three independent
+experiments). ( C) Western blot analysis of ER-GATA-1 in G1E-ER-GATA-1 cells. ( D) ChIP analysis of ER-GATA-1 occupancy after 24 or 40 h of /H9252-estradiol treatment
+(mean /H11006SE; three independent experiments). PI, preimmune sera. Decreased ER-GATA-1 occupancy at 40 vs. 24 h was statistically signiﬁcant ( P/H110210.05) in all cases
+except the /H9252major promoter.
+15942 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0604041103 Johnson et al .
+
+Because FOG-1 selectively mediated Tac-2 repression, we tested
+whether ER-GATA-1 occupancy at Tac-2 intron 7 resulted in
+delayed FOG-1 accumulation at this site during the repressionphase. However, FOG-1 occupied intron 7, but not an upstreamevolutionarily conserved region, concomitant with ER-GATA-1occupancy (Fig. 5 D). Similar to ER-GATA-1, FOG-1 occupancy
+significantly decreased by 40 h. The FOG-1-associated NuRDcomplex component MTA2 (metastasis-associated protein 2) sim-ilarly occupied intron 7 before repression. Although the NuRDcomplex contains histone deacetylase subunits (30), diacetylatedhistone H3 and multiacetylated H4 at Tac-2 intron 7 and promoter
+did not decline upon repression (Fig. 8, which is published assupporting information on the PNAS web site).
+Given the FOG-1 requirement for repression, why does maximal
+FOG-1 occupancy precede the major decline in Tac-2 mRNA? We
+reasoned that either a FOG-1–corepressor complex initiates re-pression and ER-GATA-1-FOG-1 complexes are evicted fromrepressed templates, or FOG-1 actively opposes GATA-1 chroma-tin occupancy (Fig. 5 E). Both models assume that ER-GATA-
+1(V205G) defective in FOG-1 binding would occupy Tac-2 intron
+7 to a greater extent than ER-GATA-1. ER-GATA-1(V205G)occupancy at intron 7 was /H110153-fold greater than ER-GATA-1 (Fig.
+5F), even though ER-GATA-1(V205G) was expressed slightly less
+than ER-GATA-1 (data not shown). Almost no ER-GATA-1(V205G) occupancy occurred at the
+/H9252major promoter, consistent
+with FOG-1 chromatin occupancy facilitator activity (28, 29) (Fig.5F). ER-GATA-1(V205G) and ER-GATA-1 occupied HS3 simi-
+larly. Thus, FOG-1 uniquely suppresses GATA-1 chromatin occu-pancy at Tac-2 intron 7.
+Mechanistic Insights. Analysis of target gene sensitivity to GATA-1
+levels identified a high GATA-1 level /H20862activity requirement for
+occupancy and activation of Tac-2 . Unlike other genes studied,
+Tac-2 activation is followed by repression. FOG-1 mediates Tac-2
+repression but not activation, representing the first example inwhich GATA-1 activates and represses a target gene while selec-tively using FOG-1 for repression.
+FOG-1 and MTA2 occupy intron 7 before repression, sug-
+gesting that FOG-1–MTA2 repressive activity is initially sup-pressed or insufficient to counter coactivator functions, or thatrepression is a relatively slow process. As ER-GATA-1(V205G)occupies intron 7 and activates Tac-2 greater than ER-GATA-1,
+FOG-1 suppresses ER-GATA-1 occupancy at Tac-2 and activa-
+tion. Acting like a rheostat, FOG-1 is therefore a key determi-nant of Tac-2 sensitivity to GATA-1 levels. The subsequent
+engagement of FOG-1 repressive activity ensures transientactivation. Thus, FOG-1 has context-dependent activity to fa-cilitate GATA-1 chromatin occupancy (28, 29) and to restrict
+CoR04080120160
+Tac-2 Alas2 AhspFOG-1-null
+(ER-GATA-1)
+β-estradiol02404807209601200
+01 2 2 4 4 0050100150200250
+0 12 24 40(V205G #24)Tac-2  mRNA
+(Fold Induction)(V205G #30)
+β-estradiol (h) β-estradiol (h)B
+C
+0 h
+12 h
+24 h
+40 h0 12 24 40 0 12 24 40V205G #24 V205G #30
+75105
+50M   x  10r-3A
+V205G
+Tubulin(h)mRNA Levels
+(Fold Induction)
+Inactive
+FOG-1-independent
+Activation
+FOG-1-dependent
+RepressionNCGATA-2
+FOG-1
+GATA-1
+CNE
+FOG-1
+CoRGATA-1
++FOG-1
+CNa b+ Intron 7
+Intron 7
+Intron 7 Intron 7 +00.0060.0120.0180.024
+RabbitPIFOG-1
+GoatPIMTA2Tac-2
+Intron 7 Tac-2
+Upstream
+ECR Factor Occupancy
+(Relative Units)D
+F HS3
+ER-GATA-1 ER-GATA-1
+(V205G)ER-GATA-1 Occupancy
+(Relative Units)βmajor  Promoter
+ER-GATA-1 ER-GATA-1
+(V205G)Tac-2  Intron 7 
+0.050.100.150.20
+ER-GATA-1 ER-GATA-1
+(V205G)RabbitPIFOG-1
+Goat
+PIMTA2
+Ac
+AcAc
+Ac AcAcAc
+Ac
+Ac
+Ac
+Ac
+AcAc
+AcAc
+Ac
+Ac
+Ac
+Ac
+AcAc
+Ac
+Ac
+AcAc
+Ac
+AcAc
+Ac
+Ac
+Ac
+AcFOG-1GATA-1
+N
+C
+CoRFig. 5. FOG-1-independent and -dependent components of
+GATA-1-mediated Tac-2 regulation. ( A) Western blot analysis
+of ER-GATA-1(V205G) stably expressed in clonal lines 24 and30 at 0, 12, 24, and 40 h after
+/H9252-estradiol treatment. ( B)
+Kinetics of Tac-2 activation by ER-GATA-1(V205G). ( C)Tac-2
+activation in FOG-1-null cells expressing ER-GATA-1 treatedwith tamoxifen for 24 h (mean /H11006SD; two independent ex-
+periments). ( D) ChIP analysis of FOG-1 and MTA2 occupancy at
+Tac-2 intron 7 in G1E-ER-GATA-1 cells (mean /H11006SE; six and two
+independent experiments for FOG-1 and MTA2, respectively).(E) The two nonmutually exclusive models illustrate FOG-1-
+independent activation followed by FOG-1-dependent re-pression. FOG-1 utilizes a corepressor complex to repress thepromoter (a), or FOG-1 directly opposes GATA-1 chromatinoccupancy (b). ( F) ChIP analysis of ER-GATA-1 and ER-GATA-
+1(V205G) occupancy (mean /H11006SE; four immunoprecipitations
+and two independent experiments). Preimmune signals didnot exceed 0.003. (See key in D.) The differences in ER-GATA-1
+vs. V205G occupancy at intron 7 and
+/H9252major promoter were
+statistically signiﬁcant ( P/H110210.05) except for the 12-h Tac-2
+intron 7 values.
+Johnson et al . PNAS /H20841October 24, 2006 /H20841vol. 103 /H20841no. 43 /H2084115943
+GENETICS
+
+GATA-1 occupancy. The anti-GATA-1 activity might be related
+to FOG-1-mediated repression of erythropoiesis in Xenopus
+laevis (55) and blood cell development in Drosophila (56).
+The demonstration that GATA-1 target genes are differen-
+tially sensitive to the GATA-1 level /H20862activity emphasizes the
+importance of defining parameters underlying GATA factorselection of functional target sites in a genome littered withGATA motifs. Target sensitivity involves not only parametersthat determine chromatin occupancy but also those regulatingchromatin-bound factors. It will be particularly instructive toassess the contribution of individual parameters and combina-tions thereof to establishing and regulating target sensitivitiesand the impact of altering these parameters on GATA factor-instigated gene networks.
+Methods
+Cell Culture. G1E cells expressing ER-GATA-1 constructs were
+cultured as described (13).
+Quantitative Real-Time RT-PCR. Total RNA was purified with TRIzol
+(GIBCO /H20862BRL, Invitrogen, Carlsbad, CA), and cDNA was pre-
+pared from 1.5 /H9262g of RNA as described (28). Relative expression
+levels were determined by real-time RT-PCR from a standardcurve of serial dilutions of cDNA samples and were normalized toGAPDH expression. Primer sequences are described in Supporting
+Materials and Methods .
+Quantitative ChIP Assay. ChIP analyses were conducted as described
+(57) and as described in Supporting Materials and Methods , which is
+published as supporting information on the PNAS web site.
+RNA Stability Assay. G1E-ER-GATA-1 cells were pretreated with 1
+/H9262M/H9252-estradiol for 24 or 40 h. Cultures were then treated with 10
+/H9262g/H20862ml actinomycin D (A1410; Sigma, St. Louis, MO) for up to 4 h.
+Total RNA was purified and analyzed by real-time RT-PCRanalysis.
+Protein Analysis. Total protein was prepared by boiling cells for 5
+min in SDS sample buffer (50 mM Tris, pH 6.8 /H20862100 mM DTT /H208622%
+SDS /H208620.1% bromophenol blue /H2086210% glycerol) (1 /H11003107cells per
+milliliter of buffer). Proteins were analyzed by Western blottingusing ECL-Plus (GE Healthcare, Piscataway, NJ). ER-GATA-1fusions were detected with anti-ER antibody AB16.
+We thank Soumen Pal and Jing Wu for critical comments and Stuart
+Orkin and Alan Cantor (Children’s Hospital, Boston, MA) for providingFOG-1-null cells. This work was supported by National Institutes ofHealth Grants DK50107 (to E.H.B.), DK55700 (to E.H.B.), DK069488(to K.D.J.), and T32NL07899 (to K.D.J.).
+1. Fujiwara Y, Chang AN, Williams AM, Orkin SH (2004) Blood 103:583–585.
+2. Tsai FY, Keller G, Kuo FC, Weiss M, Chen J, Rosenblatt M, Alt FW, Orkin
+SH (1994) Nature 371:221–226.
+3. Tsai F-Y, Orkin SH (1997) Blood 89:3636–3643.
+4. Hirasawa R, Shimuzu R, Takahashi S, Osawa M, Takayanagi S, Kato Y,
+Onodera M, Minegishi N, Yamamoto M, Fukao K, et al. (2002) J Exp Med
+195:1379–1386.
+5. Pevny L, Lin CS, D’Agati V, Simon MC, Orkin SH, Costantini F (1995)
+Development (Cambridge, UK) 121:163–172.
+6. Pevny L, Simon MC, Robertson E, Klein WH, Tsai SF, D’Agati V, Orkin SH,
+Costantini F (1991) Nature 349:257–260.
+7. Shivdasani RA, Fujiwara Y, McDevitt MA, Orkin SH (1997) EMBO J 16:3965–3973.
+8. Cantor AB, Orkin SH (2002) Oncogene 21:3368–3376.
+9. Martin DI, Orkin SH (1990) Genes Dev 4:1886–1898.
+10. Shimizu R, Takahashi S, Ohneda K, Engel JD, Yamamoto M (2001) EMBO J
+20:5250–5260.
+11. Letting DL, Rakowski C, Weiss MJ, Blobel GA (2003) Mol Cell Biol 23:1334–1340.
+12. Kiekhaefer CM, Grass JA, Johnson KD, Boyer ME, Bresnick EH (2002) Proc
+Natl Acad Sci USA 99:14309–14314.
+13. Im H, Grass JA, Johnson KD, Kim S-I, Boyer ME, Imbalzano AN, Bieker JJ,
+Bresnick EH (2005) Proc Natl Acad Sci USA 102:17065–17070.
+14. Johnson KD, Grass JD, Boyer ME, Kiekhaefer CM, Blobel GA, Weiss MJ,
+Bresnick EH (2002) Proc Natl Acad Sci USA 99:11760–11765.
+15. Vakoc CR, Letting DL, Gheldof N, Sawado T, Bender MA, Groudine M, Weiss
+MJ, Dekker J, Blobel GA (2005) Mol Cell 17:453–462.
+16. Ko LJ, Engel JD (1993) Mol Cell Biol 13:4011–4022.
+17. Merika M, Orkin SH (1993) Mol Cell Biol 13:3999–4010.
+18. Newton A, MacKay JP, Crossley M (2001) J Biol Chem 276:35794–35801.
+19. Evans T, Felsenfeld G, Reitman M (1990) Annu Rev Cell Biol 6:95–124.
+20. Grass JA, Boyer ME, Paul S, Wu J, Weiss MJ, Bresnick EH (2003) Proc Natl
+Acad Sci USA 100:8811–8816.
+21. Martowicz ML, Grass JA, Boyer ME, Guend H, Bresnick EH (2005) J Biol
+Chem 280:1724–1732.
+22. Anguita E, Hughes J, Heyworth C, Blobel GA, Wood WG, Higgs DR (2004)
+EMBO J 23:2841–2852.
+23. Bresnick EH, Martowicz ML, Pal S, Johnson KD (2005) J Cell Physiol 205:1–9.
+24. Bresnick EH, Johnson KD, Kim S-I, Im H (2006) Prog Nucleic Acids Res Mol
+Biol81:435–471.
+25. Minie ME, Kimura T, Felsenfeld G (1992) Development (Cambridge, UK)
+115:1149–1164.
+26. Blobel GA, Nakajima T, Eckner R, Montminy M, Orkin SH (1998) Proc Natl
+Acad Sci USA 95:2061–2066.
+27. Crispino JD, Lodish MB, MacKay JP, Orkin SH (1999) Mol Cell 3:219–228.
+28. Pal S, Cantor AB, Johnson KD, Moran T, Boyer ME, Orkin SH, Bresnick EH
+(2004) Proc Natl Acad Sci USA 101:980–985.
+29. Letting DL, Chen YY, Rakowski C, Reedy S, Blobel GA (2004) Proc Natl Acad
+Sci USA 101:476–481.
+30. Hong W, Nakazawa M, Chen YY, Kori R, Vakoc CR, Rakowski C, Blobel GA
+(2005) EMBO J 24:67–78.31. Gregory RC, Taxman DJ, Seshasayee D, Kensinger MH, Bieker JJ, Woj-
+chowski DM (1996) Blood 87:1793–1801.
+32. Merika M, Orkin SH (1995) Mol Cell Biol 15:2437–2447.
+33. Fujiwara Y, Browne CP, Cunniff K, Goff SC, Orkin SH (1996) Proc Natl Acad
+Sci USA 93:12355–12358.
+34. Takahashi S, Onodera K, Motohashi H, Suwabe N, Hayashi N, Yanai N,
+Nabesima Y, Yamamoto M (1997) J Biol Chem 272:12611–12615.
+35. McDevitt MA, Fujiwara Y, Shivdasani RA, Orkin SH (1997) Proc Natl Acad
+Sci USA 94:7696–7681.
+36. Shimizu R, Kuroha T, Ohneda O, Pan X, Ohneda K, Takahashi S, Philipsen
+S, Yamamoto M (2004) Mol Cell Biol 24:10814–10825.
+37. Wechsler J, Greene M, McDevitt MA, Anastasi J, Karp JE, LeBeau MM,
+Crispino JD (2002) Nat Genet 32:148–152.
+38. Xu G, Nagano M, Kanezaki R, Toki T, Hayashi Y, Taketani T, Taki T, Mitui
+T, Koike K, Kato K, et al. (2003) Blood 102:2960–2968.
+39. Li Z, Godinho FJ, Klusmann JH, Garriga-Canut M, Yu C, Orkin SH (2005)
+Nat Genet 37:613–619.
+40. Muntean AG, Crispino JD (2005) Blood 106:1223–1231.
+41. Weiss MJ, Yu C, Orkin SH (1997) Mol Cell Biol 17:1642–1651.
+42. Welch JJ, Watts JA, Vakoc CR, Yao Y, Wang H, Hardison RC, Blobel GA,
+Chodosh LA, Weiss MJ (2004) Blood 104:3136–3147.
+43. Surinya KH, Cox TC, May BK (1998) J Biol Chem 273:16798–16809.
+44. Gallagher PG, Liem RI, Wong E, Weiss MJ, Bodine DM (2005) J Biol Chem
+280:39016–39023.
+45. Pal S, Nemeth MJ, Bodine DM, Miller JL, Svaren J, Thein SL, Lowry PJ,
+Bresnick EH (2004) J Biol Chem 279:31348–31356.
+46. Bourquin JP, Subramanian A, Langebrake C, Reinhardt D, Bernard O,
+Ballerini P, Baruchel A, Cave H, Dastugue N, Hasle H, et al. (2006) Proc Natl
+Acad Sci USA 103:3339–3344.
+47. Munugalavadla V, Dore LC, Tan BL, Hong L, Vishnu M, Weiss MJ, Kapur R
+(2005) Mol Cell Biol 25:6747–6759.
+48. Omichinski JG, Trainor C, Evans T, Gronenborn AM, Clore GM, Felsenfeld
+G (1993) Proc Natl Acad Sci USA 90:1676–1680.
+49. Page NM, Woods RJ, Gardiner SM, Lomthaisong K, Gladwell RT, Butlin DJ,
+Manyonda IT, Lowry PJ (2000) Nature 405:797–800.
+50. Page NM, Woods RJ, Lowry PJ (2001) Regul Pept 98:97–104.
+51. Gregory T, Yu C, Ma A, Orkin SH, Blobel GA, Weiss MJ (1999) Blood
+94:87–96.
+52. Tsang AP, Visvader JE, Turner CA, Fujuwara Y, Yu C, Weiss MJ, Crossley M,
+Orkin SH (1997) Cell90:109–119.
+53. Fox AH, Liew C, Holmes M, Kowalski K, MacKay JP, Crossley M (1999)
+EMBO J 18:2812–2822.
+54. Cantor AB, Katz SG, Orkin SH (2002) Mol Cell Biol 22:4268–4279.
+55. Deconinck AE, Mead PE, Tevosian SG, Crispino JD, Katz SG, Zon LI, Orkin
+SH (2000) Development (Cambridge, UK) 127:2031–2040.
+56. Fossett N, Tevosian SG, Gajewski K, Zhang Q, Orkin SH, Schultz RA (2001)
+Proc Natl Acad Sci USA 98:7342–7347.
+57. Im H, Grass JA, Johnson KD, Boyer ME, Wu J, Bresnick EH (2004) Methods
+Mol Biol 284:129–146.
+15944 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0604041103 Johnson et al .
+

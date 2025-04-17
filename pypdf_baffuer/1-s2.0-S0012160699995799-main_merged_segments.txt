@@ -1,0 +1,242 @@
+{
+  "title": "Subdivision of the Cardiac Nkx2.5 Expression Domain into Myogenic and Nonmyogenic Compartments",
+  "authors": ["Michael Rafﬁn", "Li Ming Leong", "Melissa S. Rones", "Duncan Sparrow", "Tim Mohun", "Mark Mercola"],
+  "references": [],
+  "genes": ["Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [
+      "Harvard Medical School",
+      "National Institute for Medical Research",
+      "The Ridgeway",
+      "Mill Hill"
+    ],
+    "experimental_methods": ["fate mapping", "microsurgical experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus embryos",
+      "chick embryos",
+      "newts",
+      "zebrafish"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["bson", "Fautrez and Amano", "Orts-Llorca", "DeHaan", "Rosenquist and DeHaan", "Jacobson and Duncan", "Sarasa and Climent", "Sater and Jacobson", "Goldstein and Fishman"],
+  "genes": ["Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Tonissen et al., 1994", "Drysdale et al., 1997", "Jacobson, 1960", "Fautrez and Amano, 1961", "Orts-Llorca, 1964", "DeHaan, 1965", "Rosenquist and DeHaan, 1966", "Jacobson and Duncan, 1968", "Sarasa and Climent, 1987", "Sater and Jacobson, 1990a", "Goldstein and Fishman, 1998", "Cleaver et al., 1996"],
+  "genes": ["XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["lineage", "3D reconstruction", "explant experiments", "Culture of Embryos", "Histology", "Feulgen/Light Green/Orange G triple stain", "SURFdriver2.0 software package"],
+    "software_tools": ["SURFdriver2.0 software package"],
+    "reagents_chemicals": ["Xenopus eggs", "cysteine solution", "Marc’s modified Ringer’s solution", "MEMFA", "Fibrowax", "Feulgen/Light Green/Orange G triple stain"],
+    "model_organisms": ["Xenopus", "zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Drysdale et al., 1994", "Harland, 1991", "Logan and Mohun, 1993", "Tonissen et al., 1994"],
+  "genes": ["Nkx2.5", "XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNA whole-mount in situ hybridization", "Fate Mapping", "In Situ Hybridization", "Sandwich recombinants"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI (Molecular Probes)", "1% agarose", "0.753 MMR", "gentamicin sulfate (Sigma)", "MEMFA", "PBS with sodium azide", "gelatin (Bober et al., 1994)"],
+    "model_organisms": ["Stage 22 embryos", "Stage 28 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Hemmati-Brivanlou,1990", "Tonissen et al.,1994", "Evans et al., 1995", "Fu and Izumo, 1995"],
+  "genes": ["Nkx2.5", "Nkx2.3", "MHCa", "MLC2a"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount RNA in situ hybridization", "immunocytochemistry"],
+    "software_tools": ["JMPversion 3.1"],
+    "reagents_chemicals": ["monoclonal antibody CT3 (Developmental Hybridoma Studies Bank)", "goat anti-mouse IgG conjugated to alkaline phosphatase (Sigma)"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990a"],
+  "genes": ["NXK2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["dye labeling", "microinjection with CM-DiI"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": ["stage 32 embryos", "Stage 22 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2-5", "XMLC-2a", "XMHC-a", "XTn-I c"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2", "XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["explant experiments", "microinjection with lipophilic dye, CM-DiI", "transverse Vibratome sections"],
+    "software_tools": [],
+    "reagents_chemicals": ["lipophilic dye, CM-DiI"],
+    "model_organisms": ["Stage 28 embryo", "Stage 32 embryo", "stage 22 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["(1926)", "(1990a)"],
+  "genes": ["KDR", "XNKX2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microinjections", "explantculture", "heart regeneration"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Ambystoma"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Vibratome"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": ["stage 22 embryos", "stage 41 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "XNkx2.5",
+    "XNkx2.3",
+    "XTn-Ic",
+    "cardiac actin",
+    "XMHC-aa",
+    "XMLC-2a"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "RT-PCR",
+      "in situ hybridization"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "lateral heart field cells",
+      "cardiomyogenesis",
+      "intact embryos",
+      "L HF explants",
+      "L HF–N explants",
+      "stage 22"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XTn-I", "XNkx2-5", "XMHC"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CT3 monoclonal antibody"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "extirpation",
+      "transplantation",
+      "explantation experiments",
+      "isolating explants",
+      "culturing",
+      "assaying for gene expression and beating"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Tn-I", "cardiac actin", "XMLC-2a", "XTn-T c", "XMHC a"],
+    "model_organisms": ["chick", "amphibian"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990a"],
+  "genes": ["XNkx2.5", "Tn-T c.337"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["explant", "extirpation", "recombinant studies", "isolated explants", "in situ hybridization", "cross section"],
+    "software_tools": [],
+    "reagents_chemicals": ["monoclonal antibody CT3"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Schneider and Mercola, 1999", "Sater and Jacobson, 1989", "Sater and Jacobson, 1990b", "Nascone and Mercola, 1995", "Chien et al., 1993", "Doevendans and van Bilsen, 1996", "Lyons, 1996", "Siddiqui and Goswami, 1997", "Duroucher and Nemer, 1998"],
+  "genes": ["XNkx2.5", "XMHC-", "XMLC-2", "Tn-T c", "Tn-I cappeared", "cNkx2.5", "MHC m"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CT3 monoclonal antibody"],
+    "model_organisms": ["chick embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2.5", "tinman"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus laevis", "zebrafish", "chicks"]
+  }
+}

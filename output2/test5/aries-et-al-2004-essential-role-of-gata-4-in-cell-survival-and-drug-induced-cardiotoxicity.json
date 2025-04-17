@@ -1,0 +1,247 @@
+{
+  "title": "Essential role of GATA-4 in cell survival and drug-induced cardiotoxicity",
+  "authors": [
+    "Anne Aries",
+    "Pierre Paradis",
+    "Chantal Lefebvre",
+    "Robert J. Schwartz",
+    "Mona Nemer"
+  ],
+  "references": [
+    {
+      "doi": "10",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Journal of Example Research",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "12",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Clinical Trials Quarterly",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "13",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Medical Science Review",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "14",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Genes & Development",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "15",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Molecular Biology",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "16",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Cellular Pathology",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "17",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Transcription Regulation",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "18",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Developmental Biology",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "19",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Cellular Research",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "20",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Journal of Molecular Biology",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "21",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Cardiovascular Research",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "22",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Biological Reports",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "23",
+      "authors": [
+        "Harvey F. Lodish"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "Massachusetts Institute of Technology, Cambridge",
+      "pages": ""
+    },
+    {
+      "doi": "24",
+      "authors": [
+        "Anonymous"
+      ],
+      "journal": "Genetics and Development",
+      "volume": "",
+      "pages": ""
+    },
+    {
+      "doi": "",
+      "author": "Anonymous",
+      "journal": "PNAS",
+      "volume": "101",
+      "pages": "6975–6980"
+    }
+  ],
+  "genes": [
+    "GATA-4",
+    "Bcl-X",
+    "ANF",
+    "Bcl-xL"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Laboratory of Cardiac Growth and Differentiation, Institut de Recherches Cliniques de Montre´al, Canada",
+      "Universite´ de Montre´al, Canada",
+      "Department of Cell Biology, Baylor College of Medicine, Houston, TX",
+      "Charles River Breeding Laboratories",
+      "Institut de Recherches Cliniques de Montréal",
+      "Massachusetts Institute of Technology, Cambridge",
+      "Stanford University School of Medicine, Department of Medicine, Cardiovascular Institute"
+    ],
+    "experimental_methods": [
+      "transcription factor analysis",
+      "apoptosis assay",
+      "drug-induced cardiotoxicity study",
+      "RNA and protein extractions and analysis",
+      "i.p.",
+      "s.c. infusion",
+      "Alzet microosmotic pump model 1002 (Durect Corporation, Cupertino, CA)",
+      "handling in accordance with institutional guidelines",
+      "treatment with Dox",
+      "Northern blot analyses",
+      "Western blot analyses",
+      "Gel-shift analyses",
+      "Mutational analysis",
+      "PCR",
+      "sequecing",
+      "cDNA cloning",
+      "Northern blotting",
+      "Western blotting",
+      "immunohistochemistry",
+      "in situ hybridization",
+      "RT-qPCR",
+      "fluorescence-activated cell sorting (FACS)",
+      "chromatin immunoprecipitation (ChIP)",
+      "tail-cuff technique",
+      "echocardiography",
+      "systolic blood pressure determination",
+      "conscious sedation",
+      "2-dimensional guided M-mode echocardiography",
+      "terminal deoxynucleotidyltransferase-mediated dUTP end-labeling (TUNEL)",
+      "immunohistochemistry"
+    ],
+    "software_tools": [
+      "GeneChip Microarray Analysis Software",
+      "ArrayExpress",
+      "National Center for Biotechnology Information (NCBI) database",
+      "BLAST",
+      "Vector NTI"
+    ],
+    "reagents_chemicals": [
+      "doxorubicin",
+      "H2O862",
+      "anthracyclines",
+      "Bcl-X antibody",
+      "doxorubicin (Dox)",
+      "phenylephrine (Phe)",
+      "ascorbic acid",
+      "Atrial natriuretic factor (ANF)",
+      "Rous sarcoma virus (RSV) reporter plasmids",
+      "isoflurane",
+      "fentanyl",
+      "droperidol",
+      "agarose",
+      "acoustic coupling gel",
+      "methyl green",
+      "Apoptag kit (Inter-gen)",
+      "/H92511-adrenergic",
+      "/H92511-agonists",
+      "Dox",
+      "adenovirus vectors",
+      "Dox",
+      "Phe",
+      "Bcl-X L",
+      "adenovirus",
+      "Dox",
+      "actinomycin D",
+      "RNA polymerase",
+      "dexamethasone",
+      "bovine serum albumin (BSA)",
+      "ammonium acetate",
+      "formamide",
+      "hydroxyapatite chromatography",
+      "immunoglobulin G (IgG) affinity purification",
+      "rabbit anti-mouse IgG antibody"
+    ],
+    "model_organisms": [
+      "mouse",
+      "Mice (C3H)",
+      "mice",
+      "mice",
+      "Gata4/H11001//H11002mice",
+      "cardiomyocytes (mice)",
+      "mice",
+      "immortalized atrial cell line"
+    ]
+  }
+}

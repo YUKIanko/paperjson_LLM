@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Vibratome"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": ["stage 22 embryos", "stage 41 embryos"]
+  }
+}

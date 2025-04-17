@@ -1,0 +1,22 @@
+{
+  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR",
+  "authors": ["Jae Woon Lee", "Y.-K. Lee", "S.-H. Park", "Y.-S. Kim", "S. H. Park", "J. W. Kwon", "H.-B. Soh", "D. D. Moore", "H.-S. Choi"],
+  "references": [
+    {"id": "1", "title": "Science 240, 889–895"},
+    {"id": "2", "title": "Endocr. Rev. 20,689–725"},
+    // ... (remaining references follow the same pattern)
+    {"id": "35", "title": "Mol. Cell. Biol. 15,5226 –5234"}
+  ],
+  "genes": ["FOR1", "FOR2", "RXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "GST pull-down assays",
+      "mammalian two-hybrid assay",
+      "electrophoretic mobility shift assays"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["IR1", "cold IR1", "EcRE"],
+    "model_organisms": ["Xenopus laevis"]
+  }
+}

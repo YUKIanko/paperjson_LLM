@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ATP5A1",
+    "BAG2",
+    "BRCA1",
+    "CCND1",
+    "CTNNA2",
+    "DLGAP1",
+    "EGFR",
+    "ERBB4",
+    "FAS"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

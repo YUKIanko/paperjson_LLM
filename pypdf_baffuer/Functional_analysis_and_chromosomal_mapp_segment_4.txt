@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA1", "GATA2", "GATA3", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["linkage analysis", "electrophoresis", "SDS-PAGE", "Westernblots"],
+    "software_tools": [],
+    "reagents_chemicals": ["Laemmli buffer", "Ficoll", "Tris-HCl", "MgCl", "EDTA", "XbaI", "Agarose gel", "Hybond-PVDF membranes", "32P-dATP random primer-labeled probe"],
+    "model_organisms": ["Xenopus", "mouse", "CV1 cell"]
+  }
+}

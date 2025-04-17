@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Garg et al., 2003", "Hirayama-Yamada et al., 2005", "Okubo et al., 2004"],
+  "genes": ["GATA4", "FOG", "ERBB3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["EMT", "Wnt1Cre"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Gata4T2del embryos", "Rivera-Feliciano et al."]
+  }
+}

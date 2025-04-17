@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "ALB1", "HNF4", "Hex"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR analysis", "in situ hybridization analyses", "immunohistochemistry", "radioactive in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["Alb1 mRNA", "HNF4 protein", "Hex mRNA"],
+    "model_organisms": ["Gata6/H11002//H11002ES cell-derived embryos"]
+  }
+}

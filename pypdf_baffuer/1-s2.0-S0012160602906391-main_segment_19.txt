@@ -1,0 +1,71 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "genes": ["GATA-4", "Nkx-2.5", "SRF"]
+    },
+    {
+      "proper_nouns": {
+        "institutions": ["Cold Spring Harbor Laboratory"],
+        "experimental_methods": ["transgenic embryos", "sperm nuclear transplantations", "In situ hybridization"],
+        "software_tools": [],
+        "reagents_chemicals": ["Xenopus mesoderm-inducing factor", "CArG box sequence"]
+      }
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": ["dominant negative murine serum response factor: alternative splicing within the activation domain inhibits transactivation of serum response factor binding targets", "transcriptional control of muscle development by myocyte enhancer factor-2 (MEF2) proteins", "expression of XMyoD protein in early Xenopus laevis embryos"],
+        "software_tools": [],
+        "reagents_chemicals": ["Xenopus tropicalis transgenic lines"]
+      }
+    },
+    {
+      "genes": ["SRF", "CArG box", "fosSRE", "MEF2", "Nkx-2.5", "SP1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": ["transgenic embryos", "expression of genes encoding the transcription factor SRF during early development", "binding to CArG box sequences"],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE", "CArG box", "Nkx-2.5", "SP1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["SRF", "fosSRE"]
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE"]
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE"]
+    }
+  ]
+}

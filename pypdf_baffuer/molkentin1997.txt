@@ -1,0 +1,1200 @@
+ 10.1101/gad.11.8.1061 Access the most recent version at doi: 1997 11: 1061-1072 Genes Dev.  J D Molkentin, Q Lin, S A Duncan, et al.   formation and ventral morphogenesis.Requirement of the transcription factor GATA4 for heart tube
+  References
+   http://genesdev.cshlp.org/content/11/8/1061.full.html#ref-list-1This article cites 59 articles, 34 of which can be accessed free at:
+ServiceEmail Alerting
+ click here. top right corner of the article orReceive free email alerts when new articles cite this article - sign up in the box at the
+ http://genesdev.cshlp.org/subscriptionsgo to: Genes & Development To subscribe to 
+Copyright © Cold Spring Harbor Laboratory Press Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from  Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Requirement of the transcription factor 
+GATA4 for heart tube formation and 
+ventral morphogenesis 
+Jeffery D. Molkentin, 1 Qing Lin, 1 Stephen A. Duncan, 2 and Eric N. Olson 1'3 
+1Department of Molecular Biology and Oncology; University of Texas Southwestern Medical Center at Dallas, Dallas, Texas 
+75235-9148 USA; 2Laboratory of Molecular Cell Biology, The Rockefeller University, New York, New York 10021 USA 
+The zinc finger transcription factor GATA4 has been implicated in heart development based on its early 
+expression in precardiogenic splanchnic mesoderm and its ability to activate the expression of a number of 
+cardiac-specific genes. To determine the role of GATA4 in embryogenesis, we generated mice homozygous for 
+a GATA4 null allele. Homozygous GATA4 null mice arrested in development between E7.0 and E9.5 because 
+of severe developmental abnormalities. Mutant embryos most notably lacked a primitive heart tube and 
+foregut and developed partially outside the yolk sac. In the mutants, the two bilaterally symmetric 
+promyocardial primordia failed to migrate ventrally but instead remained lateral and generated two 
+independent heart tubes that contained differentiated cardiomyocytes. We show that these deformities 
+resulted from a general loss in lateral to ventral folding throughout the embryo. GATA4 is most highly 
+expressed within the precardiogenic splanchnic mesoderm at the posterior lip of the anterior intestinal portal, 
+corresponding to the region of the embryo that undergoes ventral fusion. We propose that GATA4 is required 
+for the migration or folding morphogenesis of the precardiogenic splanchnic mesodermal cells at the level of 
+the AIP. 
+[Kew Words: GATA4; cardiac morphogenesis; cardia bifida; anterior intestinal portal; foregut; transcription] 
+Received February 25, 1997; revised version accepted March 18, 1997. 
+The embryologic events associated with cardiac morpho- 
+genesis have been studied for decades, but the underlying 
+molecular mechanisms that control this process are 
+poorly understood (Olson and Srivastava 1996). Early in 
+development, uncommitted splanchnic mesoderm resid- 
+ing on each lateral half of the developing embryo, at 
+about the level of the future head fold, becomes specified 
+to a cardiogenic fate by diffusible factors released from 
+the underlying endoderm (for review, see Nascone and 
+Mercola 1996). Once specified, the bilaterally symmetric 
+cardiogenic precursors organize and migrate along the 
+anterior intestinal portal (AIP), where they converge at 
+the midline of the embryo to form the cardiac crescent. 
+This cardiogenic crescent-shaped structure then folds 
+ventrally resulting in fusion of the cardiac primordia at 
+the midline and formation of the linear heart tube. The 
+linear heart tube then undergoes looping morphogenesis 
+such that the posterior-lying atrial region moves in an 
+anterior and dorsal direction while the future right ven- 
+tricular region rapidly distends rightward. The looped 
+heart tube then undergoes septation, and the atrial and 
+ventricular chambers become distinct. The basic helix- 
+SCorresponding author. 
+E-MAIL eolson@hamon.swmed.edu; FAX (214) 648-1196. loop-helix (bHLH) transcription factors eHAND and 
+dHAND (Srivastava et al. 1995) and the homeobox gene 
+Nkx2.5 (Lyons et al. 1995) have been implicated in loop- 
+ing morphogenesis of the heart. 
+Six GATA proteins have been identified in vertebrate 
+species, each of which contains a highly conserved 
+DNA-binding domain consisting of two zinc fingers of 
+the motif Cys-X~-Cys-X 17-Cys-X2-Cys (Felsenfeld 1989; 
+Tsai et al. 1989; Yamamoto et al. 1990; Arceci et al. 
+1993; Kelley et al. 1993; Laverriere et al. 1994; Morrisey 
+et al. 1996, 1997). These two zinc fingers have been 
+shown to direct binding to the DNA sequence element 
+(A/T)GATA(A/G) (Ko and Engel 1993; Merika and Orkin 
+1993), although just the carboxy-terminal finger is suffi- 
+cient for site-specific interaction (Martin and Orkin 
+1990; Yang and Evans 1992; Omichinski et al. 1993; Vis- 
+vader et al. 1995). Examination of the DNA-binding site 
+specificities of different GATA factors has demonstrated 
+that all six members of the family bind the same con- 
+sensus sequence, suggesting that they may substitute for 
+one another in lineages in which they are coexpressed 
+(Ko and Engel 1993; Merika and Orkin 1993; Morrisey et 
+al. 1996, 1997). The artificial introduction of GATA4 
+into GATA1 null embryonic stem (ES) cells has been 
+shown to partially restore erythropoiesis (Blobel et al. 
+1995) 
+GENES & DEVELOPMENT 11:1061-1072 © 1997 by Cold Spring Harbor Laboratory Press ISSN 0890-9369/97 $5.00 1061 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+Based on their expression patterns, the GATA proteins 
+have been divided into two subfamilies. GATA1/2/3 are 
+expressed early in hematopoietic progenitors (Evans and 
+Felsenfeld 1989; Tsai et al. 1989; Martin et al. 1990; Wil- 
+son et al. 1990; Yamamoto et al. 1990; Lee et al. 1991; 
+Zon et al. 1991; Dorfman et al. 1992), whereas GATA4/ 
+5/6 are expressed in the mesodermal precursors that give 
+rise to the heart as well as in the endoderm of the gut 
+epithelium (Arceci et al. 1993; Kelley et al. 1993; Laver- 
+riere et al. 1994; Morrisey et al. 1996, 1997). GATA4 is 
+subsequently expressed in the myocardium throughout 
+embryonic development and into adulthood (Arceci et al. 
+1993; Laverriere et al. 1994). 
+GATA1/2/3 have each been shown to be important 
+regulators of hematopoietic-specific gene expression (for 
+review, see Orkin 1992). GATA1, for example, was origi- 
+nally identified as an activator of globin gene expression 
+and was subsequently shown to be involved in the regu- 
+lation of virtually every erythroid-specific gene exam- 
+ined to date (for review, see Orkin 1992). Targeted dis- 
+ruption of the GATA1, GATA2, and GATA3 genes in the 
+mouse has demonstrated that each is an important regu- 
+lator that establishes the identity of the hematopoietic 
+lineage in which it is expressed (Penvy et al. 1991; Tsai et 
+al. 1994; Pandolfi et al. 1995; Ting et al. 1996). Loss of 
+GATA1 results in the absence of mature erythroid cells 
+but not megakaryocytes or mast cells (Pevny et al. 1991; 
+Blobel et al. 1995), whereas the loss of GATA2 results in 
+a deficit in hematopoietic progenitor cells (Tsai et al. 
+1994). Loss of GATA3 results in the complete absence of 
+mature T cells as well as minor defects in liver hemato- 
+poiesis (Pandolfi et al. 1995; Ting et al. 1996). 
+GATA4 has been implicated in cardiac development 
+based both on its early expression pattern and on its abil- 
+ity to regulate a number of cardiac structural genes, 
+such as s-myosin heavy chain (~-MHC), cardiac tropo- 
+nin-C (cTNC), atrial natriuretic factor (ANF), and brain 
+natriuretic peptide (BNP) (Grepin et al. 1994; Ip et al. 
+1994; Molkentin et al. 1994; Thuerauf et al. 1994). Stably 
+transfected P19 embryonic carcinoma cells that express antisense GATA4 transcripts have also been shown to be 
+deficient in their ability to differentiate into cardio- 
+myocytes in the presence of DMSO (Grepin et al. 1995), 
+and injection of GATA4, GATA5, or GATA6 RNA into 
+Xenopus embryos is capable of prematurely activating 
+expression of the R-cardiac actin and R-MHC genes (Jiang 
+and Evans 1996). 
+To investigate the function of GATA4 during embry- 
+onic development, we generated mice deficient for this 
+gene product by targeted disruption in ES cells. Although 
+heterozygous mice were normal, homozygous null mice 
+arrested in development between embryonic day 7.0 
+(E7.0) and E9.5 because of severe morphogenic defects. 
+GATA4 null embryos lacked a centralized heart tube and 
+foregut, and developed partially outside the yolk sac. 
+These defects resulted from a fundamental failure in lat- 
+eral to ventral folding early in embryogenesis, suggesting 
+that GATA4 is essential for the formation of the primi- 
+tive heart tube, the AIP, and the foregut. 
+Results 
+Targeted disruption of GATA4 in ES cells and 
+generation of null mice 
+To mutate the GATA4 locus in ES cells, a replacement 
+targeting vector was designed that would result in dele- 
+tion of the exons encoding the two DNA-binding zinc 
+finger domains and insertion of the neomycin resistance 
+gene (neo) by homologous recombination. The thymi- 
+dine kinase (TK) gene was included in the targeting vec- 
+tor as a negative selection marker for nonhomologous 
+recombination events (Fig. 1A). The targeting vector was 
+electroporated into ES cells that were selected for the 
+presence of the neo gene and the loss of the TK gene. 
+Southern blot analysis identified four independent 
+clones that had been properly targeted at the GATA4 
+lOCUS. 
+ES cells heterozygous for the targeted GATA4 allele 
+were injected into E3.5 blastocysts derived from 
+C57BL/6 mice, and blastocysts were subsequently im- 
+A 
+Sacl 
+I 
+GA TA 4 
+Locus 
+Targeting 
+Vector EcoRV BamHI EcoRI BamHI Sacl 
+Iii I 
+s, p~o~ R 1=2 
+X s.o, X 
+Neo L TK ..= 
+Sacl EcoRV BamHI EcoRV Sacl BsmHI Sacl 
+I I , ' NeoL ~ i I~-L_ - - -- 
+Targeted v LI Li i_.J 
+Locus B 
+5'probe c29 w.d 3'probe c29 W.d 
+5 kb 3.5 kb 
+EcoRV Sacl 
+Figure 1. Partial map of the GATA4 genomic locus and genomic Southern strategy. (A) The GATA4 genomic locus surrounding the 
+targeted area is shown. Homologous recombination resulted in the replacement of the two zinc finger-encoding exons with the neo 
+resistance gene. The positions of the 5' and 3' Southern probes are shown, external to the targeting arms and internal to the restriction 
+sites used to characterize the targeted locus. (B) A Southern blot was performed with genomic DNA that was generated from an ES cell 
+clone (C29) used to generate chimeric mice. The results show that homologous recombination had occurred as predicted based on the 
+additional EcoRV and SacI sites that were introduced with the neo cassette. 
+1062 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+A planted into pseudopregnant Swiss foster mothers to ob- 
+tain chimeric mice. Breeding of chimeras into a C57BL/6 
+background resulted in transmission of the mutation 
+through the germ line and generation of GATA4 hetero- 
+zygous mice of the composite C57BL/6 x Sv129 geno- 
+type. Heterozygotes for the GATA4 mutation were in- 
+tercrossed to generate null mice and to determine the 
+role of GATA4 in development. As a control, GATA4 
+null embryos were analyzed for GATA4 mRNA expres- 
+sion by RT-PCR and demonstrated that the replacement 
+event resulted in a loss of mature GATA4 message (data 
+not shown). 
+Morphological phenotype of GATA4 -/- embryos and 
+allelic distribution 
+Although GATA4 heterozygous mice showed no dis- 
+cernable phenotype, neonates born to GATA4 heterozy- 
+gotes revealed no viable null animals, suggesting that the 
+homozygous mutation resulted in embryonic lethality 
+(data not shown). Analysis of a large group of embryos 
+from heterozygote intercrosses taken at E8.5 and E9.5 
+demonstrated that the allelic distribution was roughly 
+Mendelian, at the predicted 1:2:1 ratio (Table 1). How- 
+ever, no homozygous null embryos were found at E10.5, 
+suggesting that they had been resorbed by that stage. 
+At E9.5, GATA4 null embryos exhibited a number of 
+severe defects including a general developmental delay 
+and reduction in size, loss of a centralized heart, and 
+protrusion of the head and tail from the posterior aspect 
+of the yolk sac (Fig. 2A). A day earlier in development, 
+the tail region of the embryo could already be seen de- 
+veloping outside of the yolk sac (Fig. 2B). The majority of 
+the GATA4 null embryos (65%) at E8.5 or E9.5 were of 
+the phenotype shown in Figure 2; however, a fraction 
+(35%) had arrested at a developmental stage that was 
+morphologically equivalent to the egg cylinder normally 
+seen at -E7.0 (Table 2). Of the GATA4 null embryos that 
+developed beyond the egg cylinder stage, none contained 
+a central heart tube or were positioned correctly within 
+the yolk sac (Table 2). This analysis demonstrated that 
+the GATA4 null phenotype had two varying degrees of 
+severity, either developmental arrest at the egg cylinder 
+stage, presumably before gastrulation, or progression 
+past this stage to -E9.5. 
+Histological analysis of GATA4 -/- embryos 
+To further define the morphologic defects in GATA4 
+null embryos, histologic sections of wild-type and mu- 
+Table 1. Genotypes resulting from GATA4 
+heterozygote intercrosses 
+Allelic distribution 
+Embryonic day +/+ +/- -/- 
+8.5 14 (29%) 25 (51%) 10 (20%) 
+9.5 33 (26%) 68 (54%) 25 (20%) 
+Numbers of embryos of each genotype and their percentage of 
+the total are shown for each day. +/- 4- 
+Hd 
+¥s GATA4 directs heart tube formation 
+B 4- 
+Figure 2. Gross morphologic appearance of GATA4 null em- 
+bryos. (A) An E9.5 litter from a GATA4 heterozygote intercross 
+was collected. The GATA4 mutant embryo on the right shows 
+severe developmental abnormalities, including protrusion out- 
+side the yolk sac and the lack of a primitive heart tube. The 
+embryo on the left is heterozygous for the GATA4 mutation and 
+is normal in appearance. The yolk sac has been removed from 
+this embryo to show normal developmental landmarks at E9.5 
+for comparison to the null embryo. (B) At E8.5, GATA4 null 
+embryos were already protruding from their yolk sacs and 
+showed severe developmental defects. The tail region can be 
+seen as the embryo is in the process of turning while outside the 
+yolk sac. (Hd) Head; (T) tail; (Ys) yolk sac. 
+tant embryos within their decidua were compared (Fig. 3). 
+Parasagittal sections of embryos taken at E7.5 showed that 
+the mutants were already reduced in size and developmen- 
+tally delayed by half a day compared to wild-type or het- 
+erozygous littermates. Mutant embryos at E7.5 also 
+showed a delay in closure of the proamniotic canal and 
+incomplete cavitation of the exocoelomic cavity (Fig. 3B). 
+However, null embryos contained both parietal and vis- 
+ceral endoderm as well as an allantois. A day later, the 
+structural defects were more obvious. Parasagittal sections 
+of GATA4 null embryos within their deciduas showed that 
+regions of the embryo were already developing outside the 
+posterior aspect of the yolk sac (Fig. 3D, arrows). Normally 
+by this time in development, each lateral half of the layer 
+containing the splanchnic mesoderm and underlying endo- 
+derm has folded ventrally to place the embryo within the 
+yolk sac at the level of the heart and above. A parasagittal 
+section of an E8.5 unaffected littermate shows that the 
+head and heart region are already free within the yolk sac at 
+this stage (Fig. 3C). 
+GENES & DEVELOPMENT 1063 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+Table 2. Prevalence of developmental defects in GATA4 null embryos 
+Embryonic Arrested before Ouside of Lack of a Structurally 
+day gastrulation yolk sac ~ central heart ~ unrecognizable a'b 
+8.5 4/10 5/6 5/6 1/6 
+9.5 8/25 15/17 15/17 2/17 
+aRepresents the remaining embryos that progressed through gastrulation. 
+bThese embryos were severely affected so that landmarks of development were not obvious but gastrulation had occurred based on 
+marker analysis. 
+Normally by E8.5, the lateral wings of splanchnic meso- 
+derm with the underlying endoderm have migrated ven- 
+trally at the level of the heart to generate the foregut and 
+the centrally located primitive heart tube (Fig. 3E, G). How- 
+ever, transverse sections demonstrated that the GATA4 
+null embryos lacked any structures ventral to the noto- 
+chord (Fig. 3F,H). In GATA4 null embryos, the lateral 
+wings of endoderm and splanchnic mesoderm remained at 
+the sides and were displaced dorsally as the midline of the 
+embryo continued to grow. This resulted in the lack of foregut formation and the failure of the paired endocardial 
+tubes to fuse at the ventral midline (Fig. 3F,H). Because the 
+mutant embryos never folded ventrally, the yolk sac was 
+not pulled over and in front of the embryo, but instead was 
+pinched off dorsally, at the anterior and posterior ends of 
+the embryo so that the head and tail came to lie outside the 
+yolk sac (see Fig. 9 and Discussion, below). Also of note, 
+the overlying ectoderm and somatic mesoderm never 
+moved ventrally so that the amnion remained dorsal and 
+did not surround the embryo (Fig. 3F,H). 
++/- 4- +/- 4- 
+E7.5 ~ " ~" ~ E8.5 JL=~.~f~ ~ ", ':~ 
+f ~ J .,.-'IW'. ~!~: ~~ i 
+"f -" o 3 
+E8.5 E8.5 ~~/ i0 r • ' r 
+~. "~ ~ven ven 
+Figure 3. Analysis of GALA4 null embryos by hematoxylin and eosin staining of decidua| sections. Parasagittal section through 
+GATA4 heterozygote (A} and a GATA4 mutant embryo (B) at E7.5. Notice that the mutant embryo is delayed in development and is 
+smaller than the heterozygous embryo. The proamniotic canal, indicated with an asterisk, has not yet closed and the ectoplacental 
+cone region has not cavitated to the same extent in the mutant as in the heterozygous embryo. Parasagittal section through a 
+heterozygous wild-type embryo (C) and a GATA4 mutant embryo (D) at E8.5 shows that regions of the mutant embryo are developing 
+outside the yolk sac (large arrows) while the normal embryo is becoming surrounded by the yolk sac. A transverse section through an 
+E8.5 heterozygous wild-type embryo (E) and a GATA4 mutant embryo (F) at the level of the developing heart shows that the normal 
+embryo has already folded resulting in the placement of the foregut and heart ventral to the neural tube and notochord. The GATA4 
+null embryo is unable to fold ventrally so that the foregut never forms and the heart-forming region remains lateral and dorsal to the 
+neural tube and notochord. These relationships are shown more clearly in a diagram representing the transverse sections of the 
+wild-type (G) and the mutant (H) embryos. The foregut endoderm is shown in blue, and the heart regions are shown in red. Notice how 
+the most ventral developmental landmark in the GATA4 mutant embryo is the notochord while the wild-type embryo shows the 
+foregut and heart region ventral to the notochord. (Am) Amnion; (E) ectoplacental cone; (A1) allantois; (Hf) head fold; (H) heart; (Ve) 
+visceral endoderm; (Pe) parietal endoderm; (Ys) yolk sac; (Nt) neural tube; (Nc) notochord; (Fg) foregut; (Da) dorsal aorta. 
+1064 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+GATA4 directs heart tube formation 
+Analysis of GATA4 null embryos by whole-mount in 
+situ hybridization 
+It was of interest to analyze the expression of a number 
+of cardiac markers, as GATA4 null embryos lacked a 
+ventrally located heart tube but appeared to contain two 
+independent heart tubes on either lateral edge. Whole- 
+mount hybridization for the cardiac-expressed genes 
+ANF, myosin light chain 1A (MLC1A), and ~-MHC dem- 
+onstrated that GATA4 null embryos contained differen- 
+tiated cardiomyocytes but that the heart-forming region 
+was split on either side of the embryo, resulting in cardia 
+bifida (Fig 4D-F). The cardiac-staining regions showed 
+that the cardiogenic primordia remained bilateral in null 
+embryos, whereas in wild-type embryos, they moved 
+ventrally and fused at the midline to generate a single 
+heart tube (Fig 4A-C). It is also of interest that the 
+bilateral heart tubes in the mutant embryos some- 
+times looped rightward (Fig. 4E) as normally occurs 
+in the single heart tube of wild-type embryos (Fig. 4A). 
+The cardiac marker genes MLC2A, MLC2V, Nkx2.5, 
+eHAND, and dHAND appeared to be expressed by 
+whole-mount in situ hybridization at roughly compa- 
+rable levels between the mutant and wild-type hearts 
+(data not shown). Despite expression of a number of dif- 
+ferentiation markers, we never observed contractions in 
+the bilateral heart tubes of the mutant embryos, suggest- 
+ing that the individual cardiomyocytes had not function- 
+ally differentiated. 
+To investigate the relationship between the bilateral 
+heart-forming regions and the dorsal-ventral axis of the 
+embryo, cardiac-stained embryos were sectioned trans- 
+versely. Sections of embryos stained for ANF clearly re- 
+vealed the dorsolateral positions of the two heart-form- 
+ing regions in the mutants (Fig. 5B). During normal de- 
+velopment, committed splanchnic mesoderm with its 
+associated underlying pharyngeal endoderm at the level of the heart moves ventrally and folds along the AIP. 
+This lateral to ventral folding encloses the endoderm 
+within the foregut and fuses the two promyocardial re- 
+gions in front of the neural tube and foregut (Fig. 5A). 
+However, in GATA4 null embryos, the endoderm and 
+the overlying splanchnic mesoderm were unable to 
+move ventrally, resulting in the formation of two inde- 
+pendent heart-forming regions on either side of the em- 
+bryo and the lack of an enclosed foregut (Fig. 5B). Inspec- 
+tion of the cardiomyocytes from GATA4 null embryos 
+suggested that they had undergone the characteristic 
+mesenchymal to epithelial transition, despite a lack of 
+ventral midline positioning. Endocardial cells could also 
+be visualized in the split cardiac tubes of the GATA4 
+null embryo, suggesting that there was not a defect in 
+the specification of this lineage (Fig. 5B; data not shown). 
+Also of note, the underlying pharyngeal endoderm layer 
+appeared to aggregate and form pouches, suggesting that 
+it continued to grow in place without folding out ven- 
+trally (Fig. 5B). 
+The morphological defects in GATA4 null embryos 
+were specific to the heart-forming region, as many other 
+major developmental events occurred normally. Null 
+embryos at E8.5 consistently contained between four 
+and eight somites as visualized by hybridization for 
+Moxl RNA (Candia et al. 1992) (Fig. 6D). The presence of 
+this number of somites suggested that null embryos 
+could develop to a stage equivalent to E8.5, despite the 
+lack of a centralized heart tube or the proper association 
+of the embryo with the yolk sac. RNA for the forkhead 
+transcription factor hepatocyte nuclear factor 3~ 
+(HNF3~) was also present in null embryos, suggesting 
+that they developed a relatively normal notochord and 
+neural tube throughout the axis of the embryo (Ang et al. 
+1993; Sasaki and Hogan 1993) (Fig 6E). Interestingly, 
+analysis of this marker demonstrated the loss of the AIP 
+and all other ventral structures in GATA4 null embryos. 
+ANF MLC1A MHC 
++/- 
+-/- 
+E8.5 E9.5 E9.5 Figure 4. Whole-mount in situ hybridization 
+analysis of cardiac markers. (A) ANF was ex- 
+pressed in an E8.5 heterozygous embryo as ex- 
+pected in the primitive heart tube in its proper 
+ventral position. (D) A dorsal view of an E8.5 
+GATA4 mutant embryo also demonstrates 
+abundant expression of ANF; however, the 
+heart-forming region is split and is positioned 
+laterally and dorsally. Expression of MLC1A 
+was also analyzed in an E9.5 heterozygous em- 
+bryo (B), shown in side view, and a mutant 
+littermate (E) shown in dorsal view. (C)Analy- 
+sis of ~-MHC (MHC) mRNA expression dem- 
+onstrated high levels in both the heterozygous 
+embryo and in the GATA4 null embryo (F}. 
+Part of the yolk sac was left attached to this 
+mutant embryo so its association within the 
+edges of the yolk sac could be visualized. (Hd) 
+Head; (H)heart; (Ys)yolk sac. 
+GENES & DEVELOPMENT 1065 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+A Dorsal 
++/- 
+Ventral 
+B Dorsal 
+'~:~ ;Am 
+:~.~. ~.-':~; ... 
+........ • '~~!, ' ~3 .... ~ 
+- En SpY 
+Ventral 
+Figure 5. Transverse sections through ANF-stained embryos at 
+the level of the heart. Sections of an E8.5 heterozygous embryo 
+(A) show that the primitive heart tube has formed correctly, 
+ventral to the embryo, whereas the heart-forming region in the 
+GATA4 null embryo (B) has not moved ventrally. The heart- 
+forming region in the mutant remains lateral and differentiates 
+into two independent heart tubes. Because the mutant embryo 
+has not folded ventrally it also lacks a foregut. Notice that the 
+amnion remains dorsal and has not moved ventrally to position 
+itself around the mutant embryo. (Am) Amnion; (Nf) neural 
+fold; (H) heart; (Nt) neural tube; (En) endoderm; (Sp) splanchnic 
+mesoderm; (Ec) ectoderm; and (Fg) foregut. 
+A ventral view of a wild-type embryo at E8.5 shows the 
+AIP clearly, whereas in the mutant embryo, HNF313 
+staining is visible along the entire length of the embryo 
+because it is not obscured by the AIP (Fig. 6B,E). When 
+these HNF3~3-stained mutant embryos were sectioned 
+transversely, expression could also be demonstrated in 
+the underlying endoderm, suggesting that endoderm was 
+not compromised by the null mutation (data not shown). 
+The homeodomain transcription factor OTX2 is nor- 
+mally expressed in both the neuroectoderm and head 
+mesenchyme within the forebrain and diencephalon (Fig. 
+6C) (Simeone et al. 1993). In GATA4 null embryos, 
+OTX2 was expressed in the correct pattern within the 
+developing head (Fig. 6F); however, the head folds of the 
+GATA4 null embryos were slightly delayed in their de- 
+velopment and were not fused. It is likely that this delay 
+in head fold fusion is a secondary effect attributable to 
+the development outside the yolk sac. Markers for lateral 
+mesoderm such as the homeobox gene Lim l and the bHLH genes eHAND and dHAND were also examined 
+and demonstrated that lateral mesoderm was specified 
+and positioned correctly in GATA4 null embryos (Barnes 
+et al. 1994; Srivastava et al. 1995; data not shown). 
+GATA4 expression at the level of the anterior 
+intestinal portal 
+Our analysis of GATA4 null embryos demonstrated an 
+essential role for GATA4 in ventral morphogenesis. 
+However, based on previous studies it was unclear how 
+this defect correlated with the endogenous pattern of 
+GATA4 expression. Prior to E7.5, GATA4 was reported 
+to be expressed in the visceral endoderm, the allantois, 
+and the anterior aspect of the embryo that is thought to 
+be the precardiac splanchnic mesoderm (Heikinheimo et 
+al. 1994; Laverriere et al. 1994; Morrisey et al. 1996). At 
+E8.5, GATA4 continues to be expressed in the visceral 
+endoderm, which has fused with extraembryonic meso- 
+derm to form the yolk sac, in the allantois, and in the 
+heart and underlying septum transversum (Heikinheimo 
+et al. 1994; Morrisey et al. 1996). 
+In GATA4 null embryos, the first signs of morpho- 
+genic abnormality occur at -E8.0 when ventral folding is 
+occurring and the AIP is prominent. We examined more 
+carefully the normal expression pattern of GATA4 dur- 
+ing this critical time point of ventral closure and found 
+that GATA4 mRNA was highly localized to the poste- 
+rior aspect of the AIP, whereas it was expressed more 
+weakly in the fusing heart tubes just anterior to the AIP 
+(Fig. 7). Sectioning of this embryo demonstrated that ex- 
+pression was restricted to the splanchnic mesodermal 
+cell layer (data not shown). Thus, GATA4 was expressed 
+most intensely within the region of the AIP that was 
+actively migrating and folding in a ventral-medial direc- 
+tion. Together, these results suggest that GATA4 partly 
+directs the process of lateral to ventral folding at the 
+level of the AIP. 
+Pregastrulation arrest in a small percentage of GATA4 
+null embryos 
+Approximately 40% of the E8.5 embryos and 30% of the 
+E9.5 embryos appeared to be severely delayed or arrested 
+at the egg cylinder stage (Table 2). We examined this 
+affected population further by whole-mount in situ 
+analysis of E7.0-E7.5 litters for markers of gastrulation 
+and consistently observed a population of null embryos 
+that failed to express Brachyury, goosecoid, or Flkl (data 
+not shown). Because GATA4 is expressed in visceral en- 
+doderm and a defect in visceral endoderm was also ob- 
+served in HNF4 null embryos which arrested at a similar 
+stage (Chen et al. 1994), we also investigated a possible 
+defect in this cell population using the visceral endo- 
+derm marker c~-fetoprotein. Mutant embryos in this 
+class, taken at any time point between E7.0 and E9.5, 
+lacked expression of c~-fetoprotein as detected by whole- 
+mount in situ hybridization (data not shown). 
+GATA4 null embryos that had morphologically pro- 
+gressed past the egg cylinder stage showed expression of 
+1066 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+GATA4 directs heart tube formation 
++/- 
+-/- Moxl HNF3B OTX2 
+F Hd 
+E8.5 E8.5 E9.5 Figure 6. Whole-mount in situ hybridization 
+analysis for normal developmental landmarks. 
+Analysis of Moxl mRNA expression in an E8.5 
+embryo (A) revealed approximately the same 
+number of somites in wild-type and mutant em- 
+bryos (D), shown in dorsal view. Although the 
+mutant embryos generate somites, they are not 
+organized as tightly as the somites from normal 
+embryos. Ventral views of E8.5 wild-type (B) 
+and mutant (E) embryos hybridized for HNF3~ 
+mRNA showed expression in the notochord and 
+neural tube floor plate. Notice how the AIP is 
+visible in the normal embryo while a ventrally 
+located AIP structure is not present in the 
+GATA4 null. A lateral view of an E9.5 hetero- 
+zygous wild-type embryo (C) hybridized for 
+OTX2 mRNA showed expression in the fore- 
+brain and diencephalon. Mutant embryos (F) 
+also generate a discernible head structure that 
+showed expression of OTX2, although the head 
+region is slightly delayed in development and 
+has not fused completely. A portion of yolk sac 
+was left on this mutant embryo (F) while the 
+yolk sacs were completely removed from the 
+rest of the embryos in this panel. (Ys) yolk sac; 
+(Hd) head; (Nt) neural tube; (Sm) Somites; (AIP) 
+anterior intestinal portal. 
+~-fetoprotein by both whole-mount hybridization and 
+RT-PCR as well as expression of the visceral endoderm 
+markers HNF4 and apolipoprotein E (ApoE) by RT-PCR 
+(data not shown). These data suggest that a percentage of 
+GATA4 null embryos are rescued by a compensatory 
+mechanism, possibly by functionally similar molecules. 
+Candidate factors that might compensate for the loss of 
+GATA4 are GATA5 and GATA6. Expression levels of 
+GATA5 and GATA6 were tested by semiquantitative 
+RT-PCR and demonstrated that GATA5 mRNA re- 
+Figure 7. Whole-mount in situ hybridization for GATA4 ex- 
+pression in a wild-type embryo. Expression of GATA4 mRNA is 
+shown at the critical developmental time point (E8.0) when the 
+AIP is actively folding and the centrally located heart tube is 
+forming. GATA4 is expressed most intensely at the posterior lip 
+of the AIP, the region undergoing active ventral morphogenesis. 
+(H) Heart; (Hf) head fold; (AIP) anterior intestinal portal. mained constant between wild-type and mutant em- 
+bryos, as did the ribosomal control marker L7, whereas 
+the GATA6 message was up-regulated two- to threefold 
+in mutant embryos (Fig. 8). These data suggest that 
+GATA6 can compensate for the loss of GATA4 and par- 
+tially rescue aspects of development. 
+Discussion 
+The phenotype of the GATA4 null embryo reveals a 
+critical role for GATA4 in early morphogenetic move- 
+ments of the mouse embryo. GATA4 is essential for the 
+formation of the linear cardiac tube and the AIP, as well 
+as for yolk sac development. Despite previous studies 
+that have suggested an essential role for GATA4 in con- 
+trolling cardiac gene expression, myocyte differentia- 
+tion, and visceral endoderm specification, our results 
+show that GATA4 is not required for these processes. 
+Role of GATA4 in ventral morphogenesis of the 
+embryo 
+In GATA4 mutant embryos, the loss of a ventral heart 
+tube and development outside the yolk sac are the result 
+of a failure in lateral to ventral folding. At E7.5, the em- 
+bryo is in late gastrulation and the region just caudal to 
+the buccopharyngeal membrane (prochordal plate) thick- 
+ens to form the AIP (DeRuiter et al. 1992), which con- 
+sists of splanchnic mesoderm and its underlying endo- 
+derm (Fig. 9). At the midline of the AIP, a thickening is 
+observed in which the underlying endoderm splits either 
+half of the precardiac splanchnic mesoderm. As develop- 
+ment progresses, the bilateral precardiac splanchnic me- 
+soderm with the underlying endoderm fold inward at 
+GENES & DEVELOPMENT 1067 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+L7 GATA5 GATA6 
++/+ -/- +/+ -/- +/+ -/- 
+1 2 3 4 5 6 
+Figure 8. RT-PCR analysis of GATA5 and GATA6 mRNA lev- 
+els in GATA4 null embryos. Wild-type and GATA4 null em- 
+bryos were collected at E8.5, and total RNA was extracted and 
+reverse transcribed. The rRNA product L7 was used as a control 
+for quantitation between these two groups (lanes 1,2). The re- 
+sults show identical levels of GATA5 mRNA (lanes 3,4) be- 
+tween wild-type and GATA4 null embryos while GATA6 
+mRNA levels (lanes 5,6) were up-regulated in the mutant em- 
+bryos. 
+this thickening and converge at the midline of the em- 
+bryo (Stalsberg and DeHaan 1968; DeRuiter et al. 1992). 
+As this process continues, the two lateral precardiac re- 
+gions fuse along their lengths and entrap the underlying 
+endoderm, generating the foregut (Fig. 9B). This lateral to 
+ventral fusion progresses in an anterior to posterior di- 
+rection to "zipper" the embryo together and results in 
+fusion of the lateral edges of yolk sac endoderm in front 
+of the embryo so that the area of the embryo anterior to 
+the AIP becomes free within the yolk sac (Fig. 9C,D). 
+In GATA4 null embryos, the AIP does not form and as 
+a result, the bilateral cardiac primordia remain lateral 
+and attached at their edges to the yolk sac (Fig. 9E). De- 
+spite this failure in ventral morphogenesis, the bilateral 
+precardiac splanchnic mesoderm continues to develop 
+and differentiates into two independent heart tubes. As 
+the center of the mutant embryo continues to grow, it 
+displaces the lateral halves of yolk sac endoderm dorsal 
+to the embryo proper (Fig. 9F). As this region of endo- 
+derm comes together behind the embryo, it pinches off 
+dorsally, resulting in the progressive anterior to posterior 
+zippering of the embryo outside the yolk sac (Fig. 9G,H). 
+Descriptions of other vertebrate mutants support the 
+conclusion that a fundamental loss in ventral folding is 
+linked to cardia bifida and improper yolk sac develop- 
+ment. A naturally occurring mouse mutation called 
+kinky has been described that results in duplication or 
+twinning of the embryonic axis (Glueksohn-Schoenhei- 
+mer 1949). As a result of the lateral axis duplication, 
+kinky embryos develop outside the yolk sac and lack a 
+central heart. This mutation likely blocks the ability of 
+these embryos to fold ventrally along their lengths, given 
+that the heart-forming regions and AIP are obscured be- 
+tween the two different axes. Recently, two zebrafish 
+mutations named miles apart and bonnie and clyde 
+were reported to result in cardia bifida resembling that of 
+GATA4 mutant mice (Chen et al. 1996; Stainier et al. 
+1996). It is interesting to speculate that the genes respon- 
+sible for these mutant phenotypes may act in the same 
+morphogenetic pathway as GATA4. 
+Very little is known about the process that establishes 
+the AIP and the ensuing lateral to ventral folding that 
+generates the foregut and places the heart at the midline. 
+DeHaan (1963) concluded that the active process result- 
+ing in lateral to ventral folding at the level of the AIP likely occurs as a result of the mobility of clusters of 
+precardiac cells. However, more recent evidence sug- 
+gests that the underlying endoderm may also participate 
+in this process (Suzuki et al. 1995). Thus, it is likely that 
+the process of lateral to ventral folding occurs as a result 
+of an interplay between the overlying splanchnic meso- 
+derm and the underlying endoderm, possibly because of 
+differential growth between these two layers and the em- 
+bryo proper. GATA4 is expressed in precardiac splanch- 
+nic mesoderm at a time when the active processes of 
+heart tube formation and foregut closure are occurring. 
+E7.5 
+E8.0 
+E7.5 Wildtype Mutant 
+A E 
+Neural Fold Neural Fold • . ~Amnlon ~ , , 
+olk Sac 
+Promyocardlum~ __ I - ~r~l°d e~..~ ~=~" pr i:ndoderm E7.5 
+B Neural Fold _ Primitive 
+[ ~ ~ Heart 
+kmnion /~_ jTubes ~"~ 
+Ik Sac E8.5 
+,mn, Neura, 
+~1 ~ Promyocardlum ~=,,=m=,~===~_.. Tube Foragut ~-noooerm 
+E8.5 
+E8.5 E9.5 
+Figure 9. Schematic representation of the processes of ventral 
+morphogenesis and heart tube formation in a wild-type and 
+GATA4 mutant embryo. (A)At E7.5 the precardiogenic splanch- 
+nic mesoderm precursors and the associated underlying endo- 
+derm begin to migrate ventrally. By E8.0 these cardiogenic cells 
+migrate ventrally to the midline (B) and fuse to generate the 
+primitive heart tube and foregut lined with endoderm. The yolk 
+sac, which is contiguous with the underlying endoderm, is 
+pulled from its lateral position (C) early in development, to a 
+ventral position (D) so that the edges of the yolk sac meet and 
+pinch off to release the embryo anterior to this fusion. In mu- 
+tant embryos, at E7.5, the precardiogenic splanchnic mesoderm 
+precursors fail to involute or migrate (E) so that by E8.5, they 
+become displaced laterally and dorsally (F). This dorsal displace- 
+ment results in the fusion of the yolk sac edges behind the 
+GATA4 mutant embryo resulting in the progressive release 
+(G,H) of the head and tail outside the yolk sac. 
+1068 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+GATA4 directs heart tube formation 
+GATA4 expression is strongest at the posterior edge of 
+the AIP, which is the region that actively converges ven- 
+trally. Given the phenotype of the GATA4 null embryo, 
+it is likely that GATA4, in part, directs this active pro- 
+cess of lateral to ventral folding. 
+How might GATA4 control the process of lateral to 
+ventral folding? One possibility is that GATA4 regulates 
+the migration of cardiogenic splanchnic mesodermal pre- 
+cursors along the endodermal cell layer. Alternatively, 
+GATA4 might be required for differential proliferation of 
+splanchnic mesodermal precursors versus the underlying 
+endoderm to promote folding. 
+For a number of reasons, we believe it is unlikely that 
+disruption of the GATA4 gene affects the underlying en- 
+doderm. First, sections of GATA4 null embryos demon- 
+strated that the underlying pharyngeal endoderm contin- 
+ues to grow so that this layer appeared convoluted and 
+expresses HNF3~ (Figs. 5B and 6E), suggesting that there 
+is not a defect in the proliferative ability of this cell layer 
+or its ability to express markers of differentiation. Sec- 
+ond, many studies have demonstrated that anterior en- 
+doderm is required for the commitment of unspecified 
+splanchnic mesoderm to the cardiac lineage (for review, 
+see Nascone and Mercola 1996). Given that the GATA4 
+null embryo contains specified and differentiated cardio- 
+myocytes, it is likely that the underlying endoderm is 
+not defective in its ability to communicate with the 
+splanchnic mesoderm. Third, the endoderm in the 
+GATA4 null embryo is competent in its ability to fuse 
+and pinch off at the midline, although it occurs dorsally. 
+Thus, it is likely that the molecular defect in the GATA4 
+null embryo is not intrinsic to the endodermal cell layer, 
+but is likely intrinsic to the cardiogenic splanchnic me- 
+sodermal cells. Together, these data suggest a model of 
+development in which lateral to ventral folding and AIP 
+formation are directed, in part, by the precardiogenic 
+splanchnic mesodermal precursors. 
+The role of GATA4 in controlling cardiac lineage 
+commitment and differentiation 
+GATA4 was first implicated in controlling the cardiac 
+gene program based on its ability to direct the expression 
+of four cardiac structural genes, ~-MHC, cTNC, ANF, 
+and BNP (Grepin et al. 1994; Ip et al. 1994; Molkentin 
+et al. 1994; Thuerauf et al. 1994). Furthermore, a recent 
+study reported that P19 embryonic carcinoma cells sta- 
+bly expressing antisense GATA4 transcript were unable 
+to differentiate into cardiomyocytes in response to 
+DMSO (Grepin et al. 1995). Our analysis demonstrates 
+that GATA4 null mice have differentiated cardiac tissue 
+and that a number of structural genes previously thought 
+to be GATA4 dependent are expressed normally in mu- 
+tant embryos. A likely explanation for these differences 
+is that GATA6, which is expressed early in the develop- 
+ing heart, can compensate for some GATA4 functions in 
+cardiomyocytes during embryogenesis. Consistent with 
+this notion, GATA4 and GATA6 are highly conserved 
+within their DNA-binding domains and recognize a 
+GATA consensus element equally (Morrisey et al. 1996, 1997) and GATA6 mRNA is up-regulated in E8.5 mutant 
+embryos (Fig. 8). Furthermore, a recent study reported 
+that GATA6 overexpression in Xenopus embryos was 
+capable of delaying cardiomyocyte differentiation result- 
+ing in enlarged heart-forming regions, suggesting that 
+GATA6 plays an important role in controlling cardio- 
+myocyte differentiation (Gove et al. 1997). 
+A greater understanding of the role of GATA4 in car- 
+diac development may require analysis in the back- 
+ground of GATA5- or GATA6-targeted disruptions. Loss- 
+of-function analysis in the mouse has, in many cases, 
+demonstrated that members of a highly related gene fam- 
+ily can compensate for one another's function if they are 
+coexpressed within the same lineage during develop- 
+ment. The disruption of the GATA4 gene in the mouse 
+demonstrates that it has an autonomous function in di- 
+recting lateral to ventral folding and cardiac tube mor- 
+phogenesis, yet its role in controlling the identity or dif- 
+ferentiation of cardiac myocytes may only be revealed by 
+combinatorial disruption with GATA5 or GATA6. Con- 
+sistent with this notion is the fact that targeted disrup- 
+tion of the GATA5 gene in the mouse does not result in 
+embryonic lethality, suggesting that its functions may 
+overlap with that of GATA4 and GATA6 in cardiomyo- 
+cyte development (J. Molkentin and E. Olson, unpubl.). 
+Loss of gastrulation in a percentage of GATA4 mutant 
+embryos 
+Approximately one-third of the GATA4 null embryos 
+arrested at the egg cylinder stage and failed to gastrulate. 
+Compromised function of either parietal or visceral en- 
+doderm can result in arrested development at this stage 
+(for review, see Copp 1995; see also Chen et al. 1994; 
+Healy et al. 1995; Duncan et al. 1997). Visceral and pa- 
+rietal endoderm arise from primitive endoderm by -E4.5 
+in the mouse (Gardner 1983; Duncan et al. 1994). Vis- 
+ceral endoderm forms a layer of columnar-shaped cells 
+that surrounds the entire embryo where it secretes im- 
+portant nutrients and filters substances between the ma- 
+ternal and embryonic compartments. GATA4 is ex- 
+pressed in visceral endoderm, suggesting that it may be 
+required for the proper development of this cell layer. 
+Recently, GATA4 null ES cells were shown to be defi- 
+cient in their ability to differentiate in culture into vis- 
+ceral endoderm, suggesting that GATA4 is necessary for 
+the differentiation of this cell lineage (Soudais et al. 
+1995). Although all GATA4 mutant embryos contained a 
+layer of morphologically distinct visceral endoderm 
+cells, it is likely that the function of this cell layer is 
+compromised to a variable extent. 
+The finding that approximately two-thirds of the 
+GATA4 null embryos progressed through gastrulation 
+suggests that there is a critical point in development in 
+which visceral endoderm function can be rescued. Obvi- 
+ous candidates for the factors that might compensate for 
+the loss of GATA4 are GATA5 and GATA6. Analysis of 
+GATA5 and GATA6 mRNA levels demonstrated that 
+GATA6 is up-regulated two- to threefold in GATA4 null 
+GENES & DEVELOPMENT 1069 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+embryos, suggesting that compensation may result in 
+partial developmental rescue (Fig. 8). 
+Together, these analyses demonstrate that GATA4 
+plays a critical role in at least two developmental pro- 
+grams within the embryo. GATA4 is likely required for 
+the proper function of the visceral endoderm and is in- 
+dispensable for establishing a morphogenic cue that re- 
+sults in lateral to medial folding of the embryo at the 
+level of the AIP and the subsequent generation of the 
+centrally located primitive heart tube and foregut. Our 
+analysis of the GATA4 mutant phenotype suggests that 
+the process of heart formation is linked to the ability of 
+the embryo to fold ventrolaterally, and it suggests that 
+precardiac mesodermal cells actively direct AIP forma- 
+tion. 
+Materials and methods 
+GATA4 targeting strategy 
+To construct the GATA4 targeting vector, a genomic clone was 
+isolated from an Sv129 ~ genomic library and mapped against a 
+panel of restriction enzymes. Because the two exons encoding 
+the zinc finger domain are located -900 bp apart and are indis- 
+pensable for GATA4 function, they were chosen for replace- 
+ment. On the 3' end of the GATA4 genomic locus, a PCR primer 
+was designed -500 bp inside of the 3' SacI site and another was 
+designed just inside the carboxy-terminal zinc finger exon to 
+generate the 2.0-kb short arm by PCR with a high-fidelity poly- 
+merase composite called Expand Long Template (Boeringer 
+Mannheim). The short arm primers contained XhoI linkers and 
+were of the sequence 3'-GAGCCGCGCTCGAGGGAGGGTC- 
+TCACCAGCAG, and 5'-CTGGGCGCCTCGAGTGGATGCC- 
+CTGCCCTGCT. The long arm was generated by PCR of a 4.0- 
+kb fragment that was just inside of the intron 5' to the amino- 
+terminal zinc finger exon and -500 bp 3' of the EcoRV site. The 
+long arm primers contained ClaI linkers and were of the se- 
+quence 5'-GACTCCAGGCCATCGATCGTAGCTGGGGCA- 
+CCCAT, and 3'-CGACCGAGTCCATCGATGTCTCCCGGG- 
+AGACTGAT. The long and short arms were then cloned into 
+the ClaI and XhoI sites of the vector pTK-NEO (Fig. 1). 
+ES cell transfection and chimera production 
+Methods for electroporation of AB2.2 ES cells with the linear- 
+ized targeting vector, growth of ES cells on STO feeder fibro- 
+blasts for G418, and FIAU resistance were described previously 
+(Ramirez-Solis et al. 1993). Cell cloning and isolation of geno- 
+mic DNA for Southern analysis was performed as described 
+previously (Ramirez-Solis et al. 1993). Four targeted clones were 
+obtained from a total of 400, and one of these clones, called C29, 
+was injected into the blastocysts of C57BL/6 mice, which were 
+subsequently implanted into pseudopregnant Swiss foster fe- 
+male mice. 
+Southern blot and PCR analysis of targeting 
+ES cell genomic DNA, as well as tail genomic D1NA, was ana- 
+lyzed for the correct targeting event by Southern blot analysis 
+with probes made against sequences outside the targeting vector 
+on both the 5' and 3' ends of the GATA4 locus (Fig. 1A). Geno- 
+mic DNA was prepared as described previously (Matzuk et al. 
+1992). The 5' probe was generated from a region just 3' of the 
+EcoRV site (Fig. 1A) by PCR of a 320-bp product. Use of this probe on EcoRV-digested genomic DNA resulted in the identi- 
+fication of an 18-1<b band on a Southern blot, whereas targeted 
+genomic DNA containing the neo gene resulted in the identifi- 
+cation of a 5.0-kb band (Fig. 1B). The 3' Southern probe was 
+generated from a region 5' to the 3' SacI site by PCR of a 360-bp 
+product. This probe identified an 11.0-kb wild-type band and a 
+3.5-kb targeted band following SacI digestion (Fig. 1B). For PCR 
+genotyping, -50 ng of genomic tail or yolk sac DNA was used. 
+For substantially smaller embryos lacking a yolk sac, the entire 
+embryo was lysed in Taq PCR buffer containing 0.1% Triton 
+X-100 and treated with 0.5 mg/ml of proteinase K for 1 hr at 
+55°C in a volume of 20 ~al. This reaction was heat inactivated at 
+100°C for 5 min, and half was used directly in a PCR reaction 
+with Taq DNA polymerase. The primer pair for the wild-type 
+locus was 5'-ACTCTGGAGGCGAGATGGG, and 3'-CTCG- 
+GCATTACGACGCCACAG, which generated a 900-bp band. 
+The primer pair for the targeted locus was 5'-GCCCTGA- 
+ATGAACTGCAGG, and 3'-CACGGGTAGCCAACGCTAT, 
+which generated a 500-bp band. Reaction conditions were as 
+follows: denaturation for 20 sec at 96°C, primer annealing for 25 
+sec at 62°C, and extension for 60 sec at 72°C for a total of 30 
+cycles with one unit of Taq DNA polymerase in a volume of 50 
+~1 containing 200 ~m dNTPs and 50 pmoles of each primer in 
+Taq PCR buffer (Perkin Elmer Cetus). 
+Whole-mount in situ analysis 
+To detect endogenous RNA by whole-mount in situ analysis, a 
+number of specific riboprobes were generated. To visualize the 
+developing somites, notochord and neural tube floor plate, and 
+the developing head region, plasmids containing cDNA inserts 
+for Moxl, HNF3~, and OTX2 were used, respectively (Candia et 
+al. 1992; Ruiz i Altaba et al. 1993; Simeone et al. 1993). To 
+visualize the developing heart, a number of cardiac markers 
+were examined, including ANF, MLC1A, MLC2A, MLC2V, 
+~-MHC, and Nkx2.5. Plasmids for each of these markers were 
+cut, and antisense transcripts were generated with XhoI and T7 
+(ANF), EcoRI and T3 (MLC1A), BamHI and T7 (MLC2A), DdeI 
+and T7 (MLC2V), HindIII and T7 (R-MHC), and XbaI and T7 
+(Nkx2.5). A probe for GATA4 was used as an XhoI digest and T7 
+product. 
+The probes described above were generated as antisense RNA 
+runoff products in the presence of digoxigenin-dUTP. Probe pro- 
+cessing and the conditions for embryo hybridization and subse- 
+quent immunodetection with AP-conjugated anti-digoxigenin 
+antibody and colorization reaction were described previously 
+(Barth and Ivarie 1994). Embryos for sectioning were processed 
+as described previously (Kaufman 1992). 
+RT-PCR analysis 
+Two pools of three and four GATA4 null embryos and wild-type 
+embryos were collected at E8.5 for total RNA extraction with 
+Trizol reagent (GIBCO BRL). RNA was resuspended in 20 ~1 of 
+water, and half was reverse transcribed with 5 units'of Moloney 
+murine leukemia virus (Mo-MLV) reverse transcriptase in 20 ~1 
+with 400 ~m dNTPs and 1 ~g of random hexamers (GIBCO BRL) 
+at 42°C for 1 hr. The remaining half of RNA was used as a 
+no-reverse transcriptase control. Added to a Taq polymerase- 
+directed PCR reaction (1 unit) was 0.5 ~1 of these reactions with 
+200 ~m dNTPs, 0.1 ~Ci of [a-'~2P]dCTP, and 1 ~M of each primer 
+in a 50-~al reaction. Cycling conditions were as follows: dena- 
+turation at 96°C for 30 sec, annealing at 58°C for 30 sec, and 
+extension at 72°C for 45 sec for 20 cycles with both L7 primers 
+and GATA6 primers and 25 cycles with GATA5 primers. The 
+ribosomal control marker L7 was amplified with primers con- 
+1070 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+GATA4 directs heart tube formation 
+sisting of 5'-GAAGCTCATCTATGAGAAGGC (sense) and 5'- 
+AAGACGAAGGAGCTGCAGAAC (antisense). GATA5 was 
+amplified with primers consisting of 5'-CGACGTAGCC- 
+CCTTCGTGG (sense) and 5-GCCACAGTGGTGTAGACAG 
+(antisense), whereas GATA6 was amplified with primers con- 
+sisting of 5'-CCCAGCGCAGACCTGTTGGAGGACC (sense) 
+and 5'-TGTGACAGTTGGCACAGGACAG (antisense). Both 
+the GATA5 and GATA6 product spanned at least one intron. 
+Acknowledgments 
+We thank A. Tizenor for assistance with graphics and J.A. Rawls 
+and H.S. Baldwin for helpful discussions. We thank R. Beh- 
+ringer, G. Lyons, G. Martin, and E. George for reagents and J.M. 
+Leiden and C.T. Kuo for sharing information prior to publica- 
+tion. This work was supported by grants from The National 
+Institutes of Health (NIH), The Muscular Dystrophy Associa- 
+tion, The Human Science Frontiers Program, and the American 
+Heart Association to E.N.O.J.D.M. was supported by an NIH 
+postdoctoral fellowship. 
+The publication costs of this article were defrayed in part by 
+payment of page charges. This article must therefore be hereby 
+marked "advertisement" in accordance with 18 USC section 
+1734 solely to indicate this fact. 
+References 
+Ang, S.L., A. Wierda, D. Wong, K.A. Stevens, S. Cascio, J. Ros- 
+sant, and K.S. Zaret. 1993. The formation and maintenance 
+of the definitive endoderm lineage in the mouse: Involve- 
+ment of HNF-3/fork head proteins. Development 119" 1301- 
+1316. 
+Arceci, R.J., A.A.J. King, M.C. Simon, S.H. Orkin, and D.B. Wil- 
+son. 1993. Mouse GATA-4: A retinoic acid-inducible GATA- 
+binding transcription factor expressed in endodermally de- 
+rived tissues and heart. Mol. Cell. Biol. 13" 2235-2246. 
+Barnes, J.D., J.L. Crosby, C.M. Jones, C.V.E. Wright, and B.L.M. 
+Hogan. 1994. Embryonic expression of Lim-1, the mouse ho- 
+molog of Xenopus Xlim-1, suggests a role in lateral meso- 
+derm differentiation and neurogenesis. Dev. Biol. 161: 168- 
+178. 
+Barth, J. and R. Ivarie. 1994. Polyvinyl alcohol enhances detec- 
+tion of low abundance transcripts in early stage quail em- 
+bryos in a nonradioactive whole mount in situ hybridization 
+technique. BioTechniques 17: 324-327. 
+Blobel, G.A., M.C. Simon, and S.H. Orkin. 1995. Rescue of 
+GATA-l-deficient embryonic stem cells by heterologous 
+GATA-binding proteins. MoI. Cell. Biol. 15" 626-633. 
+Candia, A.F., J. Hu, J. Crosby, P.A. Lalley, D. Noden, J.H. 
+Nadeau, and C.V.E. Wright. 1992. Mox-1 and Mox-2 define a 
+novel homeobox gene subfamily and are differentiatlly ex- 
+pressed during mesodermal patterning in mouse embryos. 
+Development 116:1123-1136. 
+Chen, J.-N., P. Haffter, J. Odenthal, E. Vogelsang, M. Brand, 
+F.J.M. Van Eeden, M. Furutani-Seiki, M. Granato, M. Ham- 
+merschmidt, C.-P. Heisenberg, Y.-J. Jiang, D.A. Kane, R.N. 
+Kelsh, M.C. Mullins, and C. Nfisslein-Volhard. 1996. Muta- 
+tions affecting the cardiovascular system and other internal 
+organs in zebrafish. Development 123" 293-302. 
+Chen, W.S., K. Manova, D.C. Weinstein, S.A. Duncan, A.S. 
+Plump, V.R. Prezioso, R.F. Bachvarova, and J.E. Damell, Jr. 
+1994. Disruption of the HNF-4 gene, expressed in visceral 
+endoderm, leads to cell death in embryonic ectoderm and 
+impaired gastrulation of mouse embryos. Genes & Dev. 
+8" 2466-2477. Copp, A.J. 1995. Death before birth: Clues from gene knockouts 
+and mutations. Trends Genet. 11: 87-93. 
+DeHaan, R.L. 1963. Migration patterns of the precardiac meso- 
+derm in the early chick embryo. Exp. Cell. Res. 29" 544-560. 
+DeRuiter, M.C., R.E. Poelmann, I. VanderPlas-de Vries, M.M.T. 
+Mentink, and A.C. Gittenberger-de Groot. 1992. The devel- 
+opment of the myocardium and endocardium in mouse em- 
+bryos. Anat. Embryol. 185" 461-473. 
+Dorfman, D.M., D.B. Wilson, G.A.P. Bruns, and S.H. Orkin. 
+1992. Human transcription factor GATA-2. J. Biol. Chem. 
+267: 1279-1285. 
+Duncan, S.A., K. Manova, W.S. Chen, P. Hoodless, D.C. Wein- 
+stein, R.F. Bachvarova, and J.E. Darnell, Jr. 1994. Expression 
+of transcription factor HNF-4 in the extraembryonic endb- 
+derm, gut, and nephrogenic tissue of the developing mouse 
+embryo: HNF-4 is a marker for primary endoderm in the 
+implanting blastocyst. Proc. Natl. Acad. Sci. 91" 7598- 
+7602. 
+Duncan, S.A., A. Nagy, and W. Chan. 1997. Murine gastrulation 
+requires HNF-4 regulated gene expression in the visceral en- 
+doderm: Tetraploid rescue of HNF-4 -/- embryos. Develop- 
+ment 124: 279-287. 
+Evans, T. and G. Felsenfeld. 1989. The erythroid-specific tran- 
+scription factor Eryfl: A new finger protein. Cell 58: 877- 
+885. 
+Gardner, R.L. 1983. Origin and differentiation of extra-embry- 
+onic tissues in the mouse. Int. Rev. Exp. Pathol. 24" 63-133. 
+Glueksohn-Schoenheimer, S. 1949. The effects of a lethal mu- 
+tation responsible for duplication and twinning in mouse 
+embryos. J. Exp. Zool. 110: 47-76. 
+Gove, C., M. Walmsley, S. Nijjar, D. Bertwistle, M. Guille, G. 
+Partington, A. Bomford, and R. Patient. 1997. Over-expres- 
+sion of GATA-6 in Xenopus embryos blocks differentiation 
+of heart precursors. EMBO J. 16" 355-368. 
+Grepin, C., L. Dagnino, L.L. Robitaille, L.L. Haberstroh, T. An- 
+takly, and M. Nemer. 1994. A hormone-encoding gene iden- 
+tifies a pathway for cardiac but not skeletal muscle gene 
+transcription. Mol. Cell. Biol. 14:3115-3129. 
+Grepin, C.L., L. Robitaille, T. Antakely, and M. Nemer. 1995. 
+Inhibition of transcription factor GATA-4 expression blocks 
+in vitro cardiac muscle differentiation. Mol. Cell. Biol. 
+15" 4095-4102. 
+Healy, A.M., H.B. Rayburn, R.D. Rosenberg, and H. Weiler. 
+1995. Absence of the blood-clotting regulator thrombo- 
+modulin causes embryonic lethality in mice before the de- 
+velopment of a functional cardiovascular system. Proc. Natl. 
+Acad. Sci. 92" 850-854. 
+Heikinheimo, M., J.M. Scandrett, and D.B. Wilson. 1994. Local- 
+ization of transcription factor GATA-4 to regions of the 
+mouse embryo involved in cardiac development. Dev. Biol. 
+164: 361-373. 
+Ip, H.S., D.B. Wilson, M. Heikinheimo, Z. Tang, C.N. Ting, 
+M.C. Simon, J.M. Leiden, and M.S. Parmacek. 1994. The 
+GATA-4 transcription factor transactivates the cardiac 
+muscle-specific troponin C promoter-enhancer in non- 
+muscle cells. Mol. Cell. Biol. 14" 7517-7526. 
+Jiang, Y. and T. Evans. 1996. The Xenopus GATA-4/5/6 genes 
+are associated with cardiac specification and can regulate 
+cardiac-specific transcription during embryogenesis. Dev. 
+Biol. 174: 257-270. 
+Kaufman, M.H. 1992. The atlas of mouse development (ed. 
+M.H. Kaufman), pp. 2-5. Academic Press, San Diego, CA. 
+Kelley, C., H. Blumberg, L.I. Zon, and T. Evans. 1993. GATA-4 
+is a novel transcription factor expressed in endocardium of 
+the developing heart. Development 118" 817-827. 
+Ko, J.L. and J.D. Engel. 1993. DNA-binding specificies of the 
+GENES & DEVELOPMENT 1071 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 
+Molkentin et al. 
+GATA transcription factor family. Mol. Cell. Biol. 13:4011- 
+4022. 
+Laverriere, A.C., C. MacNeill, C. Mueller, R.E. Poelmann, J.B.E. 
+Burch, and T. Evans. 1994. GATA 4/5/6, a subfamily of 
+three transcription factors transcribed in developing heart 
+and gut. J. Biol. Chem. 269: 23177-23184. 
+Lee, M.E., D.H. Temizer, J.A. Clifford, and T. Quertermous. 
+1991. Cloning of the GATA-binding protein that regulates 
+endothelin-1 gene expression in endothelial cells. J. Biol. 
+Chem. 266: 16188-16192. 
+Lyons, I., L.M. Parsons, L. Hartley, R. Li, J.E. Andrews, L. Robb, 
+and R.P. Harvey. 1995. Myogenic and morphogenetic defects 
+in the heart tubes of murine embryos lacking the homeo box 
+gene Nkx2.5. Gerles & Dev. 9" 1654-1666. 
+Martin, D.I.K. and S.H. Orkin. 1990. Transcriptional activation 
+and DNA binding by the erythroid factor GF-1/NF-EI/Eryfl. 
+Genes & Dev. 4- 1886-1898. 
+Martin, D.I.K., L.I. Zon, G. Mutter, and S.H. Orkin. 1990. Ex- 
+pression of an erythroid transcription factor in megakaryo- 
+cytic and mast cell lineages. Nature 344: 444-447. 
+Matzuk, M.M., M.J. Finegold, J.-G.J. Su, A.J.W. Hsueh, and A. 
+Bradley. 1992. Alpha-inhibin is a tumour-suppressor gene 
+with gonadal specificity in mice. Nature 360: 313-319. 
+Merika, M. and S.H. Orkin. 1993. DNA-binding specificity of 
+the GATA family transcription factors. Mol. Cell. Biol. 
+13: 39994010. 
+Molkentin, J.D., D. Kalvakalanou, and B.E. Markham. 1994. 
+GATA-4 positively regulates expression of the ~-cardiac 
+myosin heavy chain gene in vivo. Mol. Cell. Biol. 14: 4947- 
+4957. 
+Morrisey, E.E., H.S. Ip, M.M. Lu, and M.S. Parmacek. 1996. 
+GATA-6: A zinc finger transcription factor that is expressed 
+in multiple cell lineages derived from lateral mesoderm. 
+Dev. Biol. 177: 309-322. 
+Morrisey, E.E., H.S. Ip, Z. Tang, M.M. Lu, and M.S. Parmacek. 
+1997. GATA-5: A transcriptional activator expressed in a 
+novel temporally and spatially-restricted pattern during em- 
+bryonic development. Dev. Biol. 183" 21-36. 
+Nascone, N. and M. Mercola. 1996. Endoderm and cardiogen- 
+esis: New insights. Trends Card. Med. 6" 211-216. 
+Olson, E.N. and D. Srivastava. 1996. Molecular pathways con- 
+trolling heart development. Science 272: 671-676. 
+Omichinski, J.G., C. Trainor, T. Evans, A.M. Gronenborn, G.M. 
+Clore, and G. Felsenfeld. 1993. A small single-"finger" pep- 
+tide from the erythroid transcription fator GATA-1 binds 
+specifically to DNA as a zinc or iron complex. Proc. Natl. 
+Acad. Sci. 90: 1676-1680. 
+Orkin, S.H. 1992. GATA-binding transcription factors in hema- 
+topoietic cells. Blood 80: 575-581. 
+Pandolfi, P.P., M.E. Roth, A. Karis, M.W. Leonard, E. Dzierzak, 
+F.G. Grosveld, J.D. Engel, and M.H. Lindenbaum. 1995. Tar- 
+geted disruption of the GATA3 gene causes severe abnor- 
+malities in the nervous system and in fetal liver haemato- 
+poiesis. Nature Genet. 11" 40-44. 
+Pevney, L., M.C. Simon, E. Robertson, W.H. Klien, S.-F. Tsai, V. 
+D'Agati, S.H. Orkin, and F. Costantini. 1991. Erythroid dif- 
+ferentiation in chimaeric mice blocked by a targeted muta- 
+tion in the gene for transcription factor GATA-1. Nature 
+349: 257-260. 
+Ramirez-Solis, R., R. Davis, and A. Bradley. 1993. Gene target- 
+ing in embryonic stem cells. Methods EnzymoI. 225: 855- 
+878. 
+Ruiz i Altaba, A., V.R. Prezioso, J.E. Darnell, and T.M. Jessell. 
+1993. Sequential expression of HNF-3~ and HNF-3~ by em- 
+bryonic organizing centers: The dorsal lip/node, notocord 
+and floor plate. Mech. Dev. 44" 91-108. Sasaki, H. and B.L.M. Hogan. 1993. Differential expression of 
+multiple fork head related genes during gastrulation and 
+axial pattern formation in the mouse embryo. Development 
+118: 47-59. 
+Simeone, A., D. Acampora, A. Mallamaci, A. Stornaiuolo, M.R. 
+D'Apice, V. Nigro, and E. Boncinelli. 1993. A vertebrate gene 
+related to orthodenticle contains a homeodomain of the bi- 
+coid class and demarcates anterior neuroectoderm in the gas- 
+trulating mouse embryo. EMBO J. 12: 2735-2747. 
+Soudais, C., M. Bielinska, M. Heikinheimo, C.A. MacArthur, N. 
+Narita, J.E. Saffitz, M.C. Simon, J.M. Leiden, and D.B. 
+Wilson. 1995. Targeted mutagenesis of the transcription fac- 
+tor GATA-4 gene in mouse embryonic stem cells disrupts 
+visceral endoderm differentiation in vitro. Development 
+121: 3877-3888. 
+Srivastava, D., P. Cserjesi, and E.N. Olson. 1995. A subclass of 
+bHLH proteins required for cardiac morphogenesis. Science 
+270: 1995-1999. 
+Stainier, D.Y.R., B. Fouquet, J.-N. Chen, K.S. Warren, B.M. 
+Weinstein, S.E. Meiler, M.-A.P.K. Mohideen, S.C.F. Neu- 
+hauss, L. Solnica-Krezel, A.F. Schier, F. Zwartkruis, D.L. 
+Stemple, J. Malicki, W. Driever, and M.C. Fishman. 1996. 
+Mutations affecting the formation and function of the car- 
+diovascular system in the zebrafish embryo. Development 
+123: 285-292. 
+Stalsberg, H. and R.L. DeHaan. 1968. Endodermal movements 
+during foregut formation in the chick embryo. Dev. Biol. 
+18: 198-215. 
+Suzuki, H.R., M. Solursh, and H.S. Baldwin. 1995. Relationship 
+between fibronection expression during gastrulation and 
+heart formation in the rat embryo. Dev. Dynam. 204" 259- 
+277. 
+Thuerauf, D.J., D.S. Hanford, and C.C. Glembotski. 1994. Regu- 
+lation of rat brain natriuretic peptide transcription. J. Biol. 
+Chem. 269" 17772-17775. 
+Ting, C.-N., M.C. Olson, K.P. Barton, and J.M. Leiden. 1996. 
+Transcription factor GATA-3 is required for development of 
+the T-cell lineage. Nature 384: 474-478. 
+Tsai, F.Y., G. Keller, F.C. Kuo, M. Weiss, J. Chen, M. Rosenblatt, 
+F.W. Alt, and S.H. Orkin. 1994. An early haematopoietic 
+defect in mice lacking the transcription factor GATA-2. Na- 
+ture 371: 221-226. 
+Tsai, S.-F., D.I. Martin, L.I. Zon, A.D. D'Andrea, G.G. Wong, 
+and S.H. Orkin. 1989. Cloning of the cDNA for the major 
+DNA-binding protein of the erythroid lineage through ex- 
+pression in mammalian cells. Nature 339: 446-451. 
+Visvader, J.E., M. Crossley, J. Hill, S.H. Orkin, and J.M. Adams. 
+1995. The C-terminal zinc finger of GATA-1 or GATA-2 is 
+sufficient to induce megakaryocytic differentiation of an 
+early myeloid cell line. MoI. Cell. Biol. 15: 634-641. 
+Wilson, D.B., D.M. Dorfman, and S.H. Orkin. 1990. A nonery- 
+throid GATA-binding protein is required for function of the 
+preproendothelin-1 promoter in endothelial cells. MoI. Cell. 
+Biol. 10: 4854-4862. 
+Yamamoto, M., L.J. Ko, M.W. Leonard, H. Beug, S.H. Orkin, and 
+J.D. Engel. 1990. Activity and tissue-specific expression of 
+the transcription factor NF-E1 multigene family. Genes & 
+Dev. 4: 1650-1662. 
+Yang, H.-Y. and T. Evans. 1992. Distinct roles for the two 
+cGATA-1 finger domains. Mol. Cell. Biol. 12" 4562-4570. 
+Zon, L.I., M.F. Gurish, R.L. Stevens, C. Mather, D.S. Reynolds, 
+K.F. Austen, and S.H. Orkin. 1991. GATA-binding transcrip- 
+tion factors in mast cells regulate the mast cell carboxypep- 
+tidase A gene. J. Biol. Chem. 266: 22948-22953. 
+1072 GENES & DEVELOPMENT 
+ Cold Spring Harbor Laboratory Press  on June 26, 2014 - Published by genesdev.cshlp.org Downloaded from 

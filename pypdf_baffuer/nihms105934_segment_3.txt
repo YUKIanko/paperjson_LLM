@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Tusher et al., 2001", "Rivera-Feliciano et al.", "Lee et al., 1998", "Pu et al., 2004", "Zeisberg et al., 2005", "Kisanuki et al., 2001", "Brent et al., 2003", "Tanaka et al., 1999"],
+  "genes": ["AVC", "Gata4", "Tie2", "Erbb3", "Cre", "Gata4flox", "Gata4Δex2", "Gata4DBD-engrailed", "Engrailed", "Transactivation", "Morris"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["isothermal amplification protocol (NuGen)", "hybridized to Affymetrix Mouse 430 2.0 microarrays", "quantitative RT-PCR", "In situ hybridization", "Plasmids", "Red/ET recombineering (GeneBridges)"],
+    "software_tools": ["Significance Analysis of Microarray (SAM) software package"],
+    "reagents_chemicals": ["total RNA", "Sybr Green", "Taqman detection", "digoxigenin-labeled or S35-labeled RNA probes", "PhotoShop", "DAPI"],
+    "model_organisms": ["murine"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation", "histological sections", "terminal deoxy-nucleotidyltransferase-mediated dUTP-biotin nick end label-ing (TUNEL)"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-phosphohistone H3 immunohisto-chemistry", "TUNEL", "H11001//H11002ES cell-derived embryos", "Gata6/H11546//H11546ES cell-derived embryos"],
+    "model_organisms": ["E9.5 Gata6/H11002//H11002ES cell-derived embryos", "GATA6-null embryos", "control embryos"]
+  }
+}

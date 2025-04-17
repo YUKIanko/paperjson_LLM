@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["1", "6", "7-9", "10-12", "13-15", "16-21", "22", "23"],
+  "genes": ["FOXA1", "FOXA2", "HEX", "PROX1", "PTF1a", "GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Molecular and genetic analyses", "transcription factor function analysis", "tetraploid complementation", "in vivo footprinting analyses"],
+    "software_tools": [],
+    "reagents_chemicals": ["Albumin (Alb1) enhancer"],
+    "model_organisms": ["mouse", "embryos derived from Gata6-/- ES cells"]
+  }
+}

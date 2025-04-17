@@ -1,0 +1,122 @@
+{
+  "title": "GATA4 is essential for formation of the proepicardium and regulates cardiogenesis",
+  "authors": ["Alistair J. Watt", "Michele A. Battle", "Jixuan Li", "Stephen A. Duncan*"],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": ["Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin", "University of Texas Southwestern Medical Center"],
+    "experimental_methods": ["tetraploid embryocomplementation", "generated clonalembryonic day 9.5 Gata4/H11546//H11546embryos directly from embryonic stem cells"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["antigen retrieval", "RT-PCR", "Histochemistry", "Immunohistochemistry", "Electron Microscopy (EM)", "superovulation"],
+    "software_tools": [],
+    "reagents_chemicals": ["diptheria toxin gene", "pregnant mare serum gonadotropin (PMSG)", "MF20", "WT1", "platelet endothelial cell adhesion molecule (CD31)"],
+    "model_organisms": ["Gata4loxP//H11001;Tie2Cre mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["two-step Cre-lox P strategy", "Southern blot", "wild-type tetraploid embryos aggregation", "immunostaining experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Gata4/H11002//H11002ES mice", "Gata4/H11002//H11002ES embryos", "wild-type embryos", "FOG2 knockout embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["quail", "Gata4/H11002//H11002 embryos", "Gata4/H11001//H11002 hearts"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["genomic Southern blot", "Electron microscopy", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["GATA4 antibody", "ECORI-digested DNA", "/H9251-GATA4 antibody"],
+    "model_organisms": ["Gata4/H11001//H11001", "Gata4/H11001/loxPneo", "Gata4/H11001//H11002", "Gata4loxPneo/ /H11002", "Gata4/H11002//H11002", "E9.5 embryos", "E10.5 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Fog1", "Fog2", "Gata4", "Gata5", "Gata6", "Nppa", "Myh6", "Myl2", "Acta1", "Acta2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["chimera analysis", "immunohistochemical staining", "ultrastructural analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["platelet endothelial cell adhesion molecule", "Nkx2–5", "Nrg1"],
+    "model_organisms": ["Gata4/H11002//H11002hearts", "Gata4/H11001//H11002hearts"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Watt et al."],
+  "references": ["(30 –32)", "(Fig. 1E)", "(33)", "(34–36)", "(37)"],
+  "genes": [
+    "GATA4",
+    "ErbB2",
+    "ErbB3",
+    "ErbB4"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analyses", "Hematoxylin and eosin-staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Nrg1", "Tie2", "VegfA", "VegfB", "VegfRI", "VegfRII", "Flt1"],
+    "model_organisms": ["Gata4loxP/loxP; Tie2Cre mice", "chickens"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["WT1", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Immunohistochemistry", "RT-PCR", "electron microscopic analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["sarcomeric myosin", "toluidine blue", "myoﬁbrils", "Zlines", "intercalated disks"],
+    "model_organisms": ["Gata4/H11001//H11002 embryos", "Gata4/H11002//H11002 embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["quail embryos", "mouse"]
+  }
+}

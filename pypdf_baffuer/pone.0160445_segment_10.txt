@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["28", "29", "30"],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["C.pyrrhogaster", "R.arboreus"]
+  }
+}

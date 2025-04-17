@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["13"],
+  "genes": ["SMIS", "P3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["immunolocalization", "fixing in methanol", "fluorescence staining", "double-staining", "preabsorption of FITC-P3 by the anti-P3 antibody"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-P3 antibody", "anti-SMIS antibody", "synthetic peptide", "FITC-P3", "methanol"],
+    "model_organisms": ["R.arboreus", "B.japonicus", "C.pyrrhogaster", "X.laevis"]
+  }
+}

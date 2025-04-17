@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": ["KEH", "SK", "BVL", "TJM"],
+  "references": [48, 52, 53, 54],
+  "genes": ["GATA4", "GATA5", "ODC", "G5SP", "G4SP"],
+  "proper_nouns": {
+    "institutions": [
+      "Cardiff School of Biosciences",
+      "Roche",
+      "Sigma UK",
+      "Promega UK",
+      "NEB UK",
+      "Perbio UK",
+      "Biotechnology and Biological Sciences Research Council",
+      "British Heart Foundation",
+      "Medical Research Council"
+    ],
+    "experimental_methods": ["RT-PCR", "WMISH", "bleaching", "Western blotting", "cloning"],
+    "software_tools": [],
+    "reagents_chemicals": ["biotinylated dextran", "ExtrAvidin-AP", "Fast Red substrate", "MMLV-RT", "DNA marker (1 kb+, Invitrogen UK)", "rat anti-HA-HRP monoclonal antibody", "anti-Erk antibodies", "anti-HSP70 antibodies"],
+    "model_organisms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Morrisey et al. 1997a", "Laverriere et al. 1994", "Charron et al. 1999", "Lee et al. 1991"],
+  "genes": ["GATA-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analysis", "Southern blots", "DNA-binding properties of rGATA-5", "gel shift analyses", "EMSA"],
+    "software_tools": [],
+    "reagents_chemicals": ["A409-bp fragment", "546-bp rat tubulin fragment", "radiolabeled GATA-5 DNA probe", "unlabeled ANF GATA probe", "mutant form that no longer binds GATA factors"],
+    "model_organisms": ["rat", "mouse"]
+  }
+}

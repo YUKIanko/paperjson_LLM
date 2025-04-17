@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Zaraisky, A., personal communication"],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microinjection", "transgene induction", "ECFP accumulation"],
+    "software_tools": [],
+    "reagents_chemicals": ["EGFP mRNA", "mRNA"],
+    "model_organisms": ["Xenopus"]
+  }
+}

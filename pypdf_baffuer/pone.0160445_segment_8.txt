@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["14", "15", "16", "17", "18", "20", "23", "9", "24", "25"],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tblastn protocol"],
+    "software_tools": ["BLAST"],
+    "reagents_chemicals": ["BLOSUM62 matrix", "FITC-P3", "P1", "P3"],
+    "model_organisms": ["X.laevis", "R.arboreus", "B.japonicus"]
+  }
+}

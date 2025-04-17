@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "Hex"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Albumin", "HNF4", "alpha-fetoprotein (Afp)", "retinol binding protein (Rbp4)", "transthyretin (Ttr)"],
+    "model_organisms": ["Gata6/H11002//H11002 embryos", "E8.0 embryos", "ES cells-derived embryos"]
+  }
+}

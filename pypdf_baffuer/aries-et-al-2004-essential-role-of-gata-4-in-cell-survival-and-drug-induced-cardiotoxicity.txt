@@ -1,0 +1,365 @@
+Essential role of GATA-4 in cell survival and
+drug-induced cardiotoxicity
+Anne Aries*†, Pierre Paradis*†, Chantal Lefebvre*†, Robert J. Schwartz‡, and Mona Nemer*†§
+*Laboratory of Cardiac Growth and Differentiation, Institut de Recherches Cliniques de Montre ´al, Montre ´al, QC, Canada H2W 1R7;†De´partement de
+Pharmacologie, Universite ´ de Montre ´al, Montre ´al, QC, Canada H3C 3J7; and‡Department of Cell Biology, Baylor College of Medicine, Houston, TX 77030
+Edited by Eric N. Olson, University of Texas Southwestern Medical Center, Dallas, TX, and approved March 25, 2004 (received for review March 16, 2004)
+In recent years, signiﬁcant progress has been made in understand-
+ing cardiomyocyte differentiation. However, little is known aboutthe regulation of myocyte survival despite the fact that myocyteapoptosis is a leading cause of heart failure. Here we report thattranscription factor GATA-4 is a survival factor for differentiated,postnatalcardiomyocytesandanupstreamactivatoroftheantiapo-ptotic gene Bcl-X . An early event in the cardiotoxic effect of the
+antitumor drug doxorubicin is GATA-4 depletion, which in turncauses cardiomyocyte apoptosis. Mouse heterozygotes for a nullGata4 allele have enhanced susceptibility to doxorubicin cardio-
+toxicity. Genetic or pharmacologic enhancement of GATA-4 pre-vents cardiomyocyte apoptosis and drug-induced cardiotoxicity.The results indicate that GATA-4 is an antiapoptotic factor requiredfor the adaptive stress response of the adult heart. Modulation ofsurvival /H20862apoptosis genes by tissue-speciﬁc transcription factors
+may be a general paradigm that can be exploited effectively forcell-speciﬁc regulation of apoptosis in disease states.
+transcription /H20841apoptosis /H20841Bcl-X /H20841doxorubicin /H20841/H92511-adrenergic receptors
+Over the past years, a great deal has been learned about the
+mechanisms of cardiomyocyte differentiation, heart devel-
+opment, and pathologic myocyte growth (1). Much less isunderstood with respect to the regulation of myocyte survival.Unlike other organs, the heart has a limited regenerative po-tential, and myocyte loss is a determining factor of cardiacdysfunction (CD), the leading cause of mortality in industrializedcountries. It is now well established that myocyte death occurslargely through apoptosis (2–4). However, and despite theobvious relevance to human disease, the mechanisms that reg-ulate apoptosis of differentiated cardiomyocytes remain poorlyunderstood.
+Apoptosis, or programmed cell death, is an evolutionarily
+conserved mechanism, allowing the removal of damaged orunwanted cells from the organisms through activation of a set ofproteases known as caspases (5). Caspase activation can betriggered either by engagement of cell surface ‘‘death receptors’’(6) or by cellular stress (7, 8). The Bcl-2 family of proteins arekey regulators of the stress-induced apoptotic pathway (9), andalterations in the ratio of pro- /H20862antiapoptotic Bcl-2 family mem-
+bers affect myocyte survival and have been observed in a varietyof experimental and clinical settings (10, 11). These changesoften occur at transcriptional levels, yet little is known regardingtranscriptional regulation and upstream activators of the Bcl-2
+gene family.
+Myocyte apoptosis can be induced by numerous stimuli in-
+cluding ischemia, proinflammatory cytokines, and antitumortreatments (10). In fact, cardiac toxicity caused by myocyteapoptosis is a major complication of several chemotherapeuticregimens, especially those involving anthracyclines, which areamong the most effective and widely used antitumor agents (12,13). Several lines of evidence suggest that the progressiveanthracycline-induced cardiomyopathies result from an initialsubtle effect on the myocyte-differentiation program that altersmyocyte survival and, ultimately, the adaptive response of theheart. Genes with expression that is inhibited by anthracyclinesinclude sarcomeric genes, genes encoding energy-producing
+enzymes, and transcription factors (14–17).
+Because identification of the nuclear effectors of anthracy-
+clines may provide insight into the regulatory pathways ofmyocyte survival, we set out to characterize the transcriptionalmechanisms underlying anthracycline action in the heart. Theresults reveal that GATA-4, a key regulator of heart develop-ment (18–21), is an essential survival factor for postnatal car-diomyocytes and is depleted rapidly in response to doxorubicin(Dox) treatment. The action of GATA-4 on cell survival involvesdirect regulation of the apoptotic program via transcriptionalactivation of Bcl-X
+L. The work suggests that targeting tissue-
+specific transcription factors may be an effective approach to
+cell-specific regulation of apoptosis.
+Methods
+Cell Cultures. All procedures with neonatal cardiomyocytes in-
+cluding RNA and protein extractions and analysis were asdescribed (19). Dox was used at 300 nM and phenylephrine (Phe)at 100 nM (Sigma). The Bcl-X antibody was purchased fromSanta Cruz Biotechnology.
+DNA Vectors. Atrial natriuretic factor (ANF) and Rous sarcoma
+virus (RSV) reporter plasmids as well as GATA-4 expres-sion vectors and recombinant adenoviruses were describedpreviously (20, 22). The Bcl-X-luc reporter was a kind gift ofHarvey F. Lodish (Massachusetts Institute of Technology,Cambridge) (23).
+In Vivo Experiments. Mice (C3H, 60–90 days old, Charles River
+Breeding Laboratories) were handled in accordance with insti-tutional guidelines. Experiments were approved by the AnimalEthics Committee of Institut de Recherches Cliniques de Mon-tre´al. The Gata4
+/H11001//H11002mice were described in ref. 24. Mice were
+treated with 15 mg /H20862kg Dox i.p., saline with or without s.c.
+infusion of Phe (1 mg /H20862kg per day), or vehicle (saline containing
+0.002% ascorbic acid) by using Alzet microosmotic pump model1002 (Durect Corporation, Cupertino, CA). After the indicatedtime period, the mice were anesthetized with 12–15
+/H9262l/H20862g i.p
+Avertin (2.5% solution) and killed. Systolic blood pressure wasdetermined by the tail-cuff technique (25). The day beforeechocardiography, the mice were anesthetized (1.5% isoflurane,75 ml /H20862min 100% O
+2), and their anterior chests were shaved.
+Two-dimensional guided M-mode echocardiography was per-formed under conscious sedation with 15
+/H9262l/H20862g i.p. of a 1:1
+mixture of fentanyl (5 /H9262g/H20862ml) and droperidol (250 /H9262g/H20862ml) by
+using a Hewlett–Packard Sonos 5500 and a 15-MHz linear-array
+This paper was submitted directly (Track II) to the PNAS ofﬁce.
+Abbreviations: CD, cardiac dysfunction; Dox, doxorubicin; Phe, phenylephrine; ANF, atrial
+natriuretic factor; FS, fractional shortening; TUNEL, terminal deoxynucleotidyltransferase-mediated dUTP end-labeling; SRE, serum response element.
+§To whom correspondence should be addressed at: Cardiac Growth and Differentiation,
+Institut de Recherches Cliniques de Montre ´al, 110, Avenue des Pins Ouest, Montre ´al, QC,
+Canada H2W 1R7. E-mail: mona.nemer@ircm.qc.ca.
+© 2004 by The National Academy of Sciences of the USA
+www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0401833101 PNAS /H20841May 4, 2004 /H20841vol. 101 /H20841no. 18 /H208416975–6980
+CELL BIOLOGY
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+
+transducer. The mice were secured lightly in the left lateral
+decubitus position on a warming pad to maintain normothermia.To improve the near-field image for visualization of the inter-ventricular septum, a standoff for the transducer tip was used. A3- to 5-mm-thick 1% agarose pad was inserted between the chestof the mice and the transducer. The montage was sealedacoustically with prewarm acoustic coupling gel. Fractionalshortening (FS) and left ventricular weight were determined asdescribed (26). CD is defined as FS /H1102145%.
+Immunohistochemistry and Terminal Deoxynucleotidyltransferase-
+Mediated dUTP End-Labeling (TUNEL). Immunohistochemistry was
+performed as described (27). Apoptosis was detected by theTUNEL technique as recommended in the Apoptag kit (Inter-gen, Purchase, NY) and counterstained with methyl green. Anaverage of 10 random fields with 100 –200 nuclei per field was
+analyzed.
+Statistics. The data are reported as mean /H11006SEM or frequency
+ratio. A Student ’s unpaired ttest was used to compare two
+groups. Multiple group comparisons were made by using the
+one-way ANOVA test followed by the Student –Newman –Keuls
+test or a repeated-measures ANOVA test followed by theprotected- tFisher ’s least-squares difference test. Frequencies
+were analyzed by using a contingency table and the
+/H92732indepen-
+dence test. Rate of survival was determined by using a Kaplan –
+Meier survival analysis followed by a generalized Wilcoxon testto test for equality of survival. In all cases, differences wereconsidered to be statistically significant when P/H110210.05.
+Results
+GATA-4 Is a Survival Factor for Postnatal Cardiomyocytes. ANF is the
+major heart secretory product and an essential regulator ofcardiovascular homeostasis (28). ANF transcription is highlyregulated, and molecular dissection of the ANF promoter hascontributed greatly to our present knowledge of cardiac tran-scription and cardiomyocyte differentiation (29).
+Transcription of the ANF gene is severely inhibited by Dox
+treatment of primary cardiomyocyte cultures (Fig. 1 Aand B).
+This effect is elicited rapidly (50% decrease) after onl y3ho f
+exposure to Dox (the earliest time examined) and peaks at 12 h.Mutational analysis (Fig. 1 C) revealed that Dox essentially
+targets the proximal ANF promoter, and maximal Dox responserequires intact binding sites for the GATA-4 transcription factor;mutation of these sites significantly reduces the response to Dox,whereas mutation of the serum response element (SRE) (30)reduces basal promoter activity but maintains Dox responsive-ness. Mutations or deletions of other cis regulatory elements thatalter basal promoter activity, including AP-1 (31) and the distalSRE (32), had no effect on Dox responsiveness (data not shown).
+Together, these findings identified a nuclear pathway for Doxregulation of cardiac transcription and suggested that GATA-4might be a major nuclear target for Dox. This conclusion was
+supported further by the finding that GATA-4 but not serumresponse factor binding to the Dox response element wasdecreased dramatically in nuclear extracts prepared from Dox-treated cardiomyocytes (Fig. 1 D). RNA and protein analysis
+confirmed that Dox treatment in mice and isolated primarycardiomyocyte cultures causes rapid depletion of GATA-4 (Fig.2). The negative effect of Dox on GATA-4 transcripts wasabrogated by actinomycin D, an inhibitor of RNA polymerase
+Fig. 1. Identi ﬁcation of a Dox response element on the ANF gene. ( A) Northern blot analyses of total RNA from primary cardiomyocyte cultures treated with
+Dox for the indicated time period. ( BandC) Inhibition of ANF promoter activity by 12 h of treatment with Dox (19). The /H11002700mutGATA construct contains point
+mutations in the three GATA-binding sites. The /H11002700mutSRE construct contains point mutations in the proximal SRE. The results shown represent the mean /H11006
+SEM of at least six independent determinations. RSV, Rous sarcoma virus. ( D) Gel-shift analyses with nuclear extracts prepared from control or Dox-treated
+cardiomyocytes and the GATA /H20862SRE probe. Supershift (indicated by asterisks) with the serum response factor ( /H9251SRF) and GATA-4 ( /H9251G4) antibodies was used to
+conﬁrm the identity of each complex.
+Fig. 2. Rapid depletion of GATA-4 transcripts and proteins after Dox treat-
+ment in vitro (A,B, and E) and in vivo (Cand D). Total RNA ( A) and nuclear
+extracts ( B) were prepared from primary cardiomyocyte cultures treated for
+the indicated times with Dox and subjected to Northern and Western blotanalyses, respectively. The arrowhead indicates GATA-4. Note how GATA-4mRNA is already depleted afte r3ho fD o x treatment. ( Cand D) Seven days
+after treatment with or without Dox, total RNA or tissue sections wereprepared from the heart and assessed by semiquantitative RT-PCR ( C) and
+immunohistochemistry ( D). Similar decreases in GATA-4 mRNA or proteins
+were systematically observed in all animals treated with Dox (six to eight pergroup). ( E) Northern blot analysis using total RNA from cardiomyocytes
+treated with vehicle (Veh), 5 mg /H20862liter actinomycin D (ActD), or 10
+/H9262M cyclo-
+heximide (CHX) for 6 h. Dox-induced inhibition of GATA-4 mRNA is abrogatedin the presence of actinomycin D but not cycloheximide.
+6976 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0401833101 Aries et al.
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+
+II-dependent transcription, but not by cycloheximide (Fig. 2 E).
+Thus, GATA-4 seems to be an immediate early-response gene to
+Dox.
+GATA-4, a member of the zinc finger family of GATA
+proteins, is a key regulator of the cardiac genetic program(18–20). GATA-4 also is required for the adaptive response of
+cardiomyocytes (20, 33, 34). To determine the role of Doxinhibition of GATA-4 on Dox cardiotoxicity, we tested theconsequences of increased GATA-4 activity on Dox effects.First, we used adenovirus-mediated gene transfer to overexpresssense or antisense GATA-4 transcripts in cultured cardiomyo-
+cytes. Consistent with our previous results (20), infection ofcardiomyocytes with the antisense vector resulted in /H1102280%
+reduction of GATA-4 protein, whereas the sense vector in-creased protein levels by 2- to 3-fold. Overexpression of GATA-4significantly attenuated Dox-induced down-regulation of theANF gene (Fig. 3 A) as well as Dox-induced myocyte apoptosis,
+as evidenced by the absence of TUNEL-positive nuclei (Fig. 3 B
+and C). In contrast, cells infected with the GATA-4 antisense
+vector showed decreased survival in the absence of Dox and anexaggerated response to Dox-induced apoptosis, which wasevidenced by the significant increase of TUNEL-positive cells atearlier time points as well as a 3-fold increase in apoptotic cellsat later time points (Fig. 3 C).
+To confirm in vivo the link between GATA-4 depletion and
+myocyte apoptosis as well as CD in response to Dox, we analyzedthe cardiac response to a single injection of Dox in miceheterozygous for a null allele of the Gata4 gene and in their
+wild-type littermates ( Gata4 null mice are embryonic-lethal and
+therefore could not be tested). At baseline, Gata4
+/H11001//H11002mice had
+similar FS as their wild-type littermates (59% vs. 57.9%).However, although cardiac function was not altered significantlyby Dox treatment in wild-type mice (only one animal showedreduced FS), 75% of Gata4
+/H11001//H11002mice showed significantly de-
+creased cardiac function, bringing the mean FS of the Gata4/H11001//H11002
+mice to 43% vs. 53% in the wild-type group ( P/H110210.05) (Fig. 4).
+Given the deteriorating cardiac function of the Gata4/H11001//H11002mice,
+the protocol was terminated at this stage, and animals werekilled to determine the rate of myocyte loss in each group.TUNEL assays revealed a 2-fold increase in the percentage ofapoptotic cardiomyocyte nuclei in Gata4
+/H11001//H11002mice (0.93 /H110060.12 vs.
+0.45/H110060.004; P/H110210.01). Thus, both the in vitro and in vivo data
+reveal a critical role for GATA-4 in the survival of terminallydifferentiated cardiomyocytes in response to cardiac stress andsuggest that Dox cardiotoxicity is caused by interference withthis pathway.
+GATA-4 Is a Regulator of the Antiapoptotic Gene Bcl-X L.To elucidate
+the specific target(s) of GATA-4 in the apoptotic pathway, weused DNA microarrays to analyze changes in gene expression incardiomyocytes in which GATA-4 levels were manipulated.These studies revealed that a 2-fold increase in GATA-4 levels
+was associated with up-regulation of Bcl-X
+Ltranscripts, a result
+that was confirmed further by using real-time quantitative PCR(Fig. 5 A) as well as Western blot analysis (Fig. 5 B). Interestingly,
+Dox treatment also was associated with marked down-regulationof the antiapoptotic Bcl-X
+Lprotein, and overexpression of
+GATA-4 protected against Dox-induced Bcl-X Ldepletion (Fig.
+5B). These results suggested that the cardioprotective effect of
+GATA-4 may be due in part to direct modulation of the Bcl-X
+gene. Two consensus GATA-binding sites are present within the5/H11032region of the Bcl-X gene (Fig. 5 C), upstream of the major
+transcription-initiation sites (35). In gel-shift assays, oligonucle-otide probes corresponding to these sites effectively compete forGATA-4 binding (Fig. 5 C Top ) with the proximal GATA site
+displaying greater affinity compared with the distal site. More-over, both sites are able to directly bind recombinant or endog-enous GATA-4 present in cardiomyocyte extracts (Fig. 5 C
+Middle ), suggesting that Bcl-X may be a direct target for
+GATA-4. This interaction was confirmed further in cotransfec-tion assays in which GATA-4 dose-dependently activated aBcl-X-luc reporter (23) up to 6-fold (Fig. 5 D). Moreover, Bcl-X
+promoter activity was decreased by 5-fold in cardiomyocytestreated with Dox (Fig. 5 E), showing a direct correlation between
+GATA-4 levels and Bcl-X transcription. Together these data
+establish GATA-4 as an upstream activator of Bcl-X
+L.
+Pharmacologic Modulation of GATA-4. The results obtained above
+by using genetic modulation of GATA-4 indicated that mainte-nance of GATA-4 activity was crucial for myocyte survival andsuggested that GATA-4 activators may function as cardiopro-tectors. Very few upstream activators of GATA-4 are known,
+Fig. 3. GATA-4 protects cardiomyocytes against Dox cardiotoxicity. GATA-4 levels were manipulated by using adenovirus-mediated transfer of GATA-4 sense
+(G4S) or antisense (G4AS) transcripts (20). ( A) Northern blot quanti ﬁcation of changes in ANF mRNA in cardiomyocytes infected with control (LacZ) or G4S
+adenovirus vectors. Cells were harvested after 12 h of treatment. The data represent the mean /H11006SEM (three in each group). ( B) The contribution of GATA-4 to
+myocyte apoptosis was assessed 24 h after Dox treatment by using TUNEL assays. (Scale bar, 20 /H9262m.) (C) Quanti ﬁcation of TUNEL assays in cardiomyocytes with
+altered GATA-4 levels. The data represent the mean /H11006SEM (three per group; *,P/H110210.01 vs. LacZ).
+Fig. 4. A 50% reduction in GATA-4 levels exacerbates Dox cardiotoxicity in
+vivo. FS was determined by using echocardiography in GATA-4/H11001//H11002mice and
+their wild-type (Wt) littermates before (Pre-Dox) and 1 week after (Post-Dox)Dox treatment. FS of the GATA-4
+/H11001//H11002mice was reduced signi ﬁcantly after Dox
+treatment and as compared with the wild-type group. The data representeach individual mouse FS and mean /H11006SEM (three per group;
+*,P/H110210.05 vs.
+pre-Dox wild type; †,P/H110210.05 vs. pre-Dox GATA-4/H11001//H11002mice).
+Aries et al. PNAS /H20841May 4, 2004 /H20841vol. 101 /H20841no. 18 /H208416977
+CELL BIOLOGY
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+
+and most of them, such as bone morphogenetic proteins and
+retinoic acid, were characterized during embryonic development(36, 37). Previously, we showed that
+/H92511-adrenergic agonists
+enhance GATA-4 activity in postnatal cardiomyocytes, in partthrough phosphorylation of its activation domain (20); impor-tantly, GATA-4 was essential for the cytoskeletal response ofcardiomyocytes, arguing that GATA-4 was a downstream targetas well as an effector of
+/H92511-agonists in the heart. Interestingly,
+/H92511-adrenoreceptor activation has been suggested to play an
+important role in cardioprotective mechanisms of ischemicpreconditioning (38). We therefore used the
+/H92511-adrenergicagonist Phe to test whether manipulating GATA-4 activity might
+attenuate Dox cardiotoxicity and thus to establish the proof ofprinciple that GATA-4 might be an accessible therapeutic target.Phe efficiently protected cardiomyocytes from Dox-inducedapoptosis (Fig. 6 A) and prevented Dox-induced depletion of
+GATA-4 and Bcl-X
+L(Fig. 6 Band C). The antiapoptotic action
+of Phe depended on the presence of GATA-4 (Fig. 6 D).
+Next we tested the in vivo benefit of pharmacologic interfer-
+ence with GATA-4 depletion. Three groups of mice wereanalyzed: a control group, a group treated with a single dose ofDox, and a group cotreated with Phe and Dox. Low-dose Pheprevented GATA-4 depletion (Fig. 7 A) and cardiomyocyte
+apoptosis (Fig. 7 B). Moreover, in animals cotreated with Phe,
+myofibril structure appeared more preserved and there was noevidence of myocyte hypertrophy (Fig. 7 C). Echocardiographic
+assessment revealed that, although 50% of animals treated withDox developed CD, all animals in the control and Phe-treatedgroups maintained normal cardiac function (Fig. 7 D). Left
+ventricular weight and heart rate were not altered by anytreatment. Finally, unlike in the Dox-treated group, all animalsreceiving Phe and Dox were alive by the end of the 2-weekprotocol. We next tested the longer-term benefits of Phe;animals received a single injection of Dox in the presence or notof a 1-week infusion of Phe and monitored for up to 28 days (Fig.7E); this short-term Phe treatment was protective against the
+Dox-induced CD that was manifested at later (28 days) timepoints. Together these results reveal that GATA-4 is an imme-diate early target of Dox action and that genetic or pharmaco-logic manipulation of GATA-4 activity can prevent Dox-inducedcardiotoxicity.
+Discussion
+Previously we showed that depletion of GATA-4 interferes with
+in vitro cardiogenesis by down-regulating expression of car-
+dioregulators and causing apoptosis of differentiating cardio-blasts, whereas overexpression of GATA-4 up-regulated early
+Fig. 5. Bcl-X is a GATA-4 target. ( AandB) Quantitative PCR ( A) and Western
+blots ( B) were used to measure the level of Bcl-X LmRNA and protein in
+cardiomyocytes infected with adenoviruses expressing LacZ or GATA-4. Thedata in Aare the mean /H11006SEM of four independent experiments, and the
+results in Bare representative of two independent experiments. ( C Top )
+Schematic representation of the proximal promoter of the Bcl-X gene showing
+the two conserved GATA elements. ( C Middle ) Gel-shift analyses using nuclear
+extracts prepared from NIH 3T3-overexpressing GATA-4 or cardiomyocytes(Cardio) and the BNP-GATA, Bcl-X proximal-GATA (Bcl-p), and Bcl-X distal-GATA (Bcl-d) probes. ( C Bottom ) Supershift (indicated by asterisks) with the
+GATA-4 (
+/H9251G4) antibody was used to con ﬁrm the identity of the DNA-binding
+complex in cardiomyocytes. Cold competitor DNAs were used at 25- and100-fold excess. Arrowheads indicate GATA-4 binding. ( D) The Bcl-X luciferase
+reporter was cotransfected with increasing amounts of GATA-4 expressionvector in NIH 3T3 cells. ( E) Bcl-X promoter activity in cardiomyocytes is de-
+creased 5-fold after Dox treatment. In DandE, the data represent the mean /H11006
+SEM of four independent determinations.
+Fig. 6. GATA-4 is essential for /H92511-adrenergic action. ( A) Inhibition of Dox-
+induced apoptosis of cardiomyocytes by cotreatment with Phe for 12 h asdetermined by a TUNEL assay. The data are the mean /H11006SEM, (three to six per
+group;
+*,P/H110210.01 vs. control; †,P/H110210.01 vs. Dox). ( Band C) Inhibition of
+Dox-induced change in gene expression. ( B) Northern blot analyses after 12 h
+of Dox treatment in the presence or absence of Phe. ( C Upper ) Gel-shift
+analyses using cardiomyocyte nuclear extracts. ( C Lower ) Western blot show-
+ing Bcl-X Lprotein in the same extracts. ( D) Quanti ﬁcation of TUNEL assays in
+cardiomyocytes infected with adenovirus expressing LacZ or antisense GATA-4transcripts (ASG4); the protective effect of Phe is abrogated in cells lackingGATA-4. The data are the mean /H11006SEM of two independent experiments
+carried out in duplicate [
+*,P/H110210.05, and **,P/H110210.01 vs. respective control (Ctl);
+†,P/H110210.05, and ††,P/H110210.01 vs. respective Dox; and ‡,P/H110210.01 vs. control LacZ].
+6978 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0401833101 Aries et al.
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+
+differentiation markers and enhanced cardiogenesis (18). The
+data presented extend the role of GATA-4 as a survival factorto terminally differentiated myocytes and reveals that the em-bryonic and postnatal hearts share similar regulators. Interest-ingly, although a 50% reduction in GATA-4 levels did notinterfere with normal embryonic or postnatal mouse develop-ment (24), it did impair the drug-induced stress response, raisingthe possibility that GATA-4 may be an essential component ofthe adaptive response of the adult heart. This would be consis-tent with previous findings that GATA elements are essential tomediate in vivo transcriptional response to pressure or volume
+overload (39 –41) as well as our own in vitro findings that
+GATA-4 is essential for cytoskeletal reorganization of cardio-myocytes (20).
+Dox-induced depletion of GATA-4 may well explain the
+maximal cumulative dose tolerance and the latent cardiomyop-athy observed in patients treated with anthracyclines. Support
+for this hypothesis comes from the finding that mice with 50%reduction in GATA-4 levels are hyperresponsive to Dox anddisplay greater myocyte loss and CD than wild-type littermates.Moreover, cardiomyocytes with reduced GATA-4 levels areunresponsive to several stimuli (20) and have reduced expressionof several contractile genes and genes encoding hormones,receptors, and ion channels (ref. 19; unpublished data). Thus, adecrease in GATA-4 levels in the heart of patients treated withDox ultimately would impair their ability to respond to workoverload and other stimuli that produce cardiac stress. Restoringor preventing GATA-4 depletion may be an effective approachto cardioprotection.
+In this respect, regulation of GATA-4 levels by
+/H92511-adrenergic
+agonists is noteworthy, because they are in clinical use already(42). The exact mechanism(s) by which
+/H92511-adrenergic stimula-
+tion counteracts Dox cardiotoxicity is not fully understood yet,but two points are noteworthy. First, although activation of
+/H92511-adrenoreceptors can trigger numerous intracellular signaling
+cascades, their antiapoptotic effect required GATA-4 and wasabrogated by antisense-mediated GATA-4 down-regulation
+(Fig. 6 D). Second, this protective effect was dissociated from the
+hypertrophic effect of Phe; in culture, the effect of Phe onGATA-4 and apoptosis was observed after onl y6ho f treatment
+in the absence of any biochemical (ANF) or morphologicevidence of myocyte hypertrophy. Finally, in vivo , the low dose
+of Phe used did not produce any myocyte hypertrophy orincrease in heart weight (Fig. 7). Still, by preventing depletion ofGATA-4,
+/H92511-agonists maintain cardiac gene expression and
+myofibril integrity as well as the ability of myocytes to respondto extracellular stimuli and work overload. The use of theseagents in combination therapy with Dox may be beneficial topatients undergoing chemotherapy. Other small molecules thatstabilize or enhance GATA-4 levels may be cardioprotectivealso.
+The essential role of GATA-4 as a survival factor may be
+explained, at least in part, by its function as an upstream activator
+ofBcl-X and hence mitochondrial function and integrity. Recent
+work using adenoviral-mediated overexpression of Bcl-X
+Lre-
+vealed a protective effect against Dox-induced apoptosis andischemic injury (43). The finding that GATA-4 is essential forsurvival of terminally differentiated, growth-arrested myocytesand that it directly regulates transcription of the antiapoptoticgene Bcl-X
+Lprovides mechanistic insight for the role of GATA
+and other tissue-specific transcription factors in cell survivalindependent of differentiation and proliferation. GATA factorsare DNA-binding proteins that play essential roles in lineagedifferentiation and organogenesis (44, 45). Gene-inactivationstudies have suggested a link between GATA factors and cellsurvival, but it was always associated with differentiation orcell-cycle progression (46 –48). Overexpression of GATA-1 in
+differentiating erythroid cells was also shown to up-regulateBcl-2 and Bcl-X
+L, although it was again associated with differ-
+entiation (49, 50). More recently, Kim et al . (51) showed a
+correlation between GATA-4 expression and apoptosis in animmortalized atrial cell line, but whether this occurred indepen-
+Fig. 7. Prevention of Dox cardiotoxicity by infusion of /H92511-adrenergic agonist in vivo .(A) GATA-4 protein levels (brown nuclei) were determined in the ventricles
+of the control (Ctl) and Dox- and Dox /H11001Phe-treated mice by using immunohistochemistry. (Scale bar, 10 /H9262m.) (B) Quanti ﬁcation of TUNEL assay in the ventricles
+of control ( n/H110053) and Dox- ( n/H110054) and Dox /H11001Phe- ( n/H110054) treated mice. The data represent mean /H11006SEM ( *,P/H110210.05 vs. control; †,P/H110210.05 vs. Dox). ( C) Left ventricle
+tissue sections of control and Dox- and Dox /H11001Phe-treated mice stained with hematoxylin and eosin. (Scale bar, 20 /H9262m.) (D) Phe prevention of Dox cardiotoxicity.
+FS, frequency of CD, systolic blood pressure (SBP), and survival were determined in control and Dox- and Dox /H11001Phe-treated mice. Data are mean /H11006SEM or
+frequency ratios of three separate experiments, with n/H110058–22 in the 1-week follow-up group and n/H110051–6 in the 2-week follow-up group ( *,P/H110210.05, and **,
+P/H110210.01 vs. control; †,P/H110210.05, and ††,P/H110210.01 vs. Dox). ( E) Phe prevention of chronic Dox cardiotoxicity. Heart rate (HR), FS, and frequency of CD were
+determined in control and Dox- and Dox /H11001Phe-treated mice. Data are mean /H11006SEM or frequency ratios, with n/H110053–8(*,P/H110210.05 vs. control; †,P/H110210.01 vs. Dox).
+Aries et al. PNAS /H20841May 4, 2004 /H20841vol. 101 /H20841no. 18 /H208416979
+CELL BIOLOGY
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+
+dent of proliferation and /H20862or differentiation was not discussed.
+Thus, the data presented in this article show that GATA factorsdirectly regulate the apoptosis program in postnatal, terminallydifferentiated cells by transcriptional activation of Bcl-X . Mod-
+ulation of survival /H20862apoptosis genes by tissue-specific transcrip-
+tion factors may be a general paradigm that can be exploitedeffectively for cell-specific regulation of apoptosis in disease
+states.We are grateful to Drs. Jeffrey Molkentin and Eric Olson for sharing the
+Gata4/H11001//H11002mice. We thank Lynda Robitaille, Manon Laprise, Rene ´e
+Braun, and Annie Valle ´e for technical help; Lise Laroche for secretarial
+assistance; Drs. Andre ´Veillette and Rana Temsah for critical reading of
+the manuscript; and members of the Nemer laboratory for helpfuldiscussions. This work was supported by grants from the CanadianInstitutes of Health Research, the Cancer Research Society, and Ge ´-
+nome Que ´bec. M.N. holds a Canada Research Chair in Molecular
+Biology.
+1. Olson, E. N. & Schneider, M. D. (2003) Genes Dev .17,1937 –1956.
+2. Regula, K. M., Ens, K. & Kirshenbaum, L. A. (2003) J.Mol.Cell Cardiol .35,
+559–567.
+3. Yamamoto, S., Yang, G., Zablocki, D., Liu, J., Hong, C., Kim, S. J., Soler, S.,
+Odashima, M., Thaisz, J., Yehia, G., et al. (2003) J.Clin.Invest .111, 1463 –1474.
+4. Wencker, D., Chandra, M., Nguyen, K., Miao, W., Garantziotis, S., Factor,
+S. M., Shirani, J., Armstrong, R. C. & Kitsis, R. N. (2003) J.Clin.Invest .111,
+1497 –1504.
+5. Shi, Y. (2002) Mol.Cell 9,459–470.
+6. Ashkenazi, A. (2002) Nat.Rev.Cancer 2,420–430.
+7. Strasser, A., O ’Connor, L. & Dixit, V. M. (2000) Annu .Rev.Biochem .69,
+217–245.
+8. Adams, J. M. (2003) Genes Dev .17,2481 –2495.
+9. Cory, S. & Adams, J. M. (2002) Nat.Rev.Cancer 2,647–656.
+10. Olivetti, G., Abbi, R., Quaini, F., Kajstura, J., Cheng, W., Nitahara, J. A.,
+Quaini, E., Di Loreto, C., Beltrami, C. A., Krajewski, S., et al. (1997) N.Engl .
+J.Med.336, 1131 –1141.
+11. Chen, Z., Chua, C. C., Ho, Y. S., Hamdy, R. C. & Chua, B. H. (2001) Am.J.
+Physiol .280, H2313 –H2320.
+12. Singal, P. K. & Iliskovic, N. (1998) N.Engl .J.Med.339, 900–905.
+13. Lipshultz, S. E., Lipsitz, S. R., Mone, S. M., Goorin, A. M., Sallan, S. E.,
+Sanders, S. P., Orav, E. J., Gelber, R. D. & Colan, S. D. (1995) N.Engl .J.Med.
+332, 1738 –1743.
+14. Ito, H., Miller, S. C., Billingham, M. E., Akimoto, H., Torti, S. V., Wade, R.,
+Gahlmann, R., Lyons, G., Kedes, L. & Torti, F. M. (1990) Proc .Natl.Acad .Sci.
+USA 87,4275 –4279.
+15. Jeyaseelan, R., Poizat, C., Baker, R. K., Abdishoo, S., Isterabadi, L. B., Lyons,
+G. E. & Kedes, L. (1997) J.Biol.Chem .272, 22800 –22808.
+16. Jeyaseelan, R., Poizat, C., Wu, H. Y. & Kedes, L. (1997) J.Biol.Chem .272,
+5828 –5832.
+17. Poizat, C., Sartorelli, V., Chung, G., Kloner, R. A. & Kedes, L. (2000) Mol.Cell.
+Biol.20,8643 –8654.
+18. Gre ´pin, C., Nemer, G. & Nemer, M. (1997) Development (Cambridge, U .K.)
+124, 2387 –2395.
+19. Charron, F., Paradis, P., Bronchain, O., Nemer, G. & Nemer, M. (1999) Mol.
+Cell.Biol.19,4355 –4365.
+20. Charron, F., Tsimiklis, G., Arcand, M., Robitaille, L., Liang, Q., Molkentin,
+J. D., Meloche, S. & Nemer, M. (2001) Genes Dev .15,2702 –2719.
+21. Pehlivan, T., Pober, B. R., Brueckner, M., Garrett, S., Slaugh, R., Van
+Rheeden, R., Wilson, D. B., Watson, M. S. & Hing, A. V. (1999) Am.J.Med.
+Genet .83,201–206.
+22. Morin, S., Charron, F., Robitaille, L. & Nemer, M. (2000) EMBO J .19,
+2046 –2055.
+23. Socolovsky, M., Fallon, A. E., Wang, S., Brugnara, C. & Lodish, H. F. (1999)
+Cell 98,181–191.
+24. Molkentin, J. D., Lin, Q., Duncan, S. A. & Olson, E. N. (1997) Genes Dev .11,
+1061 –1072.25. Paradis, P., Dali-Youcef, N., Paradis, F. W., Thibault, G. & Nemer, M. (2000)
+Proc .Natl.Acad .Sci.USA 97,931–936.
+26. Yang, X. P., Liu, Y. H., Rhaleb, N. E., Kurihara, N., Kim, H. E. & Carretero,
+O. A. (1999) Am.J.Physiol .277, H1967 –H1974.
+27. Nemer, G. & Nemer, M. (2002) Development (Cambridge, U .K.)129, 4045 –
+4055.
+28. Levin, E. R., Gardner, D. G. & Samson, W. K. (1998) N.Engl .J.Med.339,
+321–328.
+29. McBride, K. & Nemer, M. (2001) Can.J.Physiol .Pharmacol .79,673–681.
+30. Morin, S., Paradis, P., Aries, A. & Nemer, M. (2001) Mol.Cell.Biol.21,
+1036 –1044.
+31. McBride, K. & Nemer, M. (1998) Mol.Cell.Biol.18,5073 –5081.
+32. Argentin, S., Ardati, A., Tremblay, S., Lihrmann, I., Robitaille, L., Drouin, J.
+& Nemer, M. (1994) Mol.Cell.Biol.14,777–790.
+33. Morimoto, T., Hasegawa, K., Wada, H., Kakita, T., Kaburagi, S., Yanazume,
+T. & Sasayama, S. (2001) J.Biol.Chem .276, 34983 –34989.
+34. Hautala, N., Tokola, H., Luodonpaa, M., Puhakka, J., Romppanen, H.,
+Vuolteenaho, O. & Ruskoaho, H. (2001) Circulation 103, 730–735.
+35. Grillot, D. A., Gonzalez-Garcia, M., Ekhterae, D., Duan, L., Inohara, N., Ohta,
+S., Seldin, M. F. & Nunez, G. (1997) J.Immunol .158, 4750 –4757.
+36. Schultheiss, T. M., Burch, J. B. & Lassar, A. B. (1997) Genes Dev .11,451–462.
+37. Ghatpande, S., Ghatpande, A., Zile, M. & Evans, T. (2000) Dev.Biol.219,
+59–70.
+38. Salvi, S. (2001) Chest 119, 1242 –1249.
+39. Marttila, M., Hautala, N., Paradis, P., Toth, M., Vuolteenaho, O., Nemer, M.
+& Ruskoaho, H. (2001) Endocrinology 142, 4693 –4700.
+40. Hasegawa, K., Lee, S. J., Jobe, S. M., Markham, B. E. & Kitsis, R. N. (1997)
+Circulation 96,3943 –3953.
+41. Herzig, T. C., Jobe, S. M., Aoki, H., Molkentin, J. D., Cowley, A. W., Jr., Izumo,
+S. & Markham, B. E. (1997) Proc .Natl.Acad .Sci.USA 94,7543 –7548.
+42. Stewart, J. M., Munoz, J. & Weldon, A. (2002) Circulation 106, 2946 –2954.
+43. Huang, J., Ito, Y., Morikawa, M., Uchida, H., Kobune, M., Sasaki, K., Abe, T.
+& Hamada, H. (2003) Biochem .Biophys .Res.Commun .311, 64–70.
+44. Cantor, A. B. & Orkin, S. H. (2002) Oncogene 21,3368 –3376.
+45. Patient, R. K. & McGhee, J. D. (2002) Curr .Opin .Genet .Dev.12,416–422.
+46. Koutsourakis, M., Langeveld, A., Patient, R., Beddington, R. & Grosveld, F.
+(1999) Development (Cambridge, U .K.)126, 723–732.
+47. Weiss, M. J. & Orkin, S. H. (1995) Proc .Natl.Acad .Sci.USA 92,9623 –9627.
+48. Pandolfi, P. P., Roth, M. E., Karis, A., Leonard, M. W., Dzierzak, E., Grosveld,
+F. G., Engel, J. D. & Lindenbaum, M. H. (1995) Nat.Genet .11,40–44.
+49. Gregory, T., Yu, C., Ma, A., Orkin, S. H., Blobel, G. A. & Weiss, M. J. (1999)
+Blood 94,87–96.
+50. Tanaka, H., Matsumura, I., Nakajima, K., Daino, H., Sonoyama, J., Yoshida,
+H., Oritani, K., Machii, T., Yamamoto, M., Hirano, T., et al. (2000) Blood 95,
+1264 –1273.
+51. Kim, Y., Ma, A. G., Kitta, K., Fitch, S. N., Ikeda, T., Ihara, Y., Simon, A. R.,
+Evans, T. & Suzuki, Y. J. (2003) Mol.Pharmacol .63,368–377.
+6980 /H20841www.pnas.org /H20862cgi/H20862doi /H2086210.1073 /H20862pnas.0401833101 Aries et al.
+Downloaded from https://www.pnas.org by 118.240.101.149 on February 20, 2025 from IP address 118.240.101.149.
+

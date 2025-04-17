@@ -1,0 +1,370 @@
+{
+  "title": "Distinct Enhancers Regulate Skeletal and Cardiac Muscle-Speciﬁc Expression Programs of the Cardiac/H9251-Actin Gene in Xenopus Embryos",
+  "authors": ["Branko V. Latinkic´", "Brian Cooper", "Norma Towers", "Duncan Sparrow", "Surendra Kotecha", "Timothy J. Mohun"],
+  "references": ["Elsevier Science (USA) © 2002"],
+  "genes": ["ACTN1", "/H9251-actin"],
+  "proper_nouns": {
+    "institutions": ["National Institute for Medical Research, The Ridgeway, London NW7 1AA, United Kingdom"],
+    "experimental_methods": ["transgenic embryos", "promoter-proximal CArG box", "multimerised copies of CArG box 1", "equivalent reporters containing the SRF binding site from the c- fos promoter"],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9251-cardiac actin gene", "GFP transgene"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "Puri and Sartorelli, 2000",
+    "Fishman and Chien, 1997",
+    "Mohun and Sparrow, 1997",
+    "Belaguli et al., 2000",
+    "Biesiada et al., 1999",
+    "Chen and Schwartz, 1996",
+    "Morin et al., 2000",
+    "Morin et al., 2001",
+    "Tanaka et al., 2001",
+    "Zaret, 1999",
+    "Black and Olson, 1998",
+    "Tre-isman, 1995"
+  ],
+  "genes": [
+    "MyoD",
+    "Myf5",
+    "Nkx2-5",
+    "MEF2",
+    "Serum Response Factor (SRF)",
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Medicine, University of California, San Diego, La Jolla",
+      "Victor Chang Cardiac Research Institute, Darlinghurst",
+      "NIMR (National Institute for Medical Research)"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Treisman, 1995", "Treisman, 1994", "Groisman et al., 1996", "Belaguli et al., 2000", "Morin et al., 2001", "Sotiropoulos et al., 1999", "Biesiada et al., 1999", "Sartorelli et al., 1990", "Mohun et al., 1989b", "Biben et al., 1996"],
+  "genes": ["ITSTARGETS", "SRF", "ETS1", "ELK1", "C-FOS", "MYOD", "GATA4", "CARDIAC-H9251-ACTIN"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["SERUM RESPONSE ELEMENT (SRE)", "ACTIVATION PROTEIN-1 (SP1)"],
+    "model_organisms": ["Xenopus", "Mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mohun et al., 1989b", "Kroll and Amaya, 1996", "Sparrow et al., 2000a", "Mohun and Garrett, 1987", "Tayloret al., 1989", "Treisman, 1985", "Sive, 2000", "Smith et al., 1988"],
+  "genes": ["H9251-actin", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["direct DNA injection assay", "transgenesis", "Xenopus embryo manipulations", "blastula animal pole explants dissection", "DNA injections"],
+    "software_tools": [],
+    "reagents_chemicals": ["activin", "mGFP5", "SV40 polyadenylation sequence", "oligonucleotides", "KpnI", "Asp718", "PCR", "EcoRI/BamHI fragments", "pF711", "pF100"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kroll and Amaya, 1996", "Sparrow et al., 2000b", "Ofieldi et al., 2000", "Harland, 1991", "Sparrow et al., 2000a", "Mohun et al., 1991", "Norman et al., 1988", "Sambrook, 1989", "Taylor et al., 1989", "Treisman, 1985"],
+  "genes": ["ACTN", "CRYM", "GFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ hybridisation", "Electrophoretic Mobility Shift Analysis", "Serum stimulation assays", "RNase protection assays", "coupled transcription-translation system"],
+    "software_tools": [],
+    "reagents_chemicals": ["CoolSnap digital camera (Roper Scientiﬁc)", "Leica MZFLIII dissecting microscope", "Double-stranded oligonucleotides", "5/H11032 GTAC overhangs", "human SRF protein", "CArG mut", "580 bp of the cardiac H9251-actin promoter"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990", "Mohun et al., 1989b", "Taylor et al., 1989"],
+  "genes": [
+    "ACTA2",
+    "GFP"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["transgenesis", "DNA injection", "linker scan mutations", "direct DNA injection", "internal deletion LS10/13"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP transgene", "activin", "anteroventral tissue explants", "primitive heart tubes", "facial and body wall muscles"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ACTA2",
+    "MYOD1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "GFP",
+      "activin"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "tadpoles",
+      "F1 transgenic embryos"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ACTA2", "CRYGG"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cotransgene", "Xenopus laevis embryo explants assay", "differentiation of cultured myogenic celllines"],
+    "software_tools": [],
+    "reagents_chemicals": ["crySTALLID", "5'H9004-103 truncation of the cardiac/H9251-actin promoter"],
+    "model_organisms": ["Xenopus laevis", "Xenopus borealis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Hopwood et al., 1991", "Hopwood et al., 1992", "Sartorelli et al., 1990"],
+  "genes": [
+    "/H9251-actin",
+    "/H11032/H9004"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["tadpole"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "CArG Box1/H11545",
+    "H11001DS",
+    "H9251"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "myotomes",
+      "head",
+      "heart region",
+      "tailbud heartfield",
+      "early tadpole stage"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ACTA2", "CRYBB1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mohun et al., 1989b", "Taylor et al., 1991", "Taylor et al., 1989"],
+  "genes": ["MYOT", "CArG box1", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9251-actin", "/H11001DS", "/H11001-actin", "/H11002580", "/H11002216"],
+    "model_organisms": ["embryonic muscle"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Latinkic ´et al. © 2002 Elsevier Science (USA). All rights reserved."],
+  "genes": ["ACTN1", "SRF", "FOXO3A"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["serum induction assay", "transfection", "RNAse protection", "serum induction of fibroblasts"],
+    "software_tools": [],
+    "reagents_chemicals": ["serum growth factors", "tRNA", "anti-SRF antibodies"],
+    "model_organisms": ["embryonic muscle differentiation"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Pellegrini et al., 1995"],
+  "genes": ["SRF", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["uniform expression", "competition assays", "heterologous promoter assay", "SRF binding in a competition assay"],
+    "software_tools": [],
+    "reagents_chemicals": ["CArG-T oligonucleotides", "DS element", "minimal cytoskeletal actin promoter", "cyt/GFP transgene", "CMV-SRF"],
+    "model_organisms": ["developing tadpole heart", "embryo"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ARF", "ACTL"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-amount in situ hybridisation"],
+    "software_tools": [],
+    "reagents_chemicals": ["CArG-L variant", "wild-type CArG box 1 sequence", "SRE oligonucleotide", "CARG-T"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Taylor et al., 1989", "Treis-man, 1994"],
+  "genes": ["SRF", "CArG box 1-DS sequence", "c-fos SRE", "CArG-L"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ACTN", "CARGG-adjacent sequence", "CArG box", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["transgenic mouse", "transgenic frog"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Hopwood et al., 1991", "Hopwood et al., 1992"],
+  "genes": ["CArG box 1 /H11001DS", "/H9251-actin", "CArG box 1 /H11001DS"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["transgenesis using the minimal cytoskeletal actin promoter", "coupled transcription-translation reactions", "native polyacrylamide gel", "6% native acrylamide gels", "fertilised embryos were injected with 100 pg of L/cyt/GFP and CMV or CMV-SRF DNAs at 5:1 ratio"],
+    "software_tools": [],
+    "reagents_chemicals": ["SRF", "oligonucleotides", "CMV", "L-cyt/GFP"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cell transfection studies", "muscle induction assay"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["transgenic mice", "Xenopus embryos", "tadpoles", "adult frogs"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "genes": ["GATA-4", "Nkx-2.5", "SRF"]
+    },
+    {
+      "proper_nouns": {
+        "institutions": ["Cold Spring Harbor Laboratory"],
+        "experimental_methods": ["transgenic embryos", "sperm nuclear transplantations", "In situ hybridization"],
+        "software_tools": [],
+        "reagents_chemicals": ["Xenopus mesoderm-inducing factor", "CArG box sequence"]
+      }
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": ["dominant negative murine serum response factor: alternative splicing within the activation domain inhibits transactivation of serum response factor binding targets", "transcriptional control of muscle development by myocyte enhancer factor-2 (MEF2) proteins", "expression of XMyoD protein in early Xenopus laevis embryos"],
+        "software_tools": [],
+        "reagents_chemicals": ["Xenopus tropicalis transgenic lines"]
+      }
+    },
+    {
+      "genes": ["SRF", "CArG box", "fosSRE", "MEF2", "Nkx-2.5", "SP1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": ["transgenic embryos", "expression of genes encoding the transcription factor SRF during early development", "binding to CArG box sequences"],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE", "CArG box", "Nkx-2.5", "SP1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["SRF", "fosSRE"]
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE"]
+    },
+    {
+      "genes": ["Nkx2.5", "Nkx2.6", "MEF2", "Tinman homologue", "Serum response factor", "SP1", "YY1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": []
+      }
+    },
+    {
+      "genes": ["fosSRE"]
+    }
+  ]
+}

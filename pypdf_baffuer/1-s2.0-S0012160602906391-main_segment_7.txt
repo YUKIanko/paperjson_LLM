@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ACTA2", "CRYGG"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cotransgene", "Xenopus laevis embryo explants assay", "differentiation of cultured myogenic celllines"],
+    "software_tools": [],
+    "reagents_chemicals": ["crySTALLID", "5'H9004-103 truncation of the cardiac/H9251-actin promoter"],
+    "model_organisms": ["Xenopus laevis", "Xenopus borealis"]
+  }
+}

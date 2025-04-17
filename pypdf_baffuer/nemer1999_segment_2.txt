@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Gre´pin et al. 1994", "Jiang and Evans1996"],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gua-nidinium–thiocyanate–phenol/chloroform method", "Northern blots", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Bluescript vector", "guanidinium-thiocyanate", "Nytran-nylon membranes"],
+    "model_organisms": ["Sprague Dawley rats", "Xenopus"]
+  }
+}

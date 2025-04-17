@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XCR1", "XCR3", "VegT", "Xnr1", "Xnr2", "Xnr4", "Derrière"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Cer-S"],
+    "model_organisms": ["Xenopus"]
+  }
+}

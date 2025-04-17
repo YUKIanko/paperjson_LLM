@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Dox", "/H92511-adrenergic agonist", "/H11001Phe"],
+    "model_organisms": ["mice"]
+  }
+}

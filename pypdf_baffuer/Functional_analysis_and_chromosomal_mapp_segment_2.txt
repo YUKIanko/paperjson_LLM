@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Jiang and Evans 1996", "Gre´pin et al. 1994"],
+  "genes": ["GATA-5", "GATA-4", "GATA-6", "ET-1", "Gata5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gua­nidinium–thiocyanate–phenol/chloroform method", "reverse transcriptase enzyme(AMV-RT)", "PCR", "Northern blots", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["total RNA", "Bluescript vector (pKS)/EcoRV", "Nytran-nylon membranes (Schleicher & Schuell)"],
+    "model_organisms": ["Sprague Dawley rats", "Xenopus"]
+  }
+}

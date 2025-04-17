@@ -1,0 +1,49 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "FOG-1",
+    "GATA-1"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Children’s Hospital",
+      "Boston, MA",
+      "Xenopus laevis",
+      "Drosophila",
+      "EMBO J",
+      "Nature",
+      "Development (Cambridge, UK)",
+      "PNAS",
+      "Mol Cell Biol",
+      "Proc Natl Acad Sci USA",
+      "Cell",
+      "Blood",
+      "Genes Dev",
+      "EMBO J"
+    ],
+    "experimental_methods": [
+      "Western blot analysis",
+      "Quantitative Real-Time RT-PCR",
+      "Quantitative ChIP Assay",
+      "RNA Stability Assay",
+      "Protein Analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "actinomycin D (A1410)",
+      "SDS sample buffer",
+      "anti-ER antibody AB16",
+      "TRIzol",
+      "GAPDH expression",
+      "ECL-Plus"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "Drosophila",
+      "G1E cells",
+      "FOG-1-null cells"
+    ]
+  }
+}

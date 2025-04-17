@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Nakajima et al., 2000b", "Rivera-Feliciano and Tabin, 2006", "Sugi et al., 2004"],
+  "genes": ["GATA4", "PECAM1", "SMARCA1", "NKX2-5", "NPPA", "TBX2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["immunostaining", "immunostaining for Pecam and SMA", "culture of control AVC explants directly next to Gata4T2del explants", "culture of explants in the presence of a mixture of growth factors known to promote EMT"],
+    "software_tools": [],
+    "reagents_chemicals": ["SMA antibody", "PECAM antibody", "Alcian Blue stain", "hyaluoronic acid"],
+    "model_organisms": ["Gata4T2del embryos", "Gata4T2del hearts"]
+  }
+}

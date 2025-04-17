@@ -1,0 +1,24 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "YY1",
+    "BNP",
+    "GATA-4",
+    "MLC2",
+    "SRF"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "Hela",
+      "CV1",
+      "FOG-1 −/− mice"
+    ]
+  }
+}

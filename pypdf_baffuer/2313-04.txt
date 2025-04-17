@@ -1,0 +1,435 @@
+MOLECULAR AND CELLULAR BIOLOGY , Apr. 2005, p. 2622–2631 Vol. 25, No. 7
+0270-7306/05/$08.00 /H110010 doi:10.1128/MCB.25.7.2622–2631.2005
+Copyright © 2005, American Society for Microbiology. All Rights Reserved.
+GATA6 Is Essential for Embryonic Development of the Liver but
+Dispensable for Early Heart Formation
+Roong Zhao,1Alistair J. Watt,1Jixuan Li,1Jennifer Luebke-Wheeler,1Edward E. Morrisey,2
+and Stephen A. Duncan1*
+Department of Cell Biology, Neurobiology, and Anatomy, Medical College of Wisconsin, Milwaukee, Wisconsin,1
+and Department of Medicine, Molecular Cardiology Research Center, University of Pennsylvania,
+Philadelphia, Pennsylvania2
+Received 5 December 2004/Returned for modiﬁcation 25 December 2004/Accepted 29 December 2004
+Several lines of evidence suggest that GATA6 has an integral role in controlling development of the
+mammalian liver. Unfortunately, this proposal has been impossible to address directly because mouse embryoslacking GATA6 die during gastrulation. Here we show that the early embryonic deﬁciency associated withGATA6-knockout mice can be overcome by providing GATA6-null embryos with a wild-type extraembryonicendoderm with the use of tetraploid embryo complementation. Analysis of rescued Gata6
+/H11546//H11546embryos revealed
+that, although hepatic speciﬁcation occurs normally, the speciﬁed cells fail to differentiate and the liver bud
+does not expand. Although GATA6 is expressed in multiple tissues that impact development of the liver,including the heart, septum transversum mesenchyme, and vasculature, all are relatively unaffected by loss ofGATA6, which is consistent with a cell-autonomous requirement for GATA6 during hepatogenesis. We alsodemonstrate that a closely related GATA factor, GATA4, is expressed transiently in the prehepatic endodermduring hepatic speciﬁcation and then lost during expansion of the hepatic primordium. Our data support theproposal that GATA4 and GATA6 are functionally redundant during hepatic speciﬁcation but that GATA6alone is available for liver bud growth and commitment of the endoderm to a hepatic cell fate.
+In mice, hepatic development begins at the six- to eight-
+somite stage of embryogenesis (E8.0) in response to inductivesignals from the heart and septum transversum, including ﬁ-broblast growth factors and bone morphogenetic proteins, aswell as the presence of endothelial cells (9, 15, 17, 24, 40, 45).In addition to growth factors, gene-targeting studies have im-plicated several transcription factors in controlling distinct as-pects of hepatogenesis (8–10). These include the homeoboxfactor Hex, which is necessary for morphogenesis and growthof the liver bud; Prox1, which is required for hepatoblast mi-gration; and HNF4, which is essential for hepatocyte differen-tiation and the epithelial transformation of the liver (1, 19, 22,23, 33, 41).
+Molecular and genetic analyses have suggested that the
+GATA factors may also act to control hepatogenesis (2, 36, 38,39, 44, 46, 47). The GATA family of zinc ﬁnger transcriptionfactors currently consists of six members in mammals (34).GATA1, -2, and -3 appear to act primarily in hematopoieticcells while GATA4, -5, and -6 are expressed in a diverse arrayof tissues (25). In vivo footprinting analyses of pluripotentembryonic gut endoderm revealed that GATA4 bound theAlbumin (Alb1 ) enhancer prior to the onset of albumin expres-
+sion in the primary liver bud, implying a role for GATA4 inregulating the onset of hepatic mRNA expression (2, 3, 5, 7,15). Genetic evidence supporting a requirement for GATAfactors in development of the gastrointestinal tract and itsderivatives, including the liver, has emerged from studies withmultiple model systems: GATA5 has been implicated in gutand liver development in zebra ﬁsh (37, 38), END1 is required
+for endoderm development in Caenorhabditis elegans (46, 47),
+SERPENT is essential for gut development in Drosophila me-
+lanogaster (36, 39), and GATA6 contributes to branching mor-
+phogenesis of the lungs (18, 43).
+Of the known GATA proteins, GATA6 is a particularly
+appealing candidate for a factor that may contribute towardliver development because GATA6 regulates expression of thenuclear hormone receptor HNF4 (16, 22, 27, 33). Moreover,development of Gata6
+/H11002//H11002embryos arrests during gastrulation
+with a phenotype that is very similar to that associated with
+Hnf4/H11002//H11002embryos, which is consistent with GATA6 acting up -
+stream of HNF4 during development (4, 20, 27). This early
+embryonic lethality, which is believed to be a consequence ofextraembryonic endoderm dysfunction, has so far preventedthe use of Gata6
+/H11002//H11002embryos for any analyses of the role of
+GATA6 during liver development. However, extraembryonic
+endoderm deﬁciencies can be rescued by generating embryosfrom embryonic stem (ES) cells by using tetraploid embryocomplementation (12, 22). We therefore attempted to addresswhether GATA6 is required for hepatogenesis by generatingembryos from Gata6
+/H11002//H11002ES cells by the tetraploid embryo
+complementation approach. We found that Gata6/H11002//H11002ES cell-
+derived embryos survive until E10.5, deﬁnitively demonstrating
+that embryonic lethality in GATA6-knockout embryos is aconsequence of loss of GATA6 function in the extraembryonicendoderm as suggested previously (20, 27). Analyses of thedeveloping liver in these embryos show that GATA6 is dis-pensable for hepatic speciﬁcation but essential for liver budexpansion and for normal expression of hepatic mRNAs with-in the nascent hepatoblasts. We also examined heart, sep-tum transversum mesenchyme, and vascular development in
+* Corresponding author. Mailing address: Department of Cell Biol-
+ogy, Neurobiology, and Anatomy, Medical College of Wisconsin, 8701Watertown Plank Rd., Milwaukee, WI 53226. Phone: (414) 456-8602.Fax: (414) 456-6517. E-mail: duncans@mcw.edu.
+2622
+Gata6/H11002//H11002ES cell-derived embryos because they are the source
+of paracrine signals that are necessary for liver development.
+In contrast to the liver, however, we found that developmentof these tissues is not signiﬁcantly affected by the absence ofGATA6.
+MATERIALS AND METHODS
+Generation of targeted ES cell lines and embryos. Gata6/H11001//H11002and Gata6/H11002//H11002R1
+ES cells were produced by standard procedures with a previously described
+GATA6 targeting construct (26), shown in Fig. 1. All cells were conﬁrmed tohave the predicted genotype by Southern blot analysis (Fig. 1). Embryos weregenerated directly from ES cells by tetraploid embryo complementation as de-scribed previously (12, 29). Pregnant mare serum gonadotropin used in super-ovulation was obtained from A. F. Parlow at the National Hormone and PeptideProgram.
+RT-PCR. Foregut endoderm was dissected from six- to eight-somite-stage
+embryos and hearts were dissected from E9.5 embryos in ice-cold phosphate-buffered saline under a dissecting microscope with tungsten needles. RNA wasprepared from individual samples with Qiagen’s RNeasy minikit and processedfor reverse transcription-PCR (RT-PCR) as described previously (12). The fol-lowing oligonucleotide primer sequences were used in ampliﬁcations: Hprt ,A G
+CGCAAGTTGAATCTGC and AGCGACAATCTACCAGAG; Gata6 , ATGG
+CGTAGAAATGCTGAGG and TGAGGTGGTCGCTTGTGTAG; Gata4 ,T G
+GCCGACGTGGGAGCAT and CGGCGGGAAGCGGACAG; Hand1 , AACC
+TCAACCCCAAAAGCC and GGAAGGGAAAGGAAGGGAAAG; Hand2 ,
+TACCAGCTACATCGCCTAC and TCTTTCTTCCTCTTCTCCTC; Nkx2 -5,
+CGCCGCCTCCGCCAACAGCAACT and GGGCGACGGCAAGACAACCAG; Srf, AGATCCCTGTCTCTGCAGTTCAGC and GCGTGGCATCCAGG
+TTCA; Myocd , CTGTGTGGAGTCCTCAGGTCAAACC and GATGTGCTG
+CGGGCTCTTCAG; Ncx1 , CCATCTTCGGAATGTCAATG and CCATCTTC
+GGAATGTCAATG; /H9251MHC , CTGCTGGAGAGGTTATTCCTCG and GGA
+AGAGTGAGCGGCGCATCAAGG; /H9252MHC , GCCAACACCAACCTGTCCA
+AGTTC and TGCAAAGGCTCCAGGTCTGAGGGC; cardiac alpha actin ,A G
+AGTATGATGAGGCAGGC and ATGACTGATGAGAGATGGGG; Mlc2a ,
+AGGCAC AACGTGGCTCTTCT and AGCTGGGAATAGGTCTCCTTCA;
+Mlc2v , GGAGGGCAACGGCACGGTCAT and AAGGCGAGCACAGGTAG
+GGTA AGC; Anf, GAGAGACGGCAGTGCTTCTAGGC and CGTGACAC
+ACCACAAGGGCTTAGG; skeletal actin , CGCGACATCAAAGAGAAGCT
+and GGGCGATGATCTTGATCTTC; Fgf1, CGGAAAGTGCGGGCGAAG
+TG and ACCGGGAGGGGCAGAAACAAGA; Bmp2 , GGGACCCGCTGTC
+TTCTAGTGTTGC and TGAGTGCCTGCGGTACAGATCTAGCA; Bmp4 ,
+TCTAGAGGTCCCCAGAAGCAGCTGC and GCATTCGGTTACCAGGAATCATGGTG; Afp, TCGTATTCCAACAGGAGG and AGGCTTTTGCTTCA
+CCAG; Alb1 , CTTAAACCGATGGGCGATCTCACT and CCCCACTAGCCT
+CTGGCAAAAT; Hnf4 , CTTCCTTCTTCATGCCAG and ACACGTCCCCAT
+CTGAAG; Rbp, ATCCAGTGGTCATCGTTTCCTCGCT and GAACTTCGA
+CAAGGCTCGTTTCTCTGG; Ttr, CTCACCACAGATGAGAAG and GGCT
+GAGTCTCTCAATTC.
+In situ hybridization. Embryos were embedded in parafﬁn. Sections were cut
+a t5t o7 /H9262m and were processed for in situ hybridization with
+33P-labeled anti -
+sense RNA probes as described elsewhere (11, 35). Digital dark-ﬁeld imageswere inverted and overlaid on bright-ﬁeld images by using Adobe Photoshop.Experimental and control images were processed identically in all cases.
+Immunohistochemistry. Immunohistochemistry was performed on paraform-
+aldehyde-ﬁxed parafﬁn sections as described previously (33) with a 1/500 dilutionof primary antibodies recognizing HNF4 (Santa Cruz, catalog no. sc-6556),GATA4 (Santa Cruz, catalog no. sc-1237), or platelet endothelial cell adhesionmolecule (PECAM; CD31; BD PharMingen).
+RESULTS
+Gata6/H11546//H11546ES cell-derived embryos complete gastrulation.
+Development of Gata6/H11002//H11002embryos is blocked during gastru -
+lation, and the embryos are unable to generate a fully differ-entiated extraembryonic endoderm (20, 27). In addition, theyfail to express mRNAs normally present in this endodermincluding Hnf4 (27). These data suggest that the early embry-
+onic lethality associated with loss of GATA6 is a consequenceof defective extraembryonic endoderm function, as has previ-ously been demonstrated for Hnf4
+/H11002//H11002embryos (12). Tetra -
+ploid embryo complementation has been used successfully togenerate embryos from ES cells and to circumvent deﬁcienciesin the extraembryonic endoderm function (12, 29). In thisapproach, tetraploid embryos contribute cells to the extraem-bryonic endoderm while the fetus is derived solely from EScells (30). We therefore used this procedure to test whether thegastrulation arrest associated with the GATA6-null phenotypewas due to extraembryonic endoderm defects as suggestedby the analyses of Gata6 -knockout embryos (20, 27). A
+Gata6
+/H11002//H11002allele was generated in R1 ES cells according to the
+same strategy used to produce Gata6 -knockout mice (27), and
+Gata6/H11002//H11002cells were selected by growth of Gata6/H11001//H11002cells in a
+high concentration of G418 (Fig. 1A) (28). The genotype of all
+ES cells used in this study was conﬁrmed by Southern blotanalyses of genomic DNA (Fig. 1B). As presented in Fig. 2,post-gastrulation-stage E9.5 and E10.5 embryos could be pro-duced from both control Gata6
+/H11001//H11002(n/H11005160) and experimental
+Gata6/H11002//H11002(n/H11005180) ES cells, and embryos of both genotypes
+exhibited characteristics of normal developmental patterning
+(Fig. 2A). The genotype of embryos was conﬁrmed by PCRanalysis of genomic DNA. No wild-type Gata6 allele was de-
+tected in fetuses derived from Gata6
+/H11002//H11002ES cells (Fig. 2B and
+FIG. 1. Generation of Gata6/H11002//H11002ES cells. (A) Schematic showing
+that Gata6 exons (boxes), which encode the DNA binding domain
+(Zn), were replaced with a neomycin phosphotransferase cassette(neo) by using the targeting vector described by Morrisey et al. (27).Relative positions of probes and the sizes of the BamHI (B), BstZ171(Bs), and MluI (M) restriction enzyme products that they identify areshown. (B) Southern blots conﬁrming the genotype of ES cells con-taining wild-type (Wt), heterozygous ( /H11001//H11002), and homozygous ( /H11002//H11002)
+mutant alleles of Gata6 . The size of restriction fragments, shown in
+kilobases (kb), was calculated by comparison to a DNA ladder. wt, wildtype; mut, mutant.V
+OL. 25, 2005 GATA6 IN LIVER DEVELOPMENT 2623
+C), which was expected because the Gata6/H11001//H11001tetraploid cells
+contribute to the extraembryonic endoderm only in such chi-
+meric embryos (12, 30). Although Gata6/H11001//H11002ES cell-derived
+embryos developed normally through E11.5, by this same em-bryonic stage Gata6/H11002//H11002ES cell-derived embryos lacked tissue
+integrity and were readsorbing. The latest time point at which
+living Gata6/H11002//H11002ES cell-derived embryos could be recovered
+was E10.5. While rescued Gata6/H11002//H11002embryos had clearly pro -
+gressed through gastrulation, they were consistently smallerthan control embryos (Fig. 2A). However, although they wererelatively diminutive, the rate of development was indistin-guishable between control and experimental embryos; somitenumber, appearance of limb buds, heart looping, and neuraltube closure were the same between Gata6
+/H11001//H11002andGata6/H11002//H11002
+ES cell-derived embryos isolated at E9.5 and E10.5. The cause
+of death or why Gata6/H11002//H11002ES cell-derived embryos are smaller
+has not been established. However, the extent of cell prolifer-
+ation, determined by anti-phosphohistone H3 immunohisto-chemistry, was similar between Gata6
+/H11001//H11002and Gata6/H11002//H11002ES
+cell-derived embryos at E9.5 (data not shown). In addition, the
+level of apoptotic cell death, determined by terminal deoxy-nucleotidyltransferase-mediated dUTP-biotin nick end label-ing (TUNEL), was also generally similar between control andmutant embryos (data not shown). In some GATA6-null em-bryos (three of ﬁve) there appeared to be a qualitative increasein TUNEL positive staining around the region of the presump-tive liver bud compared to control embryos; however, thisincrease in TUNEL staining was variable, and we were unableto generate reproducible quantitative results. The ﬁnding thatE10.5 embryos can routinely be generated from Gata6
+/H11002//H11002ES
+cells by tetraploid embryo complementation while GATA6-
+knockout embryos arrest during gastrulation deﬁnitively dem-onstrates that GATA6 expression is required in the extraem-bryonic endoderm to maintain an environment that supportsgastrulation of the epiblast.
+Development of the liver is blocked at E9.5 in Gata6
+/H11546//H11546ES
+cell-derived embryos. To determine whether GATA6 was re-
+quired for development of the liver, we compared formation ofthe liver bud in histological sections of embryos at E9.5 andE10.5 that were generated from Gata6
+/H11001//H11002orGata6/H11002//H11002ES
+cells. All analyses were performed on embryos with similar
+numbers of somites to ensure that they were at equivalentdevelopmental stages—the appearance of new somite pairsoccurs approximately ever y2hi nt h e mouse and allows high-
+resolution timing of the developmental stage of embryos be-tween E8.5 and E10.5. Figures 3A and C show that in controlembryos the liver bud could easily be identiﬁed by E9.5 as adistinct outgrowth of the ventral foregut and, by E10.5, thathepatoblasts had delaminated from the primary liver bud andhad migrated into the surrounding septum transversum mes-enchyme. In contrast to controls, development of the liver inGata6
+/H11002//H11002ES cell-derived embryos was severely perturbed. At
+E9.5, the liver bud consisted of a small rudimentary outgrowth
+of endoderm that had failed to expand by E10.5 (Fig. 3B andD). Indeed, at E10.5, the liver bud was virtually indiscernibleand there was no indication that the hepatoblasts had delami-nated from the foregut.
+These data suggested that there was a failure in the ability of
+the ventral endoderm to follow a normal hepatic developmen-tal program. To address this directly, control and mutant em-bryos were stained for expression of characteristic markers ofhepatic development. Figures 3E to H show that in situ hy-bridization analyses identiﬁed Alb1 mRNA within the devel-
+oping liver of control embryos at E9.5 and E10.5 while in
+FIG. 2. Embryos generated from Gata6/H11002//H11002ES cells by tetraploid
+embryo complementation complete gastrulation. (A) Micrographs of
+E9.5 and E10.5 embryos generated from either Gata6/H11001//H11002orGata6/H11002//H11002
+ES cells. (B) Schematic showing position of primers relative to the
+Gata6 wild-type allele and null allele in which exons encoding the zinc
+ﬁnger domains of GATA6 were replaced by Neo; note that one of the
+Gata6 oligonucleotides contained sequences encoding a portion of the
+ﬁrst zinc ﬁnger that were deleted in Gata6/H11002//H11002ES cells. wt, wild type;
+mut, mutant. (C) PCR analysis with primers that amplify Gata6 geno-
+mic DNA or the Neo gene conﬁrms that Gata6 was present in control
+Gata6/H11001//H11001andGata6/H11001//H11002ES cells and embryos (lanes 2 to 5) but was
+absent from embryos derived from Gata6/H11002//H11002ES cells (lanes 6 to 10) or
+in reaction mixtures lacking template (0 DNA, lane 1).2624 ZHAO ET AL. MOL.CELL.BIOL.
+mutant embryos Alb1 mRNA was undetectable. Previous work
+had demonstrated that GATA6 regulates expression of thehepatocyte differentiation factor HNF4 (16, 27). As shown inFig. 3I, HNF4 protein can be identiﬁed, by immunohistochem-istry, in the nucleus of endodermal cells within the liver bud atE9.5. In Gata6
+/H11002//H11002embryos, however, although HNF4 can be
+identiﬁed in the visceral endoderm that acts as a positive con-
+trol for antibody staining, no expression of HNF4 is foundwithin the liver bud (Fig. 3J).
+Immediately following inductive signaling from surrounding
+tissues, the nascent hepatic cells initiate the process of differ-entiation. The onset of differentiation is rapid, and levels ofhepatic mRNAs increase quickly, which presumably reﬂectscommitment of the endoderm to a hepatic fate. Radioactive insitu hybridization, shown in Fig. 3K and M, shows that expres-sion of Hex mRNA, which encodes a homeobox transcription
+factor essential for liver development, increases signiﬁcantlybetween 20 and 23 somites in control E9.5 embryos (1, 19, 23).In contrast, although HexmRNA could be detected in Gata6
+/H11002//H11002
+ES cell-derived embryos, the level was lower than that seen
+in controls, and moreover, between 20 and 23 somites Hex
+mRNA levels failed to increase in the absence of GATA6 (Fig.3L and N). The fact that albumin and HNF4 were undetectableand that Hex mRNAs failed to increase in GATA6-null em-
+bryos demonstrates that GATA6 is required for the liver bud to
+mature and commit to a normal hepatic developmental pro-gram.
+Hepatic speciﬁcation occurs in Gata6
+/H11546//H11546ventral endoderm.
+The ﬁnding that Hex mRNA was present in the endoderm of
+Gata6/H11002//H11002embryos suggested that hepatic development had
+been induced within the ventral foregut. However, HexmRNA
+is also expressed in the developing ventral pancreas, and so itseemed possible that the identiﬁcation of Hex transcripts re-
+ﬂected development of the pancreas rather than liver. To de-ﬁnitively address whether hepatic speciﬁcation had occurred inthe absence of GATA6, we determined the extent of liver geneexpression in ventral endoderm isolated from experimentaland control E8.0 embryos containing six to eight somite pairsby RT-PCR. It is at this developmental stage that inductivecues acting on the endoderm specify hepatic cell fate (15).Figure 4A shows that, as expected, Gata6 mRNA could be
+detected by RT-PCR in control ventral endoderm but was notdetected in Gata6
+/H11002//H11002endoderm. Importantly, this result con -
+ﬁrmed the absence of any GATA6-positive tetraploid embryo-derived extraembryonic endoderm, which could potentiallyconfound the analysis. Examination of steady-state levels ofmRNAs encoding alpha-fetoprotein (Afp), albumin, HNF4,retinol binding protein (Rbp4), and transthyretin (Ttr), all ofwhich are expressed in hepatoblasts, revealed that all wereidentiﬁed at comparable levels between control and Gata6
+/H11002//H11002
+FIG. 3. The liver bud fails to expand and establish normal expres-
+sion of hepatic markers in the absence of GATA6. Somite-matchedembryos isolated at either E9.5 (A, B, E, F, and I to N) or E10.5(C, D, G, and H) were generated from Gata6
+/H11001//H11002(A, C, E, G, I, K,
+and M) or Gata6/H11002//H11002(B, D, F, H, J, L, and N) ES cells. (A to D)
+Hematoxylin- and eosin-stained transverse sections of embryos show-
+ing the developing liver (l; outlined by dashes) and septum transver-sum mesenchyme (s). (E to H) In situ hybridization analysis identifyingAlbumin mRNA (dark grains) in control but not Gata6
+/H11002//H11002liver buds(arrowheads). (I and J) Immunohistochemistry identifying HNF4 pro-
+tein, which can be seen as brown staining, in nuclei of control but notGATA6-null liver primordia (arrowheads). Note the presence of HNF4
+in the extraembryonic endoderm (arrow). (K to N) In situ hybridiza-tion to detect HexmRNA (dark grains) in the liver bud (arrowhead) of
+Gata6
+/H11001//H11002(K and M) or Gata6/H11002//H11002(L and N) E9.5 embryos containing
+20 (K and L) or 23 (M and N) somite pairs. Experimental and control
+embryos are shown at the same magniﬁcation.VOL. 25, 2005 GATA6 IN LIVER DEVELOPMENT 2625
+ventral endoderm isolates. The fact that AlbmRNA could be
+detected by RT-PCR in the ventral endoderm of E8.0Gata6
+/H11002//H11002embryos but not by in situ hybridization at E9.5
+likely reﬂects the relative sensitivity of the two assays. These
+data show that GATA6 is dispensable for hepatic speciﬁcationand that Gata6
+/H11002//H11002ventral endoderm is competent to initiate a
+program of liver gene expression.
+Given the clear absence of liver development at E9.5, the
+ﬁnding that expression of hepatic mRNAs within the ventralendoderm during the earliest stages of liver development(E8.5) was unaffected by loss of GATA6 seemed surprising.GATA factors, however, have similar DNA binding character-istics, and both GATA6 and GATA4 are expressed in endo-derm-derived tissues, suggesting that they may functionallyoverlap (26, 31). We therefore tested whether GATA4 waspresent in the ventral endoderm of embryos lacking GATA6during hepatic speciﬁcation. Figure 4B shows that GATA4 wasindeed detected by immunohistochemistry in the presumptivehepatic ventral endoderm of both control and Gata6
+/H11002//H11002E8.5
+ES cell-derived embryos containing 8 to 10 somites, suggesting
+that GATA4 has the potential to compensate for loss ofGATA6 during hepatic speciﬁcation.
+GATA4 is transiently expressed in the early ventral endo-
+derm and may complement loss of GATA6 during hepaticspeciﬁcation. If GATA4 and GATA6 have redundant roles in
+controlling liver gene expression during hepatic speciﬁcation, itraises the question of why GATA4 is apparently unable tocompensate for loss of GATA6 during later stages of hepaticdevelopment at E9.5 when the liver bud is expanding. With thisin mind we examined expression of GATA4 and GATA6 inembryos containing 12 somites (E8.5), which had just com-pleted hepatic speciﬁcation, and in embryos containing 25somites, in which hepatoblasts were migrating from the ex-panding liver bud. Figures 5A, C, E, G, and I show that, by 12
+somites, GATA4 and -6 continue to be expressed in the spec-iﬁed hepatic endoderm of the liver bud as well as in the sur-rounding septum transversum mesenchyme. By 25 somitesGata6 mRNA was identiﬁed in the expanding hepatoblast
+cells, although at levels lower than those found in the septumtransversum (Fig. 5B, D, and F). This is consistent with previ-ously published immunostaining data that show GATA6 pro-tein also present in hepatoblasts of E14.5 livers (31). However,strikingly and in contrast to Gata6 , GATA4 expression is
+abruptly extinguished in hepatoblasts as the cells delaminatefrom the speciﬁed hepatic endoderm coincident with the stageat which loss of GATA6 results in a hepatic phenotype (Fig.5H and J). This low to undetectable expression of GATA4 inhepatic parenchymal cells is also seen in adult livers. Figures5K and L show that expression of GATA4 is most predominantin the endothelial cells surrounding the sinusoidal capillariesand large veins of the adult liver and in contrast is difﬁcult todetect by immunohistochemistry in the hepatocytes. In situhybridization studies showed that Gata4 mRNA was also un-
+detectable in hepatoblasts in embryos at E9.5 (data notshown), suggesting that regulation was likely at the level oftranscription. This dynamic expression of GATA4 in the earlyventral endoderm is consistent with the proposal that GATA4and GATA6 have redundant functions during hepatic speciﬁ-cation but that only GATA6 is available to control expansionof the liver bud and commitment of hepatoblasts to express thenormal proﬁle of hepatic mRNAs.
+GATA6 is dispensable for early development of the vascu-
+lature, septum transversum, and heart. A combination of ge-
+netic and molecular analyses has identiﬁed the developingheart, septum transversum mesenchyme, and vascular tissue assources of signals required for speciﬁcation and expansion of
+FIG. 4. GATA6 is dispensable for speciﬁcation of the hepatic endoderm. (A) RT-PCR analysis of hepatic mRNAs in ventral endoderm isolated
+from Gata6/H11001//H11002(lanes 2 and 3) or Gata6/H11002//H11002embryos (lanes 4 and 5) containing six to eight somite pairs. Ampliﬁcation of Hprt was used as a loading
+control, and omission of reverse transcriptase from the RT-PCR and ampliﬁcations lacking template (lane 1) conﬁrmed the absence of
+contaminating DNA. (B) GATA4 protein can be identiﬁed by immunohistochemistry (IHC) as nuclear staining in the presumptive hepaticendoderm (arrowhead) of both Gata6
+/H11001//H11002andGata6/H11002//H11002E8.5 embryos containing 8 to 10 somite pairs. Insets show high-resolution images of boxed
+areas. VE, extraembryonic visceral endoderm; H, developing heart; L, presumptive hepatic endoderm.2626 ZHAO ET AL. MOL.CELL.BIOL.
+the hepatic primordium in mice (21). Many of these tissues
+also express GATA6, raising the possibility that the block indevelopment of the liver in the absence of GATA6 could becaused by defective development of these nonhepatic tissues.Figures 6A to D show immunohistochemical staining of con-trol and Gata6
+/H11002//H11002E9.5 ES cell-derived embryos for PECAM,
+which is expressed in endothelial cells, and for GATA4, which
+is highly expressed in the septum transversum mesenchyme atthe level of the liver bud. Both endothelial cells and septumtransversum mesenchyme were seen to surround the hepatic
+bud regardless of GATA6’s presence or absence. The ﬁndingthat septum transversum mesenchyme was still present in theabsence of GATA6 was interesting given that we had previ-ously shown that Gata4
+/H11002//H11002embryos fail to form septum
+transversum mesenchyme as well as the related proepicar-
+dium (42).
+It has also been proposed that the GATA factors have cru-
+cial roles in controlling cardiac development (32). Since car-
+FIG. 5. Expression of GATA4 but not GATA6 is extinguished in migrating hepatoblasts. Embryos containing 12 (A, C, E, G, and I) or 25 (B,
+D, F, H, and J) somite pairs and adult livers (K and L) were isolated and processed for in situ hybridization to detect Gata6 mRNA (A to F) or
+for immunohistochemistry to detect GATA4 protein (G to L). Both GATA4 protein (brown nuclear staining; G and I) and Gata6 mRNA (A, C,
+and E) can be detected in the septum transversum mesenchyme (arrowheads) and liver bud (arrows) of 12-somite-pair embryos. At 25 somite pairs,Gata6 mRNA and GATA4 protein were detected in septum transversum mesenchyme (arrowheads; B, D, F, H, and J). In the liver bud (arrows;
+B, D, F, H, and J), however, the presence of Gata6 mRNA could be identiﬁed but GATA4 protein was undetectable. GATA4 protein was also
+detected predominantly in the endothelial cells (arrows) but not in hepatocytes (arrowheads) of adult livers (K and L). Panels E, F, I, J, and L showhigh-resolution images of boxed areas in panels C, D, G, H, and K, respectively. Both bright-ﬁeld (A and B) and corresponding dark-ﬁeld (C toF) images of Gata6 in situ hybridization analyses are presented. The presence of mRNA can be detected as bright silver grains in dark-ﬁeld images;
+note the absence of staining in neural tubes (asterisks).V
+OL. 25, 2005 GATA6 IN LIVER DEVELOPMENT 2627
+diogenesis is essential for liver development, we determined
+whether development of the heart was affected by loss ofGATA6. Figures 6E and F show hematoxylin- and eosin-stained sections through the cardiac region of E9.5 control andGata6
+/H11002//H11002ES cell-derived embryos. Both embryos appeared to
+have developed comparably, containing differentiated cardio-
+myocytes and endocardial cells. In a minority of cases, theextent of ventricular trabeculation was subtly reduced in theabsence of GATA6; however, many Gata6
+/H11002//H11002ES cell-derived
+embryos appeared normal in this regard. The role of GATA
+factors in controlling cardiac gene expression has been studiedintensely, and so we compared steady-state levels of severalcardiomyocyte mRNAs by RT-PCR in hearts isolated fromE9.5 embryos. As shown in Fig. 6I, expression of all cardiacmRNAs was similar in both control and Gata6
+/H11002//H11002ES cell-
+derived hearts. Importantly, these mRNAs included those en-coding Fgf1, Bmp2, and Bmp4, which have previously been
+shown to regulate development of the liver (17, 40). The ob-servation that cardiac gene expression was unaffected by loss ofGATA6 could be due to maintenance of GATA4 expressionin the Gata6
+/H11002//H11002cardiomyocytes. In support of GATA4 and
+GATA6 having redundant functions in the heart, GATA4 pro-
+tein could indeed be detected in Gata6/H11002//H11002cardiomyocytes by
+immunohistochemistry, and Gata4 mRNA was identiﬁed in
+GATA6-null hearts by RT-PCR (Fig. 6G to I).
+DISCUSSION
+Our production of post-gastrulation-stage embryos from
+Gata6/H11002//H11002ES cells, through tetraploid embryo complementa -
+tion, deﬁnitively establishes that GATA6-knockout mice arrestduring early embryonic development due to defects in ex-
+FIG. 6. GATA6 is dispensable for early development of the heart, septum transversum meschyme, and vasculature. (A and B) Immunohis-
+tochemistry (brown staining) identiﬁes PECAM-positive endothelial cells (e; arrows) surrounding the presumptive hepatic endoderm in bothcontrol and GATA6-null embryos at E9.5. (C and D) Septum transversum mesenchyme that expresses GATA4 can be identiﬁed surrounding thepresumptive hepatic bud (arrow) in both Gata6
+/H11001//H11002andGata6/H11002//H11002E9.5 embryos by immunohistochemistry. (E to H) Hematoxylin- and eosin-
+stained sections of Gata6/H11001//H11002andGata6/H11002//H11002fetal hearts at E9.5 ﬁnds no substantive differences in the morphology of endocardium or myocardium,
+which both express GATA4 protein as determined by immunohistochemistry (brown nuclear staining) (G and H). l, liver; s, septum transversion;
+a, atrium; v, ventricle. (I) RT-PCR analysis of cardiac mRNAs in hearts isolated from Gata6/H11001//H11002(lanes 2 and 3) or Gata6/H11002//H11002(lanes 4 and 5) E9.5
+embryos. Ampliﬁcation of Hprt was used as a loading control, omission of reverse transcriptase [( /H11002)RT] from the RT-PCR and ampliﬁcations
+lacking template (lane 1) conﬁrmed the absence of contaminating DNA, and PCR with Gata6 primers conﬁrmed that only control embryos
+expressed Gata6 mRNA. All gene names use ofﬁcial nomenclature with common names below in parentheses where appropriate.2628 ZHAO ET AL. MOL.CELL.BIOL.
+traembryonic endoderm function as was proposed previously
+(20, 27). A direct role for GATA6 acting as a regulator ofextraembryonic endoderm development is also supported byloss-of-function studies of F9 embryonal carcinoma cells. Inthese experiments, the ability of F9 cells to form parietal en-doderm in culture was suppressed when expression of GATA4and GATA6 was simultaneously reduced using a short inter-fering RNA approach (14). In addition, forced expression ofGATA6 in ES cells induced these pluripotent cells to adopt anextraembryonic endoderm fate (13). Together these resultsconvincingly argue that GATA6 is a central regulator of ex-traembryonic endoderm differentiation.
+The availability of Gata6
+/H11002//H11002embryos that develop to E10.5
+has also allowed us to demonstrate an essential role for
+GATA6 in controlling development of the mammalian liver.Although analysis of cell-type-speciﬁc knockouts of GATA6will be necessary to deﬁnitively establish whether this factoracts cell autonomously during hepatogenesis, the observationthat development of the heart, septum transversum, and em-bryonic vasculature appears relatively normal in Gata6
+/H11002//H11002em-
+bryos is consistent with GATA6 acting within the endoderm.Molecular and biochemical studies also support a cell-auton-omous role for GATA factors in controlling liver development.Analyses of the Albumin gene’s transcriptional regulatory ele-
+ments have uncovered several transcription factors that appearto have roles in hepatic development (2, 15). Of these factors,FoxA and GATA4 have been shown to interact with the Al-
+bumin enhancer in pluripotent deﬁnitive endoderm prior to
+the onset of Albumin gene expression and hepatic speciﬁcation
+(15). GATA4 and FoxA are unusual in that they can recognizetheir respective binding sites and form stable complexes in thecontext of compacted chromatin, which is normally recalcitrantto transcription factor binding (5, 7). Importantly, binding ofeither FoxA or GATA4 opens compacted chromatin, andFoxA appears to have the capacity to reposition nucleosomesaround the Albumin enhancer (5, 7). Based on these observa-
+tions, it has been proposed that FoxA and GATA4 may actas potentiators of endodermal differentiation (44). In thisscheme, binding of these factors would remodel local areas ofchromatin around the transcriptional regulatory elements ofliver genes in the pluripotent endoderm, rendering them ca-pable of binding transcriptional activators. This would main-tain these genes in a competent but inactive state. If transcrip-tional activators were induced in response to inductive signals,they would then have access to the transcriptionally competentgenes and initiate differentiation through activation of geneexpression. Most of the studies that have led to this model havefocused on GATA4 as the factor that acts in conjunction withFoxA to mediate hepatic competency of the endoderm (5–7).However, GATA binding sites can be recognized by GATA4,-5, and -6, suggesting that any of these could potentially act aspioneer factors.
+Our data show that, as development proceeds, GATA6
+alone is necessary for expansion of the liver bud and commit-ment of the endoderm to a hepatic cell fate. However, basedon the ﬁnding that hepatic mRNA expression is unaltered inthe absence of GATA6 in E8.5 embryos containing six to eightsomites, hepatic speciﬁcation of Gata6
+/H11002//H11002ventral endoderm
+appears to be intact. This may seem surprising given the com-
+pelling molecular evidence that supports a role for the GATAfactors in regulating competency and, as a consequence, he-
+patic speciﬁcation. However, examination of the expression ofGATA4 within the endoderm of both wild-type and Gata6
+/H11002//H11002
+embryos offers a possible explanation of why GATA6 is dis-
+pensable for hepatic speciﬁcation. We have demonstrated thatGATA4 can be detected in the ventral endoderm prior tospeciﬁcation of the hepatic lineage. This expression continueswithin the presumptive nascent hepatic cells until the 12- to14-somite stage of development ( /H11011E9.0). However, after this
+developmental time point GATA4 is rapidly lost from the cellswithin the nascent hepatic endoderm as the liver bud expands,although expression remains within dorsal domains of the fo-regut. In contrast to GATA4, Gata6 mRNA can be detected
+within the presumptive hepatic endoderm throughout theseearly stages of hepatogenesis. Based on these analyses we spec-ulate that GATA4 compensates for loss of GATA6 duringhepatic speciﬁcation but that GATA6 alone is present to con-trol subsequent stages of hepatic development. These resultsalso suggest that GATA factors not only act during compe-tency and speciﬁcation stages but continue to be required asthe liver bud is expanding. These proposals may ultimately beanswered by the generation of embryos lacking both GATA4and GATA6.
+In addition to regulating development of the liver, GATA6
+has also been implicated in heart development (32). Our stud-ies of rescued GATA6-null embryos revealed at most onlysubtle changes in cardiac morphology; in some embryos for-mation of trabeculae within the developing ventricular regionsappeared to be slightly reduced compared to controls. Al-though these data show that GATA6 is dispensable for earlyheart formation, it is possible that GATA6 is required for somephysiological aspects of fetal cardiovascular function, whichcould conceivably explain the relatively small size of GATA6-null embryos. GATA4 is also expressed in the developingheart, and we have previously reported that GATA4-null em-bryos have an extremely thin ventricular myocardium and com-plete absence of the proepicardium (42). This did not appearto be the case for Gata6
+/H11002//H11002ES cell-derived embryos in which
+development of both proepicardium and myocardium was gen-
+erally indistinguishable from control embryos. In addition,as was the case for Gata4
+/H11002//H11002embryos, GATA6-null embryos
+presented no alteration in cardiac gene expression, including
+expression of GATA4. Comparing the phenotypes presentedbyGata4
+/H11002//H11002andGata6/H11002//H11002ES cell-derived embryos, it is clear
+that the relationship between GATA4, GATA6, and their reg-
+ulation of development is complex; in some cases, for examplein hepatic speciﬁcation and cardiac gene expression, thereappears to be redundancy in function between GATA4 andGATA6, while in others, for example in development of theseptum transversum and proepicardium, one factor appears tohave a dominant role. Whether these factors act in a redundantor nonredundant manner may be explained by subtle differ-ences in the timing of expression of the two factors in a giventissue during development or by differences in the binding ofGATA4 and GATA6 to speciﬁc partners, such as Fog proteinsand other coactivators. At the moment these issues are difﬁcultto address; however, they may be resolved in the future by theavailability of conditional alleles or by the use of speciﬁc shortinterfering RNAs.
+In summary, we have demonstrated that providing Gata6
+/H11002//H11002VOL. 25, 2005 GATA6 IN LIVER DEVELOPMENT 2629
+embryos with a wild-type extraembryonic endoderm allows
+these embryos to proceed through gastrulation. Examinationof these rescued Gata6
+/H11002//H11002embryos reveals that, although they
+are smaller, development of many tissues occurs normally, with
+the exception of the liver, which arrests shortly after formationof the primary hepatic bud. While several transcription factorshave been shown to inﬂuence hepatocyte differentiation andmaturation of the liver, GATA6 can now be classiﬁed as oneof a very few that are essential for the earliest stages of he-patic development. The future challenges that arise fromthis study clearly include deﬁning the molecular mechanismsthrough which GATA6 controls development of the hepaticprimordium.
+ACKNOWLEDGMENTS
+We thank Paula Traktman, Lisa Cirillo, Michele Battle, and Gena
+Konopka for critically reading the manuscript and Ravi Misra for ad-vice on primers for PCR on cardiac mRNA.
+This work was supported by NIH NIDDK grants DK55743,
+DK60064, and DK66226 and an AHA postdoctoral fellowship0120668Z to A.J.W.
+REFERENCES
+1.Bort, R., J. P. Martinez-Barbera, R. S. Beddington, and K. S. Zaret. 2004.
+Hex homeobox gene-dependent tissue positioning is required for organo-genesis of the ventral pancreas. Development 131:797–806.
+2.Bossard, P., and K. S. Zaret. 1998. GATA transcription factors as potenti-
+ators of gut endoderm differentiation. Development 125:4909–4917.
+3.Cascio, S., and K. S. Zaret. 1991. Hepatocyte differentiation initiates during
+endodermal-mesenchymal interactions prior to liver formation. Develop-ment 113:217–225.
+4.Chen, W. S., K. Manova, D. C. Weinstein, S. A. Duncan, A. S. Plump, V. R.
+Prezioso, R. F. Bachvarova, and J. E. Darnell, Jr. 1994. Disruption of the
+HNF-4 gene, expressed in visceral endoderm, leads to cell death in embry-onic ectoderm and impaired gastrulation of mouse embryos. Genes Dev. 8:
+2466–2477.
+5.Cirillo, L. A., F. R. Lin, I. Cuesta, D. Friedman, M. Jarnik, and K. S. Zaret.
+2002. Opening of compacted chromatin by early developmental transcriptionfactors HNF3 (FoxA) and GATA-4. Mol. Cell 9:279–289.
+6.Cirillo, L. A., C. E. McPherson, P. Bossard, K. Stevens, S. Cherian, E. Y.
+Shim, K. L. Clark, S. K. Burley, and K. S. Zaret. 1998. Binding of the
+winged-helix transcription factor HNF3 to a linker histone site on the nu-cleosome. EMBO J. 17:244–254.
+7.Cirillo, L. A., and K. S. Zaret. 1999. An early developmental transcription
+factor complex that is more stable on nucleosome core particles than on freeDNA. Mol. Cell 4:961–969.
+8.Costa, R. H., V. V. Kalinichenko, A. X. Holterman, and X. Wang. 2003.
+Transcription factors in liver development, differentiation, and regeneration.Hepatology 38:1331–1347.
+9.Duncan, S. A. 2003. Mechanisms controlling early development of the liver.
+Mech. Dev. 120:19–33.
+10.Duncan, S. A. 2000. Transcriptional regulation of liver development. Dev.
+Dyn. 219:131–142.
+11.Duncan, S. A., K. Manova, W. S. Chen, P. Hoodless, D. C. Weinstein, R. F.
+Bachvarova, and J. E. Darnell, Jr. 1994. Expression of transcription factor
+HNF-4 in the extraembryonic endoderm, gut, and nephrogenic tissue of thedeveloping mouse embryo: HNF-4 is a marker for primary endoderm in theimplanting blastocyst. Proc. Natl. Acad. Sci. USA 91:7598–7602.
+12.Duncan, S. A., A. Nagy, and W. Chan. 1997. Murine gastrulation requires
+HNF-4 regulated gene expression in the visceral endoderm: tetraploid res-cue of HNF-4
+/H11002//H11002embryos. Development 124:279–287.
+13.Fujikura, J., E. Yamato, S. Yonemura, K. Hosoda, S. Masui, K. Nakao, J.
+Miyazaki, and H. Niwa. 2002. Differentiation of embryonic stem cells is
+induced by GATA factors. Genes Dev. 16:784–789.
+14.Futaki, S., Y. Hayashi, T. Emoto, C. N. Weber, and K. Sekiguchi. 2004. Sox7
+plays crucial roles in parietal endoderm differentiation in F9 embryonalcarcinoma cells through regulating Gata-4 and Gata-6 expression. Mol. Cell.Biol. 24:10492–10503.
+15.Gualdi, R., P. Bossard, M. Zheng, Y. Hamada, J. R. Coleman, and K. S.
+Zaret. 1996. Hepatic speciﬁcation of the gut endoderm in vitro: cell signaling
+and transcriptional control. Genes Dev. 10:1670–1682.
+16.Hatzis, P., and I. Talianidis. 2001. Regulatory mechanisms controlling hu-
+man hepatocyte nuclear factor 4 /H9251gene expression. Mol. Cell. Biol. 21:
+7320–7330.17.Jung, J., M. Zheng, M. Goldfarb, and K. S. Zaret. 1999. Initiation of mam-
+malian liver development from endoderm by ﬁbroblast growth factors. Sci-ence 284:1998–2003.
+18.Keijzer, R., M. van Tuyl, C. Meijers, M. Post, D. Tibboel, F. Grosveld, and
+M. Koutsourakis. 2001. The transcription factor GATA6 is essential for
+branching morphogenesis and epithelial cell differentiation during fetal pul-monary development. Development 128:503–511.
+19.Keng, V. W., H. Yagi, M. Ikawa, T. Nagano, Z. Myint, K. Yamada, T. Tanaka,
+A. Sato, I. Muramatsu, M. Okabe, M. Sato, and T. Noguchi. 2000. Ho-
+meobox gene Hex is essential for onset of mouse embryonic liver develop-ment and differentiation of the monocyte lineage. Biochem. Biophys. Res.Commun. 276:1155–1161.
+20.Koutsourakis, M., A. Langeveld, R. Patient, R. Beddington, and F. Grosveld.
+1999. The transcription factor GATA6 is essential for early extraembryonicdevelopment. Development 126:723–732.
+21.Lemaigre, F., and K. S. Zaret. 2004. Liver development update: new embryo
+models, cell lineage control, and morphogenesis. Curr. Opin. Genet. Dev. 14:
+582–590.
+22.Li, J., G. Ning, and S. A. Duncan. 2000. Mammalian hepatocyte differenti-
+ation requires the transcription factor HNF-4alpha. Genes Dev. 14:464–
+474.
+23.Martinez Barbera, J. P., M. Clements, P. Thomas, T. Rodriguez, D. Meloy,
+D. Kioussis, and R. S. Beddington. 2000. The homeobox gene Hex is re-
+quired in deﬁnitive endodermal tissues for normal forebrain, liver and thy-roid formation. Development 127:2433–2445.
+24.Matsumoto, K., H. Yoshitomi, J. Rossant, and K. S. Zaret. 2001. Liver
+organogenesis promoted by endothelial cells prior to vascular function. Sci-ence 294:559–563.
+25.Molkentin, J. D. 2000. The zinc ﬁnger-containing transcription factors
+GATA-4, -5, and -6. Ubiquitously expressed regulators of tissue-speciﬁcgene expression. J. Biol. Chem. 275:38949–38952.
+26.Morrisey, E. E., H. S. Ip, M. M. Lu, and M. S. Parmacek. 1996. GATA-6: a
+zinc ﬁnger transcription factor that is expressed in multiple cell lineagesderived from lateral mesoderm. Dev. Biol. 177:309–322.
+27.Morrisey, E. E., Z. Tang, K. Sigrist, M. M. Lu, F. Jiang, H. S. Ip, and
+M. S. Parmacek. 1998. GATA6 regulates HNF4 and is required for
+differentiation of visceral endoderm in the mouse embryo. Genes Dev. 12:
+3579–3590.
+28.Mortensen, R. M., D. A. Conner, S. Chao, A. A. T. Geisterfer-Lowrance, and
+J. G. Seidman. 1992. Production of homozygous mutant ES cells with a single
+targeting construct. Mol. Cell. Biol. 12:2391–2395.
+29.Nagy, A., and J. Rossant. 1993. Production of completely ES cell-derived
+fetuses, p. 147–179. InA. Joyner (ed.), Gene targeting: a practical approach.
+Oxford University Press, Oxford, United Kingdom.
+30.Nagy, A., J. Rossant, R. Nagy, W. Abramow-Newerly, and J. C. Roder. 1993.
+Derivation of completely cell culture-derived mice from early passage em-bryonic stem cells. Proc. Natl. Acad. Sci. USA 90:8424–8428.
+31.Nemer, G., and M. Nemer. 2003. Transcriptional activation of BMP-4 and
+regulation of mammalian organogenesis by GATA-4 and -6. Dev. Biol. 254:
+131–148.
+32.Parmacek, M. S., and J. M. Leiden. 1999. GATA transcription factors and
+cardiac development, p. 291–306. InR. P. Harvey and N. Rosenthal (ed.),
+Heart development. Academic Press, San Diego, Calif.
+33.Parviz, F., C. Matullo, W. D. Garrison, L. Savatski, J. W. Adamson, G. Ning,
+K. H. Kaestner, J. M. Rossi, K. S. Zaret, and S. A. Duncan. 2003. Hepatocyte
+nuclear factor 4alpha controls the development of a hepatic epithelium andliver morphogenesis. Nat. Genet. 34:292–296.
+34.Patient, R. K., and J. D. McGhee. 2002. The GATA family (vertebrates and
+invertebrates). Curr. Opin. Genet. Dev. 12:416–422.
+35.Rausa, F. M., H. Ye, L. Lim, S. A. Duncan, and R. H. Costa. 1998. In situ
+hybridization with
+33P-labeled RNA probes for determination of cellular
+expression patterns of liver transcription factors in mouse embryos. Methods
+16:29–41. (Erratum, 16:359–360.)
+36.Rehorn, K. P., H. Thelen, A. M. Michelson, and R. Reuter. 1996. A molec-
+ular aspect of hematopoiesis and endoderm development common to verte-brates and Drosophila. Development 122:4023–4031.
+37.Reiter, J. F., J. Alexander, A. Rodaway, D. Yelon, R. Patient, N. Holder, and
+D. Y. Stainier. 1999. Gata5 is required for the development of the heart and
+endoderm in zebraﬁsh. Genes Dev. 13:2983–2995.
+38.Reiter, J. F., Y. Kikuchi, and D. Y. Stainier. 2001. Multiple roles for Gata5
+in zebraﬁsh endoderm formation. Development 128:125–135.
+39.Reuter, R. 1994. The gene serpent has homeotic properties and speciﬁes
+endoderm versus ectoderm within the Drosophila gut. Development 120:
+1123–1135.
+40.Rossi, J. M., R. N. Dunn, B. L. M. Hogan, and K. S. Zaret. 2001. Distinct
+mesodermal signals, including BMPs from septum transversum mesen-chyme, are required in combination for hepatogenesis from the endoderm.Genes Dev. 15:1998–2009.
+41.Sosa-Pineda, B., J. T. Wigle, and G. Oliver. 2000. Hepatocyte migration
+during liver development requires Prox1. Nat. Genet. 25:254–255.
+42.Watt, A. J., M. A. Battle, J. Li, and S. A. Duncan. 2004. GATA4 is essential2630 ZHAO ET AL. MOL.CELL.BIOL.
+for formation of the proepicardium and regulates cardiogenesis. Proc. Natl.
+Acad. Sci. USA 101:12573–12578.
+43.Yang, H., M. M. Lu, L. Zhang, J. A. Whitsett, and E. E. Morrisey. 2002.
+GATA6 regulates differentiation of distal lung epithelium. Development129:2233–2246.
+44.Zaret, K. 1999. Developmental competence of the gut endoderm: genetic
+potentiation by GATA and HNF3/fork head proteins. Dev. Biol. 209:1–10.
+45.Zaret, K. S. 2002. Regulatory phases of early liver development: paradigmsof organogenesis. Nat. Rev. Genet. 3:499–512.
+46.Zhu, J., T. Fukushige, J. D. McGhee, and J. H. Rothman. 1998. Reprogram-
+ming of early embryonic blastomeres into endodermal progenitors by aCaenorhabditis elegans GATA factor. Genes Dev. 12:3809–3814.
+47.Zhu, J., R. J. Hill, P. J. Heid, M. Fukuyama, A. Sugimoto, J. R. Priess, and
+J. H. Rothman. 1997. end-1 encodes an apparent GATA factor that speciﬁes
+the endoderm precursor in Caenorhabditis elegans embryos. Genes Dev. 11:
+2883–2896.VOL. 25, 2005 GATA6 IN LIVER DEVELOPMENT 2631

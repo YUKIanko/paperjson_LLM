@@ -1,0 +1,13 @@
+{
+  "title": "The Xenopus GATA-4/5/6 Genes Are Associated with Cardiac Specification and Can Regulate Cardiac-Specific Transcription during Embryogenesis",
+  "authors": ["Yongmei Jiang", "Todd Evans"],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "xGATA-4/5/6"],
+  "proper_nouns": {
+    "institutions": ["Albert Einstein College of Medicine"],
+    "experimental_methods": ["Axis disruption experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "chick"]
+  }
+}

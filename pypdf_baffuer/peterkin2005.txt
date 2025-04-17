@@ -1,0 +1,498 @@
+Seminars in Cell & Developmental Biology 16 (2005) 83–94
+The roles of GATA-4, -5 and -6 in vertebrate heart development
+Tessa Peterkina,1, Abigail Gibsonb,1, Matthew Loosec, Roger Patienta,∗
+aWeatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Headington, Oxford OX3 9DS
+bThe Victor Chang Cardiac Research Institute, Level 6, 384 Victoria Street, Darlinghurst, NSW 2010, Sydney, Australia
+cInstitute of Genetics, University of Nottingham, Queen’s Medical Centre, Nottingham NG7 2UH, UK
+Available online 15 December 2004
+Abstract
+The transcription factors GATA-4,-5and-6are expressed very early in heart tissue. Essential GATA sites have been detected in several
+cardiac genes and the cardiac GATA factors interact with a wide variety of cofactors which synergistically increase gene expression. Thesemulti-protein transcriptional complexes confer promoter-speciﬁcity on the GATA factors and also on the more broadly expressed cofactors.Here we summarise the data on these interactions and represent the conclusions as a GATA factor-based genetic regulatory network for theheart. Of the three cardiac GATAs, GATA-4 is by far the most extensively studied, however, loss-of-function data question its presumeddominance during heart development as opposed to hypertrophy.© 2004 Elsevier Ltd. All rights reserved.
+Keywords: Myocardium; Endocardium; Development; Protein–protein interactions; Transcription factors
+1. Introduction
+The incidence of congenital heart disease is around one
+percent of live births, with cardiac abnormalities being themost prevalent defects reported at birth [1]. This high rate
+of cardiac defects is likely to stem from the complexity ofheartdevelopmentandtherefore,tounderstandthesecardiacpathologies, we need to deﬁne the molecular pathways in-volvedinnormalheartdevelopment.MembersoftheGATAfamily of transcription factors are amongst the ﬁrst to beexpressed in the developing heart. The family comprisessix members, which can be subdivided into two subfami-lies based on sequence similarity and expression proﬁles.GATA-1,-2and-3are involved in haematopoeisis and ec-
+todermalpatterning,whilst GATA-4,-5and-6areexpressed
+in cardiac tissue and endodermal derivatives [2,3]. They all
+containtwozincﬁngersrequiredforbindingtothesequence(A/T)GATA(A/G) and for protein–protein interactions [3].
+GATA-4,-5and-6are expressed in overlapping but distinct
+spatialandtemporalpatternsduringdevelopment,andthere-
+∗Corresponding author. Tel.: +44 115 8493245; fax: +44 115 9709906.
+E-mail address: roger.patient@imm.ox.ac.uk (R. Patient).
+1These are joint ﬁrst authors.foredeﬁningtheirindividualrolespresentsachallenge,espe-
+cially since redundancy has been posited in some instances.
+2. Functional analysis
+2.1. GATA-4
+GATA-4hasbeenshowntobeessentialforcardiacdiffer-
+entiationoftheembryonalcarcinomacellline,P19:acelllineinduced to form beating cardiomyocytes by the addition ofDMSO[4,5].Depletionof GATA-4(byanantisensestrategy)
+prevented terminal differentiation and apoptosis of the pre-cardiaccells,whilstgain-of-functionstudiesinducedectopicbeatingcardiomyocytes,evenintheabsenceofDMSO.Thus,ithasbeensuggestedthat GATA-4isamediatorofcardiomy-
+ocyte differentiation, proliferation and survival. However,the 60–70% of GATA-4null mice that survive gastrulation
+form differentiated myocardium apparently quite normally,although they have a deﬁciency in ventral morphogenesisresultingincardiabiﬁda [6,7].Morerecentexperimentsper-
+formed in chick using small interfering RNAs targeted toGATA-4implicate loss of N-cadherin as a potential cause of
+this cardia biﬁda [8]. Thus, the phenotype of GATA-4null
+1084-9521/$ – see front matter © 2004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.semcdb.2004.10.003
+84 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+mice was mild in comparison with predictions from the P19
+data.Ithasbeensuggestedthatthismaybeduetoincreasedlevels ofGATA-6expression seen in the GATA-4null mice,
+implying a certain degree of redundancy within the GATAfamily[6,7,9]. This suggestion, however, was not supported
+byantisenseexperimentsinchickembryos,wheredepletionof a single or two GATA (4, 5 or 6) transcripts resulted innormalheartformation,andevenpartialdeletionofallthreecausedafailureofventralmorphogenesis(cardiabiﬁda)withno obvious defects in cardiomyocyte maturation, reminis-centofthe GATA-4 −/−mice[10].Thus,itseemslikelythat
+thedifferencesintheseverityofphenotypesseenreﬂectdif-ferences between embryos and cell lines. Consistent withthis suggestion, GATA-6was not induced in P19 cells when
+GATA-4was ablated, unlike in GATA-4null mice [4].
+The cardiac defects seen when GATA-4was inactivated
+arelikelytobenon-cellautonomousas GATA-4 −/−EScells
+contributed to an apparently normal heart in chimeric mice[6,9].GATA-4 −/−cells were detected in the myocardium
+andendocardium,inatriaandventricles [6].Chimerastudies
+also suggest that ventral morphogenesis defects are due tolack ofGATA-4in the endoderm rather than the mesoderm
+[11].However,gain-of-functionexperimentsin Xenopusem-
+bryoscausedprematureexpressionofcardiacdifferentiationmarkers,andinpresumptiveectoderminducedheartmarkerexpression and in some cases spontaneous cardiomyocytebeating[12,13].Whenendoderminductionwasblocked,car-
+diac marker expression increased, suggesting a role for thisGATAfactorwithintheinducedmyocardialcellsthemselves.However, GATA-5was similarly active in this assay leaving
+openthepossibilitythat GATA-4wasfulﬁllingamoregeneral
+requirementforGATAactivityinthisassay.Thus,thepreciserole played by GATA-4in cardiac mesoderm is still unclear.
+GATA-4is expressed throughout development and also
+in the adult heart. Clinical studies have indicated a role inhuman congenital heart defects (CHD) [14,15]. FISH anal-
+ysis of CHD patients with a deletion of the terminal end ofchromosome 8p, which contains many genes, revealed a de-ﬁciency in GATA-4[14]. More recent work has been able
+to establish a role for GATA-4in patients without the com-
+plications of such a dramatic deletion. A heterozygous mis-sense mutation adjacent to the C terminal zinc ﬁnger, whichis required for DNA binding and interaction with cofactors,was found in family members with CHD, speciﬁcally atrialseptal defects (ASD), although additional septal and valvedefects were also seen [15]. The resultant protein had di-
+minished DNA binding, which was the likely cause of thereducedtransactivationalcapacityobservedwhencomparedwithwildtypeGATA-4.Asecondfamilywasalsoidentiﬁedwith ASD which segregated with GATA-4mutations. This
+turned out to be a frame shift mutation, predicted to causea premature stop codon resulting in a truncated protein ordecayofthetranscript.Thediscoveryoftwounrelatedfami-liesinwhichtransmissionofASDisassociatedwith GATA-4
+mutations,stronglyimplicatesthisGATAfamilymemberinCHD.Heartdiseasecanoftenbeattributedtothedeathofcardiac
+muscle cells. Strong evidence supports a role for GATA-4
+(andGATA-6) in apoptosis and adult cardiomyocyte sur-
+vival during hypertrophy [16], which may provide insights
+into their roles during embryogenesis. Survival genes suchasHGFandEndothelin-1 activated MEK/ERK-dependent
+signalling pathways which increased the DNA binding ac-tivity of GATA-4 via phosphorylation of serine 105 [16].A
+subsequent increase in anti-apoptotic gene expression wasseen thereby regulating cell survival. In contrast, when car-diomyocyte apoptosis was stimulated, a decrease in GATA-
+4expression was seen [17]. It has been demonstrated that
+apoptosis can be rescued by the restoration of GATA-4(or
+GATA-6), clearly showing that GATA-4can regulate cell
+survival in the adult heart. During hypertrophy, inhibitionof GATA-4 activity can also be achieved by regulation ofits nuclear accumulation [18]. GSK3 /H9252decreased nuclear
+GATA-4 by stimulating nuclear export, probably by directphosphorylation of GATA-4 and export via Crm1, a nu-clear exportin. Taken together, it is apparent that GATA-4
+is important for later aspects of heart development, such asvalve and septum formation, which is affected in patientswith CHD, and is also likely to be important in hypertro-phy.
+2.2. GATA-5
+Null mutations in GATA-5caused no obvious cardiac de-
+fectsinthemouse,whereasinzebraﬁshasimilarphenotypetoGATA-4nullmicewasseen(cardiabiﬁda),raisingthepos-
+sibility that functions may have been differentially assignedtothesetwoGATAfactorsduringevolution [3,19].However,
+thesemicemayexpressatruncatedformofGATA-5,contain-ing both zinc ﬁngers and the C-terminal activation domain,which would still be transcriptionally active, thus a role forGATA-5duringmurinecardiogenesiscannotyetbeexcluded
+[20]. In fact, chicken GATA-5is differentially regulated by
+twoalternativenon-codingexons [21].Thisisacommonfea-
+ture in members of the GATA family, mouse GATA-1[22],
+humanandmouse GATA-2[23,24],humanandmouse GATA-
+3[25]andhumanandmouse GATA-6[26]genesallpossess
+two distinct promoter-ﬁrst exon combinations. In the caseofGATA-5,twodistinctisoformswereproduced [21].Inter-
+estingly,oneisoformencodedatruncatedproteinwhichonlycontainsonezincﬁnger.Thisisoformexcludedexon2whichcontains the translation start site (which was targeted in theGATA-5null mouse), yet a functionally active protein was
+still produced.
+In contrast to the GATA-4null mice, which express wild
+type levels of many of the terminal differentiation markers[6,7],faust(GATA-5) mutant zebraﬁsh exhibit a reduction
+in the expression of many of these markers [19]. In addi-
+tion, the expression of the early regulator Nkx2.5was also
+downregulated,thusbothearlyandlatercardiaceventswereaffectedinthesemutants.Overexpressionof GATA-5inze-
+braﬁshembryoswasnotonlyabletoincreasetheexpression
+T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94 85
+ofNkx2.5,GATA-4,-6and later myocardial genes in car-
+diac tissue but also induced ectopic expression of some ofthese genes in non-cardiac tissue [19]. Occasionally such
+regions could spontaneously contract. More recently, a re-quirement for GATA-5has been demonstrated for the en-
+docardial differentiation of a mouse cell line derived fromcardiac mesoderm [27]. Inhibition of GATA-5 in these cell
+lines, induced towards an endocardial fate by retinoic acid,blocked terminal differentiation at a pre-endocardial stage.This observation is consistent with the expression patternofGATA-5which becomes restricted to the endocardium
+during development [28]. Furthermore, faustembryos lack
+endocardial cells [19]. These data suggest that the role
+of GATA-5 during cardiogenesis may be conserved acrossspecies.
+2.3. GATA-6
+Little information on the role of GATA-6during cardio-
+genesishasemergedfrom GATA-6nullmice,whichdieprior
+toheartinduction,atE5.5–7.5,duetodefectsinextraembry-onicendoderm [29,30].Thus,ofthemammalianGATAfac-
+torsitappearsthat GATA-6isrequiredattheearlieststageof
+development. GATA-6 −/−ES cells were able to contribute
+to the heart in chimeric embryos and to differentiate intomyocardiuminvitro,indicatingthatthelossofGATA-6pro-tein does not cause cell autonomous cardiac defects. Gain-of-functionexperimentsin Xenopusembryos,however,sug-
+gested that GATA-6does play a role in cardiogenesis [31].
+GATA-6expression in heart precursors decreases as cardiac
+machinery gene expression commences. Elevating GATA-6
+beyondthistimedelayedtheonsetofterminaldifferentiation.Once degradation of the exogenous mRNA had occurred,maturation proceeded, resulting in an increased thickness inthemyocardium.Therefore,thesedataindicatedthat GATA-6
+may hold the cardiac precursors in a progenitor and prolif-erative state, needing to be downregulated for heart cells tomature.Morerecentloss-of-functionexperimentsin Xenopus
+and zebraﬁsh, using antisense morpholino oligonucleotides,haveshownfortheﬁrsttimethatGATA-6isrequiredfordif-ferentiationofthecardiaclineageduringembryogenesis [32].
+Therequirementappearstobeinthematurationofthecardiacprogenitors rather than in their initial induction. It has alsobeen demonstrated with large dorsal marginal zone explantconjugates from Xenopusembryos that GATA-6 is required
+within the cardiac mesoderm itself but also in the adjacentdeep anterior endoderm. Finally, the similarity between thephenotypes of BMP inhibition and GATA-6 depletion sug-gested a role for GATA-6in this signalling pathway, and it
+was shown to regulate BMP-4expression, presumably via
+thefunctionalGATAsitesinthepromoter [32,33].Thisfunc-
+tionforGATA-6inthedevelopingmyocardiumexplainsthelack of phenotype in chimeras and embryoid bodies, whereBMP-4wouldbeavailablefromsurroundingwildtypecellsor serum.3. Combinatorial interactions
+Forced expression of GATA-4in P19 cells showed that
+itwasnotsufﬁcienttoinitiatecardiomyocytedifferentiationunless the cells were aggregated, suggesting that additionalfactors are required for GATA-4 dependent transcriptionalactivity[4]. There are several other families of transcription
+factorsthatplayrolesincardiogenesis [34].Thetemporaland
+tissuespeciﬁcexpressionofcardiacgenesduringcardiogen-esis is likely to be controlled by combinatorial interactionsbetweenmembersofthesetranscriptionfactorfamilies.Fur-thermore,thespeciﬁcrolesforGATA-4,-5and-6incardio-genesisarelikelytobedeterminedbytheseinteractions.Theinteractionofubiquitouslyexpressedfactorssuchasp300andYY1withthetissuerestrictedGATAfactorssuggeststhatincardiomyocytes GATA factors are acting as tissue speciﬁcaccessory factors for the participation of these ubiquitousfactors in cardiogenesis [35–37].
+In order to integrate the rapidly expanding number of in-
+teractions, we have begun to build genetic regulatory net-works (Fig. 1)[38]. Regulatory connections between two
+genes must satisfy three criteria: (1) the expression of theputative target is affected by perturbation of its activator orrepressor;(2)theexpressionpatternsofthetargetanditsup-stream activator/repressor must be consistent with their pro-posed relationship; (3) the promoter/enhancers of the targetgenemustcontainbindingsitesfortheactivating/repressingtranscription factor or the target must be shown to responddirectlytotheupstreamfactor.Aconnectionthatsatisﬁesallthreecriteriaisillustratedusingasolidline.Connectionsthatsatisfy two criteria are shown with a dotted line. In severalcases, multiple factors have been shown to complex at onebinding site. Here, the line representing this connection issolid, but composed of colours representing each factor thatinteracts at that DNA binding site. The network is accessi-bleontheworldwidewebininteractiveform [90],wherethe
+inputs or outputs from individual genes can be highlighted(seeforexample Fig.2).Clickingonindividualconnections
+takes you to the evidence for that connection.
+To date many of the combinatorial interactions between
+the GATA factors and other cardiac transcription factorshave been deﬁned for GATA-4 alone. In addition to interac-tionswithotherfamilies,studiesinpostnatalcardiomyocytesdemonstrated that GATA-4 and -6 can functionally interactwith each other, at a single GATA element, to synergisti-cally activate the ANFandBNPpromoters ( Fig. 3A)[39].
+Functional interaction and co-operativity required both zincﬁngersandtheC-terminalactivationdomainofGATA-4,butnot its DNA binding activity.
+3.1. Nkx2.5
+Several studies have shown that GATA-4 and Nkx2.5 di-
+rectly interact at the protein level to regulate the expressionof theANF,α-cardiac actin andcardiac restricted ankyrin
+repeatprotein (CARP)promoters [40].AttheANFpromoter,
+86 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+Fig.1. GATAbasedgeneticregulatorynetworkforheartdevelopment.PanelAshowsthegeneticregulatoryinteractionsidentiﬁedfortheGATAfactor sduringheartdevelopment(seealsowebreference [90]).
+The output of each gene is shown as activating or repressing target genes. At each target gene any regulatory interactions that have been described are represented as logical interactions (‘and’, ‘or’ or ‘syn’).
+The various elements of the network can be identiﬁed using the key. Panel B illustrates the complex interactions of FOG-2 and p300 with GATA-4. p300 inc reases GATA-4 activity in the absence of FOG-2.
+FOG-2 and GATA-4 form a complex in the absence of p300 and can either repress or activate target genes. When both FOG-2 and p300 are present, FOG-2 binds p 300, so reducing the activity of GATA-4 by
+competition.
+T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94 87
+GATA-4andNkx2.5wereshowntobemutualco-factorsinits
+synergisticactivation( Fig.3B)[41].Structuralandfunctional
+studies indicated that the carboxy-terminal zinc-ﬁnger anda C-terminal extension of GATA-4 binds to the C-terminalauto-repressivedomainofNkx2.5,causingaconformationalchangeexposingtheNkx2.5activationdomains.GATA-5cansubstitute for GATA-4 in this interaction but GATA-6 can-not, suggesting that the interaction with Nkx2.5 can conveyfunctional speciﬁcity to GATA factors during development(Fig. 3C)[41]. Binding of both the Nkx and GATA proteins
+to their respective DNA elements within the ANFpromoter
+was required for maximal synergy, but synergy was also de-tected when the GATA binding sites were absent [42,43].
+Fig.2. GeneticregulatorynetworkhighlightingtheoutputsfromGATA-4andNkx2.5.DownstreaminteractionsinvolvingGATA-4andNkx2.5arehighli ghted
+to facilitate clarity. This is achievable for all genes in the network, both upstream and downstream, at web reference [90].This suggested that Nkx2.5 can recruit GATA-4 or -5 into
+a transcriptionally active complex at the ANFpromoter. De-
+spite the expression of additional Nkx2 family members inthecardiacmesoderm,combinatorialinteractionswithothercardiac transcription factors have been deﬁned for Nkx2.5alone[44]. The synergistic GATA/Nkx2 interaction appears
+tobeevolutionarilyconservedbetweentheﬂy,nematodeandmammals [2].
+TheXenopus ANF gene promoter has a high degree of
+conservationwithitsmammaliancounterparts [45].Thisin-
+dicatesthatthetranscriptionalmechanismsthatregulate ANF
+expression are conserved among evolutionarily diverse or-ganisms. Mutation of individual binding sites in embryos
+88 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+Fig.3. CombinatorialinteractionsofGATAfactors.GATA-4,-5and-6areabletointeractwithcofactorstoactivateorrepressgeneexpression.Part s(A)–(M)
+represents protein complexes shown to interact on various promoters. Part (N) depicts a hypothetical multi subunit complex on the ANFpromoter. All the
+proteins shown in the complex, with the exception of NFAT3 and YY1 which interact on the BNP promoter (a related family member), have been identiﬁedto synergistically co-operate with GATA factors on ANF. The spatial binding of transcription factors on the DNA does not necessarily represent an in vivo
+situation but highlights the complexity of this promoter. GTM=general transcriptional machinery.
+T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94 89
+expressing an ANFtransgene indicated that the T-box ele-
+ment (TBE), the distal GATA site and the serum responseelements (SREs) are essential for ANFtranscription. This is
+in agreement with the combinatorial interactions describedand highlights the importance of the distal GATA site inthese interactions ( Fig. 3D). The proximal GATA site and
+the Nkx element (NKE), however, had little effect on trans-geneexpressioninthemyocardiumbutwereimportantintherestrictionofexpressiontotheatrium.ThisindicatesthattheDNA binding activity of Nkx2.5 is dispensable in the acti-vation of ANFexpression and that binding sites for GATA,
+serum response factor (SRF) and Tbx5 are sufﬁcient for re-cruitmentto,andsynergisticactivationof,thepromoter [46].
+Thus, the proximal GATA and NKE binding sites may beimportant for the assembly of a repressor complex requiredfor atrial speciﬁc expression of the ANFgene. In support of
+this, mutation of the NKE site caused an up-regulation ofANFpromoter activity in ventricular tissue, consistent with
+aninhibitoryroleforthissite [41].Thus,GATAsiteswithin
+a promoter may have distinct functions.
+Nkx2.5andGATA-4have been identiﬁed as downstream
+targetsofBMPsignalling [47–50].Studiesin Xenopusindi-
+cated that BMP signalling was required for cardiomyocytematuration but not initial induction [51,52]. Identiﬁcation
+of GATA sites in the BMPpromoter suggest that a positive
+feedback loop may exist between GATA and BMP-4, and invivo a role for GATA-6 in the maintenance of BMP-4and
+Nkx2.5expression has been deﬁned [32,33]. A recent study
+demonstrated that GATA-4 can physically interact, throughits C-terminal zinc ﬁnger and adjacent basic domain, withthe N-terminal domain of SMAD-1 and -4, the intracellularmediators of BMP signalling, to synergistically activate theNkx2.5promoterinP19cells( Fig.3E)[53].GATA-5and-6
+can also physically interact with SMAD, and GATA-6 hasbeenshowntofunctionallysubstituteforGATA-4inthisco-operation.Therefore,GATAfactorsareabletoregulateBMPsignalling by two mechanisms: by affecting the expressionlevelsofBMPandbyinteractingwithdownstreameffectorsof BMP signalling.
+3.2. MADS proteins
+Targeted disruption of the SRFgene in mice indicated
+that this member of the MADS domain family of proteinsis critical for cardiac mesoderm development [54]. SRF can
+physicallyinteractwithGATA-4orNkx2.5tosynergisticallyactivate the ANFandα-actingenes in cardiomyocytes [40].
+GATA-5 and -6 can also synergise with SRF on the ANF
+and α-actinpromoters. More recent studies demonstrated
+that GATA-4 can form part of a triad complex with Nkx2.5and SRF to more efﬁciently activate cardiac genes [46,55].
+SRF was shown to be responsible for recruiting Nkx2.5 andGATA-4 to the α-cardiac actin promoter in promyocardial
+andembryonicstemcells,andformationofthecomplexap-peared to enhance the SRF DNA binding afﬁnity [46](as
+illustrated in Fig. 3D). Whether it was SRF or Nkx2.5 thatwasresponsibleforrecruitingGATA-4tothecomplexhasnot
+been determined but it is thought that the unmasking of theNkx2.5C-terminalrepressivedomainbyGATA-4,incombi-nationwiththeincreasedDNAbindingafﬁnityofSRFbythecomplex,wasresponsiblefortherobustsynergisticactivationseen with all three factors.
+AnothersubfamilyoftheMADS-boxfamilyoftranscrip-
+tional regulators, myocyte enhancer factor-2 (MEF-2) pro-teins,havebeenimplicatedincardiomyocytematurationanddifferentiation [56,57].GATA-4recruitedMEF2tothe ANF
+promoter, which does not contain MEF-2 binding sites, andthe physical interaction between these two proteins resultedin its synergistic activation ( Fig. 3F)[58]. GATA-6, but not
+GATA-5,cansubstituteforGATA-4inthissynergisticinter-action demonstrating further functional differences betweenGATA-4, -5 and -6. α-Cardiac actin ,α-myosin heavy chain
+andBNPwere also identiﬁed as targets for GATA-4 and
+MEF2C co-operation.
+3.3. Tbx family
+Co-expression of Tbx5 and GATA-4 in HeLa cells and
+primary cardiomyocytes resulted in co-operative activationof theANFpromoter [15]similar to that observed for Tbx5
+and Nkx2.5 [59]. The similar effect of the Tbx5 missense
+mutations,isolatedfromfamilieswithHolt-Oramsyndrome,on interaction with GATA-4 and Nkx2.5, as demonstratedbyco-immunoprecipitationassays,suggestedthatacomplexconsistingofTbx5,Nkx2.5andGATA-4mayfunctionintheregulationofasubsetofcardiacgenes [15].Anothercardiac
+expressedT-boxfactor,Tbx20,hasbeenshowntophysicallyinteract with Nkx2.5, GATA-4 and -5, -6 was not analysed[60]. Nkx2.5, GATA-4 or -5 and Tbx20 can interact in com-
+binations on the promoter region of the ANFgene or the
+endocardial Gja5(connexin40) gene to synergistically acti-
+vate cardiac gene expression in ﬁbroblasts, with the great-est effects occurring with a combination of the three, fur-ther supporting the proposition that an Nkx2.5, Tbx, GATAcomplexoperatesintheregulationofspeciﬁccardiacgenes.Tbx20 was also shown to preferentially collaborate withGATA-5,overGATA-4and-6,andNkx2.5tosynergisticallyactivate the Gja5promoter, demonstrating functional differ-
+ences between the subfamily members in regulating cardiacgenetranscription.Inthemouse,GATA-5isthepredominantfactor expressed with Tbx20 in the endocardium and it hasbeen shown to regulate endocardial differentiation in vitro[27]. Hence, the regulatory relationship between Tbx20 and
+GATA-5maybeimportantinendocardialdevelopment [60].
+3.4. NF-AT transcription factors
+Themultigenefamilyoftranscriptionfactors,NF-AT(nu-
+clear factor of activated T-cells), alter gene expression in re-sponsetocalciumsignaling.Aco-operativeroleforGATA-5and NF-ATc in endocardial transcription has been identiﬁedininvitrostudiesusingtheGATA-dependentpromoterofthe
+90 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+endothelialgene ET-1,whichwaspreferentiallyactivatedby
+GATA-5[27]. Physical interaction of GATA-5 and NF-ATc
+wasnotdemonstratedinthisstudyandfunctionalinteractionof NF-ATc with GATA-4 or -6 was not discounted. A sec-ondmemberofthisgenefamily,NF-AT3,hasbeenshowntointeract via its C-terminal DNA binding Rel homology do-main with the C terminal zinc ﬁnger of GATA-4, as well asGATA-5 and -6 ( Fig. 3G)[61]. The interaction with GATA-
+4 led to a synergistic activation of cardiac gene expression,duringhypertrophy.Takentogether,itislikelythatco-factorshelp to restrict GATA factor activity to myocardium and en-docardium.
+3.5. p300
+A ubiquitously expressed general regulator of transcrip-
+tion, p300, can directly interact with GATA-4 to synergis-tically activate the ANF,α-MHCandβ-MHCpromoters in
+ﬁbroblasts [62].p300isamemberofthesamefamilyofpro-
+teinsascAMP-responsebindingprotein(CBP).Itpossesseshistoneacetyltransferaseactivityandactsasatranscriptionalco-activatorformanyDNAbindingfactors [63].Morerecent
+invitrostudiesinHeLacellsandprimarycardiomyocytesin-dicate that GATA-4 and dHAND physically interact to forma complex, and the interaction of dHAND with p300 is nec-essary for the functional synergy of GATA-4 and dHANDon cardiac promoters ( Fig. 3H)[37]. Functional synergism
+wasshowntorequiretheGATAsitewithinthepromoterandnot the dHAND site [37]. In contrast to Nkx2.5, NF-AT3,
+MEF-2 and SRF, that interact with the C-terminal zinc ﬁn-ger, and FOG-2, that interacts with the N-terminal zinc ﬁn-ger of GATA-4, p300 can bind to either ﬁnger. Thus, p300mayactasascaffoldproteinintheassemblyofmultisubunittranscription factor complexes for speciﬁc cardiac promot-ers,therebyconferringfurtherspeciﬁcity [37].p300canalso
+physically interact with GATA-5 in vivo, and co-operate toactivate the ANFpromoter [35].
+MEF-2 has also been shown to physically interact with
+p300[64–66]. Gel mobility shift analysis of MEF-2 bind-
+ing activity in a programmed reticulocyte lysate identiﬁedp300 as part of the shifted complex, indicating the presenceofendogenousp300 [66].Interestingly,thecharacterisedin-
+teractions of GATA-4 with Nkx2.5, SRF, MEF-2 or NF-ATutilisedprogrammedreticulolysates,hencethesefactorsmayhavebeeninteractingthroughp300 [37].Thus,p300mayplay
+a central role in the functional and physical interactions ofcardiactranscriptionfactorswiththeGATAfactorsfacilitat-ing the formation of multisubunit complexes.
+3.6. YY1
+Anotherubiquitouslyexpressedgeneralregulatoroftran-
+scription is the zinc-ﬁnger protein YY1 which is capable ofactivatingandrepressingtranscription [67].Itcanalsocause
+bendingofDNAandchromatinremodelling.Intransactivat-ing theBNPpromoter in Hela and CV1 cells, it can syner-gistically co-operate with GATA-4 via GATA and not YY1
+bindingsites [36].However,interactionofYY1withGATA-
+4 was dependent upon the DNA binding domain of YY1and appeared to be mediated via the CBP/p300 class of pro-teins (Fig. 3I). InXenopus transgenics, the pan-myocardial
+expression of the cardiac speciﬁc marker myosin light chain
+2(MLC2) was dependent upon the combined activities of
+GATA factors, SRF and YY1 [68]. GATA-4 and SRF can
+simultaneously bind to the MLC2promoter in vitro. In pre-
+sumptiveectoderm,simultaneousoverexpressionofGATA-4andSRFresultedinthesynergisticactivationofthepromoter.In the promoter region a YY1 binding site overlaps with theSRE and inactivation of this site led to a broadening andweakeningofXMLC2promoteractivity.TheabilityofYY1to act as both a repressor and an activator led the authors tosuggest that the repressor activity of YY1 may be responsi-bleforrestrictingexpressiontothecardiacmuscle,whileitsactivatingabilitypositivelyregulatedpromoteractivity.YY1mayalsobeinvolvedinpromotingloadingofSRFtothelowafﬁnitySRE.Togethertheseresultssuggestthatafunctionalinteraction between a GATA factor and SRF is importantinXMLC2regulation and both the SRE and YY1 sites are
+required for heart speciﬁc expression. Thus, combinatorialinteractionsinvolvingGATAproteinsappeartobeimportantinharnessingtheactivityofubiquitousfactors,suchasp300and YY1, for cardiac gene expression.
+3.7. FOG
+The founding member of the Friend of GATA-1 (FOG)
+family of cofactors, FOG-1, is expressed predominantly in
+developing haematopoietic cells and interacts with GATA-1in the mediation of erythroid and megakaryocytic matura-tion[69]. A recent study involving transgenic rescue of the
+haematopoieticdefectof FOG-1 −/−miceuncoveredanun-
+suspected role for FOG-1in the development of the outﬂow
+tract and valves of the heart [70]).FOG-1expression was
+foundtocorrespondwiththesestructuresandisproposedtofunctionwiththeGATA-4,-5,-6subfamilyintheirdevelop-ment.
+The expression patterns of GATA-4,-5and -6, and a sec-
+ond FOG factor, FOG-2, overlap in the developing heart.
+FOG-2 can interact with the N-terminal zinc ﬁngers of allGATAfactors [71–73].Duringcardiogenesis,FOG-2appears
+to repress the transcriptional activity of GATA-4 ( Fig. 1B)
+[72,74].FunctionalanalysisoftheFOG-2proteinresultedin
+theidentiﬁcationofanN-terminalrepressordomain,distinctfromtheGATA-4bindingdomain,whichwasbothnecessaryandsufﬁcientforrepressionofGATA-4dependenttranscrip-tion[72]. Interestingly the interaction between FOG-2 and
+GATA-4canacttosynergisticallyactivateorrepressGATA-dependentpromoters,dependingonthecardiacpromoterandparticularcelllineused( Fig.1B,2JandK )[73].FOG-2can
+physicallyinteractwiththetranscriptionalco-activator,p300,suggestingthatFOG-2maycompetewithGATA-4forbind-ingtop300 [75].MaximalGATA-4activationrequiresp300
+T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94 91
+thus when bound to FOG-2, p300 can no longer co-activate
+GATA-4 resulting in the repression of GATA-4 dependenttranscriptional activity ( Fig. 3L). Therefore it would seem
+thatlevelsofp300indifferentcelltypesdeterminetheextentof FOG-2-dependent transcriptional repression.
+Retinoids are compounds derived from dietary Vitamin
+A and have been shown to regulate late cardiac growth anddevelopment,andhypertrophy.Retinoidsbindtoligandacti-vated nuclear receptor transcription factors termed retinoidreceptors. Retinoid X receptors (RXRs) are generally be-lieved to be the master regulators of the retinoid signallingpathway. The failure of the ventricular myocardium to de-velopnormallyin RXR α-nullmiceisevidenceofthis [76,77].
+A novel mechanism by which retinoids can regulate cardiacgeneexpressionthroughdirectinteractionwithGATA-4andFOG-2 has been proposed recently ( Fig. 3M)[78]. The in-
+teractionofFOG-2withRXRinaligand-dependentmannerwas believed to be responsible for recruiting FOG-2 to theGATA-4interfaceforthesubsequentrepressionof ANFpro-
+moteractivity.TheDNAbindingdomainofRXRwasshownto interact with the C-terminal zinc ﬁnger region and site(s)within the C-terminal domain of the GATA-4 protein. TheN-terminalzincﬁngerdomainwasnecessaryforinteractionwith FOG-2, hence it is possible that GATA-4 binds to bothproteins simultaneously.
+In summary, combinatorial interactions with other tran-
+scription factors involved in cardiogenesis are likely to be-stow temporal, tissue and gene speciﬁcity on the cardiacGATA factors. Data for GATA-5 and -6 equivalent to thosefor GATA-4, however, are currently lacking.
+4. Regulation of GATA-4, -5and -6 expression
+It is becoming apparent that cardiac genes are regulated
+in a modular fashion by multiple enhancers. For example,Nkx2.5is controlled by multiple cardiac-speciﬁc enhancers
+that contain essential GATA sites [79,80]. Similarly, the
+dHANDcardiac enhancer can be subdivided into two dis-
+tinctsubregionsthatdriveexpressionintherightventricleoroutﬂowtract [81].Thisrecurringthemeextendstomembers
+of the GATA family expressed in the heart. In chicken, twocontrolregionswereshowntoregulateexpressionof GATA-5
+[21].Thedistalregionwasactivatedintheembryonicendo-
+derm, whilst the other control region functioned in the heartand late gut. Two distinct heart speciﬁc enhancers were alsolocated upstream of chicken GATA-6[82,83]. Characterisa-
+tion of these regulatory regions in transgenic mouse assaysdemonstratedthatthedistalenhanceractivatedexpressioninthe cardiac crescent and linear heart tube [83]. Expression
+was subsequently downregulated in the atria and ventricles,whilstexpressionintheoutﬂowtractpersisted.Thisenhancercontained Nkx2.5 binding sites which were required for itsactivity.Themoreproximalenhancerdirectedexpressioninthe atrioventricular (AV) canal at very early stages and per-sisted in mature cells in the AV conductive system [82,83].Similar studies of mouse GATA-6also identiﬁed an Nkx-
+dependent enhancer [84]. However, the endogenous expres-
+sion ofGATA-6was not completely recapitulated in these
+experiments making it likely that other regulatory elementsarestilltobefound.Recentlyazebraﬁsh GATA-4cardiacen-
+hancer was discovered [85]. The more proximal regulatory
+region directed expression to the bulboventricular valve androstral (ventricular) part of the heart tube, whilst the distalelements were required for AV valve and caudal (atrial) ex-pression of GATA-4. T-box binding sites located within the
+distalregionoftheenhancerhavebeenshowntobeessentialfor expression, suggesting that GATA-4may be a direct tar-
+getforT-boxtranscriptionfactors,suchasTbx5,intheheart.Consistent with this, Tbx5 null mice fail to express GATA-4
+in the myocardium [86].
+5. Summary
+Fewwouldarguethat GATA-4,-5and-6areunimportantin
+development of the myocardium. Nevertheless, much of thedatasupportingtheirimportancederivesfromexperimentsincell culture. The data from developing embryos is currentlyinconclusive.Forexampleloss-of-functiondatainmouseandchick embryos suggest either no role in speciﬁcation anddifferentiationofthemyocardium,oratmostaredundantone.In contrast, experiments in Xenopus and zebraﬁsh embryos
+reveal critical functions for both GATA-5 and -6. It will beimportant to determine if this extends to the mouse in viewof the potentially active protein remaining in the GATA-5
+null. A strong role for GATA-5 in endocardium formationis starting to emerge, where it is required in both mammalsand zebraﬁsh. GATA-6is required for maintenance of the
+myocardium,butnotitsinitialspeciﬁcation,inboth Xenopus
+and zebraﬁsh. An important link between BMP signallingand GATA-6 explains the ability of GATA-6null ES cells to
+contributetohearttissueinchimericembryosandembryoidbodies.
+ForGATA-4,theevidenceisstrongthatitplaysaroledur-
+ing late heart development such as heart septation and valveformation.ThecardiacmalformationsseeninhumanswhenGATA-4isdisruptedaresimilartothoseseenwithHolt-Oram
+syndrome mutations in Tbx5, and when Nkx2.5is mutated
+[87–89]. However, its role during early development of the
+heartisunclear.Theearliestappearstobeinendodermwhereit is required for ventral closure and morphogenesis of thecardiac primordia. Furthermore, GATA-4is unable to com-
+pensateforthelossofGATA-6inthedrivetowardsterminaldifferentiation [32]. Collectively, it appears that GATA-4is
+not required for cardiac myocyte differentiation in the em-bryo.
+Transcription of the GATA genes appears to be regulated
+in a modular fashion, whilst complex formation is a majordeterminantoftransactivationalactivity.Theyareabletoin-teract with a wide variety of partners in many different tis-sues: both with ubiquitously expressed and tissue-restricted
+92 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+transcription factors. Identiﬁcation of multisubunit com-
+plexessuchasGATA-4/Nkx2.5/SRF/Tbx5allowsmorepre-cise speciﬁcity both within the GATA family and for thosetranscriptionfactorswhicharemorebroadlyexpressed.Onlyincellswhereallthecomponentsareexpressedcanthecom-plex activate gene expression. A major role for p300 in theassemblyofthemultisubunitcomplexeshasbeenidentiﬁed,potentially acting as a scaffold for other cofactors. Fig. 3N
+showsaschematicrepresentationofapotentialmultisubunitcomplex.WiththeexceptionofNFATcandYY1,whichhaveonly been tested on the promoter of BNP, the other factors
+haveallbeenshowntosynergisticallyactivatethe ANFpro-
+moter with members of the GATA family. Further control isconferredbytheinteractionofGATAfactorswithrepressorssuch as FOG-2.
+In conclusion, the roles of GATA-4,-5and-6in con-
+trol of heart gene expression have been extensively studied.However,studiestodatemainlyconcentrateon GATA-4,es-
+pecially with respect to interactions, and relationships withGATA-5and-6, which may be more relevant to early heart
+development, will be important to deﬁne in the future.
+Acknowledgements
+Work on heart development in the authors’ laboratory is
+supported by the British Heart Foundation.
+References
+[1] McFadden DG, Olson EN. Heart development: learning from mis-
+takes. Curr Opin Genet Dev 2002;12:328–35.
+[2] Patient RK, McGhee JD. The GATA family (vertebrates and inver-
+tebrates). Curr Opin Genet Dev 2002;12:416–22.
+[3] Molkentin JD. The zinc ﬁnger-containing transcription factors
+GATA-4, -5, and-6-ubiquitously expressed regulators of tissue-speciﬁc gene expression. J Biol Chem 2000;275:38949–52.
+[4] Grepin C, Nemer G, Nemer M. Enhanced cardiogenesis in embry-
+onic stem cells overexpressing the GATA-4 transcription factor. De-velopment 1997;124:2387–95.
+[5] Grepin C, Robitaille L, Antakly T, Nemer M. Inhibition of tran-
+scription factor GATA-4 expression blocks in vitro cardiac muscledifferentiation. Mol Cell Biol 1995;15:4095–102.
+[6] Kuo CT, Morrisey EE, Anandappa R, Sigrist K, Lu MM, Parmacek
+MS, et al. GATA4 transcription factor is required for ventral mor-phogenesis and heart tube formation. Genes Dev 1997;11:1048–60.
+[7] Molkentin JD, Lin Q, Duncan SA, Olson EN. Requirement of the
+transcription factor GATA4 for heart tube formation and ventral mor-phogenesis. Genes Dev 1997;11:1061–72.
+[8] Zhang H, Toyofuku T, Kamei J, Hori M. GATA-4 regulates car-
+diac morphogenesis through transactivation of the N-cadherin gene.Biochem Biophys Res Commun 2003;312:1033–8.
+[9] Narita N, Bielinska M, Wilson DB. Cardiomyocyte differenti-
+ation by GATA-4 deﬁcient embryonic stem cells. Development1997;124:3755–64.
+[10] Jiang YM, Tarzami S, Burch JBE, Evans T. Common role for each of
+the cGATA-4/5/6 genes in the regulation of cardiac morphogenesis.Dev Genet 1998;22:263–77.
+[11] Narita N, Bielinska M, Wilson DB. Wild-type endoderm abrogates
+the ventral developmental defects associated with GATA-4 deﬁciencyin the mouse. Dev Biol 1997;189:270–4.[12] Jiang Y, Evans T. The Xenopus GATA-4/5/6 genes are associated
+with cardiac speciﬁcation and can regulate cardiac-speciﬁc transcrip-tion during embryogenesis. Dev Biol 1996;174:258–70.
+[13] Latinkic BV, Kotecha S, Mohun TJ. Induction of cardiomy-
+ocytes by GATA4 in Xenopus ectodermal explants. Development2003;130:3865–76.
+[14] Pehlivan T, Pober BR, Brueckner M, Garrett S, Slaugh R, Van Rhee-
+den R, et al. GATA4 haploinsufﬁciency in patients with interstitialdeletion of chromosome region 8p23.1 and congenital heart disease.Am J Med Genet 1999;83:201–6.
+[15] Garg V, Kathiriya IS, Barnes R, Schluterman MK, King IN, Butler
+CA, et al. GATA4 mutations cause human congenital heart defectsand reveal an interaction with TBX5. Nature 2003;424:443–7.
+[16] Suzuki YJ, Evans T. Regulation of cardiac myocyte apoptosis by the
+GATA-4 transcription factor. Life Sci 2004;74:1829–38.
+[17] Kim Y, Ma AG, Kitta K, Fitch SN, Ikeda T, Ihara Y, et al.
+Anthracycline-induced suppression of GATA-4 transcription factor:implication in the regulation of cardiac myocyte apoptosis. Mol Phar-macol 2003;63:368–77.
+[18] Morisco C, Seta K, Hardt SE, Lee Y, Vatner SF, Sadoshima J. Glyco-
+gen synthase kinase 3 beta regulates GATA4 in cardiac myocytes. JBiol Chem 2001;276:28586–97.
+[19] Reiter J, Alexander J, Rodaway A, Yelon D, Patient R, Holder N, et
+al. Gata5 is required for the development of the heart and endodermin zebraﬁsh. Genes Dev 1999;13:2983–95.
+[20] Nemer G, Qureshi ST, Malo D, Nemer M. Functional analysis and
+chromosomal mapping of Gata5, a gene encoding a zinc ﬁnger DNA-binding protein. Mamm Genome 1999;10:993–9.
+[21] MacNeill C, Ayres B, Laverriere AC, Burch JB. Transcripts
+for functionally distinct isoforms of chicken GATA-5 are dif-ferentially expressed from alternative ﬁrst exons. J Biol Chem1997;272:8396–401.
+[22] Ito E, Tsutomu T, Ishihara H, Ohtani H, Gu L, Yokoyama M, et al.
+Erythroid transcription factor GATA-1 is abundantly transcribed inmouse testis. Nature 1993;362:466–8.
+[23] Pan X, Minegishi N, Harigae H, Yamagiwa H, Minegishi M, Akine
+Y, et al. Identiﬁcation of human GATA-2 gene distal IS exon and itsexpression in hematopoietic stem cell fractions. J Biochem (Tokyo)2000;127:105–12.
+[24] Minegishi N, Ohta J, Suwabe N, Nakauchi H, Ishihara H, Hayashi
+N, et al. Alternative promoters regulate transcription of the mouseGATA-2 gene. J Biol Chem 1998;272:3625–34.
+[25] Asnagli H, Afkarian M, Murphy KM. Cutting edge: Identiﬁcation
+of an alternative GATA-3 promoter directing tissue-speciﬁc gene ex-pression in mouse and human. J Immunol 2002;168:4268–71.
+[26] Brewer A, Gove C, Davies A, McNulty C, Barrow D, Koutsourakis
+M, et al. The human and mouse GATA-6 genes utilize two promotersand two initiation codons. J Biol Chem 1999;274:38004–16.
+[27] Nemer G, Nemer M. Cooperative interaction between GATA5 and
+NF-ATc regulates endothelial-endocardial differentiation of cardio-genic cells. Development 2002;129:4045–55.
+[28] Kelley C, Blumberg H, Zon LI, Evans T. GATA-4 is a novel tran-
+scription factor expressed in endocardium of the developing heart.Development 1993;118:817–27.
+[29] Morrisey EE, Tang Z, Sigrist K, Lu MM, Jiang F, Ip HS, et al.
+GATA6 Regulates HNF4 and is Required for Differentiation of Vis-ceral Endoderm in the Mouse Embryo. Genes Dev 1998;12:3579–90.
+[30] Koutsourakis M, Langeveld A, Patient R, Beddington R, Grosveld F.
+The transcription factor GATA-6 is essential for early extraembryonicdevelopment. Development 1999;126:723–32.
+[31] Gove C, Walmsley M, Nijjar S, Bertwistle D, Guille M, Partington
+G, et al. Over-expression of GATA-6 in Xenopus embryos blocksdifferentiation of heart precursors. EMBO J 1997;16:355–68.
+[32] Peterkin T, Gibson A, Patient R. GATA-6 maintains BMP-4 and
+Nkx2 expression during cardiomyocyte precursor maturation. EMBOJ 2003;22:4260–73.
+T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94 93
+[33] Nemer G, Nemer M. Transcriptional activation of BMP-4 and reg-
+ulation of mammalian organogenesis by GATA-4 and -6. Dev Biol2003;254:131–48.
+[34] Cripps RM, Olson EN. Control of cardiac development by
+an evolutionarily conserved transcriptional network. Dev Biol2002;246:14–28.
+[35] Kakita T, Hasegawa K, Morimoto T, Kaburagi S, Wada H, Sasayama
+S. p300 protein as a coactivator of GATA-5 in the transcriptionof cardiac-restricted atrial natriuretic factor gene. J Biol Chem1999;274:34096–102.
+[36] Bhalla SS, Robitaille L, Nemer M. Cooperative activation by GATA-
+4 and YY1 of the cardiac B-type natriuretic peptide promoter. J BiolChem 2001;276:11439–45.
+[37] Dai YS, Cserjesi P, Markham BE, Molkentin JD. The transcription
+factors GATA4 and dHAND physically interact to synergistically ac-tivate cardiac gene expression through a p300-dependent mechanism.J Biol Chem 2002;277:24390–8.
+[38] Loose M, Patient R. A genetic regulatory network for Xenopus
+mesendoderm formation. Dev Biol 2004;271:467–78.
+[39] Charron F, Paradis P, Bronchain O, Nemer G, Nemer M. Cooperative
+interaction between GATA-4 and GATA-6 regulates myocardial geneexpression. Mol Cell Biol 1999;19:4355–65.
+[40] McBride K, Nemer M. Regulation of the ANF and BNP promoters
+by GATA factors: lessons learned for cardiac transcription. Can JPhysiol Pharmacol 2001;79:673–81.
+[41] Durocher D, Charron F, Schwartz RJ, Warren R, Nemer M. The car-
+diac transcription factors Nkx2-5 and GATA-4 are mutual cofactors.EMBO J 1997;16:5687–96.
+[42] Shiojima I, Komuro I, Oka T, Hiroi Y, Mizuno T, Takimoto E, et
+al. Context-dependent transcriptional cooperation mediated by car-diac transcription factors Csx/Nkx-2.5 and GATA-4. J Biol Chem1999;274:8231–9.
+[43] Durocher D, Nemer M. Combinatorial interactions regulating cardiac
+transcription. Dev Genet 1998;22:250–62.
+[44] Evans SM. Vertebrate tinman homologues and cardiac differentiation.
+Semin Cell Dev Biol 1999;10:73–83.
+[45] Small EM, Krieg PA. Transgenic analysis of the atrialnatriuretic
+factor (ANF) promoter: Nkx2-5 and GATA-4 binding sites are re-quired for atrial speciﬁc expression of ANF. Dev Biol 2003;261:116–31.
+[46] Sepulveda JL, Vlahopoulos S, Iyer D, Belaguli N, Schwartz
+RJ. Combinatorial expression of GATA4, Nkx2-5, and serum re-sponse factor directs early cardiac gene activity. J Biol Chem2002;277:25775–82.
+[47] Monzen K, Shiojima I, Hiroi Y, Kudoh S, Oka T, Takimoto E, et al.
+Bone morphogenetic proteins induce cardiomyocyte differentiationthrough the mitogen-activated protein kinase kinase kinase TAK1and cardiac transcription factors Csx/Nkx-2.5 and GATA-4. Mol CellBiol 1999;19:7096–105.
+[48] Schultheiss TM, Burch JBE, Lassar AB. A role for bone morpho-
+genetic proteins in the induction of cardiac myogenesis. Genes Dev1997;11:451–62.
+[49] Reiter JF, Verkade H, Stainier DYR. Bmp2b and Oep promote early
+myocardial differentiation through their regulation of gata5. Dev Biol2001;234:330–8.
+[50] Andree B, Duprez D, Vorbusch B, Arnold HH, Brand T. BMP-
+2 induces ectopic expression of cardiac lineage markers and in-terferes with somite formation in chicken embryos. Mech Dev1998;70:119–31.
+[51] Shi Y, Katsev S, Cai C, Evans S. BMP signaling is required for
+heart formation in vertebrates. Dev Biol 2000;224:226–37.
+[52] Walters MJ, Wayman GA, Christian JL. Bone morphogenetic pro-
+tein function is required for terminal differentiation of the heartbut not for early expression of cardiac marker genes. Mech Dev2001;100:263–73.
+[53] Brown III CO, Chi X, Garcia-Gras E, Shirai M, Feng XH, Schwartz
+RJ. The cardiac determination factor, Nkx2-5, is activated by mutualcofactors GATA-4 and Smad1/4 via a novel upstream enhancer. J
+Biol Chem 2004;279:10659–69.
+[54] Arsenian S, Weinhold B, Oelgeschlager M, Ruther U, Nordheim A.
+Serum response factor is essential for mesoderm formation duringmouse embryogenesis. EMBO J 1998;17:6289–99.
+[55] Nishida W, Nakamura M, Mori S, Takahashi M, Ohkawa Y, Ta-
+dokoro S, et al. A triad of serum response factor and the GATA andNK families governs the transcription of smooth and cardiac musclegenes. J Biol Chem 2002;277:7308–17.
+[56] Lilly B, Zhao B, Ranganayakulu G, Paterson BM, Schulz RA, Olson
+EN. Requirement of MADS domain transcription factor D-MEF2 formuscle formation in Drosophila. Science 1995;267:688–93.
+[57] Bour BA, O’Brien MA, Lockwood WL, Goldstein ES, Bodmer R,
+Taghert PH, et al. Drosophila MEF2, a transcription factor that isessential for myogenesis. Genes Dev 1995;9:730–41.
+[58] Morin S, Charron F, Robitaille L, Nemer M. GATA-dependent
+recruitment of MEF2 proteins to target promoters. EMBO J2000;19:2046–55.
+[59] Hiroi Y, Kudoh S, Monzen K, Ikeda Y, Yazaki Y, Nagai R, et al.
+Tbx5 associates with Nkx2-5 and synergistically promotes cardiomy-ocyte differentiation. Nat Genet 2001;28:276–80.
+[60] Stennard FA, Costa MW, Elliott DA, Rankin S, Haast SJ, Lai D, et al.
+Cardiac T-box factor Tbx20 directly interacts with Nkx2-5, GATA4,and GATA5 in regulation of gene expression in the developing heart.Dev Biol 2003;262:206–24.
+[61] Molkentin JD, Lu J-R, Antos CL, Markham B, Richardson J, Rob-
+bins J, et al. A calcineurin-dependent transcriptional pathway forcardiac hypertrophy. Cell 1998;93:215–28.
+[62] Dai Y-S, Markham BE. p300 functions as a coactivator of transcrip-
+tion factor GATA-4. J Biol Chem 2001;276:37178–85.
+[63] Vo N, Goodman RH. CREB-binding protein and p300 in transcrip-
+tional regulation. J Biol Chem 2001;276:13505–8.
+[64] Slepak TI, Webster KA, Zang J, Prentice H, O’Dowd A, Hicks
+MN, et al. Control of cardiac-speciﬁc transcription by p300 throughmyocyte enhancer factor-2D. J Biol Chem 2001;276:7575–85.
+[65] Sartorelli V, Huang J, Hamamori Y, Kedes L. Molecular mechanisms
+of myogenic coactivation by p300: direct interaction with the acti-vation domain of MyoD and with the MADS box of MEF2C. MolCell Biol 1997;17:1010–26.
+[66] Eckner R, Yao TP, Oldread E, Livingston DM. Interaction and func-
+tional collaboration of p300/CBP and bHLH proteins in muscle andB-cell differentiation. Genes Dev 1996;10:2478–90.
+[67] Thomas MJ, Seto E. Unlocking the mechanisms of transcription
+factor YY1: are chromatin modifying enzymes the key? Gene1999;236:197–208.
+[68] Latinkic BV, Cooper B, Smith S, Kotecha S, Towers N, Spar-
+row D, et al. Transcriptional regulation of the cardiac-speciﬁcMLC2 gene during Xenopus embryonic development. Development2004;131:669–79.
+[69] Tsang AP, Visvader JE, Turner CA, Fujiwara Y, Yu C, Weiss MJ,
+et al. FOG, a multitype zinc ﬁnger protein, acts as a cofactor fortranscription factor GATA-1 in erythroid and megakaryocytic differ-entiation. Cell 1997;90:109–20.
+[70] Katz SG, Williams A, Yang J, Fujiwara Y, Tsang AP, Epstein JA, et
+al. Endothelial lineage-mediated loss of the GATA cofactor Friendof GATA 1 impairs cardiac development. Proc Natl Acad Sci USA2003;100:14030–5.
+[71] Tevosian SG, Deconinck AE, Cantor AB, Rieff HI, Fujiwara Y,
+Corfas G, et al. FOG-2: A novel GATA-family cofactor related tomultitype zinc-ﬁnger proteins Friend of GATA-1 and U-shaped. ProcNatl Acad Sci USA 1999;96:950–5.
+[72] Svensson EC, Tufts RL, Polk CE, Leiden JM. Molecular cloning of
+FOG-2: a modulator of transcription factor GATA-4 in cardiomy-ocytes. Proc Natl Acad Sci USA 1999;96:956–61.
+[73] Lu JR, McKinsey TA, Xu H, Wang DZ, Richardson JA, Olson EN.
+FOG-2, a heart- and brain-enriched cofactor for GATA transcriptionfactors. Mol Cell Biol 1999;19:4495–502.
+94 T. Peterkin et al. / Seminars in Cell & Developmental Biology 16 (2005) 83–94
+[74] Crispino JD, Lodish MB, Thurberg BL, Litovsky SH, Collins T,
+Molkentin JD, et al. Proper coronary vascular development and heartmorphogenesis depend on interaction of GATA-4 with FOG cofac-tors. Genes Dev 2001;15:839–44.
+[75] Hirai M, Ono K, Morimoto T, Kawamura T, Wada H, Kita T, et
+al. FOG-2 competes with GATA-4 for a transcriptional coactivatorp300 and represses hypertrophic responses in cardiac myocytes. JBiol Chem 2004.
+[76] Dyson E, Sucov HM, Kubalak SW, Schmid-Schonbein GW, DeLano
+FA, Evans RM, et al. Atrial-like phenotype is associated with em-bryonic ventricular failure in retinoid X receptor alpha −/−mice.
+Proc Natl Acad Sci USA 1995;92:7386–90.
+[77] Sucov HM, Dyson E, Gumeringer CL, Price J, Chien KR, Evans
+RM. RXR alpha mutant mice establish a genetic basis for vitaminA signaling in heart morphogenesis. Genes Dev 1994;8:1007–18.
+[78] Clabby ML, Robison TA, Quigley HF, Wilson DB, Kelly DP.
+Retinoid X receptor alpha represses GATA-4-mediated transcriptionvia a retinoid-dependent interaction with the cardiac-enriched repres-sor FOG-2. J Biol Chem 2003;278:5760–77.
+[79] Searcy RD, Vincent EB, Libatore CM, Yutzey KE. A GATA-
+dependant nkx2.5 regulatory element activates early cardiac geneexpression in transgenic mice. Development 1998;125:4461–70.
+[80] Lien CL, Wu C, Mercer B, Webb R, Richardson JA, Olson EN.
+Control of early cardiac-speciﬁc transcription of Nkx2-5 by a GATA-dependent enhancer. Development 1999;126:75–84.
+[81] McFadden DG, Charite J, Richardson JA, Srivastava D, Firulli
+AB, Olson EN. A GATA-dependent right ventricular enhancer con-trols dHAND transcription in the developing heart. Development2000;127:5331–41.[82] He CZ, Burch JBE. The chicken GATA-6 locus contains multi-
+ple control regions that confer distinct patterns of heart region-speciﬁc expression in transgenic mouse embryos. J Biol Chem1997;272:28550–6.
+[83] Davis DL, Wessels A, Burch JB. An Nkx-dependent enhancer reg-
+ulates cGATA-6 gene expression during early stages of heart devel-opment. Dev Biol 2000;217:310–22.
+[84] Molkentin JD, Antos C, Mercer B, Taigen T, Miano JM, Olson
+EN. Direct activation of a GATA6 cardiac enhancer by Nkx2.5:evidence for a reinforcing regulatory network of Nkx2.5 and GATAtranscription factors in the developing heart. Dev Biol 2000;217:301–9.
+[85] Heicklen-Klein A, Evans T. T-box binding sites are required for
+activity of a cardiac GATA-4 enhancer. Dev Biol 2004;267:490–504.
+[86] Bruneau BG, Nemer G, Schmitt JP, Charron F, Robitaille L, Caron
+S, et al. A murine model of Holt-Oram syndrome deﬁnes roles of theT-box transcription factor Tbx5 in cardiogenesis and disease. Cell2001;106:709–21.
+[87] Fan C, Liu M, Wang Q. Functional analysis of TBX5 mis-
+sense mutations associated with Holt-Oram syndrome. J Biol Chem2003;278:8780–5.
+[88] Schott JJ, Benson DW, Basson CT, Pease W, Silberbach GM, Moak
+JP, et al. Congenital heart disease caused by mutations in the tran-scription factor NKX2-5. Science 1998;281:108–11.
+[89] Kasahara H, Lee B, Schott JJ, Benson DW, Seidman JG, Seid-
+man CE, et al. Loss of function and inhibitory effects of humanCSX/NKX2.5 homeoprotein mutations associated with congenitalheart disease. J Clin Invest 2000;106:299–308.
+[90] www.nottingham.ac.uk/genetics/networks/heart.

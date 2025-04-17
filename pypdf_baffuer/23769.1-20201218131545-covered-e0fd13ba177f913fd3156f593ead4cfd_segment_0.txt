@@ -1,0 +1,38 @@
+{
+  "title": "Morphogenesis of the right ventricle requires myocardial expression of Gata4",
+  "authors": [
+    "Elisabeth M. Zeisberg",
+    "Qing Ma",
+    "Amy L. Juraszek",
+    "Kelvin Moses",
+    "Robert J. Schwartz",
+    "Seigo Izumo",
+    "William T. Pu"
+  ],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Hand2",
+    "Nkx2-5",
+    "Myosin heavy chain-alpha (Myhca)"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Beth Israel Deaconess Medical Center",
+      "Harvard Medical School",
+      "Children’s Hospital Boston",
+      "Baylor College of Medicine",
+      "Department of Molecular and Cellular Biology",
+      "Department of Pediatrics"
+    ],
+    "experimental_methods": [
+      "Cre/loxP technology",
+      "conditionally delete Gata4"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

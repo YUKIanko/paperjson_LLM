@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Minchiotti et al., 2000", "Schiffer et al., 2001"],
+  "genes": ["XFKH1", "Xnot", "Xbra", "Mixer", "Xnr1", "N-tubulin"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ hybridisation"],
+    "software_tools": [],
+    "reagents_chemicals": ["MO CR3", "MO CR1", "MO C", "UI (uninjected) embryos"],
+    "model_organisms": ["Xenopus"]
+  }
+}

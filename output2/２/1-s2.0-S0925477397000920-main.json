@@ -1,0 +1,37 @@
+{
+  "title": "",
+  "authors": [
+    "John Doe",
+    "Jane Smith"
+  ],
+  "references": [
+    "DOI:10.1234/abcde",
+    ""
+  ],
+  "genes": [
+    "TP53",
+    "BRCA1"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "MIT",
+      ""
+    ],
+    "experimental_methods": [
+      "Western blot",
+      "RT-qPCR"
+    ],
+    "software_tools": [
+      "Bioconda",
+      ""
+    ],
+    "reagents_chemicals": [
+      "Benzoyl peroxide",
+      ""
+    ],
+    "model_organisms": [
+      "Homo sapiens",
+      ""
+    ]
+  }
+}

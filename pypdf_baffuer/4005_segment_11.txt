@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Heicklen-Klein et al., 2005", "Kuo et al., 1997", "Molkentin et al., 1997", "Jacobsen et al., 2002", "Morrisey et al., 1998", "Yang et al., 2002", "Reiter et al., 1999", "Reiter et al., 2001", "Peterkin et al., 2003", "Bossard and Zaret, 1998", "Cirillo et al., 2002", "Zaret, 1999", "Ritz-Laser et al., 2005", "Stainier and colleagues, 2003", "Field et al., 2003"],
+  "genes": ["ATA5/GATA6", "GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "mouse", "Xenopus"]
+  }
+}

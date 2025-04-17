@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "C102",
+    "C105",
+    "C109",
+    "C110",
+    "C111",
+    "C114",
+    "C116",
+    "C117",
+    "C97",
+    "C98",
+    "C121"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

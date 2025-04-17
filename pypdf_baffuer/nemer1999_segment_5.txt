@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern blot analysis",
+      "RT-PCR amplification",
+      "computer-assisted sequence analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Bluescript vector (pKS)", "oligonucleotides", "32P-radiolabelled GATA-5 probe", "radiolabeled 18S probe"],
+    "model_organisms": ["Xenopus", "chicken", "rat", "mouse", "Sprague-Dawley rat"]
+  }
+}

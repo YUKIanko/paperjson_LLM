@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR"],
+  "proper_nouns": {
+    "institutions": [
+      "Korea Basic Science Institute"
+    ],
+    "experimental_methods": [
+      "yeast two-hybrid system",
+      "screening cDNA libraries with conventional receptor cDNA probes at relaxed stringency",
+      "performing PCR with degenerate oligonucleotide PCR primers from the DBD",
+      "screening cDNA libraries using nuclear receptor ligand binding domains (LBD) or receptor interaction domains of co-activators as bait in a yeast two-hybrid system"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["HRE", "FXR-like orphan"],
+    "model_organisms": []
+  }
+}

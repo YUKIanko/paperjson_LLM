@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["antigen retrieval", "RT-PCR", "Histochemistry", "Immunohistochemistry", "Electron Microscopy (EM)", "superovulation"],
+    "software_tools": [],
+    "reagents_chemicals": ["diptheria toxin gene", "pregnant mare serum gonadotropin (PMSG)", "MF20", "WT1", "platelet endothelial cell adhesion molecule (CD31)"],
+    "model_organisms": ["Gata4loxP//H11001;Tie2Cre mice"]
+  }
+}

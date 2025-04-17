@@ -1,0 +1,229 @@
+{
+  "title": "FOR, a Novel Orphan Nuclear Receptor Related to Farnesoid X Receptor",
+  "authors": [
+    "Young-Woo Seo",
+    "Sabyasachi Sanyal",
+    "Han-Jong Kim",
+    "Dong Hwan Won",
+    "Jee-Young An",
+    "Tosikazu Amano",
+    "Ann Marie Zavacki",
+    "Hyuk-Bang Kwon",
+    "Yun-Bo Shi",
+    "Won-Sun Kim",
+    "Heonjoong Kang",
+    "David D. Moore",
+    "Hueng-Sik Choi"
+  ],
+  "references": [
+    "1–3"
+  ],
+  "genes": [
+    "FOR1",
+    "FOR2",
+    "FXR",
+    "RXR"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Hormone Research Center",
+      "Department of Biology, Chonnam National University",
+      "Marine Biotechnology Laboratory, School of Earth and Environmental Science, Seoul National University",
+      "Department of Life Science, Sogang University",
+      "Laboratory of Molecular Embryology, NICHD, National Institutes of Health",
+      "Thyroid Division, Brigham and Women’s Hospital, Harvard Medical School",
+      "Department of Cellular and Molecular Biology, Baylor College of Medicine"
+    ],
+    "experimental_methods": [
+      "Northern blot analysis",
+      "in situ hybridization",
+      "gel mobility shift assays"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "frog gallbladder extract"
+    ],
+    "model_organisms": [
+      "amphibian"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR"],
+  "proper_nouns": {
+    "institutions": [
+      "Korea Basic Science Institute"
+    ],
+    "experimental_methods": [
+      "yeast two-hybrid system",
+      "screening cDNA libraries with conventional receptor cDNA probes at relaxed stringency",
+      "performing PCR with degenerate oligonucleotide PCR primers from the DBD",
+      "screening cDNA libraries using nuclear receptor ligand binding domains (LBD) or receptor interaction domains of co-activators as bait in a yeast two-hybrid system"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["HRE", "FXR-like orphan"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "hsp27",
+    "HNF-4",
+    "RXR",
+    "EcRE",
+    "hsp27",
+    "cFXR",
+    "rFXR",
+    "CMV",
+    "TTNPB",
+    "EcR",
+    "SHP",
+    "DAX-1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "yeast two-hybrid approach",
+      "whole mount in situ hybridization (WISH)"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "phospholipid transferprotein (PLTP)",
+      "glutathione S-transferase (GST)",
+      "modified Eagle’s medium (MEM)",
+      "TTNPB",
+      "4-[(E)-2-(5,6,7,8,-tetrahydro-5,5,8,8-tetramethyl-2-napthalenyl)-1-pro-peny)]benzoicacid",
+      "cholic acid"
+    ],
+    "model_organisms": [
+      "mouse",
+      "Xenopus",
+      "drosophila",
+      "mice",
+      "human"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR", "FXR", "PLTP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Electro-phoretic mobility shift assays", "Isolation of FOR cDNAs", "PCR", "dideoxy nucleotide sequencing", "In Vitro Translation"],
+    "software_tools": [],
+    "reagents_chemicals": ["FOR1 mRNA", "FOR2 mRNA", "Xenopus laevis liver cDNA library", "pGEM-T Easy system", "Sequenase", "FOR cDNAs from pBS SK(/H11001)", "mammalian expression vector pCDNA3", "LBD region of FOR corresponding to 319 amino acids for FOR1 and 346 amino acids for FOR2", "pCMX-GAL4", "VP16AD fusion constructs for FOR1 and -2", "FOR cDNA in pBlue-script (Stratagene)"],
+    "model_organisms": ["Xenopus laevis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern Blot Analysis",
+      "Whole Mount in Situ Hybridization (WISH)",
+      "GST-Pull-down Assay",
+      "Gallbladder Extraction and Solvent Partition",
+      "Cell Culture and Transient Transfection"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Marc’s Modified Ringer", "freeze-dried", "digoxigenin labeled sense or FOR1 riboprobes", "BM Purple", "glutathione-Sepharose 4B beads", "35S-labeled receptors", "1-butanol", "ethyl acetate", "hexane", "methanol"],
+    "model_organisms": ["X. laevis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [23],
+  "genes": ["FOR1", "FOR2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Electrophoretic Mobility Shift Assay", "transient transfections", "cloning and characterization of orphan nuclear receptor FOR17837", "genomic Southern blot analysis"],
+    "software_tools": ["MacVector software"],
+    "reagents_chemicals": ["MEM", "resin-charcoal-stripped fetal bovine serum", "penicillin G", "streptomycin sulfate", "SuperFect (Qiagen)", "amphibian gall-bladder extract", "dimethyl sulfoxide", "end-labeled IR1 or EcRE oligonucleotides"],
+    "model_organisms": ["X. laevis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1", "FOR2", "FXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR", "Southern blot analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["X. laevis", "chicken"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1", "FOR2", "cFXR", "rFXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in vitro translation assay", "SDS-PAGE analysis", "Northern blot analysis", "whole mount in situ hybridization (WISH)"],
+    "software_tools": [],
+    "reagents_chemicals": ["[35S]methionine"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR 17840",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Fxr",
+    "For"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern blot",
+      "12% PAGE"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "18 S ribosomal RNA",
+      "rpL8"
+    ],
+    "model_organisms": [
+      "Xenopus"
+    ]
+  }
+}
+{
+  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR",
+  "authors": ["Jae Woon Lee", "Y.-K. Lee", "S.-H. Park", "Y.-S. Kim", "S. H. Park", "J. W. Kwon", "H.-B. Soh", "D. D. Moore", "H.-S. Choi"],
+  "references": [
+    {"id": "1", "title": "Science 240, 889–895"},
+    {"id": "2", "title": "Endocr. Rev. 20,689–725"},
+    // ... (remaining references follow the same pattern)
+    {"id": "35", "title": "Mol. Cell. Biol. 15,5226 –5234"}
+  ],
+  "genes": ["FOR1", "FOR2", "RXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "GST pull-down assays",
+      "mammalian two-hybrid assay",
+      "electrophoretic mobility shift assays"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["IR1", "cold IR1", "EcRE"],
+    "model_organisms": ["Xenopus laevis"]
+  }
+}

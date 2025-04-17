@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA4"],
+  "proper_nouns": {
+    "institutions": ["UCLA, CA"],
+    "experimental_methods": ["recombination in Escherichia coli", "Whole-mount in situ hybridization", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Morpholino", "PTU (phenylthiourea)", "proteinase K", "Trizol Reagent", "Hematoxylin and Eosin staining"],
+    "model_organisms": ["Escherichia coli", "gata6:GFP transgenic line", "gata4 transgenic line"]
+  }
+}

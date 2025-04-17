@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Chen et al. 1996", "Stainier et al. 1996", "Suzuki et al. 1995"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": ["Cold Spring Harbor Laboratory"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA4 mutant mice"]
+  }
+}

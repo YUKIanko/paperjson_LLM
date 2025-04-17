@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G4NK", "Gata4", "cyclin-D1", "cyclin-D2", "Bmp10", "Hop", "Mef2c", "Carp", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK", "G4MC"]
+  }
+}

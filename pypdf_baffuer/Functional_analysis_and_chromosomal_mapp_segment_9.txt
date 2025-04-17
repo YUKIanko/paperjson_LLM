@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "Molkentin et al. 1997",
+    "Visvader et al. 1995",
+    "Morrisey et al. 1997b",
+    "Durocher et al. 1997",
+    "Biben et al. 1998",
+    "Buchberger et al. 1996",
+    "Lazzaro et al. 1991"
+  ],
+  "genes": [
+    "GATA-2",
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "Gata-5"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "CV1 cells",
+      "HeLa cells",
+      "Xenopus",
+      "rodent"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "Gata6", "FoxA2", "Hnf4a", "Hex", "Afp", "Alb1", "Rbp", "Ttr"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "immunohistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": ["reverse transcriptase"],
+    "model_organisms": ["Gata4+/- embryos", "Gata4-/- embryos"]
+  }
+}

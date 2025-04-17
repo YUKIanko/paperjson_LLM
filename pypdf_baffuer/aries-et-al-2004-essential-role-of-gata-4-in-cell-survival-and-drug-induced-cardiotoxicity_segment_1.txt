@@ -1,0 +1,21 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Bcl-2", "GATA-4", "Bcl-XL", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": [
+      "Charles River Breeding Laboratories",
+      "Institut de Recherches Cliniques de Montréal"
+    ],
+    "experimental_methods": ["RNA and protein extractions and analysis", "treatment with Dox, saline with or without s.c. infusion of Phe, vehicle by using Alzet microosmotic pump model1002"],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "anthracyclines",
+      "Dox",
+      "phenylephrine (Phe)",
+      "ascorbic acid"
+    ],
+    "model_organisms": ["C3H mice", "Gata4/H11001//H11002 mice"]
+  }
+}

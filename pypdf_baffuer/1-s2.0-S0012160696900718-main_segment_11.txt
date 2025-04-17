@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["xGATA-6", "xgata-4", "xgata-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["LiCl treatment", "UV treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["c-actin", "MHC a"],
+    "model_organisms": ["bryos"]
+  }
+}

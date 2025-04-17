@@ -1,0 +1,33 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ER-GATA-1",
+    "GATA-1",
+    "Gata2",
+    "Alas2",
+    "Tac-2",
+    "globin"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "ChIP",
+      "preim-mune sera",
+      "estradiol treatment",
+      "gene expression profiling"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "ER-GATA-1( /H9004N)",
+      "/H20862-estradiol",
+      "GATA-1s transgenic mice"
+    ],
+    "model_organisms": [
+      "mouse",
+      "human peripheral blooderythroid precursors",
+      "mouse Ter119 bone marrow erythroid cells"
+    ]
+  }
+}

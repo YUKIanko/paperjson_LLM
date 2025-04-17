@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNA interference (MO1)", "histological cross sections", "fluorescence in situ hybridization (FISH) with Fli1:GFP reporter", "culturing embryos in solution of mannitol"],
+    "software_tools": [],
+    "reagents_chemicals": ["mannitol", "250 mM mannitol solution"],
+    "model_organisms": ["Danio rerio (zebrafish)"]
+  }
+}

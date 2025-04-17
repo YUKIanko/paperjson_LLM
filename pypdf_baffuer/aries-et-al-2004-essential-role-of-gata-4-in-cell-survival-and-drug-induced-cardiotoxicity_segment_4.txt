@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semiquantitative RT-PCR", "immunohistochemistry", "Northern blot analysis", "adenovirus-mediated gene transfer", "TUNEL assay"],
+    "software_tools": [],
+    "reagents_chemicals": ["actinomycin D", "cycloheximide", "doxorubicin (Dox)", "antibody to TUNEL", "adenovirus vector for GATA-4 sense transcript", "adenovirus vector for GATA-4 antisense transcript"],
+    "model_organisms": ["Gata4 null mice"]
+  }
+}

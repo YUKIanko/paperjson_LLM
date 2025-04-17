@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["K. Dorey", "C.S. Hill"],
+  "references": [],
+  "genes": ["XNR5", "XNR1", "XNR2", "XNR4", "XNR6", "SMAD2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino injection", "Western blotting", "SDS-PAGE", "RNase protection", "mRNA encoding"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholinos against XCR1 (CR1)", "morpholinos against XCR3 (CR3)", "combination of morpholinos against both XCRs (CR1 + CR3)", "morpholino control (MO C)"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA",
+    "Hand2",
+    "Gata4",
+    "Gata5",
+    "Gata6",
+    "Nkx2-5"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre-mediated Gata4 inactivation"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4 -null mice",
+      "G4NK embryos",
+      "G4MC (red bars)",
+      "control hearts (black bars)",
+      "C57BL/6"
+    ]
+  }
+}

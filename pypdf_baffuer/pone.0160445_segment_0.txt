@@ -1,0 +1,44 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Enhancing Sperm Motility That Might Facilitate the Evolution of Internal Fertilization in Amphibians",
+  "authors": [
+    "Misato Yokoe",
+    "Eriko Takayama-Watanabe",
+    "Yoko Saito",
+    "Megumi Kutsuzawa",
+    "Kosuke Fujita",
+    "Haruki Ochi",
+    "Yuni Nakauchi",
+    "Akihiko Watanabe*"
+  ],
+  "references": [
+    {
+      "doi": "10.1371/journal.pone.0160445"
+    }
+  ],
+  "genes": [
+    "SMIS"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Yamagata University",
+      "Institute of Arts and Sciences, Yamagata University",
+      "School of Medicine, Yamagata University",
+      "University of Colorado Boulder"
+    ],
+    "experimental_methods": [
+      "Edman degradation",
+      "reverse transcription polymerase chain reaction",
+      "polyclonal antibody against the active site of the SMIS"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "synthetic peptide including the active site sequence",
+      "polyclonal antibody against the active site of the SMIS"
+    ],
+    "model_organisms": [
+      "Cynops pyrrhogaster",
+      "Rhacophorus arboreus",
+      "Bufo japonicus"
+    ]
+  }
+}

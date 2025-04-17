@@ -1,0 +1,24 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-2",
+    "GATA-3",
+    "GATA-4",
+    "GATA-5",
+    "GATA-6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "amphibians",
+      "mammals",
+      "birds"
+    ]
+  }
+}

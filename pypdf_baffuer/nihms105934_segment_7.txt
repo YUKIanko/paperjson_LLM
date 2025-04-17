@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "ERBB3", "SNAIL", "VE-CADHERIN", "NOTCH1", "HRT1", "CDH5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in situ hybridization", "immunohistochemistry", "genome-wide expression analysis using microarrays", "qRT-PCR", "Western blotting"],
+    "software_tools": ["SAM algorithm"],
+    "reagents_chemicals": ["hyaluronic acid", "microRNA miR-218", "adenoviral expression of GATA4", "BT20 breast carcinoma cells"],
+    "model_organisms": ["Gata4T2del embryos"]
+  }
+}

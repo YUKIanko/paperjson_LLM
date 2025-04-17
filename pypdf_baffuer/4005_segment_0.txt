@@ -1,0 +1,21 @@
+{
+  "title": "Gata4 regulates the formation of multiple organs",
+  "authors": ["Audrey Holtzinger", "Todd Evans"],
+  "references": [
+    {
+      "institutions": [],
+      "experimental_methods": [],
+      "software_tools": [],
+      "reagents_chemicals": [],
+      "model_organisms": ["Zebraﬁsh Information Network", "Ensem ble databases", "tetraploid embryo complementation assays", "knockout mouse embryos", "wild-type cells", "mutant cells", "hepatitic speciﬁcation", "Gata4 ‘embryo-speciﬁc’ mutant embryos"]
+    }
+  ],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation assays"],
+    "software_tools": [],
+    "reagents_chemicals": ["translation blocker morpholino MO", "MO1"],
+    "model_organisms": ["zebraﬁsh", "mouse embryos"]
+  }
+}

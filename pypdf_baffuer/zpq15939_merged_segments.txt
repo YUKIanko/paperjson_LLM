@@ -1,0 +1,231 @@
+{
+  "title": "Differential sensitivities of transcription factor target genes underlie cell type-specific gene expression profiles",
+  "authors": ["Kirby D. Johnson", "Shin-Il Kim", "Emery H. Bresnick*"],
+  "references": [],
+  "genes": ["GATA-1", "FOG-1", "Tac-2"],
+  "proper_nouns": {
+    "institutions": ["University of Wisconsin School of Medicine"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-1",
+    "GATA-2"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["ER-GATA-1", "CBP/p300"],
+    "model_organisms": ["mouse embryonic stem cell-derived erythroid cell line G1E"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "GATA-1s", "GATA-1s", "GATA-1", "GATA-1s", "GATA-1s", "GATA-1", "TAC-2", "ER-GATA-1", "FOG-1", "ER-GATA-1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["DNaseI hypersensitive site analysis", "conditional activation of ER-GATA-1 stably expressed in GATA-1-null G1E cells (G1E-ER-GATA-1 cells)", "treating G1E-ER-GATA-1 cells with increasing concentrations of estradiol or tamoxifen", "treatment with increasing concentrations of estradiol for 16 h"],
+    "software_tools": [],
+    "reagents_chemicals": ["estradiol", "tamoxifen", "H20862analytic tools", "/H9252-estradiol", "GATA-1-null G1E cells (G1E-ER-GATA-1 cells)", "H20841vol. 43"],
+    "model_organisms": ["Humans with Down syndrome"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata2",
+    "Hbb-a1",
+    "Hbb-bm",
+    "Slc4a1",
+    "Nab2",
+    "Fog1",
+    "Lyl1",
+    "Ebp49",
+    "Ahsa1",
+    "Abcb10",
+    "Gtlf3b",
+    "Cmyb",
+    "Rgs18",
+    "Ptdss2",
+    "Cldn13",
+    "Csf2r-b2",
+    "Alas2",
+    "Tac-2"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "ChIP",
+      "real-time RT-PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "/H9252-estradiol",
+      "/H9251-globin HS-26",
+      "Tac-2 intron 700",
+      "Alas2 intron 8A"
+    ],
+    "model_organisms": [
+      "G1E-ER-GATA-1 cells"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ER-GATA-1",
+    "GATA-1",
+    "Gata2",
+    "Alas2",
+    "Tac-2",
+    "globin"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "ChIP",
+      "preim-mune sera",
+      "estradiol treatment",
+      "gene expression profiling"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "ER-GATA-1( /H9004N)",
+      "/H20862-estradiol",
+      "GATA-1s transgenic mice"
+    ],
+    "model_organisms": [
+      "mouse",
+      "human peripheral blooderythroid precursors",
+      "mouse Ter119 bone marrow erythroid cells"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "ER-GATA-1", "ER-GATA-1( /H9004N)", "ER-GATA-1( ∆NClone)", "ER-GATA-1( ∆NER-GATA-1)", "ER-GATA-1( ∆N) ER-GATA-1", "Gata2", "Tubulin", "Alas2", "Tac-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["estradiol treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["estradiol"],
+    "model_organisms": ["mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "ER-GATA-1", "ER-GATA-1(H9004N)", "ER-GATA-1(H9262M/H9252)", "ER-GATA-1(/H9004N)", "ER-GATA-1", "Alas2", "Ahsp", "Tac-2", "Gata2", "c-Kit", "Bcl-xL"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Real-time RT-PCR analysis", "induction with /H9262M/H9252-estradiol", "Western blot analysis", "measurement of Tac-2 mRNA stability after 24 or 40 h of /H9252-estradiol treatment", "measurement of Tac-2 mRNA stability after actinomycin D treatment", "determination of ER-GATA-1/tubulin ratio"],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9262M/H9252-estradiol", "/H11006SE", "actinomycin D", "/H20862-activity", "/H110050.003, 0.001, 0.002, 0.002, 0.006, and 0.023"],
+    "model_organisms": ["G1E clones", "ER-GATA-1( /H9004N) or ER-GATA-1", "two independent G1E-ER-GATA-1 clonallines"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Eklf", "Fog1", "Tac-2", "Bcl-xL", "Ahsp", "Alas2", "α-globin", "β-globin"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["real-time RT-PCR analyses", "Western blot analysis", "ChIP analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Actinomycin D", "estradiol"],
+    "model_organisms": ["G1E cells", "FOG-1-null cells"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["P/H11021", "H9252", "/H20841", "/H20862cgi", "/H20862doi", "10.1073", "pnas.0604041103"],
+  "genes": ["FOG-1", "ER-GATA-1", "MTA2", "NuRD complex", "GATA-1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["FOG-1–corepressor complex initiates repression", "FOG-1 chromatin occupancy facilitator activity"],
+    "software_tools": [],
+    "reagents_chemicals": ["ER-GATA-1(V205G)", "MTA2 (metastasis-associated protein 2)"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Alas2", "AhspFOG-1", "Tac-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["RabbitPIFOG-1", "GoatPIMTA2", "Intron 7", "ECR Factor Occupancy", "CNE"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "FOG-1",
+    "GATA-1"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Children’s Hospital",
+      "Boston, MA",
+      "Xenopus laevis",
+      "Drosophila",
+      "EMBO J",
+      "Nature",
+      "Development (Cambridge, UK)",
+      "PNAS",
+      "Mol Cell Biol",
+      "Proc Natl Acad Sci USA",
+      "Cell",
+      "Blood",
+      "Genes Dev",
+      "EMBO J"
+    ],
+    "experimental_methods": [
+      "Western blot analysis",
+      "Quantitative Real-Time RT-PCR",
+      "Quantitative ChIP Assay",
+      "RNA Stability Assay",
+      "Protein Analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "actinomycin D (A1410)",
+      "SDS sample buffer",
+      "anti-ER antibody AB16",
+      "TRIzol",
+      "GAPDH expression",
+      "ECL-Plus"
+    ],
+    "model_organisms": [
+      "Xenopus laevis",
+      "Drosophila",
+      "G1E cells",
+      "FOG-1-null cells"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Functional analysis and chromosomal mapping of Gata5, a gene encoding a zinc finger DNA-binding protein",
+  "authors": ["Georges Nemer", "Salman T. Qureshi", "Danielle Malo", "Mona Nemer"],
+  "references": ["Pandolfi et al. 1995", "Tsai et al. 1994"],
+  "genes": ["Gata5"],
+  "proper_nouns": {
+    "institutions": ["Laboratoire de de ´veloppement et diffe ´renciation cardiaques, Institut de recherches cliniques de Montre ´al", "De ´partement de Pharmacologie, Universite ´ deMontre ´al", "Department of Medicine and Human Genetics, McGill University", "Centre for the Study of Host Resistance", "L11-144 Montre ´al General Hospital"],
+    "experimental_methods": ["Northern blot analysis", "functional studies with recombinant GATA proteins", "Structure-function analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["rat", "mouse", "human"]
+  }
+}

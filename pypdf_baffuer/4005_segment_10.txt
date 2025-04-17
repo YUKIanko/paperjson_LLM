@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semi-quantitative RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholinos", "FoxA2", "Sox17", "transferrin", "morphant", "morphant"],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6", "Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["faust(GATA-5) mutant zebraﬁsh", "zebraﬁsh embryos", "mouse cell line derived from cardiac mesoderm", "Xenopus embryos", "Xenopus and zebraﬁsh"]
+  }
+}

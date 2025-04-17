@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Ketola et al., 2004", "Zhao et al., 2005", "Afouda et al., 2005", "Jiang and Evans, 1996"],
+  "genes": ["Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation", "RT-PCR analysis", "in situ hybridization", "morpholino injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholinos that inhibit the expression of both Gata4 and Gata6", "transferrin-positive liver buds", "Gata4:GFP expression"],
+    "model_organisms": ["mouse", "zebrafish", "Xenopus"]
+  }
+}

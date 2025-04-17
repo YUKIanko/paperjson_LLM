@@ -1,0 +1,97 @@
+{
+  "title": "Essential role of GATA-4 in cell survival and drug-induced cardiotoxicity",
+  "authors": [
+    "Anne Aries",
+    "Pierre Paradis",
+    "Chantal Lefebvre",
+    "Robert J. Schwartz",
+    "Mona Nemer"
+  ],
+  "references": [
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "genes": [
+    "GATA-4",
+    "Bcl-X",
+    "ANF",
+    "Bcl-2",
+    "Bcl-XL"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Institut de Recherches Cliniques de Montre´al",
+      "Universite´ de Montre´al",
+      "Department of Cell Biology, Baylor College of Medicine",
+      "University of Texas Southwestern Medical Center",
+      "Charles River Breeding Laboratories",
+      "Institut de Recherches Cliniques de Montréal",
+      "Gata4/H11001//H11002 mice"
+    ],
+    "experimental_methods": [
+      "RNA and protein extractions and analysis",
+      "treatment with Dox, saline with or without s.c. infusion of Phe, vehicle by using Alzet microosmotic pump model1002",
+      "tail-cuff technique",
+      "Two-dimensional guided M-mode echocardiography",
+      "imunohistochemistry",
+      "Terminal Deoxynucleotidyltransferase-mediated dUTP end-labeling (TUNEL)",
+      "Student's unpaired t-test",
+      "one-way ANOVA test",
+      "repeated-measures ANOVA test",
+      "Kaplan-Meier survival analysis",
+      "DNA microarrays",
+      "real-time quantitative PCR",
+      "Western blot analysis",
+      "gel-shift assays",
+      "cotransfection assays",
+      "TUNEL assays",
+      "Northern blot analyses",
+      "gel-shift analyses",
+      "quantitative PCR"
+    ],
+    "software_tools": [
+      "Sonos 5500"
+    ],
+    "reagents_chemicals": [
+      "doxorubicin",
+      "anthracyclines",
+      "Dox",
+      "phenylephrine (Phe)",
+      "ascorbic acid",
+      "1.5% isoflurane",
+      "fentanyl",
+      "droperidol",
+      "agarose pad",
+      "acoustic coupling gel",
+      "methyl green",
+      "Apoptag kit (Inter-gen, Purchase, NY)",
+      "actinomycin D",
+      "cycloheximide",
+      "RNA polymerase inhibitor",
+      "TUNEL assay",
+      "Dox",
+      "/H92511-adrenergic agonists",
+      "bone morphogenetic proteins",
+      "retinoic acid",
+      "Phe",
+      "Bcl-X L",
+      "Dox (doxorubicin)",
+      "TUNEL assay",
+      "Bcl-X LmRNA",
+      "Bcl-X protein",
+      "adenoviruses expressing LacZ or GATA-4",
+      "antisense GATA-4 transcripts (ASG4)",
+      "cold competitor DNAs"
+    ],
+    "model_organisms": [
+      "mouse",
+      "C3H mice",
+      "mice",
+      "NIH 3T3-overexpressing GATA-4",
+      "mice"
+    ]
+  }
+}

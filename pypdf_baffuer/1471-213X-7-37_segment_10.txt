@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tissue explant studies in chick and mouse"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse embryos", "zebrafish"]
+  }
+}

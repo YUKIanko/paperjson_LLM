@@ -1,0 +1,18 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "NF-E1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "Xenopus", "zebrafish"]
+  }
+}

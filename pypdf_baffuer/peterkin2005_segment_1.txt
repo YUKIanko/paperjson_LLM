@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gain-of-function studies", "loss of N-cadherin", "antisense experiments", "blockade of endoderm induction", "FISH analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA-4null mice", "P19 cells", "chick embryos", "Xenopus embryos"]
+  }
+}

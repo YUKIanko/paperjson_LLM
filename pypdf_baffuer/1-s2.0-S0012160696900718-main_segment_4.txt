@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "FGFR", "cardiac actin", "MHCa", "EF1a"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blotting", "whole mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["[a-32P]dCTP", "poly(A)/RNA", "agarose/formaldehyde gels", "Genescreen plus membrane"],
+    "model_organisms": []
+  }
+}

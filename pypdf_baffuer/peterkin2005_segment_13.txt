@@ -1,0 +1,74 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": ["mouse", "Xenopus"]
+      }
+    },
+    {
+      "genes": ["GATA-4", "GATA-4/5/6"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA4"],
+      "proper_nouns": {
+        "institutions": ["Xenopus", "Am J Med Genet"],
+        "experimental_methods": ["Induction of cardiomyocytes by GATA4 in Xenopus ectodermal explants"],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA4", "TBX5"],
+      "proper_nouns": {
+        "institutions": ["Am J Med Genet"],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    }
+  ],
+  "genes": ["GATA-4", "GATA-4/5/6", "TBX5"],
+  "proper_nouns": {
+    "institutions": ["Am J Med Genet", "Xenopus"],
+    "experimental_methods": ["Induction of cardiomyocytes by GATA4 in Xenopus ectodermal explants"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "Xenopus"]
+  }
+}

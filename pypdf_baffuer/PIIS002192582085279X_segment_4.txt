@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern Blot Analysis",
+      "Whole Mount in Situ Hybridization (WISH)",
+      "GST-Pull-down Assay",
+      "Gallbladder Extraction and Solvent Partition",
+      "Cell Culture and Transient Transfection"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Marc’s Modified Ringer", "freeze-dried", "digoxigenin labeled sense or FOR1 riboprobes", "BM Purple", "glutathione-Sepharose 4B beads", "35S-labeled receptors", "1-butanol", "ethyl acetate", "hexane", "methanol"],
+    "model_organisms": ["X. laevis"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The roles of GATA-4, -5 and -6 in vertebrate heart development",
+  "authors": ["Tessa Peterkina", "Abigail Gibson", "Matthew Loose", "Roger Patient"],
+  "references": ["Seminars in Cell & Developmental Biology"],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": ["Weatherall Institute of Molecular Medicine", "University of Oxford", "John Radcliffe Hospital", "Victor Chang Cardiac Research Institute", "University of Nottingham", "Queen’s Medical Centre"],
+    "experimental_methods": ["antisense strategy", "expression of beating cardiomyocytes by the addition of DMSO"],
+    "software_tools": [],
+    "reagents_chemicals": ["DMSO"],
+    "model_organisms": []
+  }
+}

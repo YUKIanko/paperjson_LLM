@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Fog1", "Fog2", "Gata4", "Gata5", "Gata6", "Nppa", "Myh6", "Myl2", "Acta1", "Acta2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["chimera analysis", "immunohistochemical staining", "ultrastructural analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["platelet endothelial cell adhesion molecule", "Nkx2–5", "Nrg1"],
+    "model_organisms": ["Gata4/H11002//H11002hearts", "Gata4/H11001//H11002hearts"]
+  }
+}

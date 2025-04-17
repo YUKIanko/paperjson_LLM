@@ -1,0 +1,13 @@
+{
+  "title": "Role of the xGATA-4/5/6 Genes",
+  "authors": [],
+  "references": ["Laverriere et al., 1994"],
+  "genes": ["xGATA-1", "xGATA-2", "xGATA-3", "xGATA-4", "xGATA-5", "xGATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT/PCR assay"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus gastrula", "chicken"]
+  }
+}

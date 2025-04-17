@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Taylor et al., 1989", "Treis-man, 1994"],
+  "genes": ["SRF", "CArG box 1-DS sequence", "c-fos SRE", "CArG-L"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}

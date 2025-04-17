@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["ACTN", "CARGG-adjacent sequence", "CArG box", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["transgenic mouse", "transgenic frog"]
+  }
+}

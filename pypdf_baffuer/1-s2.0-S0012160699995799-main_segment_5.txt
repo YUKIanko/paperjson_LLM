@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990a"],
+  "genes": ["NXK2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["dye labeling", "microinjection with CM-DiI"],
+    "software_tools": [],
+    "reagents_chemicals": ["CM-DiI"],
+    "model_organisms": ["stage 32 embryos", "Stage 22 embryos"]
+  }
+}

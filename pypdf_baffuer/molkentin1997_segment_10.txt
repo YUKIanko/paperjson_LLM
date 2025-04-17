@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HNF3", "GATA4", "OTX2", "AIP", "HNF4", "APOE", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "whole-mount hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["~-fetoprotein", "L7"],
+    "model_organisms": ["mouse embryo"]
+  }
+}

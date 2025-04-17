@@ -1,0 +1,18 @@
+{
+  "title": "",
+  "authors": ["Watt et al."],
+  "references": ["(30 –32)", "(Fig. 1E)", "(33)", "(34–36)", "(37)"],
+  "genes": [
+    "GATA4",
+    "ErbB2",
+    "ErbB3",
+    "ErbB4"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analyses", "Hematoxylin and eosin-staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Nrg1", "Tie2", "VegfA", "VegfB", "VegfRI", "VegfRII", "Flt1"],
+    "model_organisms": ["Gata4loxP/loxP; Tie2Cre mice", "chickens"]
+  }
+}

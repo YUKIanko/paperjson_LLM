@@ -1,0 +1,234 @@
+{
+  "title": "Gata4 regulates the formation of multiple organs",
+  "authors": ["Audrey Holtzinger", "Todd Evans"],
+  "references": [
+    {
+      "institutions": [],
+      "experimental_methods": [],
+      "software_tools": [],
+      "reagents_chemicals": [],
+      "model_organisms": ["Zebraﬁsh Information Network", "Ensem ble databases", "tetraploid embryo complementation assays", "knockout mouse embryos", "wild-type cells", "mutant cells", "hepatitic speciﬁcation", "Gata4 ‘embryo-speciﬁc’ mutant embryos"]
+    }
+  ],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation assays"],
+    "software_tools": [],
+    "reagents_chemicals": ["translation blocker morpholino MO", "MO1"],
+    "model_organisms": ["zebraﬁsh", "mouse embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Audrey Holtzinger", "Todd Evans"],
+  "references": ["Zhao et al., 2005", "Westerfield, 1995", "Heicklen-Klein and Evans, 2004", "Lawson and Weinstein, 2002"],
+  "genes": ["Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": ["Albert Einstein College of Medicine", "Zebraﬁsh International Research Center (Eugene, OR)", "UCSF, CA"],
+    "experimental_methods": ["morpholino approach"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP", "PAC clone"],
+    "model_organisms": ["zebraﬁsh"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA4"],
+  "proper_nouns": {
+    "institutions": ["UCLA, CA"],
+    "experimental_methods": ["recombination in Escherichia coli", "Whole-mount in situ hybridization", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Morpholino", "PTU (phenylthiourea)", "proteinase K", "Trizol Reagent", "Hematoxylin and Eosin staining"],
+    "model_organisms": ["Escherichia coli", "gata6:GFP transgenic line", "gata4 transgenic line"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Jiang et al., 1998", "Reiter et al., 1999"],
+  "genes": ["Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino oligomers", "semi-quantitative RT-PCR", "RT reactions", "PCR reactions"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino oligomers", "transgenic animals expressing GFP", "GFP", "gata4:GFP embryos", "one-cell stage embryos", "ATG-targeted morpholino"],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Peterkin et al., 2003"],
+  "genes": ["gata4", "foxa2", "i-fabp", "sox17", "transferrin"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino_injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino", "GFP"],
+    "model_organisms": ["gata4:GFP line", "Gata4 morphant embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNA interference (MO1)", "histological cross sections", "fluorescence in situ hybridization (FISH) with Fli1:GFP reporter", "culturing embryos in solution of mannitol"],
+    "software_tools": [],
+    "reagents_chemicals": ["mannitol", "250 mM mannitol solution"],
+    "model_organisms": ["Danio rerio (zebrafish)"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2.5", "Gata4", "Amhc", "Cmlc2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morphogenetic changes observation", "in situ hybridization", "transgenic fish injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP", "MO", "SOX17", "FOXA2", "I-fabp", "TRANSFERRIN", "ELASTASEB"],
+    "model_organisms": ["tie2:GFP transgenic fish", "MO-injected embryos", "Gata4 deﬁcient embryos", "control embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Field et al., 2003", "Wallace and Pack, 2003"],
+  "genes": ["GATA4", "GATA5", "GATA6", "SOX17", "FOXA2", "I-FABP", "TFRC", "ELA2B"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semi-quantitative RT-PCR", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino", "RT reaction", "transferrin RNA", "elastaseB"],
+    "model_organisms": ["zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Development"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Zhao et al., 2005", "Peterkin et al., 2003"],
+  "genes": ["GATA6", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid complementation approach", "morpholino", "transgenic embryos", "cmlc2 :GFP fish", "gata6:GFP transgenic embryos"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino for blocking GATA6", "GFP (Green Fluorescent Protein)"],
+    "model_organisms": ["mouse embryos", "zebrafish embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semi-quantitative RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholinos", "FoxA2", "Sox17", "transferrin", "morphant", "morphant"],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Heicklen-Klein et al., 2005", "Kuo et al., 1997", "Molkentin et al., 1997", "Jacobsen et al., 2002", "Morrisey et al., 1998", "Yang et al., 2002", "Reiter et al., 1999", "Reiter et al., 2001", "Peterkin et al., 2003", "Bossard and Zaret, 1998", "Cirillo et al., 2002", "Zaret, 1999", "Ritz-Laser et al., 2005", "Stainier and colleagues, 2003", "Field et al., 2003"],
+  "genes": ["ATA5/GATA6", "GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "mouse", "Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Ketola et al., 2004", "Zhao et al., 2005", "Afouda et al., 2005", "Jiang and Evans, 1996"],
+  "genes": ["Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation", "RT-PCR analysis", "in situ hybridization", "morpholino injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholinos that inhibit the expression of both Gata4 and Gata6", "transferrin-positive liver buds", "Gata4:GFP expression"],
+    "model_organisms": ["mouse", "zebrafish", "Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Reiter et al., 2001", "Maduro et al., 2001", "Maduro and Rothman, 2002", "Zhu et al., 1997", "McCune and Carlson, 2004"],
+  "genes": ["Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "C. elegans"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Griffin et al., 2000", "Heicklen-Klein and Evans, 2004"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Gata5",
+    "Epo",
+    "FOG",
+    "HNF3",
+    "HNF4",
+    "TGF"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "UCSF",
+      "Skirball Institute",
+      "UCLA",
+      "AECOM",
+      "Mount Sinai"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "zebrafish",
+      "Xenopus",
+      "mouse"
+    ]
+  }
+}

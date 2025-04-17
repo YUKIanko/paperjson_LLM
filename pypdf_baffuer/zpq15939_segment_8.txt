@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["P/H11021", "H9252", "/H20841", "/H20862cgi", "/H20862doi", "10.1073", "pnas.0604041103"],
+  "genes": ["FOG-1", "ER-GATA-1", "MTA2", "NuRD complex", "GATA-1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["FOG-1–corepressor complex initiates repression", "FOG-1 chromatin occupancy facilitator activity"],
+    "software_tools": [],
+    "reagents_chemicals": ["ER-GATA-1(V205G)", "MTA2 (metastasis-associated protein 2)"],
+    "model_organisms": []
+  }
+}

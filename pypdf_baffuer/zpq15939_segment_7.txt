@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Eklf", "Fog1", "Tac-2", "Bcl-xL", "Ahsp", "Alas2", "α-globin", "β-globin"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["real-time RT-PCR analyses", "Western blot analysis", "ChIP analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["Actinomycin D", "estradiol"],
+    "model_organisms": ["G1E cells", "FOG-1-null cells"]
+  }
+}

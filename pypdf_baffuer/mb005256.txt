@@ -1,0 +1,204 @@
+MOLECULAR AND CELLULAR BIOLOGY ,
+0270-7306/00/$04.00 10July 2000, p. 5256–5260 Vol. 20, No. 14
+Copyright © 2000, American Society for Microbiology. All Rights Reserved.
+Abnormalities of the Genitourinary Tract in
+Female Mice Lacking GATA5
+JEFFERY D. MOLKENTIN,1,2KEVIN M. TYMITZ,2JAMES A. RICHARDSON,3AND ERIC N. OLSON1*
+Departments of Molecular Biology1and Pathology,3University of Texas Southwestern Medical Center at Dallas,
+Dallas, Texas 75390-9148, and Division of Molecular Cardiovascular Biology,
+Children’s Hospital Medical Center, Cincinnati, Ohio 45229-30392
+Received 14 February 2000/Returned for modiﬁcation 31 March 2000/Accepted 13 April 2000
+Members of the GATA family of transcription factors play important roles in cell fate speciﬁcation,
+differentiation, and morphogenesis during mammalian development. GATA5 , the only one of the six vertebrate
+GATA factor genes not yet inactivated in mice, is expressed in a pattern that overlaps with but is distinct fromthat of other GATA factor genes. During mouse embryogenesis, GATA5 is expressed ﬁrst in the developingheart and subsequently in the lung, vasculature, and genitourinary system. To investigate the function ofGATA5 in vivo, we created mice homozygous for a GATA5 null allele. Homozygous mutants were viable and
+fertile, but females exhibited pronounced genitourinary abnormalities that included vaginal and uterinedefects and hypospadias. In contrast, the genitourinary system was unaffected in male GATA5 mutants. These
+results reveal a speciﬁc role of GATA5 in development of the female genitourinary system and suggest thatother GATA factors may have functions overlapping those of GATA5 in other tissues.
+There are six members of the GATA family of transcription
+factors in vertebrates, which play important roles in cell fatespeciﬁcation, differentiation, and morphogenesis. The GATAfactors share homology in two evolutionarily conserved zincﬁngers that mediate binding to the consensus DNA sequenceWGATAR and are generally categorized into two classesbased on their expression patterns and amino acid sequencehomologies (2, 16, 18).
+GATA1, GATA2, and GATA3 are expressed predomi-
+nantly in hematopoietic cell lineages. GATA1 is required forerythroid and megakaryocyte differentiation (19, 20, 22).GATA2 controls proliferation of hematopoietic precursor cells(24). GATA3 controls T-lymphocyte development and is in-volved in embryonic liver hematopoiesis and nervous systemdevelopment (17, 23). In contrast, GATA4, GATA5, andGATA6 are expressed predominantly in the cardiovascularsystem but also show other sites of expression (1, 4, 8, 12, 13).GATA4 mutant mice die at embryonic day 8.0 (E8) fromdefects in ventral morphogenesis that prevent formation of thelinear heart tube (7, 11), whereas GATA6 mutant mice diebefore gastrulation, apparently from defects in extraembryonicdevelopment (6, 14). The functions of GATA5 in mice havenot yet been determined. However, in zebra ﬁsh, GATA5 hasbeen shown to be required for expression of myocardial genesand for formation of the heart tube, similar to the role ofGATA4 in mice (21).
+During mouse embryogenesis, GATA5 expression is de-
+tected initially in the precardiac mesoderm between E7 and E8and continues throughout the heart until E16.5 (13, 15). Be-ginning at midgestation, GATA5 is also expressed within pul-monary mesenchyme and vascular smooth muscle cells in thedeveloping lung, as well as in the urogenital ridge, in epithelialcells lining the urogenital sinus, in the bladder, and in the gutepithelium. Postnatally, GATA5 expression is restricted to theintestine, stomach, bladder, and lungs. In contrast, GATA4 isexpressed predominantly in the adult heart, gut, testes, and
+ovaries (1, 4, 8), and GATA6 is expressed in the heart, gut,bladder, and vasculature (12).
+To investigate the functions of GATA5 in vivo, we generated
+mice homozygous for a GATA5 null allele. These mutant mice
+were viable and fertile but showed speciﬁc abnormalities infemale genitourinary development that included malposition-ing of the urogenital sinus, vagina, and urethra, mimicking acondition of proximal hypospadias in human females. Thesedefects reveal an unanticipated role for GATA5 in morpho-genesis of the genitourinary tract and suggest that otherGATA factors may compensate for the lack of GATA5 inother tissues.
+MATERIALS AND METHODS
+Targeting of the mouse GATA5 gene. The GATA5 -targeting vector was con-
+structed from a 15-kb mouse genomic clone containing the entire coding region(Fig. 1A). As the 5 9region of homology, we used a 1.9-kb genomic fragment
+immediately upstream of the ﬁrst coding exon. This was cloned upstream of aneomycin resistance gene linked to the phosphoglycerokinase ( PGK ) promoter.
+The 3 9region of homology was created by PCR of genomic DNA to generate a
+3.9-kb fragment that extended 3 9from an EcoRI site at the end of the ﬁrst coding
+exon of GATA5 to 500 bp 5 9of an EcoRV site (Fig. 1A). This fragment was
+cloned downstream of PGK-neo , and a thymidine kinase gene under the control
+of the herpes simplex virus promoter was linked to the 3 9end.
+The targeting vector was linearized by digestion with NotI and electroporated
+into the KG-1 embryonic stem (ES) cell line. Following positive-negative selec-tion with G-418 (Geneticin, at 180 mg of active concentration per ml; GIBCO
+BRL) and 0.2 mM ﬁaluridine (FIAU) [1-(2-deoxy-2-ﬂuoro- b-
+D-arabinofurano-
+syl)-5-iodouracil], respectively, 400 individual ES cell colonies were isolated andanalyzed by Southern blotting for homologous recombination, as described pre-viously (11). Two ES cell clones were found to contain a disrupted GATA5 gene.
+Both clones were injected into 3.5-day mouse C57BL/6 blastocysts to obtainchimeras. Both ES cell lines gave rise to germ line heterozygous mice, which wereintercrossed to obtain homozygous GATA5 mutants.
+Genotyping. Genotypes of mice obtained from GATA5
+1/2intercrosses were
+determined by Southern blot analysis of genomic DNA using probes external tothe targeted region of the gene (Fig. 1). Hybridization of the 5 9probe to
+EcoRI-digested DNA yielded bands of 6 and 5 kb for the wild-type and targeted
+alleles, respectively, and hybridization of the 3 9probe to EcoRV-digested DNA
+yielded bands of 13 and 6 kb for the wild-type and targeted alleles, respectively.
+RT-PCR mRNA quantitation. Analysis of GATA4 mRNA levels was per-
+formed using primers designed to amplify across the ﬁrst and second exons ofGATA5 , resulting in a 200-bp product. The primers utilized for GATA5 ampli-
+ﬁcation were 5 9CGACGTAGCCCCTTCGTGG and 5 9GCCACAGTGGTGT
+AGACAG. Primers used for reverse transcriptase (RT)-PCR of GATA4 andGATA6 were described elsewhere (11). Ampliﬁcation of mRNA for the ribo-* Corresponding author. Mailing address: Department of Molecular
+Biology, University of Texas Southwestern Medical Center at Dallas,6000 Harry Hines Blvd., Dallas, TX 75390-9148. Phone: (214) 648-1187. Fax: (214) 648-1196. E-mail: eolson@hamon.swmed.edu.
+5256
+some-associated protein L7 was used to control for RNA integrity and loading
+(11). RT-PCRs were performed with 1 mg of total RNA in the presence of
+[a-32P]dCTP using 32 cycles of ampliﬁcation under conditions recommended by
+the manufacturer (Titan one-tube RT-PCR; Boehringer Mannheim). Productswere resolved on a 6% polyacrylamide gel and subjected to PhosphorImageranalysis (Molecular Dynamics). RT-PCRs were performed under conditions oflinearity with respect to RNA amount.
+Histology. Tissues were harvested from three male and three female 6-week-
+old mutant mice, ﬁxed in 10% buffered formalin, dehydrated through gradedethanols, embedded in parafﬁn, sectioned at 10 mm, and stained with hematox-
+ylin and eosin.
+RESULTS
+Targeting of GATA5 in ES cells and generation of null mice.
+To inactivate the mouse GATA5 gene, we created a targeting
+construct that deleted the ﬁrst exon, which encodes aminoacids 1 to 157 of the protein (Fig. 1A). Although this mutationleaves a portion of the GATA5 protein-coding region intact,
+this region of the gene does not appear to encode a functionalprotein, as a deletion mutant lacking the amino-terminal por-tion does not exhibit either active or dominant negative func-tion in vitro (unpublished results). Moreover, analogous mu-tations in the GATA4 gene (7) or the GATA6 gene (6; J.Molkentin and E. Olson, unpublished results) result in lethal
+phenotypes.
+The targeting vector was electroporated into KG-1 ES cells
+that were subjected to positive-negative selection with G-418and FIAU. Southern blotting analysis of 400 individual ES cellclones (Fig. 1B) identiﬁed two targeted clones, representing atargeting frequency of 0.5%. Both ES cell clones heterozygousfor the targeted GATA5 gene were injected into blastocysts
+derived from C57BL/6 mice, and blastocysts were subsequentlyimplanted into pseudopregnant Swiss mouse foster mothers toobtain chimeric mice. Breeding of chimeric mice into aC57BL/6 background resulted in transmission of the mutationthrough the germ line and generation of GATA5 heterozygous
+mice of the composite C57BL/6 3Sv 129 genotype. Heterozy-
+gotes for the GATA5 mutation showed no apparent phenotype
+and were intercrossed to generate GATA5 null mice.
+Genotyping of offspring from heterozygous intercrosses re-
+vealed GATA5 heterozygous and homozygous mutants at ap-
+proximately the predicted Mendelian frequencies. Speciﬁcally,of 78 adult off spring from GATA5
+1/2intercrosses, 26 (33%)
+were GATA51/1, 37 (47%) were GATA51/2, and 15 (19%)
+FIG. 1. Targeting of the GATA5 gene. (A) Structure of the mouse GATA5 gene and strategy for gene targeting. The exons (E) and coding region for zinc ﬁngers
+(F1 and F2) are shown. The targeting vector contained a neomycin resistance gene and thymidine kinase (tk) gene in the same transcriptional orientati on as GATA5 .
+Targeting of the gene resulted in deletion of the ATG and the ﬁrst 157 amino acids of the protein. Positions of probes used for Southern analysis are show n beneath
+the genomic map. B, Bam HI; RI, EcoRI; RV, EcoRV. (B) Southern blots of tail DNA probed with the 5 9and 3 9probes (shown in panel A) following digestion with
+EcoRI and EcoRV, respectively.VOL. 20, 2000 GENITOURINARY MUTATIONS IN FEMALE MICE LACKING GATA5 5257
+were GATA52/2. Homozygous GATA5 mutant males ap-
+peared to be normal and were fertile. Mutant females werealso viable but exhibited obvious abnormalities in the externalgenitalia (see below). The penetrance of observed defects infemale mutants was 100%. Only 1 of more than 20 GATA5
+mutant females became pregnant, gave birth, and was able tonurse pups successfully. We conclude that these animals arefertile but have reduced fertility due to obstruction of thevaginal tract.
+RT-PCR analysis using RNA from the large intestines of
+wild-type and mutant littermates revealed GATA5 transcriptsin wild-type intestine but not in the mutant (Fig. 2). L7 tran-scripts were measured as an internal control for RNA integrityand were detectable at comparable levels in wild-type andmutant RNA samples (Fig. 2). To determine whether GATA4or GATA6 might be upregulated in the intestine in response tothe absence of GATA5, we also measured these transcripts.We observed no signiﬁcant difference in abundance of eithertranscript in intestine from wild-type and mutant littermates(Fig. 2). GATA4 and GATA6 mRNA levels were also unal-tered in hearts from GATA5 mutants (data not shown).
+Gross morphological abnormalities in GATA5 null mutant
+females. Gross examination of female null mutant mice re-
+vealed a consistent abnormality in the perineum (Fig. 3). Theanogenital distance was reduced and the clitoris was dramati-cally enlarged. The vaginal oriﬁce was also abnormal in shapeand gaped open, and the vaginal epithelium extended laterallyover the perineum, replacing the haired skin. The exteriorizedvaginal mucosa was frequently excoriated and inﬂamed, andﬁstulas were commonly observed. In contrast, null mutantmales were grossly normal.
+Histological analysis of genitourinary defects in GATA5 null
+mutant females. We further examined male and female
+GATA5 mutant mice by histological analysis of internal organs.
+No abnormalities were observed in the heart, lung, stomach,small intestine, colon, kidney, uterus, bladder, ovaries, maleaccessory sex glands, or penis. The ovaries of mutants con-tained follicles at various stages of maturation, and the vaginaland uterine epithelium presented a morphology characteristicof various periods of the estrus cycle. Lesions were restricted tothe distal aspect of the vagina and clitoris. In the normal
+female, the urethra opens near the tip of the clitoris. In themutants, the distal urethra did not form a distinct tube butrather formed a trough along the surface of the vaginal wall(Fig. 4). The urethra was lined by hyperplastic transitionalepithelium which was often inﬂamed. Although the urethrawas malformed, the periurethral glands and erectile tissue haddeveloped and were evident in the submucosa of the trough-like urethra. The sebaceous clitoral glands were hypoplastic.The normal clitoris contains a small bone comparable to the ospenis. This bone was not found in the mutant females.
+DISCUSSION
+Analysis of GATA5 null mice revealed a speciﬁc role for
+GATA5 in development of the female genitourinary tract butno apparent defects in male mutant mice. The genitourinarydefects in GATA5 mutant mice correlate with sites of GATA5
+expression in the genitourinary system during late fetal andpostnatal development. GATA5 expression is observed in the
+urogenital ridge surrounding the lumen of the urogenital sinusas early as E12.5 (13). Expression is also seen at high levels inthe wall of the bladder throughout pre- and postnatal devel-opment.
+The defects observed in GATA5 null mutant females suggest
+that early morphogenic movements in the lower genitourinarytract are disrupted in the absence of GATA5 . The precise
+embryonic origins of the vagina are unclear. It has been sug-gested that it has a dual origin, with the cranial portion derivedfrom the Mu ¨llerian ducts and the caudal portion derived from
+the urogenital sinus (3). The urethra develops from the caudalend of the urogenital sinus after its complete separation fromthe cloaca (10). Abnormalities in GATA5 null mutant females
+were conﬁned to the distal aspect of the vagina, suggesting thatthe underlying defect is in the partitioning of the urogenitalsinus.
+The phenotype of GATA5 null mutant females mimics a rare
+condition in human females in which the urogenital sinus failsto divide into the vestibule and urethra. Depending on theseverity of the defect, the urethra may open into the proximal
+FIG. 2. Detection of GATA5 transcripts by RT-PCR. Total RNA was iso-
+lated from large intestines of wild-type and GATA5 mutant mice and analyzedby RT-PCR for expression of GATA5, GATA4, GATA6, and L7 transcripts. Noevidence of functional GATA5 transcripts was observed in the mutants. No PCRproducts were observed in the absence of RT (data not shown).
+FIG. 3. Abnormalities of the external genitalia of GATA5 mutant females.
+External views of the genital regions of 8-week-old wild-type and GATA5 mutant
+females. Note the malpositioning and morphological abnormalities of the vaginaand clitoris of the mutant. a, anus; c, clitoris; f, ﬁstula; v, vagina.5258 MOLKENTIN ET AL. MOL.CELL.BIOL.
+or distal vagina. In GATA5 null mutant mice, the defect is
+restricted to the distal urethra, suggesting that the primarydefect lies in the urogenital sinus rather than the mesonephricducts. It is rare for abnormalities of the urogenital sinus tooccur independent of other perineal defects or more complexsyndromes with ambiguous gentalia or adrenogenital syn-dromes. However, a very similar case of proximal hypospadiashas been described for a female human (5).
+Redundant and unique functions of GATA4, GATA5, and
+GATA6. In addition to being expressed in the genitourinary
+system, GATA5 is expressed in the developing heart and lungs
+during early embryogenesis (9, 13, 15). However, we observedno morphologic or histologic defects in these organs of mutantmice. This suggests that other members of the GATA factorfamily may substitute for GATA5 in these tissues. Consistentwith this notion, GATA4 and GATA6 are coexpressed withGATA5 in the early heart tube. However, in the developinglung, the expression pattern of GATA5 is unique. GATA5 andGATA6 are coexpressed in the developing urogenital ridge,but their functions in that region must not entirely overlapduring development of the female genitourinary system.
+In an effort to determine whether GATA4 or GATA6 might
+substitute for GATA5 in tissues that were unaffected inGATA5 mutants, we generated GATA5
+2/2GATA41/2and
+GATA52/2GATA61/2mice. Mice of these genotypes were
+viable, and their phenotypes appeared identical to those ofGATA5
+2/2mutants (J. D. Molkentin and E. N. Olson, unpub-
+lished results). Thus, if either GATA4 orGATA6 is able to
+compensate for the absence of GATA5 , a single copy of either
+gene would appear to be sufﬁcient. We have not generateddouble null combinations of GATA5 with GATA4 orGATA6
+because GATA6
+2/2mutants die before gastrulation (6, 14)
+andGATA42/2mutants die at about E8.0 (7, 11), which is too
+early to observe functions potentially overlapping with those ofGATA5 . It is worth noting that GATA4 andGATA6 exhibit an
+essential threshold of expression for viability, as GATA5
+1/2
+andGATA41/2mice are normal, whereas GATA61/GATA41/2
+double heterozygotes die during embryogenesis (Molkentin
+and Olson, unpublished results).
+Finally, the phenotype of GATA5 mutant mice raises inter-
+esting questions about the functional conservation of GATA
+genes across species. Recently, the zebra ﬁsh mutation faust ,
+which causes cardia biﬁda and reduced expression of myocar-dial genes, was shown to represent GATA5 (21). The faust
+phenotype is similar to the GATA4 mutant phenotype in mice
+(7, 11), suggesting that the functions of different members ofthe GATA family may be interchangeable in different species,reﬂecting the unique expression patterns of the genes.ACKNOWLEDGMENTS
+This research was supported by grants from the NIH to E.N.O. and
+J.D.M.
+We thank A. Tizenor for graphics and J. Page for editorial assis-
+tance.
+REFERENCES
+1.Arceci, R. J., A. A. J. King, M. C. Simon, S. H. Orkin, and D. B. Wilson. 1993.
+Mouse GATA-4: a retinoic acid-inducible GATA-binding transcription fac-tor expressed in endodermally derived tissues and heart. Mol. Cell. Biol.13:2235–2246.
+2.Evans, T. 1997. Regulation of cardiac gene expression by GATA4/5/6.
+Trends Cardiovasc. Med. 7:75–83.
+3.Julliard, M. T. 1972. Ultrastincture de l’epithelium vaginal de la souris au
+cours de sa differenciation. Arch. Anat. Microsc. Morphol. Exp. 61:33–46.
+4.Kelley, C., H. Blumberg, L. I. Zon, and T. Evans. 1993. GATA-4 is a novel
+transcription factor expressed in endocardium of the developing heart. De-velopment 118:817–827.
+5.Knight, H. M. L., N. J. Phillips, and P. D. E. Mouriquand. 1995. Female
+hypospadias, a case report. J. Pediatr. Surg. 30:1738–1740.
+6.Koutsourakis, M., A. Langeveld, R. Patient, R. Beddington, and F. Grosveld.
+1999. The transcription factor GATA6 is essential for early extraembryonicdevelopment. Development 126:723–732.
+7.Kuo, C. T., C. C. Morrisey, R. Anandappa, K. Sigrist, M. M. Lu, M. S.
+Parmacek, C. Soudais, and J. M. Leiden. 1998. The GATA-4 transcription
+factor is required for ventral morphogenesis and heart tube formation.Genes Dev. 11:1048–1060.
+8.Laverriere, A. C., C. MacNeill, C. Mueller, R. E. Poelmann, J. B. Burch, and
+T. Evans. 1998. GATA-4/5/6, a subfamily of three transcription factors tran-
+scribed in developing heart and gut. J. Biol. Chem. 269:23177–23184.
+9.MacNeill, C., R. French, T. Evans, A. Wessels, and J. B. Burch. 2000.
+Modular regulation of cGATA-5 gene expression in the developing heartand gut. Dev. Biol. 217:62–76.
+10.Maizels, M. 1992. Normal development of the urinary tract, p. 1317–1329. In
+P. C. Walsh, A. B. Retik, T. A. Stamey, and E. D. Vaughan, Jr. (ed.),Campbell’s urology, 6th ed. W. B. Saunders Co., Philadelphia, Pa.
+11.Molkentin, J. D., Q. Lin, S. A. Duncan, and E. N. Olson. 1997. Requirement
+of the transcription factor GATA-4 for heart tube formation and ventralmorphogenesis. Genes Dev. 11:1061–1072.
+12.Morrisey, E. E., H. S. Ip, M. M. Lu, and M. S. Parmacek. 1996. GATA-6: a
+zinc ﬁnger transcription factor is expressed in multiple cell lineages derivedfrom lateral mesoderm. Dev. Biol. 177:309–322.
+13.Morrisey, E. E., H. S. Ip, Z. Tang, M. M. Lu, and M. S. Parmacek. 1997.
+GATA-5: a transcriptional activator expressed in a novel temporally and spatial-restricted pattern during embryonic development. Dev. Biol. 183:21–36.
+14.Morrisey, E. E., Z. Tang, K. Sigrist, M. M. Lu, F. Jiang, H. S. Ip, and M. S.
+Parmacek. 1998. GATA6 regulates HNF4 and is required for differentiation
+of visceral endoderm in the mouse embryo. Genes Dev. 12:3579–3590.
+15.Nemer, G., S. T. Qureshi, D. Malo, and M. Nemer. 1999. Functional analysis
+and chromosomal mapping of Gata5, a gene encoding a zinc ﬁnger DNA-binding protein. Mamm. Genome 10:993–999.
+16.Orkin, S. H. 1992. GATA-binding transcription factors in hematopoietic
+cells. Blood 80:575–581.
+17.Pandolﬁ, P. P., M. E. Roth, A. Karis, M. W. Leonard, E. Dzierzak, F. G.
+Grosveld, and J. D. Engel. 1995. Targeted disruption of the GATA3 gene
+causes severe abnormalities in the nervous system and in fetal liver haema-topoiesis. Nat. Genet. 11:40–44.
+18.Parmacek, M. S., and J. M. Leiden. 1999. GATA transcription factors and
+FIG. 4. Histological cross sections through the lower genitourinary tracts of wild-type and GATA5 mutant females. Note the absence of the urethra tube in the
+mutant. The vaginal canal is at the top. cg, clitoral gland; pg, periurethral gland; u, urethra.VOL. 20, 2000 GENITOURINARY MUTATIONS IN FEMALE MICE LACKING GATA5 5259
+cardiac development, p. 291–307. InR. P. Harvey and N. Rosenthal (ed.),
+Heart development. Academic Press, San Diego, Calif.
+19.Pevny, L., C. S. Lin, V. D’Agati, M. C. Simon, S. H. Orkin, and F. Constan-
+tini. 1995. Development of hematopoietic cells lacking transcription factor
+GATA-1. Development 121:163–172.
+20.Pevny, L., M. C. Simon, E. Robertson, W. H. Klein, S. F. Tsai, V. D’Agati,
+S. H. Orkin, and F. Constantini. 1991. Erythroid differentiation in chimaeric
+mice blocked by a targeted mutation in the gene for transcription factorGATA-1. Nature 349:257–260.
+21.Reiter, J. F., J. Alexander, A. Rodaway, D. Yelon, R. Patient, N. Holder, and
+D. Y.-R. Stainier. 1999. Gata5 is required for the development of the heartand endoderm in zebraﬁsh. Genes Dev. 13:2983–2995.
+22.Shivdasani, R. A., Y. Fujiwara, M. A. McDevitt, and S. H. Orkin. 1997. A
+lineage-selective knockout establishes the critical role of transcription factorGATA-1 in megakaryocyte growth and platelet development. EMBO J.16:3965–3973.
+23.Ting, C. N., M. C. Olson, K. P. Barton, and J. M. Leiden. 1996. Transcription
+factor GATA-3 is required for development of the T-cell lineage. Nature384:474–478.
+24.Tsai, F. Y., G. Keller, F. C. Kuo, M. Weiss, J. Chen, M. Rosenblatt, F. W. Alt,
+and S. H. Orkin. 1994. An early haematopoietic defect in mice lacking the
+transcription factor GATA-2. Nature 371:221–226.5260 MOLKENTIN ET AL. MOL.CELL.BIOL.

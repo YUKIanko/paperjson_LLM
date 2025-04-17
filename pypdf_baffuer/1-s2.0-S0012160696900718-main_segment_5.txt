@@ -1,0 +1,13 @@
+{
+  "title": "Role of the xGATA-4/5/6 Genes",
+  "authors": [],
+  "references": ["Tamura et al. (1993)", "Harland, 1991", "Kelley et al., 1993", "Laverriere et al., 1994", "Kao and Elinson, 1988"],
+  "genes": ["xGATA-4", "xGATA-5a", "xGATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in vitro translation", "SDS±PAGE and gel mobility-shift experiments", "PCR products were subcloned into pSKII-", "RT/PCR", "minced testes culture", "UVL-21 lamp (UV Products, Inc.) UV treatment", "LiCl treatment"],
+    "software_tools": [],
+    "reagents_chemicals": ["BM purple AP substrate", "Ficoll", "0.11 MBS", "T3 polymerase", "DraIII digestion", "T7 polymerase", "HindIII digestion", "EagI digestion", "sense strand RNA synthesized from the xGATA-5a plasmid", "c-actin", "MHC"],
+    "model_organisms": ["Xenopus"]
+  }
+}

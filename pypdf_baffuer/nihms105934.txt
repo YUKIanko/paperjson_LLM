@@ -1,0 +1,824 @@
+Development of heart valves requires Gata4  expression in
+endothelial-derived cells
+José Rivera-Feliciano1, Kyu-Ho Lee2,*, Sek Won Kong2, Satish Rajagopal2, Qing Ma2,
+Zhangli Springer2, Seigo Izumo3, Clifford J. Tabin1, and William T. Pu2,†
+1Department of Genetics, Harvard Medical School, Boston, MA 02115, USA.
+2Department of Cardiology, Children’s Hospital and Department of Pediatrics, Harvard Medical
+School, Boston, MA 02115, USA.
+3Cardiovascular Division, Department of Medicine, Beth Israel Deaconess Medical Center and
+Harvard Medical School, Boston, MA 02215, USA.
+Abstract
+Cardiac malformations due to aberrant development of the atrioventricular (AV) valves are among
+the most common forms of congenital heart disease. At localized swellings of extracellular matrix
+known as the endocardial cushions, the endothelial lining of the heart undergoes an epithelial to
+mesenchymal transition (EMT) to form the mesenchymal progenitors of the AV valves. Further
+growth and differentiation of these mesenchymal precursors results in the formation of portions of
+the atrial and ventricular septae, and the generation of thin, pliable valves. Gata4 , which encodes a
+zinc finger transcription factor, is expressed in the endothelium and mesenchyme of the AV valves.
+Using a Tie2-Cre  transgene, we selectively inactivated Gata4  within endothelial-derived cells.
+Mutant endothelium failed to undergo EMT, resulting in hypocellular cushions. Mutant cushions had
+decreased levels of Erbb3 , an EGF-family receptor essential for EMT in the atrioventricular cushions.
+In Gata4  mutant embryos, Erbb3  downregulation was associated with impaired activation of Erk,
+which is also required for EMT. Expression of a Gata4 mutant protein defective in interaction with
+Friend of Gata (FOG) cofactors rescued the EMT defect, but resulted in a decreased proliferation of
+mesenchyme and hypoplastic cushions that failed to septate the ventricular inlet. We demonstrate
+two novel functions of Gata4 in development of the AV valves. First, Gata4 functions as an upstream
+regulator of an Erbb3-Erk  pathway necessary for EMT, and second, Gata4 acts to promote cushion
+mesenchyme growth and remodeling.
+Keywords
+Heart development; Endocardial cushion; Gata4; Heart valves; Cardiac development; Cardiac
+morphogenesis; Epithelial-mesenchymal transition; EMT; Atrioventricular valves
+INTRODUCTION
+Cardiac malformations attributable to aberrant development of the atrioventricular (AV)
+valvuloseptal complex are among the most common forms of congenital heart disease ( Pierpont
+†Author for correspondence (e-mail: wpu@enders.tch.harvard.edu).*Present address: Departments of Pediatric Cardiology and Cell Biology and Anatomy, Medical University of South Carolina, BSB-601,
+Suite 250508, 173 Ashley Avenue, Charleston, SC 29445, USA
+Supplementary material
+Supplementary material for this article is available at http://dev.biologists.org/cgi/content/full/133/18/3607/DC1
+NIH Public Access
+Author Manuscript
+Development . Author manuscript; available in PMC 2009 August 31.
+Published in final edited form as:
+Development . 2006 September ; 133(18): 3607±3618. doi:10.1242/dev.02519.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+et al., 2000). Development of the AV valvuloseptal complex can be considered to occur in
+several steps (reviewed by Armstrong and Bischoff, 2004). First, endocardial cells at the AV
+canal (AVC) undergo an epithelial to mesenchymal transition (EMT), forming mesenchymal
+cells that invade swellings of extracellular matrix to form the endocardial cushions (EC). Next,
+the cellularized superior and inferior EC grow and fuse, forming the AV valvuloseptal complex
+that divides the ventricular inflow into a right and a left AV valve. Further elongation and
+remodeling of the cushions results in formation of the mature valve leaflets.
+Transformation of AV endocardium to cushion mesenchyme requires the input of multiple
+signaling molecules secreted from the adjacent myocardium, including Tgf β and Egf family
+members (Camenisch et al., 2000; Nakajima et al., 2000a; Sugi et al., 2004; Rivera-Feliciano
+and Tabin, 2006 ). Ablation of Erbb3 , which encodes an Egf family receptor, results in failure
+of endocardial cells of the AV cushions to undergo EMT to form cushion mesenchyme
+(Camenisch et al., 2000). One mechanism by which Erbb3 promotes EMT is to activate Ras
+(Camenisch et al., 2000). Decreased Ras signaling results in defective EMT (Camenisch et al.,
+2000 ; Lakkis and Epstein, 1998), and, conversely, increased Ras signaling results in increased
+EMT and hypercellular, enlarged EC (Gitler et al., 2003; Lakkis and Epstein, 1998).
+The transcription factor Gata4 is essential for heart formation (Kuo et al., 1997; Molkentin et
+al., 1997; Watt et al., 2004 ; Zeisberg et al., 2005). In humans, GATA4  heterozygous mutations
+have been associated with defects in the muscular septum separating atria or ventricles, and
+variably associated with valvar pulmonary stenosis (Garg et al., 2003; Hirayama-Yamada et
+al., 2005; Okubo et al., 2004). In addition to its expression in the myocardium, Gata4  is robustly
+expressed in the endocardium and the EC (Charron and Nemer, 1999; Heikinheimo et al.,
+1994 ). This expression pattern, and the presence of EC defects in mouse embryos homozygous
+for two different hypomorphic Gata4  alleles (Crispino et al., 2001 ; Pu et al., 2004 ), suggested
+that Gata4 might be an important regulator of EC development.
+To further investigate the role of Gata4 in EC development, we specifically inactivated
+Gata4  in endothelium and endothelium-derived cushion mesenchyme. We show that Gata4
+expression in endothelium-derived cells is required at two stages of AV valve formation,
+illustrating novel cell-autonomous roles for Gata4 in the endocardium. First, Gata4 is required
+to promote EMT of endocardial cells to generate AV cushion mesenchyme. Second, Gata4
+activity in endocardial-derived cells is required later during AV valve maturation for growth
+and remodeling of the AV cushions to septate the ventricular inlet.
+MATERIALS AND METHODS
+Mice
+Gata4H and Gata4flox alleles (Fig. 1A) have been described previously (Pu et al., 2004 ;Zeisberg
+et al., 2005). Gata4H expresses reduced amounts of protein compared with the wild-type allele
+(Pu et al., 2004). Gata4wt/Ki and R26R stoplacZ  mice (Crispino et al., 2001;Mao et al., 1999)
+were obtained from Stuart Orkin (Harvard Medical School). Transgenic mice expressing
+Cre from Tie2 (also known as Tek) regulatory elements ( T2Cre ) were obtained from M.
+Yanagisawa (Kisanuki et al., 2001). Wnt1-Cre  mice (Danielian et al., 1998) were obtained
+from Jackson Laboratories. All mice were maintained in a mixed C57BL6/129 genetic
+background. Gata4wt/flox; T2Cre+ mice were crossed with Gata4flox/flox mice to yield
+Gata4flox/flox; T2Cre+ (Gata4T2del) mice. All animal care and procedures were performed
+under protocols approved by the Institutional Animal Care and Use Committee.Rivera-Feliciano et al. Page 2
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Histology
+Embryos were fixed in 4% paraformaldehyde overnight at 4°C, and then paraffin-wax
+embedded and sectioned at 10 µm. Alcian Blue staining was performed by using 0.15 mg/ml
+Alcian Blue in 5% acetic acid. BrdU labeling and TUNEL staining were performed as described
+previously (Zeisberg et al., 2005).
+Tissue culture
+For short-term embryo culture, E9.5 embryos were incubated in M199 supplemented with 1%
+FBS for 30 minutes at 37°C in 5% CO 2. Heregulin (Sigma; 100 ng/ml) or U0126 (Calbiochem;
+10 µM) were added as indicated.
+AV explant culture was carried out as described (Rivera-Feliciano and Tabin, 2006). Where
+indicated, U0126 (Calbiochem), vehicle (DMSO) or a growth factor cocktail [Tgf β2 (Cell
+Biosciences), 50 ng/ml; Bmp2 (R&D Systems), 200 ng/ml; hyaluronic acid (Sigma), 500 ng/
+ml; heregulin (Sigma), 50 ng/ml] was added to the media at the start of the explant culture.
+Human umbilical vein endothelial cells (HUVEC; passage <6; Cambrex) were cultured in
+complete endothelial growth media (Cambrex). BT20 human breast cancer cells (ATCC) were
+transfected using Fugene6 (Roche).
+Gene expression
+Whole-mount staining for detection of β-galactosidase activity was performed as described
+(Lobe et al., 1999). Immunostaining was performed using the following antibodies: Nfatc1
+(1:200, Santa Cruz), Desmin (1:4, Biomeda), Chd5 (1:20, Santa Cruz), phospho-Erk1/2 (1:200,
+Cell Signaling), α-SMACy3-conjugated (Clone 1A4, Sigma 1:200) and biotin-conjugated
+CD31 (Pecam1, 1:100) monoclonal antibody (Clone MEC 13.3, BD Pharmingen). Erbb3
+western blotting was performed with antibody C-17 (Santa Cruz, 1:200) and normalized to
+Gapdh (Research Diagnostics, 1:10,000).
+For RNA analysis, four mutant and four control RNA samples were prepared (Pico-Pure RNA
+Isolation Kit, Arcturus), each consisting of 10 microdissected AVCs. Probe was prepared from
+50 ng total RNA using an isothermal amplification protocol (NuGen), and hybridized to
+Affymetrix Mouse 430 2.0 microarrays. Two control samples were excluded because of
+excessive noise. We excluded probe sets that may cross-hybridize to unrelated targets (probe
+name ending with ‘_x_at’) or that received ‘Absent’ calls across all samples. The 27,082
+remaining probe sets were ranked by the ‘relative difference’ d-score (Tusher et al., 2001),
+using the Significance Analysis of Microarray (SAM) software package
+(http://www-stat.stanford.edu/~tibs/SAM/).
+For quantitative RT-PCR, RNA samples were converted to cDNA and amplified by Ovation
+isothermal amplification. The cDNA was then used for quantitative PCR on an ABI7300
+thermal cycler, with Sybr Green or Taqman detection. Primer sequences are provided in Table
+1.
+In situ hybridization was performed on 10 µm paraffin sections using digoxigenin-labeled or
+S35-labeled RNA probes as described (Brent et al., 2003; Tanaka et al., 1999). Signal from
+S35-labeled probes was detected in dark field and pseudocolored red using PhotoShop. Sections
+were counterstained with DAPI. For in situ hybridization probes refer to Table 1. Results shown
+are representative of at least two embryos.Rivera-Feliciano et al. Page 3
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Plasmids
+The Gata4  expression construct has been described previously (Lee et al., 1998). The
+Gata4Δex2 expression construct was generated by RT-PCR amplification of the Cre-
+recombined Gata4  transcript. Gata4DBD-engrailed  was constructed by PCR cloning the Gata4
+DNA-binding domain upstream of the engrailed repressor domain. The murine Erbb3  promoter
+and intron 1 enhancer was cloned from a bacterial artificial chromosome by Red/ET
+recombineering (GeneBridges) into pGL3-BASIC (Promega) or pGL3-promoter (Promega),
+respectively. Luciferase assays were normalized for transfection efficiency using pRL-null
+(Promega).
+RESULTS
+Endothelial-restricted Gata4  inactivation
+To determine the function of Gata4 within the endocardium and its derivatives, we inactivated
+a floxed Gata4  allele ( Gata4flox; Fig. 1A) (Pu et al., 2004 ;Zeisberg et al., 2005) by expressing
+Cre recombinase from a Tie2 promoter ( T2Cre ) (Kisanuki et al., 2001). Cre-mediated
+recombination of Gata4flox resulted in excision of a portion of exon 2, including the start codon
+and 46% of the Gata4  coding region. The recombined allele ( Gata4Δex2) expresses a truncated
+protein containing both zinc fingers and the C-terminal activation domain, but lacking the N-
+terminal transactivation domains (see Fig. S1 in the supplementary material). The truncated
+protein failed to activate multiple cardiac and intestinal Gata4 -dependent promoters in vitro
+(Fig. S1 in the supplementary material; T. Bosse and S. Krasinski, personal communication),
+consistent with previous results (Morrisey et al., 1997). These data, along with the observation
+that embryos homozygous for this mutation in their germline ( Gata4Δex2/Δex2) resemble
+previously reported mice carrying Gata4  null alleles (Kuo et al., 1997;Molkentin et al.,
+1997) (data not shown), suggest that the Gata4Δex2 allele behaves as a loss-of-function
+mutation. However, we cannot exclude the possibility that Gata4Δex2 retains partial function.
+In control experiments, we characterized the spatiotemporal pattern of recombination catalyzed
+by T2Cre  using the reporter R26RstoplacZ , which expresses lacZ only after activation by
+Cre (Mao et al., 1999). In T2Cre+ ; R26RstoplacZ  embryos, T2Cre  activated reporter
+expression in the majority of endocardial cells by E9.5 (Fig. 1B1,B2). lacZ expression was not
+observed in epicardial or myocardial cells. Between E9.5 and E11.5, endocardial cells at the
+AVC transform into mesenchymal cells and populate the AV cushions. Consistent with this
+lineage history, mesenchymal cells of the AV cushions were recombined by Cre recombinase,
+and consequently expressed the lacZ reporter at E9.5 and E11.5 (Fig. 1B1, arrow; 1B3,
+asterisks).
+The endocardium and EC mesenchyme of the developing heart express high levels of Gata4
+(Fig. 1C,D) (Heikinheimo et al., 1994). To specifically inactivate Gata4  in endocardial-derived
+cells, we generated embryos with the genotype Gata4flox/flox; T2Cre+ (Gata4T2del). We
+examined expression of Gata4  in these embryos by in situ hybridization using an exon 2-
+specific probe. In control embryos, Gata4  exon 2 transcripts were present in endocardial,
+epicardial and myocardial cells (Fig. 1C1,C2). In Gata4T2del embryos, expression from the
+Gata4  exon 2 probe was unchanged in the epicardium and myocardium (star and yellow
+arrowheads, Fig. 1C3,C4), but expression in the endocardium was absent (white arrowheads,
+Fig. 1C3,C4). At E11.5, robust expression was detected in AVC mesenchyme in control
+embryos, but this tissue was largely deficient in Gata4T2del embryos (asterisks, Fig. 1D; see
+below). The lack of detectable Gata4  transcripts in mutant endocardium was not due to non-
+specific transcript degradation, or a general failure of endothelium to subspecialize into
+endocardium, as mutant endocardium continued to express normal levels of Pecam , anRivera-Feliciano et al. Page 4
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+endothelial marker, and Nfatc1 , a marker of endothelium subspecialized to line the heart (data
+not shown).
+EC also contribute to formation of the outflow (OT) tract and the OT valves. However, only
+the most proximal portion of OT cushion mesenchyme derives from endothelial progenitors
+that were recombined by the T2Cre  transgene (yellow arrow, Fig. 1B). The bulk of OT cushion
+mesenchyme is derived from neural crest, as demonstrated by fate mapping using the neural
+crest restricted Wnt1Cre  transgene (Gitler et al., 2003;Verzi et al., 2005) (see Fig. S2 in the
+supplementary material). Gata4  is expressed in OT endothelium and both endocardial- and
+neural crest-derived OT mesenchyme (green arrow, Fig. 1D). Consistent with the lack of
+T2Cre -mediated recombination in the mid and distal OT mesenchyme (green arrow, Fig. 1B3),
+Gata4  expression in these regions was not affected in Gata4T2del embryos (green arrow, Fig.
+1D).
+Phenotypic characterization of Gata4T2del embryos
+Out of 34 litters genotyped, no Gata4T2del mice survived to weaning. By E12.5, the prevalence
+of Gata4T2del embryos was 80% less than expected based on Mendelian ratios (Fig. 2A). At
+E12.5, surviving Gata4T2del embryos had pericardial effusion and peripheral hemorrhage,
+which are hallmarks of embryos with heart failure (Fig. 2B,C). The liver was hypoplastic (Fig.
+2B; see also Fig. S3 in the supplementary material). Histological examination of the heart
+showed that these mutant embryos displayed a paucity of mesenchymal cells within the AV
+cushions (Fig. 2D–G). Additionally, the mutant AV endocardium was multiple cell layers thick
+at certain foci (arrow, Fig. 2G), whereas the AV endocardium of controls remained as a single
+cell layer epithelial sheet (Fig. 2E). Although the myocardium appeared normal in the majority
+of mutant embryos, in 30% of embryos (six out of 17 examined) the compact myocardium was
+abnormally thin (Fig. S4 in the supplementary material).
+The hypocellular AV cushion phenotype was 100% penetrant and was not due to increased
+apoptosis, as measured by TUNEL staining (data not shown). A small and variable number of
+mesenchymal cells were observed in mutant AV cushions. To determine the origin of these
+cells, we fate mapped T2Cre -expressing cells using the R26RstoplacZ  reporter in control and
+Gata4T2del mutant embryos (Fig. 3). We found that these cells were lacZ positive (arrowhead,
+Fig. 3B), indicating that they are derived from endothelium and not from an alternative tissue
+compartment, such as epicardium. In situ hybridization demonstrated that the residual
+mesenchymal cells did not express Gata4  (data not shown). T2Cre -recombined mesenchyme
+at the proximal tip of the OT cushions (yellow arrows, Fig. 3A,C) was missing in Gata4T2del
+mutants (yellow arrows, Fig. 3B,D).
+Gata4  is necessary for AV cushion EMT
+The process of EMT can be recapitulated in vitro by culturing explants of the AVC in a three-
+dimensional collagen gel (Runyan and Markwald, 1983). During EMT, endothelial cells first
+undergo an activation step during which they lose their cell-cell contacts. The cells then adopt
+an elongated morphology, upregulate mesenchymal markers such as SMA, and downregulate
+endothelial markers such as Pecam. These activated cells subsequently invade and migrate
+through the extracellular matrix to complete the transformation process.
+When cultured in a collagen gel, control AVC explants produced a halo of invasive, migrating
+cells with mesenchymal morphology (Fig. 4A). By contrast, mutant explants failed to generate
+mesenchymal cells (Fig. 4B,C). Immunostaining with antibodies for SMA and Pecam
+delineated three classes of endothelial cells at different stages of activation in all explants
+examined: (1) rounded cells expressing Pecam but not SMA (arrow, Fig. 4D); (2) rare, round
+transitional cells expressing SMA (white arrowhead, Fig. 4D); and (3) elongated, SMA-Rivera-Feliciano et al. Page 5
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+expressing cells (yellow arrowhead, Fig. 4D). By contrast, explants from Gata4T2del embryos
+failed to produce mesenchymal, SMA-expressing cells (Fig. 4E). Mutant endothelium
+appeared multi-layered in a manner reminiscent of the morphology of sectioned Gata4T2del
+hearts (star, Fig. 4E; arrow, Fig. 2G). None of the aforementioned signs of endothelial cell
+activation were detected in explants examined by immunostaining for Pecam and SMA. These
+data suggest that endothelial recombination of Gata4  impairs the activation of endothelial cells
+and blocks their transformation to invasive mesenchyme.
+Having established an essential role for Gata4 in the transformation of AVC endocardial cells
+to mesenchymal cells, we sought to elucidate the mechanism by which Gata4 acts in this
+process. Because adjacent myocardium is known to influence endocardial EMT, we
+investigated whether the endocardial inactivation of Gata4  blocked EMT in a non-cell-
+autonomous manner. Myocardial differentiation and specification of atrioventricular canal
+myocardium remained intact, as indicated by the patterns of expression of sarcomeric myosin,
+the myocardial specific transcription factor Nkx2–5 , the chamber myocardium marker Nppa ,
+and the AVC myocardial marker Tbx2  (Fig. 5; data not shown). Myocardial expression of
+Bmp2  and Tgfβ2, known paracrine activators of EMT (Nakajima et al., 2000b ;Rivera- Feliciano
+and Tabin, 2006;Sugi et al., 2004), was unchanged in Gata4T2del hearts (data not shown).
+Furthermore, culture of control AVC explants directly next to Gata4T2del explants did not
+rescue the EMT defect in mutant explants. Similarly, culture of explants in the presence of a
+mixture of growth factors known to promote EMT (Tgf β2, Bmp2, heregulin and hyaluoronic
+acid) did not rescue the EMT defect in mutant explants, but did robustly stimulate the formation
+of mesenchymal cells in control explants. These data suggest that the phenotype of
+Gata4T2del explants was not due to an absence of diffusible factor(s) produced by the
+myocardium that promote EMT.
+We also considered the possibility that Gata4  could regulate EMT through modulation of the
+extracellular matrix, which is necessary for cushion mesenchyme formation (Camenisch et al.,
+2000). However, the extracellular matrix of the AV cushions was still present in Gata4T2del
+hearts, as assessed by binding of the stain Alcian Blue to acidic glycosaminoglycans present
+in the cushion extracellular matrix (Fig. 5D). Moreover, addition hyaluronic acid directly to
+explant cultures did not rescue the EMT defect of mutant explants (data not shown).
+Gata4  regulates expression of Erbb3
+We next turned our attention to cell-autonomous mechanisms that could account for the loss
+of EMT in Gata4T2del embryos. Downregulation of Snail  as a result of Notch  signaling leads
+to downregulation of VE-cadherin  (Cdh5 ), and is necessary for endocardial EMT ( Timmerman
+et al., 2004). In Gata4T2del hearts, we did not find altered expression of components of this
+pathway ( Notch1, HRT1  and Snail ) by in situ hybridization (Fig. 5C; data not shown) or of
+Cdh5 by immunohistochemistry (Fig. 5E).
+To identify genes whose altered expression might contribute to the Gata4T2del phenotype, we
+performed genome-wide expression analysis using microarrays. We isolated RNA from the
+AV region of mutant and control E9.5 hearts (between 30 and 33 somites), and used the RNA
+to probe Affymetrix microarrays. We used the SAM algorithm (Tusher et al., 2001) to identify
+genes with significantly altered expression (Table 2). For a subset of these, we used qRT-PCR
+to validate differences in gene expression between mutant and control tissue (Fig. 6A). Out of
+11 genes tested, qRT-PCR confirmed differential gene expression in four: Erbb3 ,
+thrombospondin 1 ( Thbs1 ), plexin C1 ( Plxnc1 ), and tenascin C ( Tnc; Fig. 6A). We also
+confirmed differential expression of Erbb3, Thbs1  and Plxnc1  by in situ hybridization (Fig.
+6B).Rivera-Feliciano et al. Page 6
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+The downregulation of Erbb3  in Gata4T2del AV tissue was of particular interest. Egf family
+ligands signal through Erbb3  to activate Ras and promote EMT, and in the absence of Erbb3
+AV endothelium fails to form cushion mesenchyme (Camenisch et al., 2002). We confirmed
+downregulation of Erbb3  transcripts by qRTPCR (Fig. 6A) and in situ hybridization (Fig. 6B),
+and downregulation of Erbb3 protein by western blotting (Fig. 6C).
+To obtain further evidence that Gata4  regulates Erbb3  expression, we investigated whether
+ectopic expression of Gata4  in endothelial cells that normally lack this transcription factor is
+sufficient to activate Erbb3  expression. Adenoviral expression of Gata4  in human umbilical
+vein endothelial cells (HUVEC) caused a 5-fold upregulation of Erbb3  expression compared
+with cells treated with a GFP-expressing adenovirus (Fig. 6D). The degree of upregulation is
+likely to be even higher in Gata4 -expressing cells, as adenovirus transduced only 15–20% of
+cells. Conversely, we investigated whether Gata  factors are necessary for Erbb3  expression in
+at least some cellular contexts. For this experiment, we used BT20 breast carcinoma cells,
+which natively express both Gata4 and Erbb3 proteins (Bouchard et al., 2005) (data not shown).
+Expression of a dominant-negative Gata4DBD-engrailed fusion protein strongly decreased
+Erbb3 transcript levels (Fig. 6E).
+To determine whether Gata4  regulates Erbb3  expression at the level of transcription, we used
+rVista 2.0 (Loots and Ovcharenko, 2004) to find Erbb3  non-coding sequences conserved
+between mouse and human. Conserved non-coding sequences upstream of the putative
+transcriptional start site and within the first intron were used to drive expression of luciferase
+reporters. We found that co-transfected Gata4 stimulated transcription from both the promoter
+and the intronic enhancer (Fig. 6F). By contrast, the truncated protein produced by the
+Gata4Δex2 allele failed to stimulate transcription from these Erbb3  regulatory elements (Fig.
+6F). These regulatory elements contain three predicted GATA motifs conserved between
+mouse and human. In mobility shift experiments, the two consensus sites in the enhancer
+strongly bound Gata4, whereas the site in the promoter (nonconsensus GATG site) did not.
+Mutation of these sites did not significantly alter transcriptional stimulation by Gata4  (see Fig.
+S5 in the supplementary material).
+Gata4  regulates an Erbb3-Erk  pathway required for EMT
+Next, we wished to determine whether Gata4T2del AV endothelium was functionally deficient
+in the transduction of Egf signals. We treated E9.5 Gata4T2del and control embryos with the
+Erbb3  ligand heregulin, and measured the phosphorylation of Erk, which is activated
+downstream of Ras. In heregulin-treated control embryos, activated Erk was readily observed
+in AV cushion endothelium (arrowheads, Fig. 7A, middle panel). By contrast, in heregulin-
+treated Gata4T2del embryos, Erk activation was strongly reduced in AV cushion endothelium
+(arrowheads, Fig. 7A, bottom panel). Erk activation in myocardium did not differ between
+genotypes (arrows, Fig. 7A), indicating that the downregulation in cushion endothelium was
+specific and unlikely to be due to technical factors.
+We then investigated whether defective Erk activation downstream of Erbb3  might account
+for the marked reduction in EMT seen in the Gata4T2del AV cushions. We treated control and
+mutant explants with U0126, a selective inhibitor of Erk activation. We found that U0126
+strongly reduced the extent of EMT in wild-type explants (Fig. 7B). We reasoned that if
+Gata4  and Erk are mutually required for EMT, then partial antagonism of each would inhibit
+EMT. To test this hypothesis, we generated AVC explants homozygous for Gata4H, a Gata4
+allele that expresses reduced levels of Gata4 protein (Pu et al., 2004). We treated Gata4H/H
+and littermate control explants with a 50% inhibitory concentration of U0126 (400 nM). In the
+presence of vehicle, Gata4H/H and control explants generated comparable numbers of
+mesenchymal cells. However, the number of mesenchymal cells generated by Gata4H/H
+explants treated with 400 nM U0126 was significantly reduced when compared with theRivera-Feliciano et al. Page 7
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+number generated by similarly treated control explants (Fig. 7C). This result is consistent with
+a model in which Gata4  and Erk act in the same genetic pathway to promote EMT.
+Gata4  is required for growth and remodeling of the AV cushions
+Constitutive, partial loss of Gata4 function, as a result of either decreased protein expression
+(Gata4H/H) or a point mutation abrogating Fog1  and Fog2  (Zfpm1  and Zfpm2 , respectively –
+Mouse Genome Informatics) interaction ( Gata4Ki/Ki), resulted in embryonic lethality between
+E12.5–E16.5 (Crispino et al., 2001; Pu et al., 2004). These embryos had common
+atrioventricular canal defects, indicating a severe abnormality of EC maturation such that the
+superior and inferior cushions failed to fuse and divide the ventricular inflow tract into separate
+inlets for the right and left ventricle. This abnormality could, in principle, have been caused
+by impaired Gata4 function in the endocardium, or by defective Gata4 function in the
+myocardium with secondary abnormalities in the EC due to abnormal paracrine signaling. To
+determine whether there is a cell-autonomous requirement for Gata4 in later atrioventricular
+valve maturation, we generated embryos with the genotype Gata4flox/Ki; T2Cre+  (abbreviated
+Gata4T2del/Ki). In these embryos, Gata4flox complements Gata4Ki except in the endothelium
+and its derivatives, where T2Cre -mediated recombination inactivates it.
+Gata4Ki/flox; T2Cre − control mice were present at weaning at the expected Mendelian
+frequency and had no obvious heart defects. By contrast, Gata4T2del/Ki embryos were present
+in the expected Mendelian ratio at E16.5, but were not present at weaning (out of eight litters
+genotyped), indicating lethality in late gestation or in the perinatal period. Mutant embryos
+examined at E16.5 had severe peripheral hemorrhage and edema, consistent with heart failure
+(data not shown). At E12.5, the heart (Fig. 8A–D) and the liver appeared normal (Fig. 8A,B).
+However, in later stage embryos, the AV valve leaflets were hypoplastic, and failure of fusion
+of the superior and inferior AV cushions resulted in a common atrioventricular canal defect
+(asterisk, Fig. 8E,F). Cell death was not increased in mutant cushions, as measured by TUNEL
+staining at E12.5 and E15.5 (data not shown). However, cell proliferation, as measured by
+BrdU uptake, was decreased in mutant cushion mesenchyme at E12.5 and E13.5 (Fig. 8G, data
+not shown). These data suggest that Gata4-Fog  interaction within endocardium-derived cells
+is required for normal proliferation of the AV cushions.
+DISCUSSION
+We used a T2Cre  transgene to recombine a conditional Gata4  allele ( Gata4flox) within
+endothelial-derived cells and demonstrated that Gata4  is required at two stages of AVC
+morphogenesis. First, Gata4  is necessary for endothelial EMT to form AV cushion
+mesenchyme. Second, Gata4  is necessary for the growth and remodeling of the AV cushions,
+after they have been populated by mesenchymal cells. Gata4  interaction with Fog cofactors
+within endothelial-derived cells is dispensable for the former, but required for the latter.
+The AV cushions are largely formed by mesenchyme derived from endothelial cells (see Fig.
+1B, Fig. 3). Inactivation of Gata4  within endothelial-derived cells results in a marked decrease
+in the number of mesenchymal cells in the AV cushions (Fig. 2). By contrast, the OT cushions
+are formed by cells derived from at least two sources. OT endothelium undergoes EMT to form
+the mesenchyme of the proximal OT cushions, whereas neural crest contributes to the mid-
+and distal OT cushions (Fig. 1B; Fig. 3; see also Fig. S2 in the supplementary material).
+Gata4  is expressed in both the neural crest-derived and endothelial-derived portions of the OT
+cushions. However, its expression in the neural crest-derived portion is not required for normal
+OT development, as Gata4  inactivation by Wnt1Cre  was compatible with normal survival and
+normal OT morphogenesis (W.T.P., unpublished). Gata4  expression was required to form the
+proximal, endothelial-derived portion of the OT cushion (Fig. 3). Because Gata4T2del embryos
+do not survive to a stage at which mature OT valves are evident, we were unable to determineRivera-Feliciano et al. Page 8
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+what effect the loss of this portion of OT cushion has on OT valve development. Congenital
+abnormalities of the pulmonary valve are associated with human GATA4  mutation (Garg et al.,
+2003; Hirayama-Yamada et al., 2005 ;Okubo et al., 2004), suggesting that Gata4 activity within
+the proximal, endothelial-derived portion of the OT cushions may be important for
+development of the OT valves.
+Gata4  function in formation of AV mesenchyme
+Inactivation of Gata4  within endothelial-derived cells blocked endocardial EMT, resulting in
+a paucity of mesenchymal cells within the AV cushions. This was associated with strong
+downregulation of Erbb3  (Fig. 6). Using heterologous expression systems, we show that Gata4
+modulates Erbb3  transcript levels and transcriptional activity of Erbb3  regulatory elements
+(Fig. 6F). Although these regulatory elements contain evolutionarily conserved GATA binding
+sites, these binding sites were not required for transcriptional stimulation by Gata4 in vitro (see
+Fig. S5 in the supplementary material). These data suggest that Gata4  may regulate Erbb3
+indirectly. Alternatively, these findings might represent limitations of the in vitro assay system.
+Additional in vivo studies of Erbb3  regulatory elements will be necessary to elucidate the
+mechanism by which Gata4  regulates Erbb3  in the endocardial cushions.
+Downregulation of Erbb3  in Gata4T2del AVCs was associated with impaired Erk activation in
+response to the Erbb3 ligand heregulin (Fig. 7A). Erk activation was necessary for endocardial
+EMT (Fig. 7B). Partial inhibition of both Gata4 and Erk impaired the formation of cushion
+mesenchyme (Fig. 7C). This synthetic phenotype suggests a strong interaction between
+Gata4 - and Erk-dependent pathways. Collectively, these data are consistent with a model in
+which Gata4  functions upstream of an Erbb3-Ras-Erk  pathway that is necessary for the
+formation of cushion mesenchyme. Intriguingly, Gata4  itself is activated by Erk
+phosphorylation (Liang et al., 2001), suggesting the possibility of a positive-feedback loop that
+promotes endocardial EMT.
+Although Gata4  is required for AV EMT, Gata4 interaction with Fog is dispensable for this
+step of AV valve development. Embryos deficient in Fog1  or Fog2 , or in Gata4-Fog
+interactions ( Gata4Ki/Ki), did not show any defect in the generation of AV valve mesenchyme
+by EMT (Crispino et al., 2001; Katz et al., 2003; Tevosian et al., 2000), indicating that Gata4
+regulation of AV cushion EMT does not require Fog interaction. Consistent with this
+conclusion, Gata4T2del/Ki EC were normally populated with mesenchymal cells (Fig. 8A–D).
+Gata4 function in AV valve growth and remodeling
+After AV cushion mesenchyme is formed by EMT, it rapidly proliferates to fill the expanding
+AV cushions with mesenchymal cells. The growing superior and inferior AV cushions meet
+and fuse, dividing the ventricular inlet into a right and left channel. Gata4  is necessary for this
+process, as a decrease in Gata4  levels or germline abrogation of the Gata4-Fog  interaction
+resulted in an unseptated ventricular inlet (Crispino et al., 2001; Pu et al., 2004). Here, we show
+that Gata4-Fog interaction within endothelial-derived cells is required for septation of the
+ventricular inlet (Fig. 8).
+Conclusion
+This study demonstrates an essential role for expression of Gata4  in the endothelium and its
+derivatives. During the initial steps of AV valve formation, Gata4  is necessary for the
+expression of Erbb3 , which acts through a Ras-Erk  pathway to promote EMT. During
+subsequent steps of AV valve maturation, Gata4, in cooperation with a Fog cofactor, promotes
+the growth and fusion of the AV cushions, resulting in the division of the ventricular inlet into
+two separate channels guarded by two AV valves. These data suggest that Gata4  mutationsRivera-Feliciano et al. Page 9
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+might contribute to EC defects in humans; indeed, a Gata4  mutation has been reported to occur
+in association with AV septal defects (Garg et al., 2003).
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The authors thank J. L. Galloway for comments on the manuscript, and members of the Tabin, Cepko, Dymecki, Izumo
+and Pu labs for their advice and support. This work was supported by grants from the NIH (C.J.T., R01 HD0045499;
+W.T.P., K08 HL004387-04 and 1 PO1 HL074734) and by a charitable donation from Edward Marran and Karen
+Carpenter. J.R.-F. was supported by a predoctoral National Research Service Award.
+References
+Armstrong EJ, Bischoff J. Heart valve development: endothelial cell signaling and differentiation. Circ.
+Res 2004;95:459–470. [PubMed: 15345668]
+Bouchard MF, Taniguchi H, Viger RS. Protein kinase A-dependent synergism between GATA factors
+and the nuclear receptor, liver receptor homolog-1, regulates human aromatase (CYP19) PII promoter
+activity in breast cancer cells. Endocrinology 2005;146:4905–4916. [PubMed: 16109788]
+Brent AE, Schweitzer R, Tabin CJ. A somitic compartment of tendon progenitors. Cell 2003;113:235–
+248. [PubMed: 12705871]
+Bruneau BG, Nemer G, Schmitt JP, Charron F, Robitaille L, Caron S, Conner DA, Gessler M, Nemer
+M, Seidman CE, et al. A murine model of Holt-Oram syndrome defines roles of the T-box transcription
+factor Tbx5 in cardiogenesis and disease. Cell 2001;106:709–721. [PubMed: 11572777]
+Camenisch TD, Spicer AP, Brehm-Gibson T, Biesterfeldt J, Augustine ML, Calabro A Jr, Kubalak S,
+Klewer SE, McDonald JA. Disruption of hyaluronan synthase-2 abrogates normal cardiac
+morphogenesis and hyaluronan-mediated transformation of epithelium to mesenchyme. J. Clin. Invest
+2000;106:349–360. [PubMed: 10930438]
+Camenisch TD, Schroeder JA, Bradley J, Klewer SE, McDonald JA. Heart-valve mesenchyme formation
+is dependent on hyaluronanaugmented activation of ErbB2-ErbB3 receptors. Nat. Med 2002;8:850–
+855. [PubMed: 12134143]
+Charron F, Nemer M. GATA transcription factors and cardiac development. Semin. Cell Dev. Biol
+1999;10:85–91. [PubMed: 10355032]
+Crispino JD, Lodish MB, Thurberg BL, Litovsky SH, Collins T, Molkentin JD, Orkin SH. Proper coronary
+vascular development and heart morphogenesis depend on interaction of GATA-4 with FOG cofactors.
+Genes Dev 2001;15:839–844. [PubMed: 11297508]
+Danielian PS, Muccino D, Rowitch DH, Michael SK, McMahon AP. Modification of gene activity in
+mouse embryos in utero by a tamoxifen-inducible form of Cre recombinase. Curr. Biol 1998;8:1323–
+1326. [PubMed: 9843687]
+Garg V, Kathiriya IS, Barnes R, Schluterman MK, King IN, Butler CA, Rothrock CR, Eapen RS,
+Hirayama-Yamada K, Joo K, et al. GATA4 mutations cause human congenital heart defects and
+reveal an interaction with TBX5. Nature 2003;424:443–447. [PubMed: 12845333]
+Gitler AD, Zhu Y, Ismat FA, Lu MM, Yamauchi Y, Parada LF, Epstein JA. Nf1 has an essential role in
+endothelial cells. Nat. Genet 2003;33:75–79. [PubMed: 12469121]
+Heikinheimo M, Scandrett JM, Wilson DB. Localization of transcription factor GATA-4 to regions of
+the mouse embryo involved in cardiac development. Dev. Biol 1994;164:361–373. [PubMed:
+8045339]
+Hirayama-Yamada K, Kamisago M, Akimoto K, Aotsuka H, Nakamura Y, Tomita H, Furutani M,
+Imamura S, Takao A, Nakazawa M, et al. Phenotypes with GATA4 or NKX2.5 mutations in familial
+atrial septal defect. Am. J. Med. Genet. A 2005;135:47–52. [PubMed: 15810002]
+Katz SG, Williams A, Yang J, Fujiwara Y, Tsang AP, Epstein JA, Orkin SH. Endothelial lineage-mediated
+loss of the GATA cofactor Friend of GATA 1 impairs cardiac development. Proc. Natl. Acad. Sci.
+USA 2003;100:14030–14035. [PubMed: 14614148]Rivera-Feliciano et al. Page 10
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Kisanuki YY, Hammer RE, Miyazaki J, Williams SC, Richardson JA, Yanagisawa M. Tie2-Cre
+transgenic mice: a new model for endothelial cell-lineage analysis in vivo. Dev. Biol 2001;230:230–
+242. [PubMed: 11161575]
+Kuo CT, Morrisey EE, Anandappa R, Sigrist K, Lu MM, Parmacek MS, Soudais C, Leiden JM. GATA4
+transcription factor is required for ventral morphogenesis and heart tube formation. Genes Dev
+1997;11:1048–1060. [PubMed: 9136932]
+Lakkis MM, Epstein JA. Neurofibromin modulation of ras activity is required for normal endocardial-
+mesenchymal transformation in the developing heart. Development 1998;125:4359–4367. [PubMed:
+9778496]
+Lee KH, Evans S, Ruan TY, Lassar AB. SMAD-mediated modulation of YY1 activity regulates the BMP
+response and cardiac-specific expression of a GATA4/5/6-dependent chick Nkx2.5 enhancer.
+Development 2004;131:4709–4723. [PubMed: 15329343]
+Lee Y, Shioi T, Kasahara H, Jobe SM, Wiese RJ, Markham BE, Izumo S. The cardiac tissue-restricted
+homeobox protein Csx/Nkx2.5 physically associates with the zinc finger protein GATA4 and
+cooperatively activates atrial natriuretic factor gene expression. Mol. Cell. Biol 1998;18:3120–3129.
+[PubMed: 9584153]
+Liang Q, Wiese RJ, Bueno OF, Dai YS, Markham BE, Molkentin JD. The transcription factor gata4 is
+activated by extracellular signal-regulated kinase 1- and 2-mediated phosphorylation of serine 105
+in cardiomyocytes. Mol. Cell. Biol 2001;21:7460–7469. [PubMed: 11585926]
+Lobe CG, Koop KE, Kreppner W, Lomeli H, Gertsenstein M, Nagy A. Z/AP, a double reporter for cre-
+mediated recombination. Dev. Biol 1999;208:281–292. [PubMed: 10191045]
+Loots GG, Ovcharenko I. rVISTA 2.0: evolutionary analysis of transcription factor binding sites. Nucleic
+Acids Res 2004;32:W217–W221. [PubMed: 15215384]
+Mao X, Fujiwara Y, Orkin SH. Improved reporter strain for monitoring Cre recombinase-mediated DNA
+excisions in mice. Proc. Natl. Acad. Sci. USA 1999;96:5037–5042. [PubMed: 10220414]
+Molkentin JD, Lin Q, Duncan SA, Olson EN. Requirement of the transcription factor GATA4 for heart
+tube formation and ventral morphogenesis. Genes Dev 1997;11:1061–1072. [PubMed: 9136933]
+Morrisey EE, Ip HS, Tang Z, Parmacek MS. GATA-4 activates transcription via two novel domains that
+are conserved within the GATA-4/5/6 subfamily. J. Biol. Chem 1997;272:8515–8524. [PubMed:
+9079680]
+Nakajima H, Nakajima HO, Salcher O, Dittie AS, Dembowsky K, Jing S, Field LJ. Atrial but not
+ventricular fibrosis in mice expressing a mutant transforming growth factor-beta(1) transgene in the
+heart. Circ. Res 2000a;86:571–579. [PubMed: 10720419]
+Nakajima Y, Yamagishi T, Hokari S, Nakamura H. Mechanisms involved in valvuloseptal endocardial
+cushion formation in early cardiogenesis: roles of transforming growth factor (TGF)-beta and bone
+morphogenetic protein (BMP). Anat. Rec 2000b;258:119–127. [PubMed: 10645959]
+Okubo A, Miyoshi O, Baba K, Takagi M, Tsukamoto K, Kinoshita A, Yoshiura K, Kishino T, Ohta T,
+Niikawa N, et al. A novel GATA4 mutation completely segregated with atrial septal defect in a large
+Japanese family. J. Med. Genet 2004;41:e97. [PubMed: 15235040]
+Pelton RW, Nomura S, Moses HL, Hogan BL. Expression of transforming growth factor beta 2 RNA
+during murine embryogenesis. Development 1989;106:759–767. [PubMed: 2485246]
+Pierpont ME, Markwald RR, Lin AE. Genetic aspects of atrioventricular septal defects. Am. J. Med.
+Genet 2000;97:289–296. [PubMed: 11376440]
+Pu WT, Ishiwata T, Juraszek AL, Ma Q, Izumo S. GATA4 is a dosage-sensitive regulator of cardiac
+morphogenesis. Dev. Biol 2004;275:235–244. [PubMed: 15464586]
+Rivera-Feliciano J, Tabin CJ. Bmp2 instructs cardiac progenitors to form the heart-valve-inducing field.
+Dev. Biol 2006;295:580–588. [PubMed: 16730346]
+Runyan RB, Markwald RR. Invasion of mesenchyme into three-dimensional collagen gels: a regional
+and temporal analysis of interaction in embryonic heart tissue. Dev. Biol 1983;95:108–114. [PubMed:
+6825921]
+Sugi Y, Yamamura H, Okagawa H, Markwald RR. Bone morphogenetic protein-2 can mediate
+myocardial regulation of atrioventricular cushion mesenchymal cell formation in mice. Dev. Biol
+2004;269:505–518. [PubMed: 15110716]Rivera-Feliciano et al. Page 11
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Tanaka M, Chen Z, Bartunkova S, Yamasaki N, Izumo S. The cardiac homeobox gene Csx/Nkx2.5 lies
+genetically upstream of multiple genes essential for heart development. Development
+1999;126:1269–1280. [PubMed: 10021345]
+Tevosian SG, Deconinck AE, Tanaka M, Schinke M, Litovsky SH, Izumo S, Fujiwara Y, Orkin SH.
+FOG-2, a cofactor for GATA transcription factors, is essential for heart morphogenesis and
+development of coronary vessels from epicardium. Cell 2000;101:729–739. [PubMed: 10892744]
+Timmerman LA, Grego-Bessa J, Raya A, Bertran E, Perez-Pomares JM, Diez J, Aranda S, Palomo S,
+McCormick F, Izpisua-Belmonte JC, et al. Notch promotes epithelial-mesenchymal transition during
+cardiac development and oncogenic transformation. Genes Dev 2004;18:99–115. [PubMed:
+14701881]
+Tusher VG, Tibshirani R, Chu G. Significance analysis of microarrays applied to the ionizing radiation
+response. Proc. Natl. Acad. Sci. USA 2001;98:5116–5121. [PubMed: 11309499]
+Verzi MP, McCulley DJ, De Val S, Dodou E, Black BL. The right ventricle, outflow tract, and ventricular
+septum comprise a restricted expression domain within the secondary/anterior heart field. Dev. Biol
+2005;287:134–145. [PubMed: 16188249]
+Watt AJ, Battle MA, Li J, Duncan SA. GATA4 is essential for formation of the proepicardium and
+regulates cardiogenesis. Proc. Natl. Acad. Sci. USA 2004;101:12573–12578. [PubMed: 15310850]
+Zeisberg EM, Ma Q, Juraszek AL, Moses K, Schwartz RJ, Izumo S, Pu WT. Morphogenesis of the right
+ventricle requires myocardial expression of Gata4. J. Clin. Invest 2005;115:1522–1531. [PubMed:
+15902305]Rivera-Feliciano et al. Page 12
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 1. Endocardial-restricted inactivation of Gata4
+(A) Structure of wild-type (wt), hypomorphic (H), floxed, and deleted ( Δex2) Gata4  alleles.
+(B) Fate mapping of T2Cre -recombined endothelial cells. (B1,B2) In T2Cre+;
+R26Rstop lacZ embryos at E9.5, β-galactosidase reporter expression (blue) was seen in the
+endocardium (arrow) and EC mesenchyme (arrowhead) of the AVC, and in the OT
+endothelium. (B3) By E11.5, the β-galactosidase-positive cells populated the AV cushions
+(asterisks). Endothelial-derived OT cushion mesenchyme (yellow arrow) was largely confined
+to the most proximal portion of the OT cushion. Most of the outflow cushion was not
+recombined by T2Cre  (green arrow). ( C) Endocardial-restricted inactivation of Gata4  by
+T2Cre  at E9.5. Control (C1,C2) and Gata4T2del (C3,C4) embryos, hybridized to a Gata4  exon
+2-specific probe (red pseudocolor). Blue, DAPI counterstain. The Gata4  exon 2 in situ
+hybridization signal was present in the endocardium of control embryos but not of mutant
+embryos (white arrowheads). Gata4  expression in the myocardium (yellow arrowheads) and
+proepicardium (star) was unaffected. ( D) Inactivation of Gata4  in endothelium and
+endothelium-derived cells at E11.5. In control embryos (D1), Gata4  exon 2 in situ hybridization
+signal was present in the endocardium (white arrowhead), myocardium (yellow arrowhead),
+and AV and OT cushion mesenchyme. In mutant embryos (D2), Gata4  was not detected in
+endothelium (white arrowhead) or AVC mesenchyme. Strong signal was still present in mid
+and distal OT cushion mesenchyme (green arrow) and myocardium (yellow arrowhead). a,
+atria; v, ventricle; ot, OT. Scale bars in C and D: 100 µm.Rivera-Feliciano et al. Page 13
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 2. Phenotype of embryos with endothelial-restricted inactivation of Gata4  (Gata4T2del)
+(A) Gata4T2del embryos die by E12.5–E13.5. The incidence of Gata4T2del embryos is plotted
+against gestational age; expected incidence was 25%. Numbers indicate total number of
+embryos genotyped. ( B) Gross appearance of E12.5 control and Gata4T2del littermates.
+Mutants showed liver hypoplasia (L) and variable growth retardation, peripheral hemorrhage
+and pericardial effusion (arrowhead). ( C) E12.5 Gata4T2del embryo with severe pericardial
+effusion (arrowhead). Scale bars: 50 µm. ( D–G ) Formation of AV cushion mesenchyme
+requires Gata4  activity in endothelial-derived cells. By E10.5, the AV cushions of control
+embryos were populated by numerous mesenchymal cells (asterisk, D), whereas in
+Gata4T2del embryos the AV cushions were severely hypocellular (asterisk, F). TheRivera-Feliciano et al. Page 14
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+endocardium overlying the AV cushions became several cell layers thick in mutant embryos
+(arrow, G), whereas it was one cell layer thick in control embryos (E).Rivera-Feliciano et al. Page 15
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 3. Fate map of T2Cre -recombined cells in Gata4T2del hearts
+(A–D ) T2Cre -mediated activation of the R26RstoplacZ  reporter (blue) was mapped in E11.5
+control (A,C) or Gata4T2del (B,D) embryo hearts. Whole-mount embryos were X-gal stained,
+then sectioned in the sagittal plane. Sections through the AV (A,B) and OT (C,D) cushions are
+shown. In control hearts, T2Cre -recombined cells of endothelial origin gave rise to the AV
+cushion mesenchyme (asterisk), as well as the proximal tip of the OT cushion (yellow arrow).
+The mid- and distal OT cushions were not recombined by T2Cre  (red arrows). In Gata4T2del
+embryos, the corresponding regions were markedly hypocellular. Residual cells in the AV
+cushions were descended from T2Cre -recombined endothelium (arrowhead). Scale bar: 100
+µm.Rivera-Feliciano et al. Page 16
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 4. Endocardial Gata4  activity is required for mesenchyme formation in AV cushion explants
+(A,B) Gata4T2del AVC explants produced markedly fewer mesenchymal cells than control
+explants. ( C) Quantitation of the number of cells with mesenchymal morphology from control
+and Gata4T2del explants ( n=3). ( D,E) Failure of endocardial activation in Gata4T2del AV
+explant cultures. In control embryos, Pecam-expressing endothelial cells lost cell-cell contacts
+and adopted a rounded shape (arrow). Some rounded cells expressed SMA (white arrowhead)
+and acquired a mesenchymal morphology (yellow arrowhead). In mutant explants, endothelial
+cells remained in a sheet (star) and did not adopt a rounded shape. No mesenchymal cells or
+cells positive for both Pecam and SMA were detected ( n=4). Myocardium (M) of control and
+mutant explants stained positive for SMA.Rivera-Feliciano et al. Page 17
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 5. Expression of myocardial and endocardial markers in Gata4T2del mutant hearts
+(A,B) In situ hybridization for Nppa  (A) and Tbx2  (B) in E9.5 embryos, showing intact
+expression in Gata4T2del hearts. Asterisk indicates the EC. ( C) In situ hybridization for
+Notch1  in E10.5 embryos, showing unperturbed expression in AV endocardium (arrowheads).
+(D) Alcian Blue staining of acidic glycosaminoglycans, including hyaluronic acid, in E10.5
+control and mutant cushions. ( E,F) Cdh5 immunostaining of E9.5 embryo sections. Note the
+bunched up phenotype of the mutant AV endocardium compared with control AV endocardium
+(arrowheads). Panels in F are higher magnifications of the sections shown in E.Rivera-Feliciano et al. Page 18
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 6. Gata4  regulates Erbb3  expression
+(A) qRT-PCR of control and mutant AVC samples. Gene expression was normalized to
+Gapdh . *P<0.05, n=3 per group. ( B) In situ hybridization demonstrating downregulation of
+Thbs1, Plxnc1  and Erbb3  in Gata4T2del EC. Arrowheads indicate AV cushions. ( C)
+Downregulation of Erbb3 protein in AVC whole cell lysates by western blotting. Each sample
+contained AVCs pooled from 10 hearts. Expression was quantitated by densitometry and
+normalized to Gapdh. ( D) Adenoviral expression of Gata4  upregulated Erbb3  in HUVEC cells,
+compared with GFP expression from a control virus. Erbb3 expression was measured by qRT-
+PCR and normalized to Gapdh . The graph shows the average of three independent experiments.
+(E) BT20 cells were co-transfected with an EGFP expression vector and either Gata4DBD-Rivera-Feliciano et al. Page 19
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+engrailed or an empty expression vector. After sorting for transfected (GFP-expressing) cells,
+Erbb3  expression was measured by qRT-PCR and normalized to Gapdh . Results are
+representative of two independent experiments. ( F) Constructs containing Erbb3  promoter
+(−1356 to +214) and intron 1 enhancer (+104 to +3076) sequences driving luciferase were co-
+transfected with Gata4 or Gata4Δex2 expression constructs into BT20 cells. Luciferase activity
+was normalized to pRL-null. Results are the average of five (enhancer) or eight (promoter)
+independent experiments (* P<0.05).Rivera-Feliciano et al. Page 20
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 7. Gata4 regulates an Erbb3-Erk pathway required for EMT
+(A) E9.5 control or Gata4T2del embryos were cultured in M199 containing 100 ng/ml heregulin.
+A phosphospecific Erk antibody (pErk; green staining) showed defective Erk ativation in the
+endocardium of mutant embryos (arrowheads, bottom panel) compared with control embryos
+(arrowheads, middle panel). Myocardial pErk levels were unchanged between genotypes. To
+demonstrate antibody specificity, a control embryo was incubated with U0126, a selective
+inhibitor of Erk activation (top panel). ( B) U0126 (10 µM) blocked the formation of
+mesenchymal cells in wild-type AV explants. ( C) Synthetic phenotype resulting from the
+combination of reduced Gata4 expression and partial Erk inhibition. Explants from embryos
+homozygous for a hypomorphic Gata4 allele (H/H) underwent EMT at the same rate as controls
+in the presence of vehicle (NS, no significant difference). However, in the presence of U0126
+at a 50% inhibitory dose, EMT was strongly inhibited in hypomorphic explants (* P<0.05Rivera-Feliciano et al. Page 21
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+compared with control-treated H/H or U0126-treated wt/wt; n=4). The extent of EMT was
+measured by the number of cells with mesenchymal morphology that invaded the collagen gel.Rivera-Feliciano et al. Page 22
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Fig. 8. AV valve remodeling requires Gata4 expression in endocardium and its derivatives
+Gata4T2del/Ki (Gata4Ki/flox; Tie2Cre+) embryos are deficient for Gata4-Fog interaction in the
+endocardium and its derivatives. ( A–D ) AV cushions were normally populated by
+mesenchymal cells at E12.5 (asterisks, C,D), indicating that the Gata4-Fog interaction is not
+essential for EMT. The liver (L) was normal in size and morphology. Boxed regions of A,B
+are enlarged in C,D. ( E,F) A common atrioventricular canal (asterisk) was present in all
+Gata4T2del/Ki embryos at E14.5, whereas in control embryos the AVC was septated by the
+fusion of the superior and inferior cushions. ( G) Decreased proliferation of cushion
+mesenchyme in Gata4T2del/Ki embryos. Proliferation was measured as the percentage of nuclei
+that stained positive for BrdU (red). Nuclei were stained with DAPI. Myocyctes were labeled
+with desmin (green). Three sections from three different E12.5 embryos were examined per
+group by a blinded observer (* P<0.05).Rivera-Feliciano et al. Page 23
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptRivera-Feliciano et al. Page 24
+Table 1
+Primer and probe sequences
+Gene Forward Reverse Note
+Real-time PCR assays
+Ankrd1 CAGTTGTAGAGAAATTCCTGTCAGACA GTGGAGTGCCGTCCGTTTAT Sybr Green
+Erbb3 TAGACGTCAATGGTGCAGATCTG TAGACGTCAATGGTGCAGATCTG Sybr Green, mouse
+Erbb3 GTGGCACTCAGGGAGCATTTA TCTGGGACTGGGGAAAAGG Sybr Green, human
+Gapdh Proprietary taqman assay from Applied Biosystems Taqman
+Gata2 GGCAGTGGCCCTGTGATC CGAAGCTTGGGACACTTTTTATG Sybr Green
+Igf1 ACAGGCTATGGCTCCAGCAT GCTCCGGAAGCAACACTCAT Sybr Green
+Nrp2 ACGTGGCATTTGGGCATT GAGCATCCCCAGCATGTTG Sybr Green
+Pdga GGTCCACCACCGCAGTGT CCTGGACCTCTTTCAATTTTGG Sybr Green
+Plxc1 AGATGACCACTGCCACTTGATTC CTTTGAACTTGTGTTTCCCTCGAT Sybr Green
+Sgk3 TGCCTGGGCGCTGTTC AGCAACATCTCGGCAGTAAAAAG Sybr Green
+Thbs1 CCTCAAGAAAATGCAGTTTTCAAA AAACCCAAGGAACTCTTCATGGT Sybr Green
+Tnc TCCCCAAGAGAATTTACAGCTACAG GAGGTATCCAGTGACCGATGCT Sybr Green
+Vcam1 CGTCGCGAGGTTGTTTAGAGTA CAGTCCAAGCAACACTCTCTGATT Sybr Green
+In situ hybridization probes
+Bmp2 AACTAGAAGCCGTGGAGGAACTTCCA TTGTGGAGGGCTGCGGGTGTCGTTAG PCR template
+Cdh5 ACAACCATGACAACACCGCCAACA ATCCAGGTTGCAATGAGGTTGGGT PCR template
+Erbb3 BE947142 EST template
+Gata4  exon 2 195–981 of accession AB075549 PCR template
+HRT1 AI316788 EST template
+Nfatc1 TGGTGGTTGAGATACCACCTTTCC TAGAAGCGTCACCATGAGGACAAC PCR template
+Nkx2–5 (Tanaka et al.,
+1999)
+Notch1 AW047868 EST template
+Nppa (Tanaka et al.,
+1999)
+Pecam CCAACAGAGCCAGCAGTATGAGGACCAG CACCCCCCGAAACACAAGGAAGATAGG PCR template
+Plxnc1 BE981975 EST template
+Snail CAAACCCACTCGGATGTGAAGAGA GTGAAACAGGTGTCACCAGGACAA PCR template
+Tbx2 (Bruneau et al.,
+2001)
+Tgfb2 (Pelton et al., 1989 )
+Thbs1 AW122997 EST template
+Primers for amplifying Erbb3  promoter and intronic enhancer homology arms
+Prom 5 ′ arm GCGGTACCGAGAAAGCCTGTTGACTTGAGTTCCATC GGCTCGAGACTAGTCACCATATCCGGCTCTCCTGCTAC
+Prom 3 ′ arm GGACTAGTCCTAATCGCTGGCTGTTCAGGTGG GACCATGGTACCTGCCTGAGAGTTGCCCATC
+Enh 5′ arm GCGGTACCGCTCCCTTCACCCTCCACTGTAATC GGCTCGAGACTAGTCAGAACCCAAACTCCTTGCCCAGG
+Enh 3′ arm GGACTAGTCCTGGATAGAATTGCTTCATTGTG GGCTCGAGAACATTTACCCTCTCCTCCTCAACGG
+Site-directed mutagenesis
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptRivera-Feliciano et al. Page 25
+Gene Forward Reverse Note
+Prom top ATCTCCTCTTAACCGTCTCCGGGGGAAAT
+Prom bot ATTTCCCCCGGAGACGGTTAAGAGGAGAT
+Enh m1 top CTTAGCTCCTCCCCTAGATGAGGAGAAGGGTTG
+Enh m1 bot CAACCCTTCTCCTCATCTAGGGGAGGAGCTAAG
+Enh m2 top GGAGGCCACCAGTTCCTTAGAATCCAGCTTTAAAGACAAAG
+Enh m2 bot CTTTGTCTTTAAAGCTGGATTCTAAGGAACTGGTGGCCTCC
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptRivera-Feliciano et al. Page 26Table 2
+Genes differentially expressed between control and Gata4T2del AVCs
+Rank Probe set ID Gene symbol Gene name UniGene ID Fold change
+Downregulated genes
+1 1418788_at Tek Endothelial-specific receptor tyrosine kinase Mm.14313 −1.6
+2 1423213_at Plxnc1a,c Plexin C1 Mm.256712 −1.8
+3 1434606_at Erbb3a,c v-erb-b2 erythroblastic leukemia viral oncogene homolog 3
+(avian)Mm.29023 −2.1
+4 1421811_at Thbs1a,c Thrombospondin 1 Mm.4159 −2.2
+5 1426294_at Hapln1 Hyaluronan and proteoglycan link protein 1 Mm.266790 −1.8
+6 1456144_at Nav3 Neuron navigator 3 Mm.225050 −1.8
+7 1416342_at Tnca Tenascin C Mm.980 −2.0
+8 1444403_at Cbfa2t2h Core-binding factor, runt domain, alpha subunit 2,
+translocated to, 2 homolog (human) (Cbfa2t2h), mRNAMm.29914 −1.5
+9 1449303_at Sesn3 Sestrin 3 Mm.227443 −1.7
+10 1422286_a_at Tgif TG interacting factor Mm.101034 −2.2
+11 1421908_a_at Tcf12 Transcription factor 12 Mm.171615 −1.6
+12 1448293_at Ebf1 Early B-cell factor 1 Mm.215971 −1.5
+13 1426295_at Hapln1 Hyaluronan and proteoglycan link protein 1 Mm.266790 −1.9
+14 1442019_at – 16 days neonate cerebellum cDNA, RIKEN full-length
+enriched library, clone:9630033M11 product: unclassifiable,
+full insert sequenceMm.152121 −2.7
+15 1435727_s_at D15Ertd366e DNA segment, Chr 15, ERATO Doi 366, expressed Mm.33207 −1.5
+16 1452366_at 4732435N03Rik RIKEN cDNA 4732435N03 gene Mm.334569 −2.6
+17 1432029_a_at Smap1 Stromal membrane-associated protein 1 Mm.329963 −1.9
+18 1434957_at Cdon Cell adhesion molecule-related/downregulated by oncogenes Mm.80509 −1.8
+19 1434510_at Papss2 3′-phosphoadenosine 5 ′-phosphosulfate synthase 2 Mm.203916 −3.9
+20 1437401_at Igf1b Insulin-like growth factor 1 Mm.268521 −2.0
+21 1434413_at – Transcribed locus Mm.380595 −2.1
+22 1451740_at Paip1 Polyadenylate binding protein-interacting protein 1 Mm.132584 −2.0
+23 1439641_at LOC553090 Hypothetical LOC553090 – −2.4
+24 1418120_at Rbm8a RNA binding motif protein 8a Mm.261972 −1.5
+25 1426862_at 9130023F12Rik RIKEN cDNA 9130023F12 gene Mm.356580 −1.7
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptRivera-Feliciano et al. Page 27Rank Probe set ID Gene symbol Gene name UniGene ID Fold change
+26 1417625_s_at Cmkor1 Chemokine orphan receptor 1 Mm.6522 −2.3
+27 1421917_at Pdgfra Platelet derived growth factor receptor, alpha polypeptide Mm.221403 −1.7
+Upregulated genes
+1 1449187_at Pdgfaa Platelet derived growth factor, alpha Mm.2675 1.6
+2 1439713_at Itga1 Integrin alpha 1 – 1.5
+3 1423100_at Fos FBJ osteosarcoma oncogene Mm.246513 1.9
+4 1426114_at Hnrpab Heterogeneous nuclear ribonucleoprotein A/B Mm.280842 1.7
+5 1421126_at Ryr2 Ryanodine receptor 2, cardiac Mm.239871 1.7
+6 1433657_at A130092J06Rik RIKEN cDNA A130092J06 gene Mm.250441 1.5
+7 1415949_at Cpe Carboxypeptidase E Mm.31395 1.5
+8 1419647_a_at Ier3 Immediate early response 3 Mm.25613 1.6
+9 1456768_a_at – – – 1.8
+10 1430781_at Ak7 Adenylate kinase 7 Mm.36006 1.6
+11 1425196_a_at Hint2 Histidine triad nucleotide binding protein 2 Mm.25285 1.5
+12 1420991_at Ankrd1b Ankyrin repeat domain 1 (cardiac muscle) Mm.10279 1.8
+13 1458917_at – – – 1.9
+14 1439518_at – – – 1.8
+15 1449897_a_at Mtcp1 Mature T-cell proliferation 1 Mm.16366 1.5
+16 1460519_a_at Mettl5 Methyltransferase like 5 Mm.268657 1.7
+17 1447845_s_at Vnn1 Vanin 1 Mm.27154 1.7
+18 1445938_at 5930427L02Rik RIKEN cDNA 5930427L02 gene Mm.379523 1.7
+19 1418486_at Vnn1 Vanin 1 Mm.27154 1.5
+20 1422529_s_at Casq2 Calsequestrin 2 Mm.15343 1.6
+21 1429317_at Qrsl1 Glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1 Mm.5904 1.6
+22 1417313_at Lsm7 LSM7 homolog, U6 small nuclear RNA associated (S.
+cerevisiae)Mm.379101 3.8
+23 1451370_at – Adult male kidney cDNA, RIKEN full-length enriched
+library, clone:0610042I08 product:RNA component of
+mitochondrial RNAase P, 1, full insert sequenceMm.289109 1.7
+24 1430787_at 2310050B05Rik RIKEN cDNA 2310050B05 gene – 1.6
+25 1455251_at Itga1 Integrin alpha 1 – 1.6
+Development . Author manuscript; available in PMC 2009 August 31.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptRivera-Feliciano et al. Page 28Rank Probe set ID Gene symbol Gene name UniGene ID Fold change
+26 1431248_at 5031426D15Rik RIKEN cDNA 5031426D15 gene – 1.6
+27 1426902_at Coq6 Coenzyme Q6 homolog (yeast) Mm.280062 1.6
+28 1437904_at MGI:2387367 Developmentally regulated RNA binding protein 1 Mm.33310 2.1
+29 1428960_at 4933434I06Rik RIKEN cDNA 4933434I06 gene Mm.27658 1.5
+30 1417150_at Slc6a4 Solute carrier family 6 (neurotransmitter transporter,
+serotonin), member 4Mm.300318 2.2
+31 1455227_at Aadacl1 Arylacetamide deacetylase-like 1 Mm.24576 1.6
+32 1434865_a_at Exoc7 Exocyst complex component 7 Mm.22530 1.7
+33 1435436_at – Transcribed locus Mm.234875 2.2
+34 1417713_at Eif2s2 Eukaryotic translation initiation factor 2, subunit 2 (beta) Mm.383218 1.7
+35 1452840_at 1500009L16Rik RIKEN cDNA 1500009L16 gene Mm.271188 2.4
+36 1440397_at – – – 2.0
+37 1430023_at 5133400G04Rik RIKEN cDNA 5133400G04 gene Mm.151498 1.6
+38 1427263_at Xist Inactive X specific transcripts – 1.9
+39 1449146_at Notch4 Notch gene homolog 4 (Drosophila) Mm.173813 2.8
+40 1436723_at Fshprh1 FSH primary response 1 Mm.34903 1.6
+Genes differentially expressed between between control ( n=2) and mutant ( n=4) were identified by SAM ( Δ>0.4 and fold-change >1.5) and ranked by the relative difference score.
+aDifferential expression validated by qRT-PCR ( P<0.05).
+bDifferential expression failed validation by qRT-PCR ( P>0.05).
+cDifferential expression validated by in situ hybridization.
+Development . Author manuscript; available in PMC 2009 August 31.

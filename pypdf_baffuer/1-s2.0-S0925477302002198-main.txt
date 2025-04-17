@@ -1,0 +1,340 @@
+Inducible control of tissue-speciﬁc transgene expression in
+Xenopus tropicalis transgenic lines
+Jeiwook Chae1, Lyle B. Zimmerman1,2, Robert M. Grainger *
+Department of Biology, University of Virginia, Charlottesville, VA 22903, USA
+Received 13 December 2001; received in revised form 21 June 2002; accepted 21 June 2002
+Abstract
+Analysis of gene function in vertebrates is facilitated by gain-of-function studies, such as injection of synthetic mRNA in amphibian
+embryos. This approach is hampered by lack of spatial and temporal control of expression of the introduced gene product. An additional levelof control is obtained by nuclear-transfer-mediated transgenesis, but functional analyses are complicated by variability and background
+abnormalities in primary transgenic embryos. The GAL4/UAS system permits establishment of stable lines and elimination of nuclear-
+transfer-associated abnormalities, through generation of separate UAS-‘effector’ and GAL4 ‘transactivator’ transgenic lines. When theGAL4 DNA-binding domain is combined with a steroid hormone ligand-binding domain, this system allows full temporal regulation of
+transgene expression by introduction of an exogenous steroid analogue, the progesterone antagonist RU486. We show here that by crossing
+stable Xenopus tropicalis transgenic lines, one bearing a UAS-enhanced cyan ﬂuorescent protein (ECFP) reporter construct, and the other
+with a GAL4–progesterone receptor fusion driven by a retina-speciﬁc promoter, reporter expression in the resulting embryos can be induced
+with RU486 in a tissue-speciﬁc manner. These results suggest that the inducible binary system, in which the target gene expression can be
+controlled in a stage- and tissue-speciﬁc pattern, should be readily applicable for gene function studies at all stages of development. q2002
+Elsevier Science Ireland Ltd. All rights reserved.
+Keywords :Xenopus tropicalis ; GAL4/UAS system; Transgenic line; Inducible gene expression
+1. Introduction
+InXenopus studies, over- or misexpression of a gene
+product by mRNA injection is the most common way toanalyze the function of a cloned gene (e.g. Smith andHarland, 1991). However, misexpression-associated pleio-
+tropy or lethality often masks analysis of later developmen-
+tal processes. The recently developed frog transgenesistechnique (Kroll and Amaya, 1996; Ofﬁeld et al., 2000)permits the expression of a gene product in a tissue-speciﬁcmanner by delivering the gene product under the control of adeﬁned promoter (Hartley et al., 2001). Analysis of theconsequences of transgene expression in primary trans-genics is, however, often complicated by position effects,
+variability in expression levels, and background abnormal-
+ities associated with nuclear transfer. These problems can becircumvented by establishing stable transgenic lines, butonly where transgene expression is non-lethal.To overcome these difﬁculties, we have applied the
+GAL4/UAS system extensively utilized in the ﬂy (Brandand Perrimon, 1993). This system divides the target gene
+(UAS-effector) from transcriptional activation elements
+(GAL4 transactivator) in two separate transgenic lines. Inan effector line the target gene, under the control of GAL4binding sites (
+Upstream Activation Sequences) remains
+silent in the absence of its activator GAL4, ensuring thatthese transgenic founders are viable. Only in the progeny ofa cross of a UAS-effector line to a GAL4 transactivator lineis the target gene expressed. This system can also provide an
+additional level of temporal control of transgene expression
+by fusing the GAL4 binding domain with a steroid receptorligand-binding domain (Wang et al., 1994).
+In this study, we tested the GAL4/UAS system in the
+pipid frog Xenopus tropicalis , which has emerged as a
+complementary system to its close relative, Xenopus laevis
+(Amaya et al., 1998). X.tropicalis shares many of the
+advantages of X.laevis , but is more suited for multigenera-
+tion genetic experiments by virtue of its short generation
+time and smaller diploid genome.
+Here we show that, using the transgenic activator and
+effector lines we established, the expression of UAS-targetMechanisms of Development 117 (2002) 235–241
+0925-4773/02/$ - see front matter q2002 Elsevier Science Ireland Ltd. All rights reserved.
+PII: S 0925-4773(02)00219-8www.elsevier.com/locate/modo
+* Corresponding author. Tel.: 11-434-982-5495; fax: 11-434-982-5626.
+E-mail address: rmg9p@virginia.edu (R.M. Grainger).
+1These authors contributed equally to this work.
+2Present address: Division of Developmental Biology, National Institute
+for Medical Research, The Ridgeway, Mill Hill, London NW7 1AA, UK.
+gene can be ef ﬁciently activated by a ligand-inducible
+GAL4 in response to RU486.
+2. Results
+2.1. Injected GAL4 RNA activates the transcription of
+transgenic UAS effector gene
+We have generated X.tropicalis effector lines carrying a
+UAS –ECFP construct, in which the gene for a green ﬂuor-
+escent protein (GFP) variant, ECFP (Clontech), is under thecontrol of GAL4 binding motifs. This construct alsocontains a second reporter cassette (pCAR –RFP) with the
+cardiac actin promoter driving
+Red Fluorescent Protein
+expression in the somites (Kroll and Amaya, 1996; Hartley
+et al., 2001) to identify embryos carrying the transgene (Fig.
+1A).
+To establish the utility of the UAS –ECFP line we ﬁrst
+tested whether exogenous GAL4 can activate transcriptionin stable UAS –ECFP transgenic embryos by transient
+expression assays. A male transgenic founder was crossedwith a wild-type female, and resulting embryos were theninjected in one blastomere with 1 or 10 pg of synthetic
+GAL4 mRNA at the two-cell stage (Fig. 1A). A substantial
+difference in response to the two doses of GAL4 mRNA inJ. Chae et al. / Mechanisms of Development 117 (2002) 235–241 236
+Fig. 1. Injected GAL4 RNA activates the expression of transgenic UAS effector gene. (A) Experimental outline. Injection of GAL4 RNA unilaterally int o2 -
+cell stage UAS –ECFP F1 transgenic embryos. GAL4 protein (blue ovals) binds to UAS sequences, activating transcription of the ECFP reporter (blue arrow).
+The UAS –ECFP construct carries a second reporter cassette, pCAR –RFP, to drive RFP expression in somitic muscle (red arrow), to delineate transgenic
+embryos. (B) Dorsal view of stage 19 embryos injected with indicated dose of GAL4. uninj, uninjected non-transgenic sibling control. RFP 1siblings which
+did not receive GAL4 RNA were likewise ECFP 2(data not shown). Shown in a higher magni ﬁcation are bright ﬁeld (C), GFP (D), and RFP (E) images of
+dorsal view of embryos injected with 10 pg in (F). Strong ECFP expression is seen on the injected side of embryos. (F) Lateral view of injected sides of st age 45
+embryos. Note that some RFP expression remains discernible with the GFP ﬁlter used here (D,F).
+activation of the effector gene was detected by observing
+ECFP expression in the injected side of embryos at laterstages (Fig. 1B,F). This unilateral ECFP expression wasparticularly obvious in enlarged dorsal view images ofstage 45 embryos injected with 10 pg of GAL4 mRNA
+(Fig. 1C –E). Strong RFP expression in somitic muscle
+driven by the second cassette at stage 45 (Nieuwkoop andFaber, 1967) enabled us to con ﬁrm the stable transmission
+of the transgene through the germline and to select RFP-positive embryos carrying the UAS-target to assay its acti-vation by injected GAL4 (Fig. 1F). ECFP expression wasseen in 55% (21 out of 38) or 95% (19 out of 20) of RFP-positive embryos injected with 1 or 10 pg of GAL4 mRNA,
+respectively. Uninjected RFP-positive embryos showed no
+visually-detectable ECFP expression (0 out of 10). Noexpression was observed following the injection of anydose of GAL4 into RFP-negative embryos that have notarget gene to activate (data not shown).
+The F1 animals derived from the transgenic UAS –ECFP
+founder used for GAL4 RNA injections were raised tomaturity and found to contain two different UAS –ECFP
+inserts in subsequent analyses. DNA from F1 animals was
+analyzed by genomic Southern blotting, and they showedhybridization patterns which indicate that they carry one oftwo transgenic loci in their founder (data not shown).
+Although ECFP was not detected by ﬂuorescence in the
+untreated UAS lines, the two F1 populations with distinctSouthern patterns were further evaluated for backgroundexpression of ECFP by Western blotting, and one was
+found to have detectable background by this method. Each
+group of F1 animals was outcrossed and resulting embryoswere subjected to Western analysis. A correlation betweenSouthern patterns and background expression of ECFP wasthereby revealed; one group showed little background whilethe other group showed a detectable level of background(data not shown). The low background line was used in
+subsequent experiments.
+2.2. Rx promoter –GFP reporter expression in transgenic X.
+tropicalis lines
+For the GAL4 transactivator line, we chose to target
+expression to the retina using the promoter from the homeo-box gene Rx(Mathers et al., 1997). X.laevis Rx has been
+reported to be expressed primarily in the primordia of the
+retina. A 2.2 kb 5
+0-upstream region of the Rxgene was
+obtained by screening a X.tropicalis genomic library with
+aX.laevis Rx cDNA probe. In order to con ﬁrm that this
+promoter sequence could direct expression to the develop-ing retina, we generated transgenic lines with GFP fuseddownstream of the 2.2 kb Rxpromoter (pRx –GFP) and
+analyzed the F1 embryos for the GFP expression pattern.
+Strong GFP expression was seen ﬁrst in the anterior of
+neural fold stage embryos, and was subsequently localizedto the two ﬁelds that give rise to the retina (Fig. 2A,B). At
+later stages, the retina remains the primary site of GFPexpression in the pRx –GFP transgenic embryos (Fig. 2C –
+E). The same promoter sequence that has the upstreamregion important for Rxexpression in the retina was utilized
+to direct the expression of chimeric GAL4 in the activator
+lines. An advantage of the use of this eye-speci ﬁc promoter
+is the relative ease of assaying the activation of effector invivo by being able to identify embryos showing ﬂuores-
+cence because it is visible externally.
+2.3. Inducible chimeric GAL4 activates UAS-target in the
+presence of RU486
+To add the dimension of temporal regulation of target
+gene expression, we utilized a chimeric transactivator,GALPR, constructed by fusing the GAL4 DNA bindingJ. Chae et al. / Mechanisms of Development 117 (2002) 235 –241 237
+Fig. 2. Rxpromoter directs GFP reporter expression to the eye in transgenic X.tropicalis embryos. A 2.2 kb genomic fragment from the Rxgene was fused to
+GFP (pRx –GFP) and used to establish stable X. tropicalis transgenic reporter lines. (A –E) Fluorescent images of pRx –GFP transgenic embryos at indicated
+stages. The identical promoter sequence was used to drive expression of the chimeric GAL4 transactivator in pRx-GALPR transgenic lines (see Fig. 3).
+domain to a mutated human progesterone receptor ligand
+binding domain and the VP16 transcriptional activation
+domain (Fig. 3A) (Wang et al., 1994). Upon binding tosynthetic progesterone analogue, RU486, this fusion proteinescapes cytoplasmic sequestration, travels to the nucleus,and binds UAS sequences, resulting in ef ﬁcient ligand-indu-
+cible transactivation of target genes in cell culture and trans-genic mouse models (Wang et al., 1997; Burcin et al., 1998;Zhao et al., 2001). To establish transgenic X.tropicalis lines
+with retina-speci ﬁc expression of this chimeric transactiva-
+tor, we generated frogs bearing the Rxpromoter driving the
+GALPR construct (pRx-GALPR). Next, we asked whetherthe chimeric GAL4 activates the transcription of UAS-target in the progeny of the cross of the two lines (Fig.3A). The pRx –GALPR transactivator line was crossed
+with UAS –ECFP effector frogs (Fig. 3A) and the progeny
+cultured with or without RU486 from stage 22 onward (Fig.
+3B). Each of the lines in this cross is hemizygous for a
+transgenic locus, producing four different genotypes: non-transgenic embryos, embryos bearing one transgene (either
+the effector or transactivator gene), and embryos bearing
+both effector and transactivator transgenes. Approximately50% of the progeny expressed RFP in the somites, indicat-ing that they carry a single locus bearing the UAS –effector
+construct. Effector gene expression was analyzed either bymicroscopic examination for ECFP ﬂuorescence in the eye
+or by Western analysis of eye extracts with an EGFP anti-body that crossreacts with ECFP (Clontech). The expression
+of the ECFP in the effector construct is highly localized in
+the retina and increases in a dose-dependent manner afterRU486 treatment in embryos carrying both effector andtransactivator genes. This result can be seen in a qualitativeway in the series of ﬂuorescent images in Fig. 3B, which
+illustrates embryos 30 and 45 h after treatment. Table 1summarizes data from embryos carrying the effector trans-gene treated with 0, 5 and 25 nM RU486, showing that both
+the fraction of embryos expressing ECFP, and their level of
+expression, increases with increasing dose of RU486.J. Chae et al. / Mechanisms of Development 117 (2002) 235 –241 238
+Fig. 3. Inducible GAL4 transgenic construct activates UAS-target gene in response to RU486. (A) A UAS –ECFP line was crossed to a pRx-GALPR line, in
+which the Rxpromoter drives a chimeric transactivator gene (GAL4 DNA-binding domain, fused to a herpes virus VP16 transcriptional activation domain, in
+turn fused to a modi ﬁed progesterone receptor ligand-binding domain). In the double-transgenic progeny, transcription of the UAS –ECFP reporter cassette is
+activated only when the synthetic ligand RU486 is present, relieving the cytoplasmic sequestration of the GALPR transactivator protein. (B) Repres entative
+embryos from this cross, treated with 0, 5, or 25 nM RU486 from stage 22 onwards for 30 h (bottom panels) or 45 h (top panels). ECFP expression was observedonly in RFP-positive embryos. (C) Western blot analysis of eye extract from embryos shown in (B) using EGFP antibody and anti-actin antibody. A pool of 30
+RFP-positive or RFP-negative embryos at each dose of RU486 was assayed in each lane. (D) Western blot band intensities are quanti ﬁed by densitometry, and
+relative levels of ECFP expression are calculated by normalizing to actin levels.
+Western blot analysis of dissected eye tissue (Fig. 3C,D)
+shows that the level of expression of ECFP in treatedembryos depends in a quantitative way on the dose of
+RU486. ECFP expression was minimal in the absence of
+RU486, as assayed by ECFP ﬂuorescence or Western analy-
+sis (Table 1 and Fig. 3B –D, and data not shown), suggesting
+that this system is not affected by endogenous froghormones. We also found that elevated ECFP ﬂuorescence
+45 h postincubation (Fig. 3B, top panels) returned to base-line in some embryos after RU486 was removed fromculture media though others still showed signi ﬁcant ﬂuores-
+cence after 2 days of withdrawal (data not shown). While
+the decay of the reporter gene activity was slow, it appearsthat the target gene induction is reversible. We conclude thatthis inducible regulatory system works ef ﬁciently in X.
+tropicalis .
+3. Discussion
+In this study, we have evaluated the utility of a GAL4/
+UAS system in Xenopus tropicalis . In the stable transgenic
+activator and effector lines we established, transgenic GAL4efﬁciently activates the transcription of a reporter gene in
+the cells where it is expressed. Development of a GAL4/UAS method for targeted gene expression in the X.tropica-
+lissystem is desirable for several reasons. First, the signi ﬁ-
+cantly shorter generation time of X.tropicalis ,3–5 months,
+allows rapid production and expansion of stable GAL4 andUAS transgenic lines at a relatively low cost. Second, theefﬁciency of in vivo promoter analysis in transgenic Xeno-
+pus(Ofﬁeld et al., 2000) is resulting in an accumulation of
+deﬁned promoters. These promoters, when combined with
+GAL4, provide very useful tools for expressing combina-
+tions of effector constructs in analysis of a wide variety of
+developmental processes. Third, the GAL4/UAS system hasmany potential applications for gene function studies(Phelps and Brand, 1998). For example, this method may
+be used to produce loss-of-function phenotypes by drivingthe expression of a gene variant that will antagonize theendogenous gene product. This is highly desirable becausecurrently there is no technique for targeted gene disruption
+inXenopus .
+In addition to showing the utility of a GAL4/UAS system
+inXenopus for spatial regulation of transgenic constructs,
+we also have used the construct to achieve the potential fortemporal control of gene expression. A ligand-inducibleregulatory system based on a mutated progesterone receptorligand binding domain has been shown to work in adultmouse cells and organs (Wang et al., 1997; Zhao et al.,
+2001). We show here that this inducible system can be
+used to study early embryonic development. We demon-strated that this system regulates gene expression in vivoinX.tropicalis embryos in response to RU486. We observed
+that embryos cultured in 25 nM of RU486 showed a stronginduction of the target gene with no observable develop-mental defects (data not shown). We should mention thatthe induction is possible at concentrations that are signi ﬁ-
+cantly lower than the micromolar range required to antag-
+onize progesterone (Wang et al., 1994). Therefore, RU486treatment is unlikely to affect this endogenous hormonesystem.
+While rapid kinetics of induction are a desirable aspect of
+any inducible system, we observed a delay in target geneinduction, with ECFP ﬂuorescence ﬁrst detected 17 h post-
+incubation in RU486. However, it has been reported that
+detectable protein ﬂuorescence lags behind the onset of
+UAS –GFP gene transcription, possibly due to post-transla-
+tional modi ﬁcation and folding (Brand, 1995; Phelps and
+Brand, 1998). Consistent with this, maturation of EGFP(Clontech) takes about 8 –9hi n Xenopus when tested by
+microinjection of EGFP mRNA into 2 –4 cell embryos
+(Zaraisky, A., personal communication). Considering thatthe concentration of mRNA transcribed from the transgene
+is, in general, lower than that used in microinjection, the
+time lag for ECFP accumulation to detectable levels wouldbe expected to be considerably longer than 8 –9 h. We might
+expect that induction of other genes used in applications ofthis system would be substantially faster than that of ECFPshown here.
+For the applications usually requiring robust transgene
+expression such as the gene perturbation assays mentioned
+earlier, further modulation of induction rapidity and expres-
+sion level of the effector transgene could be achieved inseveral ways. First, one can make transgenic lines withvery high numbers of inserts (e.g. 30 –40 copies) in the
+Xenopus system, either for the effector or transactivator,
+or both. One could also increase the number of GAL4 bind-ing sites upstream of the target gene (Brand and Perrimon,1993; R ørth, 1996). In addition, one could insert 5
+0or 30
+UTR sequences that would stabilize the transcript from the
+transgene (Rupp et al., 1994; Turner and Weintraub, 1994).Functional inhibition of some gene products, such as home-J. Chae et al. / Mechanisms of Development 117 (2002) 235 –241 239
+Table 1
+Target gene (ECFP) expression in the progeny of the cross of pRx-GALPR
+and UAS –ECFP animalsa
+ECFP11 ECFP1 ECFP2
+0 nM RU486 0 0 50
+5 nM RU486 3 10 3725 nM RU486 11 8 31
+aEmbryos from the cross of the pRx-GALPR activator line with the
+UAS –ECFP effector line were incubated with RU486 for 30 h and assayed
+for ECFP expression. Each of 50 embryos carrying the effector gene (i.e.RFP-positive) cultured in 0 (solvent control), 5, or 25 nM of RU486,
+respectively was scored as strongly ECFP-positive ( 11 ), weakly ECFP-
+positive ( 1) or ECFP-negative ( 2). At the higher dose of RU486, the
+fraction of embryos expressing ECFP approaches the expected maximum
+level of 50%, i.e. the fraction of embryos expected to carry both activator
+and effector transgenes. Effector-negative embryos (i.e. RFP-negative)were also analyzed for ECFP expression in the same way and showed nodetectable ECFP expression.
+odomain transcription factors including Pax6 and Otx
+homologs, Crx and SpOtx2, may not require very highlevels of overexpression of dominant-negative mutantsand therefore the expression level of mutant effector trans-gene producing the phenotype would be readily reached by
+the method described here. These genes have been shown to
+be repressed effectively by dominant-inhibitory variants atconcentrations lower than those of wild-type products(Singh et al., 1998; Furukawa et al., 1997; Li et al., 1999).
+While culturing embryos with RU486 at stage 22 resulted
+in 14-fold induction of target gene expression, we also trea-ted with RU486 at stage 41 onward and observed compar-able activation of ECFP expression (data not shown). This
+suggests that this system can overcome a major limitation of
+RNA expression studies in Xenopus , that the instability of
+RNA prevents analysis of its effects on later stages, and maybe used to express effector transgenes at all stages of devel-opment, facilitating analysis of genes that function both inearly embryogenesis and later developmental processessuch as organogenesis.
+3.1. Note
+While preparing this paper, we learned of relevant studies
+using ﬂy and X.laevis that have now been published by
+other groups (Osterwalder et al., 2001; Roman et al.,2001; Hartley et al., 2002).
+4. Experimental procedures
+4.1. DNA constructs and generation of transgenic lines
+A 2.2 kb 5
+0-upstream region of the Rxgene was obtained
+by screening a Lambda FIX-II Xenopus tropicalis genomic
+library (constructed by Lisa Brunet and Richard Harland)with a Xenopus laevis Rx cDNA probe containing the 5
+0
+untranslated region. The pRx –GFP construct was generated
+by subcloning this 2.2 kb region of the X.tropicalis Rx
+promoter into pEGFP-1 vector (Clontech). This constructwas linearized with AﬂII for making transgenic animals.
+The pRx –GALPR activator construct was generated by
+deleting an Asp718 –NotI/blunt fragment containing the
+EGFP coding sequences in pRx –GFP, and replacing them
+with an Asp718 –BamHI/blunt fragment containing the
+chimeric GAL4-VP16-mutant progesterone receptor
+ligand-binding domain isolated from pGL-VP (Wang et al.,
+1994). To construct the bifunctional UAS –ECFP plasmid,
+the cardiac actin promoter in pCARGFP (gift of E. Amaya)(Kroll and Amaya, 1996) was removed and cloned into plas-mid pDsRed1 (Clontech), creating pCAR –RFP construct. An
+AﬂII fragment of the resulting construct containing the CAR –
+RFP cassette then was inserted into plasmid pECFP-1 (Clon-tech), resulting in double color reporter pBicolor in which the
+expression of RFP is driven by the cardiac actin promoter and
+any promoter can be cloned in front of the ECFP codingsequences. Finally, the HindIII–SmaI fragment containingﬁve copies of the GAL4 consensus binding sites (UAS)
+linked to the hsp70 TATA box was isolated from plasmid
+GUAS-GFP3 (gift from E. Amaya) (Bronchain et al., 1999)derived from pUAST (Brand and Perrimon, 1993) andsubcloned into plasmid pBicolor, creating UAS –ECFP
+(UAS –ECFP/pCAR –RFP). Transgenic lines used in this
+study were generated as previously described (Of ﬁeld et
+al., 2000) with some modi ﬁcations (see Transgenesis in
+X.tropicalis atX.tropicalis website: http://minerva.acc.
+Virginia.EDU/ ,develbio/trop/).
+4.2. GAL4 mRNA injections
+A male transgenic UAS –ECFP founder was outcrossed to
+a wild-type counterpart. One blastomere of two-cell stageembryos of this cross was injected with 1 or 10 pg of capped
+synthetic GAL4 RNA transcribed in vitro using SP6 poly-
+merase from a NotI-linearized pCS2/GAL4 template (gift of
+E. Amaya) encoding native GAL4 DNA binding and activa-tion domains. Resulting embryos were then analyzed forGAL4-induced ECFP expression and the expression ofRFP in the muscle.
+4.3. RU486 treatments and Western analysis
+For experiments involving treatment with RU486
+(Biomol Research Labs Inc.), embryos expressing activator
+and effector transgenes were produced by crossing a lowbackground F1 transgenic effector animal (see Section 2)to a GALPR activator founder. Embryos were cultured in 0(solvent control), 5, or 25 nM RU486 freshly diluted in 0 :1£
+MBS with 0.1% BSA from a stock initially dissolved inDMSO at 25 mg/ml and subsequently diluted to 5.8 mM
+in 1 M acetic acid. Eye extracts were prepared by sonicating
+head tissue consisting primarily of eye rudiment dissected
+from RU486-treated embryos in a standard NP-40 lysisbuffer. Protein levels were quanti ﬁed by Bradford assay
+(Bio-Rad) and 5 mg of extracted protein was separated on
+a 12% sodium dodecyl sulfate –polyacrylamide electrophor-
+esis gel and transferred onto a nitrocellulose membrane(Osmonics Inc.). The blot was probed with the LivingColors A.v. Peptide antibody (Clontech) recognizing
+EGFP derivatives and an Anti-Actin antibody (Sigma)
+diluted 1:100 or 1:1000, respectively. The signals werevisualized by ECL (Amersham Pharmacia). Finally, inten-sities of resulting bands were determined and calculatedusing the Kodak Digital Science Image Station 440 CF(NEN).
+4.4. Photomicroscopy
+Images of transgenic embryos were obtained using a
+Zeiss Stemi Epi- ﬂuorescence stereoscope with GFP 500
+and rhodamine ﬁlter sets. Images were captured using a
+Dage MTI 330 cooled CCD camera.J. Chae et al. / Mechanisms of Development 117 (2002) 235–241 240
+Acknowledgements
+We thank Dr. Sophia Tsai for generously providing the
+pGL-VP plasmid, and Dr. Enrique Amaya for pCARGFP,GUASGFP3, and pCS2/GAL4 plasmids. We also gratefully
+acknowledge Jessica Gray for excellent technical assistance
+in generating transgenic frogs and Will Brown for expertfrog care. This work was supported by grants EY-06675,EY-10283 and RR-13221 from the National Institutes ofHealth.
+References
+Amaya, E., Of ﬁeld, M.F., Grainger, R.M., 1998. Frog genetics: Xenopus
+tropicalis jumps into the future. Trends Genet. 14, 253 –255.
+Brand, A., 1995. GFP in Drosophila . Trends Genet. 11, 324 –325.
+Brand, A.H., Perrimon, N., 1993. Targeted gene expression as a means of
+altering cell fates and generating dominant phenotypes. Development
+118, 401 –415.
+Bronchain, O.J., Hartley, K.O., Amaya, E., 1999. A gene trap approach in
+Xenopus . Curr. Biol. 9, 1195 –1198.
+Burcin, M.M., O ’Malley, B.W., Tsai, S.Y., 1998. A regulatory system for
+target gene expression. Front. Biosci. 3, c1 –c7.
+Furukawa, T., Morrow, E.M., Cepko, C.L., 1997. Crx, a novel otx-like
+homeobox gene, shows photoreceptor-speci ﬁc expression and regulates
+photoreceptor differentiation. Cell 91, 531 –541.
+Hartley, K.O., Hardcastle, Z., Friday, R.V., Amaya, E., Papalopulu, N.,
+2001. Transgenic Xenopus embryos reveal that anterior neural develop-
+ment requires continued suppression of BMP signaling after gastrula-
+tion. Dev. Biol. 238, 168 –184.
+Hartley, K.O., Nutt, S.L., Amaya, E., 2002. Targeted gene expression in
+transgenic Xenopus using the binary Gal4-UAS system. Proc. Natl.
+Acad. Sci. USA 99, 1377 –1382.
+Kroll, K.L., Amaya, E., 1996. Transgenic Xenopus embryos from sperm
+nuclear transplantations reveal FGF signaling requirements duringgastrulation. Development 122, 3173 –3183.
+Li, X., Wikramanayake, A.H., Klein, W.H., 1999. Requirement of SpOtx in
+cell fate decision in the sea urchin embryos and possible role as media-tor ofb-catenin signaling. Dev. Biol. 212, 425 –439.Mathers, P.H., Grinberg, A., Mahon, K.A., Jamrich, M., 1997. The Rx
+homeobox gene is essential for vertebrate eye development. Nature387, 603 –607.
+Nieuwkoop, P.D., Faber, J., 1967. Normal table of Xenopus laevis
+(Daudin), North Holland, Amsterdam.
+Ofﬁeld, M.F., Hirsch, N., Grainger, R.M., 2000. The development of Xeno-
+pus tropicalis transgenic lines and their use in studying lens develop-
+mental timing in living embryos. Development 127, 1789 –1797.
+Osterwalder, T., Yoon, K.S., White, B.H., Keshishian, H., 2001. A condi-
+tional tissue-speci ﬁc transgene expression system using inducible
+GAL4. Proc. Natl. Acad. Sci. USA 98, 12596 –12601.
+Phelps, C.B., Brand, A.H., 1998. Ectopic gene expression in Drosophila
+using GAL4 system. Methods 14, 367 –379.
+Roman, G., Endo, K., Zong, L., Davis, R.L., 2001. P(Switch), a system for
+spatial and temporal control of gene expression in Drosophila melano-
+gaster . Proc. Natl. Acad. Sci. USA 98, 12602 –12607.
+Rørth, P., 1996. A modular misexpression screen in Drosophila detecting
+tissue-speci ﬁc phenotypes. Proc. Natl. Acad. Sci. USA 93, 12418 –
+12422.
+Rupp, R.A., Snider, L., Weintraub, H., 1994. Xenopus embryos regulate the
+nuclear localization of XMyoD. Genes Dev. 8, 1311 –1323.
+Singh, S., Tang, H.K., Lee, J., Saunders, G.F., 1998. Truncation mutations
+in the transactivation region of PAX6 result in dominant-negativemutants. J. Biol. Chem. 273, 21531 –21541.
+Smith, W.C., Harland, R.M., 1991. Injected Xwnt-8 RNA acts early in
+Xenopus embryos to promote formation of a vegetal dorsalizing center.
+Cell 67, 753 –765.
+Turner, D.L., Weintraub, H., 1994. Expression of achaete-scute homolog 3
+inXenopus embryos converts ectodermal cells to a neural fate. Genes
+Dev. 8, 1434 –1447.
+Wang, Y., DeMayo, F.J., Tsai, S.Y., O ’Malley, B.W., 1997. Ligand-indu-
+cible and liver-speci ﬁc target gene expression in transgenic mice. Nat.
+Biotechnol. 15, 239 –243.
+Wang, Y., O ’Malley Jr, B.W., Tsai, S.Y., O ’Malley, B.W., 1994. A regu-
+latory system for use in gene transfer. Proc. Natl. Acad. Sci. USA 91,8180 –8184.
+Zhao, B., Chua, S.S., Burcin, M.M., Reynolds, S.D., Stripp, B.R., Edwards,
+R.A., Finegold, M.J., Tsai, S.Y., DeMayo, F.J., 2001. Phenotypicconsequences of lung-speci ﬁc inducible expression of FGF-3. Proc.
+Natl. Acad. Sci. USA 98, 5898 –5903.J. Chae et al. / Mechanisms of Development 117 (2002) 235 –241 241

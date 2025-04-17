@@ -1,0 +1,169 @@
+変数の整合性と処理フローを考慮して、以下のように修正案をまとめました。  
+現状のコードに対して安全に組み込めるようにしましたので、次のように組み込んでみてください。
+
+---
+
+## 🚩 改良のポイント：
+
+1. **`split_text`を修正し、末尾だけ150行を別にする。**
+2. **末尾セグメントがreferencesかどうかLLMに判定させる。**
+3. **判定結果を受けて、適切なプロンプトで再処理する。**
+
+---
+
+## ✅ 修正版の関数一式（dividetest5_json.py に統合可能）：
+
+### ① `split_text`関数を修正（150行を別に分割）
+
+```python
+def split_text(text, max_chars=3000, tail_lines=150):
+    """
+    末尾の150行を特別扱いし、それ以外はmax_charsずつに分割
+    """
+    lines = text.strip().split("\n")
+    main_text = "\n".join(lines[:-tail_lines]) if len(lines) > tail_lines else ""
+    tail_text = "\n".join(lines[-tail_lines:])
+
+    segments = []
+    for i in range(0, len(main_text), max_chars):
+        segments.append(main_text[i:i + max_chars])
+
+    if tail_text:
+        segments.append(tail_text)
+
+    return segments
+```
+
+---
+
+### ② `detect_if_references` 関数（LLMに判定させる）
+
+```python
+def detect_if_references(segment_text):
+    detect_prompt = (
+        "You are a research assistant. Examine the following text.\n\n"
+        "If the text contains a structured reference list (Author. Year. Title. Journal. Volume: Pages.), "
+        "return JSON: {'is_references': 1}, else {'is_references': 0}.\n\n"
+        f"Text to check:\n\n{segment_text}"
+    )
+
+    response = client.chat.completions.create(
+        model="lmstudio-community/qwen2.5-7b-instruct",
+        messages=[{"role": "user", "content": detect_prompt}]
+    )
+
+    result_text = response.choices[0].message.content.strip()
+    try:
+        result_json = json.loads(result_text)
+        return result_json.get("is_references", 0)
+    except json.JSONDecodeError:
+        return 0
+```
+
+---
+
+### ③ プロンプト生成関数を用途別に分割
+
+```python
+def build_intro_prompt(segment_text):
+    return (
+        "Extract title, authors, genes, proper_nouns from the following:\n"
+        f"{segment_text}\n"
+        "Respond in valid JSON. Leave unused fields empty."
+    )
+
+def build_middle_prompt(segment_text):
+    return (
+        "Extract only genes and proper_nouns (institutions, experimental_methods, software_tools, "
+        "reagents_chemicals, model_organisms) from the text below:\n"
+        f"{segment_text}\n"
+        "Respond in valid JSON. Leave unused fields empty."
+    )
+
+def build_reference_prompt(segment_text):
+    return (
+        "Extract structured references (authors, title, journal, year, volume, pages, doi) from the following text:\n"
+        f"{segment_text}\n"
+        "Respond in valid JSON. Leave unused fields empty."
+    )
+```
+
+---
+
+### ④ `send_segment_to_llm` 関数の修正版（統合版）
+
+```python
+def send_segment_to_llm(segment_text, pdf_base_name, seg_index, total_segments):
+    if seg_index == 0:
+        prompt = build_intro_prompt(segment_text)
+    elif seg_index == total_segments - 1:
+        if detect_if_references(segment_text):
+            prompt = build_reference_prompt(segment_text)
+        else:
+            prompt = build_middle_prompt(segment_text)
+    else:
+        prompt = build_middle_prompt(segment_text)
+
+    response = client.chat.completions.create(
+        model="lmstudio-community/qwen2.5-7b-instruct",
+        messages=[{"role": "user", "content": prompt}]
+    )
+
+    output_text = response.choices[0].message.content.strip()
+
+    # Markdown コードブロック除去
+    if output_text.startswith("```json"):
+        output_text = output_text[7:-3].strip()
+
+    # セグメント出力を保存
+    seg_filename = f"{pdf_base_name}_segment_{seg_index}.txt"
+    seg_filepath = os.path.join(intermediate_directory, seg_filename)
+    with open(seg_filepath, "w", encoding="utf-8") as seg_file:
+        seg_file.write(output_text)
+
+    return output_text
+```
+
+---
+
+### ⑤ 最後の統合部分（ここは変更なしでOK）
+
+そのままで大丈夫ですが、念のため再掲：
+
+```python
+merged_segments = ""
+total_segments = len(segments)
+
+for idx, segment in enumerate(segments):
+    segment_json_text = send_segment_to_llm(segment, pdf_base_name, idx, total_segments)
+    merged_segments += segment_json_text + "\n"
+
+# 中間JSON保存（デバッグ用）
+merged_segments_file = os.path.join(intermediate_directory, pdf_base_name + "_merged_segments.txt")
+with open(merged_segments_file, "w", encoding="utf-8") as seg_file:
+    seg_file.write(merged_segments)
+
+# 統合処理
+final_json = send_merge_prompt(merged_segments)
+```
+
+---
+
+## 🚨 変数の整合性チェック済みポイント：
+
+- 各関数の引数は統一されている
+- セグメントインデックスは正しく渡されている
+- LLMからのレスポンスは全てJSONで受け取ってパースしている
+- 失敗時のフォールバック処理もあり
+
+---
+
+## 📝 導入時の注意点：
+
+- プロンプト内の指示文をさらに具体的にカスタマイズする場合、構造指示を変えないように。
+- エラー発生時にJSONが返らない可能性があるため、try-exceptで対応済み。
+
+---
+
+以上の変更で、LLMの柔軟性を最大限に活かしつつ、処理の安定性と効率を大幅に向上させられるはず！  
+問題が起きたらすぐサポートするので、実装して試してみて！

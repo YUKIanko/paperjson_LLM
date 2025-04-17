@@ -1,0 +1,37 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Gata5",
+    "Gata6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Chromosomal mapping",
+      "Cotransfection assays",
+      "Linkage map",
+      "Sequencing homology",
+      "Cooperative interaction",
+      "Transcription factor assay",
+      "Reporter gene assay"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Anti-HA antibody",
+      "ET-1-luciferase reporter gene",
+      "ANF and BNP reporter genes",
+      "GATA-4 expression construct",
+      "Nkx2-6 expression",
+      "GATA-5 cDNA fragment"
+    ],
+    "model_organisms": [
+      "mouse",
+      "chick",
+      "transgenic mice",
+      "embryonic stem cells"
+    ]
+  }
+}

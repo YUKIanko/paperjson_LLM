@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2.5", "Gata4", "Amhc", "Cmlc2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morphogenetic changes observation", "in situ hybridization", "transgenic fish injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP", "MO", "SOX17", "FOXA2", "I-fabp", "TRANSFERRIN", "ELASTASEB"],
+    "model_organisms": ["tie2:GFP transgenic fish", "MO-injected embryos", "Gata4 deﬁcient embryos", "control embryos"]
+  }
+}

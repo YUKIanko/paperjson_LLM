@@ -1,0 +1,13 @@
+{
+  "title": "Inducible control of tissue-speciﬁc transgene expression in Xenopus tropicalis transgenic lines",
+  "authors": ["Jeiwook Chae", "Lyle B. Zimmerman", "Robert M. Grainger"],
+  "references": ["Smith and Harland, 1991", "Kroll and Amaya, 1996", "Ofﬁeld et al., 2000", "Brandand Perrimon, 1993", "Hartley et al., 2001"],
+  "genes": ["TERT"],
+  "proper_nouns": {
+    "institutions": ["University of Virginia"],
+    "experimental_methods": ["GAL4/UAS system", "nuclear-transfer-mediated transgenesis", "crossing stable Xenopus tropicalis transgenic lines", "mRNA injection", "frog transgenes technique"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486"],
+    "model_organisms": ["Xenopus tropicalis"]
+  }
+}

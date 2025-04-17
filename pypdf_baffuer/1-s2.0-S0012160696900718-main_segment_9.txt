@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Northern blots", "RT/PCR assay", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["MF-20 antigen", "cardiac actin", "albino embryos"],
+    "model_organisms": ["Xenopus"]
+  }
+}

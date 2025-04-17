@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Loots and Ovcharenko, 2004", "Pu et al., 2004"],
+  "genes": ["Gata4", "Erbb3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["mobility shift experiments", "transduction of Egf signals", "treated with the Erbb3 ligand heregulin and measured the phosphorylation of Erk", "generated AVC explants homozygous for Gata4H, a Gata4 allele that expresses reduced levels of Gata4 protein"],
+    "software_tools": ["rVista 2.0"],
+    "reagents_chemicals": ["heregulin", "U0126", "Gata4T2del", "E9.5 Gata4T2del and control embryos", "wild-type explants", "control explants", "Gata4H/H and littermate control explants"],
+    "model_organisms": ["E9.5 Gata4T2del and control embryos", "AVC explants homozygous for Gata4H, a Gata4 allele that expresses reduced levels of Gata4 protein"]
+  }
+}

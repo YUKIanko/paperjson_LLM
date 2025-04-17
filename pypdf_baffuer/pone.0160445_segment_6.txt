@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["10.1371/journal.pone.0160445.g003", "doi:10.1371/journal.pone.0160445.g004", "PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 6/1 3"],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Student’s t-test", "FITC-P3 binding test", "FITC-P1 binding test", "anti-P3 antibody blocking test"],
+    "software_tools": [],
+    "reagents_chemicals": ["ST (solution)", "1/10 ST solution", "R.arboreus sperm", "B.japonicus sperm", "C.pyrrhogaster sperm", "X.laevis sperm", "FITC-P3 (1 mM, 10 mM)", "FITC-P1 (1 mM, 10 mM)", "anti-P3 antibody"],
+    "model_organisms": ["R.arboreus", "B.japonicus", "C.pyrrhogaster", "X.laevis"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "TBX5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre/loxP technology"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}

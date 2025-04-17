@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [
+      "University of Tokyo"
+    ],
+    "experimental_methods": [
+      "agarose gel electrophoresis",
+      "Electrophoretic mobility shift-assays (EMSA)",
+      "calcium phosphate precipitation technique"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["kodak xomat/ar film", "Dulbecco’s modified eagle’s medium (DMEM)", "fetal calf serum", "luciferase activity measurement by an LKB luminometer", "double-stranded oligonucleotides"],
+    "model_organisms": []
+  }
+}

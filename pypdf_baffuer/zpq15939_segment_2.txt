@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "GATA-1s", "GATA-1s", "GATA-1", "GATA-1s", "GATA-1s", "GATA-1", "TAC-2", "ER-GATA-1", "FOG-1", "ER-GATA-1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["DNaseI hypersensitive site analysis", "conditional activation of ER-GATA-1 stably expressed in GATA-1-null G1E cells (G1E-ER-GATA-1 cells)", "treating G1E-ER-GATA-1 cells with increasing concentrations of estradiol or tamoxifen", "treatment with increasing concentrations of estradiol for 16 h"],
+    "software_tools": [],
+    "reagents_chemicals": ["estradiol", "tamoxifen", "H20862analytic tools", "/H9252-estradiol", "GATA-1-null G1E cells (G1E-ER-GATA-1 cells)", "H20841vol. 43"],
+    "model_organisms": ["Humans with Down syndrome"]
+  }
+}

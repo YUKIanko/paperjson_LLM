@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "ER-GATA-1", "ER-GATA-1(H9004N)", "ER-GATA-1(H9262M/H9252)", "ER-GATA-1(/H9004N)", "ER-GATA-1", "Alas2", "Ahsp", "Tac-2", "Gata2", "c-Kit", "Bcl-xL"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Real-time RT-PCR analysis", "induction with /H9262M/H9252-estradiol", "Western blot analysis", "measurement of Tac-2 mRNA stability after 24 or 40 h of /H9252-estradiol treatment", "measurement of Tac-2 mRNA stability after actinomycin D treatment", "determination of ER-GATA-1/tubulin ratio"],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9262M/H9252-estradiol", "/H11006SE", "actinomycin D", "/H20862-activity", "/H110050.003, 0.001, 0.002, 0.002, 0.006, and 0.023"],
+    "model_organisms": ["G1E clones", "ER-GATA-1( /H9004N) or ER-GATA-1", "two independent G1E-ER-GATA-1 clonallines"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Nfatc1", "Desmin", "Chd5", "Erbb3"],
+  "proper_nouns": {
+    "institutions": ["Harvard Medical School", "Jackson Laboratories"],
+    "experimental_methods": ["Histology", "Alcian Blue staining", "BrdU labeling", "TUNEL staining", "Gene expression", "Whole-mount staining for detection of β-galactosidase activity", "Immunostaining", "Erbb3 western blotting", "RNA analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["paraformaldehyde", "Alcian Blue in 5% acetic acid", "FBS", "Heregulin (Sigma; 100 ng/ml)", "U0126 (Calbiochem; 10 µM)", "growth factor cocktail [Tgf β2, Bmp2, hyaluronic acid, heregulin]", "complete endothelial growth media (Cambrex)", "Fugene6 (Roche)", "Pico-Pure RNA Isolation Kit"],
+    "model_organisms": ["Mice", "E9.5 embryos", "Gata4H", "Gata4flox alleles", "Gata4wt/Ki mice", "R26R stoplacZ  mice", "Gata4wt/flox; T2Cre+ mice", "Gata4flox/flox; T2Cre+ (Gata4T2del) mice", "Wnt1-Cre  mice", "C57BL6/129 genetic background", "BT20 human breast cancer cells"]
+  }
+}

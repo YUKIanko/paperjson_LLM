@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5", "HAND2", "TBX1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre recombinase driven by the α myosin heavy chain promoter", "Nkx2-5Cre"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mice"]
+  }
+}

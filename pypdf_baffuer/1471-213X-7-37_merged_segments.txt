@@ -1,0 +1,288 @@
+{
+  "title": "Development of the mammalian liver and ventral pancreas is dependent on GATA4",
+  "authors": [
+    "Alistair J Watt",
+    "Roong Zhao",
+    "Jixuan Li",
+    "Stephen A Duncan*"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Medical College of Wisconsin",
+      "John Hughes Bennett Laboratory",
+      "University of Edinburgh, Western General Hospital"
+    ],
+    "experimental_methods": [
+      "tetraploid embryo complementation"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mouse",
+      "Gata4-/- ES cells",
+      "Gata6-/- embryos"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["1", "6", "7-9", "10-12", "13-15", "16-21", "22", "23"],
+  "genes": ["FOXA1", "FOXA2", "HEX", "PROX1", "PTF1a", "GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Molecular and genetic analyses", "transcription factor function analysis", "tetraploid complementation", "in vivo footprinting analyses"],
+    "software_tools": [],
+    "reagents_chemicals": ["Albumin (Alb1) enhancer"],
+    "model_organisms": ["mouse", "embryos derived from Gata6-/- ES cells"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [23, 24, 25, 26, 27, 28, 29, 30, 31],
+  "genes": ["GATA4", "FOXA", "GATA6", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino-mediated depletion", "immunoistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [31, 32],
+  "genes": ["GATA4", "HNF4A"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["BMC Developmental Biology"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HNF4α"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation", "immunohistochemistry", "hematoxylin and eosin staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Alb1 transcripts"],
+    "model_organisms": ["Gata4+/- ES cell-derived embryos", "Gata4-/- ES cell-derived embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Alb1",
+    "Hnf4a"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "immunohistochemistry",
+      "RT-PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4+/- embryos",
+      "Gata4-/- embryos"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "Gata6", "FoxA2", "Hnf4a", "Hex", "Afp", "Alb1", "Rbp", "Ttr"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "immunohistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": ["reverse transcriptase"],
+    "model_organisms": ["Gata4+/- embryos", "Gata4-/- embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "WT1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["transverse hematoxylin and eosin-stained sections"],
+    "software_tools": [],
+    "reagents_chemicals": ["PECAM positive cells", "platelet endothelial cell adhesion molecule (PECAM) positive cells", "PDX1 expression by immunohistochemistry", "HB9"],
+    "model_organisms": ["Gata4-/- embryos", "Gata4+/- embryos", "Hex null embryos"]
+  }
+}
+{
+  "title": "Loss of GATA4 disrupts development of the ventral pancreas",
+  "authors": [],
+  "references": [1, 6, 22],
+  "genes": ["GATA4", "PDX1", "Hex", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Hex null embryos", "Gata4 null embryos", "Gata6-/- embryos", "Gata6+/- control embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Pdx1", "Hb9", "Hnf4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid complementation"],
+    "software_tools": [],
+    "reagents_chemicals": ["H&E stained transverse sections", "Alb1 gene", "GATA6", "GATA4 null ES cells", "Foxa2"],
+    "model_organisms": ["Gata4-/- embryos", "Gata4+/- embryo controls"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tissue explant studies in chick and mouse"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse embryos", "zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Gata6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4-/- embryos",
+      "Gata6+/- embryos",
+      "Gata6-/- embryos"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA4", "Pdx1", "Hprt1", "Hnf4α", "Alb1"],
+  "proper_nouns": {
+    "institutions": ["The Medical College of Wisconsin"],
+    "experimental_methods": ["super ovulation", "antigen retrieval", "in situ Hybridization", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["PMSG", "A.F. Parlow", "National Hormone and Peptide Program", "GATA4-/-", "Gata6-/-", "tetraploid embryos", "RNeasy Mini Prep Kit, Qiagen"],
+    "model_organisms": ["transgenic mouse embryos", "E17.5 GATA6-Engrailed transgenic embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "deutsch_g": "Gata6",
+      "jung_j": "Gata4, Foxa2, Hex"
+    },
+    {
+      "tremblay_kd": "Ttr",
+      "zaret_k_s": ""
+    },
+    {
+      "gualdi_r": "Rbp",
+      "zheng_m": "",
+      "hamada_y": "",
+      "coleman_jr": "",
+      "zaret_k_s_2": ""
+    },
+    {
+      "jung_j_2": "Ttr, Gata4, Hex",
+      "goldfarb_m": "",
+      "zaret_k_s_3": ""
+    },
+    {
+      "rossi_jm": "Rbp",
+      "dunn_r_n": "",
+      "hogan_blm": "",
+      "zaret_k_s_4": ""
+    },
+    {
+      "bort_r": "Hex",
+      "martinez-barbera_jp": "",
+      "beddington_rs": "",
+      "zaret_k_s_5": ""
+    },
+    {
+      "duncan_sa": "Ttr, Gata4, Hex"
+    },
+    {
+      "zaret_k_s_6": "Ttr, Gata4, Hex"
+    }
+  ],
+  "genes": [
+    "GATA6",
+    "AFP",
+    "GATA4",
+    "RBP",
+    "TTR",
+    "FOXA2",
+    "HEX"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "HNF-3 (FoxA)",
+    "NGN3"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "zebrafish",
+      "mouse",
+      "Caenorhabditis elegans",
+      "Drosophila"
+    ]
+  }
+}

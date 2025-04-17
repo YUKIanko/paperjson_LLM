@@ -1,0 +1,13 @@
+{
+  "title": "J. Chae et al. / Mechanisms of Development 117 (2002) 235 –241",
+  "authors": ["J. Chae", "<other-authors>"],
+  "references": [],
+  "genes": ["ECFP", "UAS-effector", "Rx"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["microscopic examination", "Western analysis", "fluorescent images", "Western blot analysis", "crossing", "dissected eye tissue"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "EGFP antibody", "ECFP", "Actin", "Clontech", "modiﬁed progesterone receptor ligand-binding domain"],
+    "model_organisms": ["non-transgenic embryos", "embryos bearing one transgene", "both effector and transactivator transgenes", "RFP-positive embryos", "ECFP-positive embryos"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA4", "Pdx1", "Hprt1", "Hnf4α", "Alb1"],
+  "proper_nouns": {
+    "institutions": ["The Medical College of Wisconsin"],
+    "experimental_methods": ["super ovulation", "antigen retrieval", "in situ Hybridization", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["PMSG", "A.F. Parlow", "National Hormone and Peptide Program", "GATA4-/-", "Gata6-/-", "tetraploid embryos", "RNeasy Mini Prep Kit, Qiagen"],
+    "model_organisms": ["transgenic mouse embryos", "E17.5 GATA6-Engrailed transgenic embryos"]
+  }
+}

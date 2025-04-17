@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "extirpation",
+      "transplantation",
+      "explantation experiments",
+      "isolating explants",
+      "culturing",
+      "assaying for gene expression and beating"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Tn-I", "cardiac actin", "XMLC-2a", "XTn-T c", "XMHC a"],
+    "model_organisms": ["chick", "amphibian"]
+  }
+}

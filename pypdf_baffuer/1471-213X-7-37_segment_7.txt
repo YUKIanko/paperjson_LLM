@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "WT1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["transverse hematoxylin and eosin-stained sections"],
+    "software_tools": [],
+    "reagents_chemicals": ["PECAM positive cells", "platelet endothelial cell adhesion molecule (PECAM) positive cells", "PDX1 expression by immunohistochemistry", "HB9"],
+    "model_organisms": ["Gata4-/- embryos", "Gata4+/- embryos", "Hex null embryos"]
+  }
+}

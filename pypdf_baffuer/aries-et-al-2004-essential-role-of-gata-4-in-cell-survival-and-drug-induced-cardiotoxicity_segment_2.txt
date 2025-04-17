@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4"],
+  "proper_nouns": {
+    "institutions": ["Institut de Recherches Cliniques de Montre´al"],
+    "experimental_methods": ["tail-cuff technique", "Two-dimensional guided M-mode echocardiography", "imunohistochemistry", "Terminal Deoxynucleotidyltransferase-mediated dUTP end-labeling (TUNEL)", "Student's unpaired t-test", "one-way ANOVA test", "repeated-measures ANOVA test", "Kaplan-Meier survival analysis"],
+    "software_tools": ["Sonos 5500"],
+    "reagents_chemicals": ["1.5% isoflurane", "fentanyl", "droperidol", "agarose pad", "acoustic coupling gel", "methyl green", "Apoptag kit (Inter-gen, Purchase, NY)"],
+    "model_organisms": ["mice"]
+  }
+}

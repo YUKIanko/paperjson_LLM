@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["bson", "Fautrez and Amano", "Orts-Llorca", "DeHaan", "Rosenquist and DeHaan", "Jacobson and Duncan", "Sarasa and Climent", "Sater and Jacobson", "Goldstein and Fishman"],
+  "genes": ["Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}

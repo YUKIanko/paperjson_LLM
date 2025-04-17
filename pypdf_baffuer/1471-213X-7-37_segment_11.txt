@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Gata6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4-/- embryos",
+      "Gata6+/- embryos",
+      "Gata6-/- embryos"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["genomic Southern blot", "Electron microscopy", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["GATA4 antibody", "ECORI-digested DNA", "/H9251-GATA4 antibody"],
+    "model_organisms": ["Gata4/H11001//H11001", "Gata4/H11001/loxPneo", "Gata4/H11001//H11002", "Gata4loxPneo/ /H11002", "Gata4/H11002//H11002", "E9.5 embryos", "E10.5 embryos"]
+  }
+}

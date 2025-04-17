@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["314 K. Dorey, C.S. Hill / Developmental Biology 292 (2006) 303 –316", "Takahashi et al., 2000"],
+  "genes": ["XCR1", "XCR3", "Xnr5", "Xnr1", "Xnr2", "Xnr4", "Xnr6", "ALK7"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino"],
+    "model_organisms": ["Xenopus embryos", "Xenopus"]
+  }
+}

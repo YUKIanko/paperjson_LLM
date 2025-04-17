@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Nkx2-5 Cre–mediated excision"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4MC embryos", "E12.5 G4MC embryos", "control ventricle", "mutant ventricle", "TOPRO3", "E13.5 embryos", "RV (right ventricle)", "OFT"]
+  }
+}

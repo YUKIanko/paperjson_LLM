@@ -1,0 +1,414 @@
+DEVELOPMENTAL BIOLOGY 174, 258±270 (1996)
+ARTICLE NO. 0071
+The Xenopus GATA-4/5/6 Genes Are Associated
+with Cardiac Speci®cation and Can Regulate
+Cardiac-Speci®c Transcription during
+Embryogenesis
+Yongmei Jiang and Todd Evans1
+Department of Developmental and Molecular Biology, Chanin 503, Albert Einstein College of
+Medicine, 1300 Morris Park Avenue, Bronx, New York 10461
+The GATA family of nuclear factors has been implicated in the regulation of cell type-speci®c transcription. We report
+the isolation of the Xenopus GATA-4 and GATA-6 cDNA clones and characterize the expression patterns of the xGATA-
+4/5/6 genes. By comparing the sequence of the cDNAs with those previously reported from chick and mammalian sources,we conclude that each is conserved across vertebrate evolution as a distinct gene product. Each gene is expressed indifferentiated adult heart and gut, but maintains distinct transcript patterns in various other adult tissues. During em-bryogenesis, each gene displays a similar overlapping distribution of transcripts localized throughout the developing cardio-genic region. The xGATA-4 gene can be detected in dorsal cardiac progenitor rudiments prior to migration. Axis disruptionexperiments were used to demonstrate that transcription of these genes is intimately associated with the speci®cation ofcardiac progenitors. Ectopic expression of each gene is speci®cally capable of activating during embryogenesis the transcrip-tion of the cardiac genes encoding actin and myosin heavy chain
+a. The data are consistent with a primary role for the
+GATA-4/5/6 genes in regulating heart development. q1996 Academic Press, Inc.
+INTRODUCTION muscle are not present in cardiac cells. This has led to anunderstanding that E-box-independent transcriptional regu-
+The expression of a unique set of genes during terminal latory pathways function in cardiac muscle (Navankasattu-
+differentiation of a speci®c cell type is regulated in large saset al., 1992). Although less well characterized, mecha-
+part by lineage-restricted transcription factors. An im- nisms must also exist for the coordinate regulation of non-
+portant model system for understanding tissue-speci®c gene muscle genes in the endocardium and epicardium of
+expression is cardiac tissue. While certain terminal differen- differentiating heart tissue. Determining how cardiac-spe-
+tiation genes are speci®c to cardiomyocytes, other genes ci®c regulatory factors are themselves regulated would pro-
+are coexpressed in both skeletal and cardiac muscle [see vide insight into the molecular mechanisms of cardiac cell
+Sartorelli et al. (1993), for a review]. Skeletal muscle-speci®c determination during embryogenesis.
+gene expression is regulated largely by the binding of myo- Certain members of the GATA factor family of transcrip-
+genic bHLH factors to consensus E-box sequences present tion factors, thought to be important for cell lineage-re-
+in promoters and enhancers of muscle-speci®c genes. Al- stricted gene expression in vertebrates, have recently been
+though some evidence for bHLH binding activities in cardi- implicated in the regulation of cardiac gene transcription
+omyocytes has been presented (Litvin et al., 1993; Sartorelli (Grepin et al., 1994; Ip et al., 1994; Molkentin et al., 1994;
+et al., 1992), the myogenic bHLH factors active in skeletal Thuerauf et al., 1994). Six distinct GATA factors have so
+far been characterized (Laverriere et al., 1994); each encodes
+a conserved central DNA-binding domain consisting of two
+Sequence data from this article have been deposited with the EMBL/
+similar but distinct zinc ®ngers. These proteins bind to sim-GenBank Data Libraries under Accession Nos. U45453 and U45454.
+ilarciselements, including a WGATAR or related sequence,1To whom correspondence should be addressed. Fax: (718) 430-
+8988. E-mail: tevans@aecom.yu.edu. and function as cell-speci®c transcriptional activators (Or-
+2580012-1606/96 $18.00
+Copyright q1996 by Academic Press, Inc.
+All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+259 Role of the xGATA-4/5/6 Genes
+kin, 1992). GATA-1/2/3 are each expressed in hematopoi- Despite this recent progress, several important questions
+remain concerning the role these factors play during cardiac etic lineages (Ness and Engel, 1994); GATA-1 is essential
+for maturation of erythroid cells (Pevny et al., 1995, 1991), development. For example, it has been entirely unclear
+whether each GATA factor has a distinct function or if the while GATA-2 is required at an early stage of myeloid pro-genitor cell development (Tsai et al., 1994). GATA-4/5/6 genes represent a family of redundant gene
+members. It has been unclear whether the transcription of In contrast to the GATA-1/2/3 genes, the mGATA-4 and
+xGATA-5 genes apparently have no role in blood cell devel- GATA-4/5/6 genes is merely coincident with the precardiac
+mesoderm or if the expression patterns correlate embryolog- opment. Instead, they are expressed during early em-bryogenesis in the developing heart region. Although both ically with the speci®cation of cardiac lineages. Also, the
+embryonic transcription pattern of GATA-6 has not been genes were originally designated GATA-4 (Arceci et al.,
+1993; Kelley et al., 1993), the isolation of distinct chick described. Finally, although GATA-4 has been shown to
+function in cell-culture transfections, it is not known cDNAs similar to each demonstrated that they representdifferent genes (Laverriere et al., 1994). A third related chick whether these genes can actually activate cardiac-speci®c
+genes during development. The Xenopus system is advanta- cDNA, designated GATA-6, was found to have a distinctbut overlapping expression pro®le relative to GATA-4 and geous for probing these questions. In addition to analyzing
+expression patterns, it is possible to alter cardiac speci®ca- GATA-5. Rat homologues of GATA-4 and GATA-6 havealso been described (Grepin et al., 1994; Tamura et al., tion by axis disruption experiments and to regulate earlygene expression in developing embryos by microinjection 1993). All three cDNAs are clearly more related to eachother than to the GATA-1/2/3 genes. experiments. Here we report the isolation and initial charac-
+terization of the Xenopus GATA-4 and GATA-6 homo- In the adult, the mGATA-4 and cGATA-4 genes are tran-
+scribed predominantly in the heart, small intestine, and logues and analyze their expression and function together
+with the previously isolated (Kelley et al., 1993) xGATA-5. gonads (Arceci et al., 1993; Heikinheimo et al., 1994; La-
+verriere et al., 1994). GATA-5 transcripts are abundant in Based on the conservation of individual GATA factors, we
+suggest that distinct functions for each GATA factor is heart, throughout the gut, and in gut derivatives. WhilecGATA-6 is also transcribed in heart, stomach, and small likely. We ®nd that GATA-4/5/6 transcription is intimately
+associated with cardiac speci®cation and provide novel evi- intestine, transcripts are in addition relatively abundant inlung, liver, and ovary. Therefore, these genes are each ex- dence for the importance of these genes in regulating car-
+diac-speci®c gene expression. pressed in differentiated heart tissue, while mRNA is absentfrom skeletal muscle. High-level expression of GATA-5 inthe gut is speci®c to epithelium and has been shown tocorrelate with its terminal differentiation (Kelley et al.,
+MATERIALS AND METHODS
+1993; Laverriere et al., 1994). The expression patterns de-
+scribed for mGATA-4, xGATA-5, and cGATA-5 duringIsolation and Characterization of cDNA Clonesearly embryogenesis are consistent with a role in regulatingheart formation and differentiation. Each has been shown
+Probes used to isolate cDNA clones encoding xGATA-4 and
+xGATA-6 were generated by RT/PCR using PCR primers consis- to be transcribed initially within cardiac primordia during
+tent with conserved regions of GATA-4/5/6. The cDNA used for early stages of heart formation.
+PCR was generated by random primed synthesis of poly(A)/RNA By analogy to the well-characterized erythroid transcrip-
+isolated from adult frog heart or gut (which each gave similar re-tion factor GATA-1, it was predicted that the GATA-4/5/6
+sults). Initially, primers TE271 and JB466 (shown on Fig. 1A asproteins would interact with WGATAR regulatory cisele-primers 1 and 2, respectively) were used to amplify sequences en-ments of cardiac cell-speci®c genes (Arceci et al., 1993; Kel-coding a portion of the highly conserved DNA-binding domain.leyet al., 1993). Recently, several such regulatory elementsPCR products were cloned and sequenced. Products were isolatedhave been characterized, including those of the rat A- andwith the predicted structure for each of the GATA-4/5/6 genes.
+B-type natriuretic genes (Grepin et al., 1994; Thuerauf et Based on these sequences, primers with an exact match to xGATA-
+al.,1994), the rat a-myosin heavy chain gene (Molkentin et 4 (TE283, shown on Fig. 1A as primer 3) or xGATA-6 (TE284, shown
+on Fig. 1A as primer 4) were used with JB485 (shown on Fig. 1A as al.,1994), and the murine cardiac-speci®c troponin C gene
+primer 5) to isolate fragments upstream of the DNA-binding do- (Ipet al., 1994). The WGATAR ciselement is critical for
+main. These partial cDNAs were sequenced and found to be consis- cardiac expression of these genes, and GATA-4 has been
+tent with GATA-4 or GATA-6 by comparison with the chickenshown to activate reporter genes through GATA-dependent
+and mammalian clones. These fragments were used as probes toupstream regulatory elements during transient cotransfec-screen a stage 13 whole embryo Xenopus cDNA library in lgt11tion experiments. Potential GATA factor binding sites haveunder standard hybridization conditions (5 1SSPE, 0.1% SDS, 51been noted in putative regulatory regions of numerous otherDenhardt's solution, 657C). In an initial screen of 106recombinantcardiac-speci®c genes. In sum, the GATA-4/5/6 genes arephage, using both probes combined, 70 positive clones were identi-
+excellent candidates for activating the cardiac program dur- ®ed. Upon rescreening a subset, 2 clones were positive with the
+ing early embryogenesis and within the terminally differen- GATA-4 probe, while 13 others were positive with the GATA-6
+probe. The EcoRI cDNA inserts of 2 clones from each class were tiated state.
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+260 Jiang and Evans
+subcloned into the pBluescript(SK) vector and sequenced using the
+Sequenase kit and protocol (USB). The entire sequence of each wasdetermined on both strands using exonuclease III/mung bean dele-tions and by synthesizing internal oligomers. We believe thatclones were isolated containing the full-length coding sequencesbased on conservation with the chicken clones; GATA-4 (but notGATA-6) contains an in-frame stop codon upstream of the initial
+methionine. The sequences of the PCR primers are as follows (N
+A/G/C/T, Iinosine): TE271, 5*-TI(A/T) (G/C)IG A(A/G)(A/T)
+(G/C)I(A/C) GIG A(A/G)T G; JB466, 5*-CC(G/A) TGN A(G/A)(T/C) TTC AT(G/A) TA; TE283, 5 *-TAG ACC CAC CCG GCG AGA
+C; TE284, 5*-CAG TCC AAT TCG TCT TGA T; JB485, 5 *-CCN
+GTN TA(C/T) GTN CCN AC.
+RNA Analysis
+RNA was prepared from adult frog tissues by homogenization in
+RNAzol according to the manufacturer (Cinna Biotecx). ThemRNA was puri®ed using the polyATtract III system (Promega).RNA derived from staged (Nieuwkoop and Faber, 1967) embryoswas extracted by homogenization in 50 m MTris (pH 7.5), 50 mM
+NaCl, 5 m MEDTA, 0.5% SDS, and 0.2 mg/ml proteinase K. Sam-
+ples were incubated at 377C for 30 min, followed by phenol/chloro-form extraction and ethanol precipitation in the presence of 0.3 M
+sodium acetate. RNA was then recovered by precipitating twicewith ethanol in the presence of 2 Mammonium acetate. RT and
+PCR reactions were performed as described (Zhang and Evans,1994). To avoid detecting any contaminating genomic DNA, prim-ers were designed to cross intron/exon boundaries. For each reac-tion, the number of cycles was optimized to be certain that thesignal accumulates within a linear range. The speci®city ofxGATA-4/5/6 primers was con®rmed by demonstrating that thePCR products give a predicted pattern upon restriction enzymedigestion. The parameters for xGATA-5, xGATA-6, ®broblast
+growth factor receptor (FGFR), cardiac actin, myosin heavy chain
+a(MHCa), and EF-1awere: 1 min at 947C, 1 min at 557C, 1 min
+at 727C. Annealing temperature for xGATA-4 was 59 7C. The cycle
+numbers for each pair of primers were: 28 for GATA-4, GATA-5,and GATA-6; 18 for EF-1
+a; 24 for FGFR and cardiac actin; 38 for
+MHCa. Trace [a-32P]dCTP was included in each reaction to allow
+direct quanti®cation.
+Primers used for PCR were as follows (F, forward primer; R, re-FIG. 1. The GATA-4, GATA-5, and GATA-6 sequences have beenverse primer): xGATA-4, F: 5*-GTG CCA CCT ATG CAA GCC C;conserved during vertebrate evolution as distinct genes. (A) The pre-R: 5*-TAG ACC CAC CCG GCG AGA C; xGATA-5, F: 5*-AGAdicted amino acid sequence of xGATA-4 and xGATA-6 is shownCCA CTT ATC AAG CCA CAG; R: 5*-TGG GAT GTG ATG TTGaligned with that of the previously reported (Kelley et al., 1993)
+GGT TC; xGATA-6, F: CCG CTC AGC CTC TCC; R: CTG AAGxGATA-5a gene. Arrows indicate the sequences used to design PCR
+TTG CCT GGG; EF1 a,F :5 *-CCT GAA TCA CCC AGG CCA G;primers used for isolating ®nger region sequences (1 and 2) or for
+R: 5*-GAG GGT AGT CTG AGA AGC TC; FGFR, F: 5*-TTG AAGisolating probes speci®c for xGATA-4 (3 and 5) or xGATA-6 (4 and
+TCT GAT GCG AGT GA; R: 5*-GGG TTG TAG CAG TAC TCC5). The highly conserved GATA factor DNA-binding domain con-
+AT; cardiac actin, F: 5*-TCC CTG TAC GCT TCT GGT CGT A;taining two similar but distinct zinc ®ngers is in bold. (B) The amino
+R: 5*-TCT CAA AGT CCA AAG CCA CAT A; MHC a,F :5 *-CACacid sequences of various GATA factors were compared using the
+GAG CTG GAT GAG GC; R: 5*-TCA TGC TGG TTA ACA GG.GAP program (GCG, Inc.). The data is given as (% similarity allowing
+For Northern blotting experiments, 1.5 mg poly(A)/RNA isolated conservative changes)/(% identity). For each set of alignments, the
+from adult tissues was electrophoresed through 1% agarose/formal- most similar pair is boxed and con®rms that genes are conserved
+dehyde gels and transferred onto Genescreen plus membrane. Blots across species. The genes are abbreviated, for example: xG4 Xeno-
+containing aliquots derived from the same samples were hybridized pusGATA-4, cG5 chicken GATA-5. (C) The highly conserved
+according to the manufacturer (DuPont) with probes labeled by DNA-binding domain for all reported GATA-4/5/6 genes is shown.
+random primed synthesis speci®c for xGATA-4, xGATA-5, The chicken sequences are from Laverriere et al. (1994), mGATA-4
+xGATA-6, or EF-1 a. is from Arceci et al. (1993), xGATA-5 is from Kelley et al. (1993), and
+Whole mount in situ hybridization was performed using albino rGATA-6 is from Tamura et al. (1993). Amino acids that are diagnos-
+embryos as described (Harland, 1991), except for the use of a dis- tic for each individual gene across species are in bold.
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+261 Role of the xGATA-4/5/6 Genes
+FIG. 1Ð Continued
+tinct substrate for alkaline phosphatase (BM purple AP substrate, Each RNA was translated in vitro in the presence of [35S]methionine
+and analyzed by SDS±PAGE and gel mobility-shift experiments to Boehringer-Mannheim). The speci®c anti-sense RNA probes (not
+containing sequence of the conserved DNA-binding domain) were con®rm the identity of the expected product. For each clone, 1.5
+ng puri®ed RNA was injected into fertilized eggs. During injection, synthesized in the presence of digoxigenin±UTP from linearizedplasmids containing cDNA inserts for xGATA-4 ( EagI digestion, the embryos were cultured in 5% Ficoll/0.11 MBS. The embryos
+were then cultured in 0.11 MBS until stage 9, when total RNA T3 polymerase), xGATA-5a (DraIII digestion, T7 polymerase), orxGATA-6 (HindIII digestion, T3 polymerase). Control experiments was extracted.which did not detect any signal used sense strand RNA synthesizedfrom the xGATA-5a plasmid (Kelley et al., 1993). To detect c-actin
+and MHC
+aduring development, PCR products were subcloned into RESULTS
+pSKII- and used to generate anti-sense (or control sense) single-stranded RNA probes.
+Conserved Features of the GATA-4/5/6 Genes
+Based on our previous identi®cation of three distinct
+Embryological Treatments GATA family members expressed in chick heart and gut
+(Laverriere et al., 1994), we predicted that homologues forEggs were obtained from gonadotropin-induced females and fer-GATA-4 and GATA-6 should be present in Xenopus. Usingtilized in vitro using minced testes. Embryos were cultured in 0.1 1
+degenerate primers consistent with the coding region of theMBS to the desired stage. The UV treatment was performed after
+conserved DNA-binding domain, we sought to isolate from fertilization for up to 1 min using a UVL-21 lamp (UV Products,
+adult heart or gut RNA RT/PCR products encoding these Inc.) from a distance of 2 cm. LiCl treatment was carried out on
+embryos at the 32-cell stage in 0.3 MLiCl/0.11 MBS for 10 min GATA factors. For this purpose, degenerate primers were
+(Kao and Elinson, 1988). designed to hybridize to sequences conserved in all known
+vertebrate GATA factors. RT/PCR products of the predictedsize were identi®ed using either heart or gut RNA as a
+Ectopic Expressionsource, and these were cloned and sequenced. Based on thepresence in the potential open reading frames of speci®c
+The xGATA-4 and xGATA-6 inserts were subcloned into the
+diagnostic amino acids (see below), the cDNA products are EcoRI site of the pGEMHE vector and the xGATA-5a insert was
+inserted into the BglII site of the pSP64T vector. Capped RNAs consistent with the predicted sequence of DNA-binding do-
+were prepared from these constructs by in vitro transcription of mains for xGATA-4, xGATA-5, or xGATA-6.
+linearized templates using SP6 or T7 polymerase (Krieg and Melton, Because the highly conserved ®nger region might cross-
+1984). To obtain transcripts containing the full coding region, thehybridize to other GATA factors, we used the sequence of
+following enzymes were used: xGATA-4, SphI and T7 polymerase;the cDNA fragments to design exact sequence reverse PCRxGATA-5a, XbaI and SP6 polymerase; xGATA-6, NheI and T7 poly-primers that would be speci®c for either xGATA-4 ormerase. The xGATA-1a transcript was synthesized as describedxGATA-6. These were used in subsequent RT/PCR reac-(Zhang and Evans, 1994). As a further control, RNA was preparedtions using a degenerate forward primer consistent with afrom a mutant xGATA-4 template (pG4M) constructed by deletion
+highly conserved stretch of amino acids in the N-terminal of a 167-bp MscI fragment located near the 5 *end of the wild-type
+region of all known GATA-4/5/6 genes (PVYVPT, primer 5 clone. This deletion results in a frame shift that excludes the DNA-
+binding domain and therefore does not encode a functional protein. in Fig. 1A); the sequences between these primer pairs would
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+262 Jiang and Evans
+FIG. 2. Transcription patterns for the xGATA-4/5/6 genes. (A) A semiquantitative RT/PCR assay was used to analyze transcript levels
+in various tissues of the adult frog. Each gene is most highly expressed in heart and small intestine; note that levels cannot be analyzed
+between the genes, but only among tissues for a given gene. Lanes are abbreviated: H, heart; SK, skin; LU, lung; K, kidney; SP, spleen; P,pancreas; SI, small intestine; C, colon; ST, stomach; M, skeletal muscle; O, ovary; LI, liver. Additional reactions used primers to detectlevels of EF-1
+a, to demonstrate the presence of cDNA in each reaction. (B) RNA from the indicated stages of development was analyzed
+by RT/PCR for the relative abundance of each gene product. (C) Northern blots were performed using RNA isolated from adult blood (B),gut (G), heart (H), liver (Li), or lung (Lu). Blots were analyzed using gene-speci®c probes derived from the xGATA-4/5/6 genes, or the EF-1
+agene, as indicated. Transcript sizes (GATA-4: 5.7 and 4.3 kb, GATA-5: 1.9 kb, GATA-6: 4.4 and 3.8 kb) were estimated using RNA
+molecular weight standards (not shown). The GATA-4 and GATA-5 blots were exposed 4 days, the GATA-6 blot was exposed for 2 days,and the EF-1
+ablot was exposed for 12 hr.
+not be expected to be conserved among distinct GATA fac- xGATA-5 and xGATA-6, respectively. The statistics are
+similar for each of the GATA-4/5/6 genes and indicate that tors. RT/PCR products of the expected size were generated
+from heart or gut RNA; these were cloned and used as the unique sequence of each family member has been highly
+conserved among vertebrates. This implies that each family probes to screen a library derived from stage 13 Xenopus
+gastrula RNA. As predicted, these probes hybridized to dis- member provides a distinct function that has been main-
+tained during evolution. The xGATA-4/5/6 genes are only tinct cDNA clones; inserts speci®c for each were isolatedand characterized by DNA sequencing. 52±54% similar to the xGATA-1/2/3 genes, representing
+predominantly the DNA-binding domain. We analyzed fur- The predicted amino acid sequence encoded by the novel
+xGATA-4 and xGATA-6 cDNA clones are compared in Fig. ther the relationship among known GATA-4/5/6 genes by
+comparing the sequences encoding the DNA-binding do- 1A to that of the previously reported xGATA-5. All threecDNAs encode proteins of approximately 390 amino acids, main, which is highly conserved among all known GATA
+factors (Fig. 1C). Interestingly, speci®c amino acids have arranged similarly with respect to the central conserved®nger region. Based on a comparison of the three chicken been conserved for each member from amphibians to mam-
+mals, even within this region of global similarity. These genes (Laverriere et al., 1994), we expected to ®nd that
+GATA-5 and GATA-6 are more similar to each other than amino acids represent diagnostic ``signature'' sequences
+that distinguish a factor as GATA-4, GATA-5, or GATA-6. to GATA-4, and there are signi®cant stretches of similarityoutside of the ®nger region (for example at the very carboxyl This is most evident within the ®rst ®nger of GATA-6,
+although examples are found for each of the genes. terminus). To further analyze the relationship of the three
+genes, we compared the predicted sequences of each gene
+with each other, as well as to the three chicken genes. Sur-
+Expression Patterns of the xGATA-4/5/6 Genesprisingly, we found that xGATA-4 is not signi®cantly di-verged from xGATA-5/6 (Fig. 1B). In fact, in the case of We have used an RT/PCR assay to analyze the expression
+of the xGATA-4/5/6 genes in differentiated adult tissues. frogs, the GATA-4/5 genes have a slightly higher degree ofoverall similarity relative to other pairs (73% vs 69 or 68%). PCR primers were determined in preliminary experiments
+to generate a product which is speci®c for each gene, based Most importantly, the sequence comparison shows that
+individual GATA factors are more highly conserved be- on size and restriction pattern (not shown). As shown in
+Fig. 2A, each of the three genes is expressed in adult heart, tween species than they are among each other within agiven species. Therefore, the xGATA-4 gene is 83% similar as demonstrated previously in the case of the chicken (La-
+verriere et al., 1994). GATA-4 mRNA is also abundant in to the cGATA-4 gene, but only 73 or 69% similar to
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+263 Role of the xGATA-4/5/6 Genes
+RNA derived from small intestine, stomach, ovary, and eral progenitors fuse. We have used the whole mount in
+situ hybridization technique to compare early expression liver. Although the RT/PCR assay should not be used to
+accurately determine relative levels of message in various patterns of the xGATA-4/5/6 genes during early heart devel-
+opment. tissues, the sensitivity of the RT/PCR assay allows us todistinguish lower RNA levels in numerous tissues; much As shown in Fig. 3A, each of the GATA-4/5/6 genes is
+transcribed in stage 22 embryos in a broad region that in- lower signals are detected in lung, spleen, pancreas, and
+skin. As shown previously (Kelley et al., 1993), xGATA-5 cludes the precardiac mesoderm. Transcript levels are high-
+est at the ventral midline, although RNA is present in the RNA is also detected in small intestine, stomach, and at
+lower levels in lung, kidney, spleen, pancreas, and ovary. lateral plate with a roughly symmetric bilateral distribu-
+tion. The patterns overlap extensively, although they are GATA-6 is similarly transcribed in small intestine andstomach. Lower GATA-6 RNA levels are found in lung, not entirely identical. For example, xGATA-5 is consis-
+tently detected along more posterior regions of the ventral pancreas, and colon.
+In general, these expression patterns are quite similar to midline, relative to the other two genes. Also, xGATA-4 and
+xGATA-6 expression is enhanced in the dorsal precardiac those reported for the chicken genes and mGATA-4. Moststrikingly, all three genes are transcribed in heart and gut, lateral plate, relative to xGATA-5. Therefore, at the tailbud
+stage of development, the domains of xGATA-4/5/6 tran- but not in skeletal muscle. However, there are some notabledifferences in transcription patterns between species. The scription correlate well with the cardiogenic ®eld.
+At the time a beating heart structure has formed in young relatively abundant GATA-4 transcripts detected in froglung and liver were not seen in the chick or mouse. Also, stage 35/36 tadpoles, transcription of each of these genes is
+localized to cardiac tissue (Fig. 3B). Again, the expression although cGATA-5 and cGATA-6 are expressed transientlyin the large intestine during chick embryogenesis, xGATA- patterns for xGATA-4 and xGATA-6 are very similar to that
+of xGATA-5. Transcripts are not restricted speci®cally to 6 transcripts are maintained in the adult frog colon. Eachof the xGATA-4/5/6 genes is expressed during embryogene- differentiating heart muscle; we detect RNA in the myocar-
+dium, endocardium, and in what appear to be the developing sis and up-regulated during gastrulation (Fig. 2B). Using thesensitive RT/PCR assay, we detect low levels of maternal great vessels. Levels appear highest in endocardium, al-
+though this might simply re¯ect differential accessibility xGATA-5 RNA present in the egg, which was not found inNorthern blotting experiments (Kelley et al., 1993). to probe. The antibody staining patterns that re¯ect RNA
+distribution are diffuse and heterogeneous compared to a The RT/PCR assay is less useful regarding message com-
+plexity or relative abundance of mRNA for different genes. muscle-speci®c marker such as cardiac actin (see below) or
+the MF-20 antigen (not shown). Therefore, we performed Northern blots using probes de-rived from regions outside of the conserved DNA-binding Although all three genes are expressed (as assayed by
+Northern blotting experiments) earlier in development (for region. Speci®cally, we were interested in determining
+whether similar transcripts are present in RNA derived example, prior to migration of the dorsal cardiac rudiments),
+the level of detection by in situ hybridization prevents us from heart and gut. Different mRNA patterns might indi-
+cate that distinct regulatory mechanisms function for the from drawing ®rm conclusions regarding earlier patterns.
+However, weak staining of xGATA-4 is clearly present activation of these genes in disparate lineages. As shown inFig. 2C, we see no differences for each of the three genes in around one half of the marginal zone of a stage 10 embryo
+(Fig. 3C, left). This is apparently the DMZ, based on experi- RNA derived from different tissues. There are two predomi-nant GATA-4 messages of 5.7 and 4.3 kb, one GATA-5 ments to follow, although the use of albino embryos makes
+the distinction dif®cult. By late gastrulation, xGATA-4 message of 1.9 kb, and two messages that hybridize to theGATA-6 probe; a major transcript of 4.4 kb and a minor RNA is detected in two paired rudiments, consistent with
+the predicted position of migrating cardiac primordia (Fig. mRNA of 3.8 kb. The Northern blotting experiments sup-port in general the data derived by RT/PCR, demonstrating, 3C, middle). By the time the heart progenitors have fused
+at the ventral midline, xGATA-4 RNA is localized exclu- for example, low levels of mRNA in liver and lung.
+sively to developing heart tissue (Fig. 3C, right).
+GATA-4/5/6 Expression Patterns during
+Cardiogenesis GATA-4/5/6 Expression Correlates with
+Speci®cation of Cardiac ProgenitorsInXenopus, the cardiac progenitors are derived from
+paired dorsolateral mesoderm located deep in the marginal The speci®cation of cardiac progenitors occurs during gas-
+trulation in response to mesoderm patterning signals that gen- zone, originating on either side of the dorsal blastopore lip
+[see Jacobson and Sater (1988), for a review]. Following gas- erate dorsolateral mesoderm (Sater and Jacobson, 1989). It is
+well established that disruption of axial patterning has a corre- trulation, the precardiac mesoderm migrates to the ventralmidline and fuses to form the heart primordium, around sponding in¯uence on heart formation (Jacobson and Sater,
+1988; Kao and Elinson, 1988). Therefore, treatment of fertil- stages 28±31. Previously, we found that xGATA-5 is tran-scribed in presumptive cardiac mesoderm at the time bilat- ized eggs with UV light causes ventralized embryos that lack
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+264 Jiang and Evans
+FIG. 3. The xGATA-4/5/6 genes are expressed speci®cally in the developing cardiogenic region during embryogenesis. Whole mount in situ
+hybridization assays were performed on albino embryos to analyze the early transcript patterns. (A) Stage 22 embryos show transcripts localized
+to the developingcardiovascular region at the ventral midline. (B) Bystage 35/36, transcripts are localized to the beating heart. High-magni®cationviews (right) show that staining is diffuse and throughout the heart region, including endocardium, myocardium, and great vessel endothelium.(C) Early staining pattern detecting xGATA-4 transcripts. At stage 10 (left) RNA is detected along one half of the marginal zone. At stage 12(center) two distinct rudiments located on opposite sides of the blastopore (bottom) express xGATA-4 transcripts. By stage 30 (right), the cardiacprogenitors have migrated and transcripts are localized to the developing heart region at the ventral midline.
+heart structures. Likewise, incubating blastula embryos with As shown in Fig. 4A, LiCl treatment leads to an alteration
+in expression patterns, so that by an equivalent of stage 22, LiCl enhances dorsal structures and leads to large radial hearts.
+We have disrupted axial patterning by these methods and ana- RNA is detected in a wide radial band that encircles the
+dorsalized embryos. Therefore, xGATA-4/5/6 transcription l y z e db yw h o l em o u n t in situ hybridization how this affects
+the expression patterns of GATA-4/5/6 genes. correlates precisely with the predicted position of speci®ed
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+265 Role of the xGATA-4/5/6 Genes
+FIG. 4. LiCl treatment results in hyperdorsalized embryos and a concomitant expansion of GATA-4/5/6 expression re¯ecting the radial
+distribution of cardiac progenitors. (A) Embryos were treated with LiCl at the 32-cell stage and allowed to develop until untreated siblings had
+reached stage 22, before being analyzed for GATA-4/5/6 transcripts by whole mount in situ hybridization. Arrows indicate the width (along
+the A/P axis) of the band of cells expressing the genes around the radius of the embryo. (B) The analysis was performed on similarly treatedand staged embryos, using probes speci®c for cardiac actin (top) or MHC
+a(bottom). Note that, compared to (A), a relatively ``thin'' band of
+cells (most similar to the xGATA-6 pattern) marks the presumptive cardiac skeletal muscle progenitors (arrows), while both of these genes arein addition expressed in a much broader region re¯ecting presumptive embryonic dorsal mesoderm (left side of each embryo).
+cardiogenic precursors. The patterns are again similar but a corresponding decrease in the domains of xGATA-4/5/6
+mRNA (not shown). Therefore, these three genes coordi- not identical; the xGATA-6 gene is transcribed in a more
+restricted band of cells relative to the other two genes. Em- nately respond to axial disruption in a manner that supports
+the hypothesis that their expression is intimately associated bryos completely ventralized by UV treatment do not tran-scribe any of the three genes; less extensive UV treatment, with the speci®cation of cardiogenic precursors.
+A relatively thin radial band of cells (most similar to the which leads to a partial loss of dorsal structures, results in
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+266 Jiang and Evans
+xGATA-6 pattern) is shown upon LiCl treatment to tran- entiation markers at these later stages. We conclude that
+while ectopic GATA-4/5/6 expression during early em- scribe the control cardiac genes for c-actin and MHC a(Fig.
+4B). In each case, extensive additional regions corresponding bryogenesis can in¯uence (perhaps transiently) expression
+of cardiac genes, it is insuf®cient to dramatically alter car- to presumptive dorsal muscle also transcribe the gene in a
+radial manner, as these genes are also expressed in embry- diac development.onic skeletal muscle. These control experiments emphasize
+that the cells expressing GATA-4/5/6 during embryogenesis
+are restricted to heart and not muscle, yet appear to mark
+DISCUSSION
+a more extensive population of cells relative to the cardiacmuscle genes. We speculate that these additional cells By analyzing DNA elements important for transcrip-
+tion of cardiac genes, several factors have recently been might represent at least the presumptive endocardial lin-eage, perhaps including cells of the presumptive great vessel identi®ed as potential cardiac gene regulators. Primary
+attention has focused on proteins that bind to CArG ele- endothelium and/or epicardium.
+ments or to an A/T rich region (Argentin et al., 1994;
+Edmondson et al., 1994; Goswami et al., 1994; Yu et al.,
+Regulation of Cardiac-Speci®c Genes by1992; Zhu et al., 1993). The former are members of thexGATA-4/5/6SRF family, while the latter are classi®ed as MEF-2 fac-tors, which encode MADS-box DNA-binding proteins The expression patterns of xGATA-4/5/6 are consistent
+with the notion that these proteins regulate the transcrip- also structurally related to SRF. While certain members
+of these families are likely to play important roles in regu- tion of cardiac-speci®c genes during embryogenesis. TheXenopus system allows us to test this hypothesis directly lating cardiac genes, the issue has been complicated be-
+cause members also regulate skeletal muscle gene expres- by ectopic expression experiments. The endogenousGATA-4/5/6 transcripts do not accumulate until gastru- sion. Other factors shown to interact with cardiac regula-
+tory elements include TEF-1 (Farrance et al., 1992) and lation, so that expression of ectopic factors might preco-ciously activate transcription of target genes. RNA encod- fos/jun (McBride et al., 1993).
+An alternative approach has been to identify transcrip- ing each of the three GATA factors was synthesized in
+vitro and injected into fertilized eggs. Embryos were iso- tion factors that are expressed speci®cally in cardiac lin-
+eages, without a prior knowledge of potential target genes. lated at stage 9 and RNA was prepared and analyzed forcardiac-speci®c transcripts by quantitative RT/PCR. As This has led to the successful identi®cation of two regula-
+tory families that are unique to cardiac (relative to skele- shown in Fig. 5A, injection of each of the three transcriptsactivates the genes encoding MHC
+aand (to a lesser ex- tal) muscle cells. The homologue of the Drosophila Nkx-
+2.5 gene (tinman) has been isolated from mouse (Lints et tent) cardiac-speci®c actin. In contrast, RNA levels for
+the FGFR, which is expressed ubiquitously, remain un- al.,1993) and Xenopus (Tonissen et al., 1994) sources.
+The gene is ®rst expressed in early heart primordia and changed. As controls, the anti-sense RNA of xGATA-5,
+or a xGATA-4 transcript derived from a cDNA which was in primitive pharyngeal endoderm, which is thought to
+be required for heart induction. The Nkx-2.5 gene is also mutated to generate a translation frame-shift and there-fore nonfunctional protein, do not affect levels of cardiac expressed in lingual myoblasts, but not in any other skele-
+tal muscle lineages. The expression pattern of Nkx-2.5 transcripts when injected into developing embryos. In ad-dition, RNA encoding xGATA-1 does not activate expres- in cardiac mesoderm and then later in primitive gut is
+remarkably similar to that of the GATA-4/5/6 genes, sion of the cardiac actin or MHC
+agenes, although it was
+previously shown to trans-activate a globin promoter which represent the second known cardiac-speci®c tran-
+scription factor family. (Zhang and Evans, 1994). Therefore, we conclude that theGATA-4/5/6 genes are capable of regulating transcription The GATA-4/5/6 genes were discovered due to their
+similarity in the DNA-binding domain with the myeloid of at least some cardiac-speci®c genes.
+Given the presumptive role that the GATA-4/5/6 genes regulatory factor GATA-1 (Arceci et al., 1993; Kelley et
+al.,1993; Laverriere et al., 1994). The initial characteriza- play during cardiac embryogenesis, it is of interest to deter-mine whether ectopic expression of these factors could in- tion of xGATA-5 and mGATA-4 expression patterns indi-
+cated a potential role in regulating cardiac development ¯uence the development of cardiogenic progenitors. Em-bryos injected with each RNA were allowed to develop fur- during embryogenesis. Although the genes are eventually
+expressed in numerous tissues, particularly those related ther until cardiac differentiation markers are normallyexpressed. Embryos were then analyzed by whole mount to differentiated endoderm-derived epithelium, they are
+each transcribed in both precardiac progenitors and differ- in situ hybridization to determine whether the expression
+domains of c-actin or MHC
+awere diminished or expanded entiated heart tissue. Recently, a number of cardiac gene
+r e g u l a t o r ye l e m e n t sh a v eb e e nc o n ® r m e dt ob i n dG A T A (Fig. 5B). However, in no case did we ®nd any recognizabledifferences in embryos injected with GATA-4/5/6 RNA, ei- factors. The ability to isolate all three genes initially from
+chick (Laverriere et al., 1994), and now from frog, allows ther in heart development or in spatial expression of differ-
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+267 Role of the xGATA-4/5/6 Genes
+us to draw several previously uncertain conclusions re- ruption experiments. These genes are therefore likely to be
+targets of heart induction. Explant experiments have dem- garding the role of these genes during cardiac develop-
+ment: onstrated roles in Xenopus for both Spemann organizer tis-
+sue (Sater and Jacobson, 1990), which is ¯anked by the early
+1. Each of the three cardiac GATA factors has been con- cardiac rudiments, and for deep endoderm (Nascone and
+served as a unique gene. Therefore, the GATA-4 genes, for Mercola, 1995) in providing signals for a multistep induc-
+example, are more similar to each other across vertebrate tion process. At least for GATA-4, we can detect low levelsspecies than they are to family members within a species. of transcripts in the early dorsal rudiments, prior to migra-This implies that each gene is likely to have some unique tion. Because dorsal/ventral axis formation affects pro-function(s), which has been under selective pressure. For foundly expression of GATA-4/5/6, these genes may be di-instance, this might re¯ect target gene speci®city, which rect or indirect targets of the inductive signals. Althoughcould be directed through the highly conserved DNA-bind- these signals are unknown, high levels of activin can induceing domain. It is interesting to note that certain amino acids expression of cardiac MHC
+a(Logan and Mohun, 1993). We
+within the DNA-binding domain have been conserved for have shown that GATA-4/5/6 can activate expression of
+each of the three genes. Distinct amino acids within this MHCain vivo, providing evidence that heart induction is
+domain could theoretically provide subtle speci®city for the mediated at least in part by these transcription factors.
+action of each gene product. A similar conservation of gene- However, we were not been able to demonstrate a direct
+speci®c DNA-binding domain residues was also noted for activation of xGATA-5 by activin in animal cap explant
+the GATA-1/2/3 factors (Zon et al., 1991). Therefore, each assays (Kelley et al., 1993).
+of the known factors could have signi®cantly different inter- 4. The GATA-4/5/6 genes are able to function during
+actions with DNA in vivo, although target site speci®city early development to regulate cardiac-speci®c gene ex-
+has not been dramatic when tested in vitro (Ko and Engel, pression. By ectopically expressing the genes in early em-
+1993; Merika and Orkin, 1993; Whyatt et al., 1993). Of bryos (prior to accumulation of endogenous factors), we
+course, speci®city could also be achieved by interaction showed activation of two cardiac genes, cardiac actin, and
+with distinct factors through amino acid sequences, which MHC a. Each of the three GATA factors function simi-
+are not as highly conserved, outside of the DNA-binding larly in this assay. While this might indicate a lack ofdomain. speci®city (at least for these two target genes), it is quite
+2. Each of the three genes has a similar expression pat- possible that ectopic expression levels do not re¯ect nor-
+tern during early embryogenesis which is speci®c for the mal regulation. However, taking advantage of the Xeno-
+developing heart. xGATA-4/5/6 RNA is found speci®cally pussystem, we have documented for the ®rst time the
+in cardiac progenitors, long before differentiation of heart activation of endogenous GATA-4/5/6 target genes in the
+tissue. Interestingly, the GATA-4/5/6 genes are the only context of a developing embryo (other experiments have
+known regulatory proteins found throughout the heart, in- employed transient transfection experiments using exog-
+cluding endocardium, myocardium, and endothelium of the enous reporter genes in cell culture). The experiment
+great vessels. The overlapping expression patterns of demonstrates speci®city as xGATA-1 was unable to acti-
+GATA-1/2/3 genes in developing blood appears to play a vate the cardiac genes. We have been unable to detectsigni®cant role in de®ning distinct cell lineages within this activation of two other potential targets of GATA-4/5/6:tissue (Ness and Engel, 1994). Therefore, for example, differ- tropomyosin, and troponin I. However, we ®nd that theseentiated erythroid cells contain high levels of GATA-1, genes are normally expressed later in development rela-while T-cells express predominantly GATA-3. By analogy, tive to cardiac actin and MHC
+a(not shown). Therefore,
+it is possible that the precise balance of GATA-4/5/6 expres- they may be inaccessible to the action of GATA-4/5/6 atsion is involved in specifying speci®c cell lineages of the the early stages we have assayed or might require thecardiovascular system. Higher-resolution comparative map- presence of additional regulatory factors.
+ping of expression domains and/or misexpression experi-
+ments may shed light on this speculation. Although other The inability of RNA encoding these GATA factors to
+members of the GATA family may yet be characterized, it alter grossly cardiac development is perhaps not surpris-appears unlikely, based on RT/PCR cloning experiments, ing; similar results were shown regarding MyoD (Hop-that additional cardiac GATA factors are present, unless wood and Gurdon, 1990), which nevertheless plays a criti-they differ signi®cantly from GATA-4/5/6 (unpublished cal role in skeletal muscle development. On the otherdata and J. B. E. Burch, personal communication). We note hand, ectopic expression of MyoD at a particular time andthat, as yet, no mammalian homologue of GATA-5 has been place is able to alter developmental fate during em-described. bryogenesis (Miner et al., 1992). Likewise, it is possible
+that one or more of the GATA-4/5/6 genes might only 3. The GATA-4/5/6 genes are likely to play an early role
+in the speci®cation of cardiac lineages. The transcription of be capable of in¯uencing progenitor speci®cation when
+expressed at a certain time of development and/or in asso- these genes correlates precisely with the position of dorsalmesoderm heart progenitors, as demonstrated by axis dis- ciation with other cardiac regulatory proteins. By analogy
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+268 Jiang and Evans
+FIG. 5. Ectopic expression of xGATA-4/5/6 genes speci®cally activates the transcription of cardiac-speci®c genes but does not disrupt heart
+development. (A) Quantitative RT/PCR was used to measure transcript levels of the MHC agene, in RNA derived from stage 9 embryos. Embryos
+were injected at the one-cell stage with RNA encoding xGATA-1 (G1), a nonfunctional mutant form of xGATA-4 (mG4), xGATA-4 (G4),
+xGATA-5 (G5), xGATA-6 (G6), or the anti-sense strand of xGATA-5 (not shown; this gave identical results to mG4). (B) In the same manner,transcript levels were analyzed for the cardiac actin gene. Although these data do not show a signi®cant activation by GATA-6, in multipleexperiments we have not detected a signi®cant difference in the ability of each GATA-4/5/6 gene to activate transcription of the target genes.
+(C) Whole mount in situ hybridization experiments were used to analyze expression patterns of cardiac actin and MHC
+ain untreated and
+injected embryos. Top row (c-actin, stage 32) left to right: uninjected, xGATA-4 injected, xGATA-5 injected. Middle row (c-actin, stage 25) left
+to right: uninjected, xGATA-4 injected. Bottom row (MHC a, stage 32) left to right: uninjected, xGATA-4 injected, xGATA-5 injected. Similar
+results were obtained for xGATA-6 injected embryos (not shown). Embryos were either wild-type (pigmented) or albino.
+to GATA-1, we hypothesize that the GATA-4/5/6 genes ACKNOWLEDGMENTS
+will be important, in cooperation with other cardiac tran-
+scription factors, for the expression of most or all cardiac- We thank L. Zon (Harvard) for the pGEMHE plasmid and J.
+Burch (Philadelphia) for the gift of certain degenerate PCR prim- speci®c terminal differentiation genes.
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+269 Role of the xGATA-4/5/6 Genes
+ers and for helpful discussions. We thank C. Zhang (New York) J. B. E., and Evans, T. (1994). GATA-4/5/6: A subfamily of three
+transcription factors expressed in developing heart and gut. J. for helpful experimental advice. This work was supported by
+grants to T.E. from the American Heart Association and the Biol. Chem. 269, 23177±23184.
+March of Dimes. Lints, T. J., Parsons, L. M., Hartley, L., Lyons, I., and Harvey, R. P.
+(1993). Nkx-2.5: A novel murine homeobox gene expressed inearly heart progenitor cells and their myogenic descendants. De-
+velopment 119, 419±431.
+REFERENCES
+Litvin, J., Montgomery, M. O., Goldhamer, D. J., Emerson, C. P. J.,
+and Bader, D. M. (1993). Identi®cation of DNA-binding proteinsArceci, R. J., King, A. A. J., Simon, M. C., Orkin, S. H., and Wilson,in the developing heart. Dev. Biol. 156, 409±417.D. B. (1993). Mouse GATA-4: A retinoic acid-inducible GATA-Logan, M., and Mohun, T. (1993). Induction of cardiac muscle dif-binding transcription factor expressed in endodermally derivedferentiation in isolated animal pole explants of Xenopus laevistissues and heart. Mol. Cell Biol. 13,2235±2246.embryos. Development 118, 865±875.Argentin, S., Ardati, A., Tremblay, S., Lihrmann, I., Robitaille, L.,McBride, K., Robitaille, L., Tremblay, S., Argentin, S., and Nemer,Drouin, J., and Nemer, M. (1994). Developmental stage-speci®cM. (1993). Fos/jun repression of cardiac-speci®c transcription inregulation of atrial natriuretic factor gene transcription in cardiacquiescent and growth-stimulated myocytes is targeted at a tissue-cells. Mol. Cell Biol. 14,777±790.speci®c cis element. Mol. Cell Biol. 13,600±612.Edmondson, D. G., Lyons, G. E., Martin, J. F., and Olson, E. N.Merika, M., and Orkin, S. H. (1993). DNA-binding speci®city of(1994). Mef2 gene expression marks the cardiac and skeletal mus-GATA family transcription factors. Mol. Cell Biol. 13,3999±cle lineages during mouse embryogenesis. Development 120,4010.1251±1263.Miner, J. H., Miller, J. B., and Wold, B. J. (1992). Skeletal muscleFarrance, I. K. G., Mar, J. H., and Ordahl, C. P. (1992). M-CATphenotypes initiated by ectopic MyoD in transgenic mouse heart.binding factor is related to the SV40 enhancer binding factor,Development 114, 853 ±860.TEF-1. J. Biol. Chem. 267, 17234±17240.Molkentin, J. D., Kalvakolanu, D. V., and Markham, B. E. (1994).Goswami, S., Qasba, P., Ghatpande, S., Carleton, S., Deshpande,Transcription factor GATA-4 regulates cardiac muscle-speci®cA. K., Baig, M., and Siddiqui, M. A. Q. (1994). Differential expres-expression of the a-myosin heavy-chain gene. Mol. Cell Biol. 14,sion of the myocyte enhancer 2 family of transcription factors4947±4957.in development: The cardiac factor BBF-1 is an early marker f orNascone, N., and Mercola, M. (1995). An inductive role for thecardiogenesis. Mol. Cell Biol. 14,5130±5138.endoderm in Xenopus cardiogenesis. Development 121, 515±523.Grepin, C., Dagnino, L., Robitaille, L., Haberstroh, L., Antakly, T.,Navankasattusas, S., Zhu, H., Garcia, A. V., Evans, S. M., andand Nemer, M. (1994). A hormone-encoding gene identi®es aChien, K. R. (1992). A ubiquitous factor (HF-1a) and a distinctpathway for cardiac but not skeletal muscle gene transcription.muscle factor (HF-1b/MEF-2) form an E-box-independent path-Mol. Cell Biol. 14,3115±3129.way for cardiac muscle gene expression. Mol. Cell Biol. 12,1469±Harland, R. M. (1991). In situ hybridization: An improved whole-1479.mount method for Xenopus embryos. Methods Cell. Biol. 36,Ness, S. A., and Engel, J. D. (1994). Vintage reds and whites: Combi-685±695.natorial transcription factor utilization in hematopoietic differ-Heikinheimo, M., Scandrett, J. M., and Wilson, D. B. (1994). Local-entiation. Curr. Opin. Genet. Dev. 4,718±724.ization of transcription factor GATA-4 to regions of the mouse
+Nieuwkoop, P. D., and Faber, J. (1967). ``Normal Table of Xenopusembryo involved in cardiac development. Dev. Biol. 164, 361±
+laevis (Daudin).'' North-Holland, Amsterdam.373.
+Orkin, S. H. (1992). GATA-binding transcription factors in hemato-Hopwood, N. D., and Gurdon, J. B. (1990). Activation of muscle
+poietic cells. Blood 80,575±581.genes without myogenesis by ectopic expression of MyoD in frog
+Pevny, L., Lin, C.-S., D'Agati, V. D., Simon, M. C., and Orkin, S. H.embryo cells. Nature 347, 197±200.
+(1995). Development of hematopoietic cells lacking transcriptionIp, H. S., Wilson, D. B., Heikinheimo, M., Tang, Z., Ting, C.-N.,
+factor GATA-1. Development 121, 163±172.Simon, M. C., Leiden, J. M., and Parmacek, M. S. (1994). The
+Pevny, L., Simon, M. C., Robertson, E., Klein, W. H., Tsai, S.-F.,GATA-4 transcription factor transactivates the cardiac muscle-
+D'Agati, V., Orkin, S. H., and Costantini, F. (1991). Erythroidspeci®c troponin C promoter-enhancer in nonmuscle cells. Mol.
+differentiation in chimaeric mice blocked by a targeted mutationCell Biol. 14,7517±7526.
+in the gene for transcription factor GATA-1. Nature 349, 257±Jacobson, A. G., and Sater, A. K. (1988). Features of embryonic
+260. induction. Development 104, 341±359.
+Sartorelli, V., Hong, N. A., Bishopric, N. H., and Kedes, L. (1992). Kao, K. R., and Elinson, R. P. (1988). The entire mesodermal mantle
+Myocardial activation of the human a-actin promoter by helix- behaves as Spemann's organizer in dorsoanterior enhanced Xeno-
+loop-helix proteins. Proc. Natl. Acad. Sci. USA 89,4047±4051. pus laevis embryos. Dev. Biol. 127, 64±77.
+Sartorelli, V., Kurabayashi, M., and Kedes, L. (1993). Muscle-spe- Kelley, C., Blumberg, H., Zon, L. I., and Evans, T. (1993). GATA-
+ci®c gene expression. A comparison of cardiac and skeletal mus- 4 is a novel transcription factor expressed in endocardium of the
+cle transcription strategies. Circ. Res. 72,925±931. developing heart. Development 118, 817±827.
+Sater, A. K., and Jacobson, A. G. (1989). The speci®cation of heart Ko, L. J., and Engel, J. D. (1993). DNA-binding speci®cities of the
+mesoderm occurs during gastrulation in Xenopus laevis. Devel- GATA transcription factor family. Mol. Cell Biol. 13,4011±4022.
+opment 105, 821±830. Krieg, P. A., and Melton, D. A. (1984). Functional messenger RNAs
+Sater, A. K., and Jacobson, A. G. (1990). The role of the dorsal lip are produced by SP6 in vitro transcription of cloned cDNAs.
+in the induction of heart mesoderm in Xenopus laevis. Develop- Nucleic Acids Res. 12,7057±7070.
+Laverriere, A. C., NacNeill, C., Mueller, C., Poelmann, R. E., Burch, ment 108, 461 ±470.
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio
+270 Jiang and Evans
+Tamura, S., Wang, X.-H., Maeda, M., and Futai, M. (1993). Gastric Yu, Y.-T., Breitbart, R. E., Smoot, L. B., Lee, Y., Mahdavi, V., and
+Nadal-Ginard, B. (1992). Human myocyte-speci®c enhancer fac- DNA-binding proteins recognize upstream sequence motifs of
+tor 2 comprises a group of tissue-restricted MADS box transcrip- parietal cell-speci®c genes. Proc. Natl. Acad. Sci. USA 90,10876±
+tion factors. Genes Dev. 6,1783±1798. 10880.
+Zhang, C., and Evans, T. (1994). Differential regulation of the two Thuerauf, D. J., Hanford, D. S., and Glembotski, C. C. (1994). Regu-
+xGATA-1 genes during Xenopus development. J. Biol. Chem. lation of rat brain natriuretic peptide transcription. J. Biol. Chem.
+269, 478±484. 269, 17772±17775.
+Zhu, H., Nguyen, V. T. B., Brown, A. B., Pourhosseini, A., Garcia, Tonissen, K. F., Drysdale, T. A., Lints, T., Harvey, R. P., and Krieg,
+A. V., van Bilsen, M., and Chien, K. (1993). A novel, tissue-re- P. A. (1994). Xnkx-2.5, a Xenopus gene related to Nkx-2.5 and
+stricted zinc ®nger protein (HF-1b) binds to the cardiac regulatory tinman: Evidence for a conserved role in cardiac development.
+element (HF-1b/MEF-2) in the rat myosin light-chain 2 gene. Mol. Dev. Biol. 162, 325±328.
+Cell Biol. 13,4432±4444.Tsai, F.-Y., Keller, G., Kuo, F. C., Weiss, M., Chen, J., Rosenblatt,
+Zon, L. I., Mather, C., Burgess, S., Bolce, M. E., Harland, R. M., andM., Alt, F. W., and Orkin, S. H. (1994). An early haematopoietic
+Orkin, S. H. (1991). Expression of GATA-binding proteins duringdefect in mice lacking the transcription factor GATA-2. Nature
+embryonic development in Xenopus laevis. Proc. Natl. Acad. Sci.371, 221±226.
+USA 88,10642±10646.Whyatt, D. J., deBoer, E., and Grosveld, F. (1993). The two zinc
+®nger-like domains of GATA-1 have different DNA-binding Received for publication January 3, 1996
+Accepted January 4, 1996 speci®cities. EMBO J. 12,4993±5005.
+Copyright q1996 by Academic Press, Inc. All rights of reproduction in any form reserved.
+/ 6x0a$$8154 02-09-96 19:21:27 dbas Dev Bio

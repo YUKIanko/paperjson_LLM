@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kroll and Amaya, 1996", "Sparrow et al., 2000b", "Ofieldi et al., 2000", "Harland, 1991", "Sparrow et al., 2000a", "Mohun et al., 1991", "Norman et al., 1988", "Sambrook, 1989", "Taylor et al., 1989", "Treisman, 1985"],
+  "genes": ["ACTN", "CRYM", "GFP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ hybridisation", "Electrophoretic Mobility Shift Analysis", "Serum stimulation assays", "RNase protection assays", "coupled transcription-translation system"],
+    "software_tools": [],
+    "reagents_chemicals": ["CoolSnap digital camera (Roper Scientiﬁc)", "Leica MZFLIII dissecting microscope", "Double-stranded oligonucleotides", "5/H11032 GTAC overhangs", "human SRF protein", "CArG mut", "580 bp of the cardiac H9251-actin promoter"],
+    "model_organisms": ["Xenopus"]
+  }
+}

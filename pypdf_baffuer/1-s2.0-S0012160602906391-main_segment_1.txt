@@ -1,0 +1,39 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "Puri and Sartorelli, 2000",
+    "Fishman and Chien, 1997",
+    "Mohun and Sparrow, 1997",
+    "Belaguli et al., 2000",
+    "Biesiada et al., 1999",
+    "Chen and Schwartz, 1996",
+    "Morin et al., 2000",
+    "Morin et al., 2001",
+    "Tanaka et al., 2001",
+    "Zaret, 1999",
+    "Black and Olson, 1998",
+    "Tre-isman, 1995"
+  ],
+  "genes": [
+    "MyoD",
+    "Myf5",
+    "Nkx2-5",
+    "MEF2",
+    "Serum Response Factor (SRF)",
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Department of Medicine, University of California, San Diego, La Jolla",
+      "Victor Chang Cardiac Research Institute, Darlinghurst",
+      "NIMR (National Institute for Medical Research)"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HNF4α"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid embryo complementation", "immunohistochemistry", "hematoxylin and eosin staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Alb1 transcripts"],
+    "model_organisms": ["Gata4+/- ES cell-derived embryos", "Gata4-/- ES cell-derived embryos"]
+  }
+}

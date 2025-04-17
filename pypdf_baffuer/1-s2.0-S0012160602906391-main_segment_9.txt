@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "CArG Box1/H11545",
+    "H11001DS",
+    "H9251"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "myotomes",
+      "head",
+      "heart region",
+      "tailbud heartfield",
+      "early tadpole stage"
+    ]
+  }
+}

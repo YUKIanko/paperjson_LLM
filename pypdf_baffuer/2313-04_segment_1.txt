@@ -1,0 +1,20 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA1",
+    "GATA2",
+    "GATA3",
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in vivo footprinting analyses", "tetraploid embryocomplementation"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebra fish", "Caenorhabditis elegans", "Drosophila melanogaster"]
+  }
+}

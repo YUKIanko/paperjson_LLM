@@ -1,0 +1,18 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Ramirez-Solis et al. (1993)"],
+  "genes": ["GATA4"],
+  "proper_nouns": {
+    "institutions": ["Cold Spring Harbor Laboratory"],
+    "experimental_methods": [
+      "electroporation",
+      "growth of ES cells on STO feeder fibroblasts",
+      "FIAU resistance",
+      "Southern analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Sv129 ~ genomic library", "pTK-NEO (Fig. 1)", "AB2.2 ES cells", "STO feeder fibroblasts", "C57BL/6 mice", "pseudopregnant Swiss foster female mice"],
+    "model_organisms": ["C57BL/6 mice"]
+  }
+}

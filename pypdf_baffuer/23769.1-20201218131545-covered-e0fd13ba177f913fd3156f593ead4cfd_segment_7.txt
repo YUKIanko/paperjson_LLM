@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [2, 27, 28],
+  "genes": ["Nkx2-5", "Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre activity", "E9.5", "R26Rstop lacZ reporter", "transgenic mice", "myocardial-restricted deletion", "MHC αCre catalyzed recombination", "in situ hybridization", "immunohistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": ["lacZ", "α myosin heavy chain (MHC) promoter", "MHC αCre", "Gata4\nflox/flox ;MHCαCre+", "white arrowheads", "yellow arrowheads", "blue arrowheads", "asterisk"],
+    "model_organisms": ["transgenic mice", "control embryos", "mutant embryos", "G4MC embryos"]
+  }
+}

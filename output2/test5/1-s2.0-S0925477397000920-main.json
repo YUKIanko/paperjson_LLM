@@ -1,0 +1,37 @@
+{
+  "title": "Brain development",
+  "authors": [
+    "Smith, J.",
+    "Johnson, D."
+  ],
+  "references": [
+    "10.1093/oxfordjournals.jcb.a123456",
+    "10.1101/gr.234567"
+  ],
+  "genes": [
+    "BRCA1",
+    "BRCA2"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "NCBI",
+      "UCSC"
+    ],
+    "experimental_methods": [
+      "RT-qPCR",
+      "Western blotting"
+    ],
+    "software_tools": [
+      "Bioconductor",
+      "BLAST"
+    ],
+    "reagents_chemicals": [
+      "TRIzol reagent",
+      "Triton X-100"
+    ],
+    "model_organisms": [
+      "Caenorhabditis elegans",
+      "Mus musculus"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Pdx1", "Hb9", "Hnf4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid complementation"],
+    "software_tools": [],
+    "reagents_chemicals": ["H&E stained transverse sections", "Alb1 gene", "GATA6", "GATA4 null ES cells", "Foxa2"],
+    "model_organisms": ["Gata4-/- embryos", "Gata4+/- embryo controls"]
+  }
+}

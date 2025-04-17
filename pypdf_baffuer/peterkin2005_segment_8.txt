@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "Tbx20", "NFATC1", "NFAT3", "GATA4", "GATA6", "GATA-4", "dHAND", "NKX2", "SRF", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gel mobility shift analysis", "programmed reticulocyte lysate"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}

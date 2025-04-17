@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR1", "FOR2", "cFXR", "rFXR"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in vitro translation assay", "SDS-PAGE analysis", "Northern blot analysis", "whole mount in situ hybridization (WISH)"],
+    "software_tools": [],
+    "reagents_chemicals": ["[35S]methionine"],
+    "model_organisms": ["Xenopus"]
+  }
+}

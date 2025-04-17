@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "FoxA", "Albumin", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["pluripotent endoderm", "pluripotent deﬁnitive endoderm", "hepatocytes", "E8.5 embryos"]
+  }
+}

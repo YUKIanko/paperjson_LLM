@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["J.B. Gurdon"],
+  "references": ["The Early Development of Xenopus laevis: an Atlas of the Histology by Hausen and Riebesell (1991, Springer-Verlag)"],
+  "genes": ["Nieuwkoop", "Faber"],
+  "proper_nouns": {
+    "institutions": ["University of Cambridge", "Wellcome Trust", "Cancer Research Campaign", "Tennis Court Road", "Human Genome Project", "Apollo mission"],
+    "experimental_methods": ["gene cloning", "mRNA injection", "IMA injection", "oligo depletion through RNaseH activity", "dominant-negative receptors"],
+    "software_tools": [],
+    "reagents_chemicals": ["pituitary extracts", "RNaseH"],
+    "model_organisms": ["Xenopus", "Rana spp.", "newts"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Simon and Richter, 1994", "Gritsman et al., 1999", "Yabe et al., 2003"],
+  "genes": ["XCR1", "XCR3", "Xnr5", "Xnr3", "Xnr1", "Xnr2", "Xnr4", "Xnr6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gain and loss of function experiments"],
+    "software_tools": [],
+    "reagents_chemicals": ["antibody"],
+    "model_organisms": ["Xenopus"]
+  }
+}

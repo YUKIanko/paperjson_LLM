@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Verzi et al., 2005", "Runyan and Markwald, 1983"],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["EMT in vitro by culturing explants of the AVC in a three-dimensional collagen gel", "fate mapping T2Cre-expressing cells using the R26RstoplacZ reporter", "TUNEL staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["collagen gel", "R26RstoplacZ reporter", "Pecam"],
+    "model_organisms": ["Gata4T2del mice", "embryos"]
+  }
+}

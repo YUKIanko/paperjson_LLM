@@ -1,0 +1,42 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata2",
+    "Hbb-a1",
+    "Hbb-bm",
+    "Slc4a1",
+    "Nab2",
+    "Fog1",
+    "Lyl1",
+    "Ebp49",
+    "Ahsa1",
+    "Abcb10",
+    "Gtlf3b",
+    "Cmyb",
+    "Rgs18",
+    "Ptdss2",
+    "Cldn13",
+    "Csf2r-b2",
+    "Alas2",
+    "Tac-2"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "ChIP",
+      "real-time RT-PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "/H9252-estradiol",
+      "/H9251-globin HS-26",
+      "Tac-2 intron 700",
+      "Alas2 intron 8A"
+    ],
+    "model_organisms": [
+      "G1E-ER-GATA-1 cells"
+    ]
+  }
+}

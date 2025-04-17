@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HEX", "Hex", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["In situ hybridisation", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["DiI", "Hex antisense probe", "GATA5 MOs", "C1 MO", "ODC"],
+    "model_organisms": ["Gastrula", "Half-embryos", "Embryos"]
+  }
+}

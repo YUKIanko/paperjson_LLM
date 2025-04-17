@@ -1,0 +1,13 @@
+{
+  "title": "Essential role of GATA-4 in cell survival and drug-induced cardiotoxicity",
+  "authors": ["Anne Aries", "Pierre Paradis", "Chantal Lefebvre", "Robert J. Schwartz", "Mona Nemer"],
+  "references": [],
+  "genes": ["GATA-4", "Bcl-X"],
+  "proper_nouns": {
+    "institutions": ["Institut de Recherches Cliniques de Montre´al", "Universite´ de Montre´al", "Department of Cell Biology, Baylor College of Medicine", "University of Texas Southwestern Medical Center"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["doxorubicin"],
+    "model_organisms": ["mouse"]
+  }
+}

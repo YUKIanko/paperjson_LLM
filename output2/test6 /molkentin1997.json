@@ -1,0 +1,90 @@
+{
+  "title": "GATA4 directs heart tube formation",
+  "authors": [],
+  "references": [
+    {
+      "author": "Ang, S.L.",
+      "year": 1993,
+      "title": "The formation and maintenance of the definitive endoderm lineage in the mouse: Involvement of HNF-3/fork head proteins",
+      "journal": "Development",
+      "volume": "119",
+      "pages": "1301-1316"
+    },
+    {
+      "author": "Arceci, R.J.",
+      "year": 1993,
+      "title": "Mouse GATA-4: A retinoic acid-inducible GATA-binding transcription factor expressed in endodermally derived tissues and heart",
+      "journal": "Mol. Cell. Biol.",
+      "volume": "13",
+      "pages": "2235-2246"
+    },
+    {
+      "author": "Barnes, J.D.",
+      "year": 1994,
+      "title": "Embryonic expression of Lim-1, the mouse homolog of Xenopus Xlim-1, suggests a role in lateral mesoderm differentiation and neurogenesis",
+      "journal": "",
+      "volume": "",
+      "pages": ""
+    }
+  ],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "reverse transcribing",
+      "RT-PCR",
+      "Taq polymerase-directed PCR",
+      "sectioning transversely",
+      "whole-mount in situ hybridization analysis",
+      "targeted disruption in ES cells",
+      "stably transfected P19 embryonic carcinoma cells that express antisense GATA4 transcripts",
+      "injection of GATA4, GATA5, or GATA6 RNA into Xenopus embryos",
+      "electroporation",
+      "Southern blot analysis",
+      "RT-PCR",
+      "whole-mount in situ hybridization",
+      "RT-PCR analysis",
+      "electroporation of AB2.2 ES cells with the linearized targeting vector",
+      "growth of ES cells on STO feeder fibroblasts for G418, and FIAU resistance",
+      "Cell cloning and isolation of genomic DNA for Southern analysis",
+      "reverse transcribing",
+      "RT-PCR",
+      "Taq polymerase-directed PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Trizol reagent (GIBCO BRL)",
+      "Moloney murine leukemia virus (Mo-MLV) reverse transcriptase",
+      "random hexamers (GIBCO BRL)",
+      "[α-'32P]dCTP",
+      "DMSO",
+      "antisense GATA4 transcripts",
+      "GATA4, GATA5, or GATA6 RNA",
+      "Triton X-100",
+      "proteinase K",
+      "Taq PCR buffer",
+      "digoxigenin-dUTP",
+      "AP-conjugated anti-digoxigenin antibody"
+    ],
+    "model_organisms": [
+      "mice",
+      "ES cells",
+      "Xenopus embryos",
+      "GATA4 null embryos",
+      "wild-type embryos",
+      "C57BL/6 mice",
+      "Sv129",
+      "mouse",
+      "GATA4 mutant mice",
+      "E7.5",
+      "E8.0",
+      "E8.5",
+      "E9.5",
+      "GATA4 null mice"
+    ]
+  }
+}

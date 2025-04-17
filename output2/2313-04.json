@@ -1,0 +1,102 @@
+{
+  "title": "GATA6 Is Essential for Embryonic Development of the Liver but Dispensable for Early Heart Formation",
+  "authors": [
+    "Roong Zhao",
+    "Alistair J. Watt",
+    "Jixuan Li",
+    "Jennifer Luebke-Wheeler",
+    "Edward E. Morrisey",
+    "Stephen A. Duncan"
+  ],
+  "references": [
+    "MOLECULAR AND CELLULAR BIOLOGY, Apr. 2005, p. 2622–2631 Vol. 25, No. 7",
+    "doi:10.1128/MCB.25.7.2622–2631.2005"
+  ],
+  "genes": [
+    "GATA4",
+    "GATA6",
+    "HEPACAN",
+    "PROX1",
+    "HNF4A",
+    "GATA1",
+    "GATA2",
+    "GATA3",
+    "GATA5",
+    "GATA7",
+    "HAND1",
+    "HAND2",
+    "NKX2-5",
+    "SRF",
+    "MYOCD",
+    "NCX1",
+    "Cardiac alpha actin",
+    "MLC2A",
+    "MLC2V",
+    "ANF",
+    "Skeletal actin",
+    "FGF1",
+    "BMP2",
+    "BMP4",
+    "AFP",
+    "ALB1",
+    "HNF4",
+    "RBP",
+    "TTR",
+    "Hex"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Medical College of Wisconsin",
+      "University of Pennsylvania",
+      "zebra fish",
+      "Caenorhabditis elegans",
+      "Drosophila melanogaster"
+    ],
+    "experimental_methods": [
+      "tetraploid embryo complementation",
+      "in vivo footprinting analyses",
+      "Southern blot analysis",
+      "RT-PCR",
+      "dissecting microscope",
+      "in situ hybridization",
+      "Immunohistochemistry",
+      "Tetra-ploid embryo complementation",
+      "PCR analysis",
+      "TUNEL",
+      "terminal deoxy-nucleotidyltransferase-mediated dUTP-biotin nick end label-ing (TUNEL)",
+      "Tetraploid embryo complementation",
+      "histological sections"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Pregnant mare serum gonadotropin",
+      "Qiagen’s RNeasy minikit",
+      "Tungsten needles",
+      "/H9251MHC",
+      "/H9252MHC",
+      "paraform-aldehyde",
+      "paraffin sections",
+      "primary antibodies recognizing HNF4 (Santa Cruz, catalog no. sc-6556)",
+      "GATA4 (Santa Cruz, catalog no. sc-1237)",
+      "platelet endothelial cell adhesion molecule (PECAM; CD31; BD PharMingen)",
+      "G418",
+      "anti-phosphohistone H3 immunohisto-chemistry",
+      "TUNEL",
+      "Alb1 mRNA",
+      "HNF4 protein",
+      "Hex mRNA",
+      "Albumin",
+      "Hprt",
+      "pecam-positive endothelial cells",
+      "short interfering RNA approach",
+      "ES cells",
+      "Albumin gene’s transcriptional regulatory elements"
+    ],
+    "model_organisms": [
+      "mice",
+      "zebra fish",
+      "Caenorhabditis elegans",
+      "Drosophila melanogaster"
+    ]
+  }
+}

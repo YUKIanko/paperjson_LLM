@@ -1,0 +1,74 @@
+{
+  "title": "The Xenopus GATA-4/5/6 Genes Are Associated with Cardiac Specification and Can Regulate Cardiac-Specific Transcription during Embryogenesis",
+  "authors": [
+    "Yongmei Jiang",
+    "Todd Evans"
+  ],
+  "references": [
+    "Litvin et al., 1993",
+    "Sartorelli et al., 1992",
+    "Grepin et al., 1994",
+    "Ip et al., 1994",
+    "Molkentin et al., 1994",
+    "Thuerauf et al., 1994",
+    "Laverriere et al., 1994",
+    "Ness and Engel, 1994",
+    "Pevny et al., 1995, 1991",
+    "Tsai et al., 1994",
+    "Arceci et al., 1993",
+    "Kelley et al., 1993",
+    "Grepin et al., 1994",
+    "Tamura et al., 1996"
+  ],
+  "genes": [
+    "GATA-1",
+    "GATA-2",
+    "GATA-3",
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "xGATA-4/5/6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Albert Einstein College of Medicine",
+      "Xenopus laevis"
+    ],
+    "experimental_methods": [
+      "Axis disruption experiments",
+      "y axis disruption experiments",
+      "microinjection",
+      "RT/PCR",
+      "screen of 106 recombinant phage",
+      "screening a stage 13 whole embryo Xenopus cDNA library",
+      "standard hybridization conditions",
+      "Northern blotting",
+      "whole mount in situ hybridization",
+      "LiCl treatment",
+      "UV treatment"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "JB485",
+      "TE271",
+      "TE283",
+      "TE284",
+      "polyATtract III system",
+      "RNAzol",
+      "proteinase K",
+      "[a-32P]dCTP",
+      "poly(A)/RNA",
+      "agarose/formaldehyde gels",
+      "Genescreen plus membrane",
+      "MF-20 antigen",
+      "c-actin",
+      "MHC a"
+    ],
+    "model_organisms": [
+      "Xenopus",
+      "adult frog",
+      "Xenopus gastrula",
+      "chicken"
+    ]
+  }
+}

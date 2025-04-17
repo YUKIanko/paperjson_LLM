@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Reiter et al., 2001", "Maduro et al., 2001", "Maduro and Rothman, 2002", "Zhu et al., 1997", "McCune and Carlson, 2004"],
+  "genes": ["Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "C. elegans"]
+  }
+}

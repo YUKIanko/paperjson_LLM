@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5", "HAND2", "HAND1", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre/loxP technology"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse embryos"]
+  }
+}

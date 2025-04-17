@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XCR1", "XCR3", "FGF-R"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RNase protection assay", "synergy and knockdown experiments", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-XCR1 antibody", "morpholinos", "PNGase F", "Smad2"],
+    "model_organisms": ["Xenopus"]
+  }
+}

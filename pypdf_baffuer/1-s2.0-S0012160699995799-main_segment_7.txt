@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XNkx2", "XNkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["explant experiments", "microinjection with lipophilic dye, CM-DiI", "transverse Vibratome sections"],
+    "software_tools": [],
+    "reagents_chemicals": ["lipophilic dye, CM-DiI"],
+    "model_organisms": ["Stage 28 embryo", "Stage 32 embryo", "stage 22 embryos"]
+  }
+}

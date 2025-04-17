@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "ANF", "MLC1A", "~-MHC", "MLC2A", "MLC2V", "Nkx2.5", "eHAND", "dHAND"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA4 null embryos", "wild-type embryos"]
+  }
+}

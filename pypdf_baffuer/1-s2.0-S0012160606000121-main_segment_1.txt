@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Shi and Massagué", "Whitman", "Schier", "Ciccodicola et al.", "Dono et al.", "Zhang et al.", "Kinoshita et al.", "Minchiotti et al.", "Gritsman et al.", "Tanegashima et al.", "Yan et al.", "Whitman", "Yan et al.", "Harms and Chang", "Cheng et al.", "Reissmann et al.", "Yeo and Whitman", "Yabe et al.", "Tao et al."],
+  "genes": ["Nodal", "Xnr3", "Cripto", "nodal", "cryptic"],
+  "proper_nouns": {
+    "institutions": ["Wellcome Trust/Cancer Research UK Gurdon Institute"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["FGF-Related Ligand", "Oep", "squint", "cyclops", "Erk MAP kinase"],
+    "model_organisms": ["mice", "zebrafish", "Xenopus"]
+  }
+}

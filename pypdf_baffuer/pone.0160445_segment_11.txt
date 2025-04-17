@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": ["AW", "MY", "YS", "ET-W", "KF", "HO", "YN"],
+  "references": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": ["Kyoto University", "Cold Spring Harbor Laboratory Press", "Science Publishers"],
+    "experimental_methods": ["in situ hybridization", "FITC-P3 staining", "modified Steinberg's salt solution", " JE", "ST", "Student’s t-test"],
+    "software_tools": ["Basic Local Alignment Search Tool"],
+    "reagents_chemicals": ["P3 peptide", "FITC-P3", "anti-P3 antibody", "sense probe", "antisense probe"],
+    "model_organisms": ["R. arboreus", "X. laevis", "C. pyrrhogaster", "B. japonicus"]
+  }
+}

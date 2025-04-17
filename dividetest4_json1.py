@@ -4,7 +4,7 @@ import math
 import PyPDF2
 from openai import OpenAI
 
-# LM Studio への接続設定
+# LM Studio への接続設
 client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
 
 # ディレクトリパスの設定

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["FOR", "FXR", "PLTP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Electro-phoretic mobility shift assays", "Isolation of FOR cDNAs", "PCR", "dideoxy nucleotide sequencing", "In Vitro Translation"],
+    "software_tools": [],
+    "reagents_chemicals": ["FOR1 mRNA", "FOR2 mRNA", "Xenopus laevis liver cDNA library", "pGEM-T Easy system", "Sequenase", "FOR cDNAs from pBS SK(/H11001)", "mammalian expression vector pCDNA3", "LBD region of FOR corresponding to 319 amino acids for FOR1 and 346 amino acids for FOR2", "pCMX-GAL4", "VP16AD fusion constructs for FOR1 and -2", "FOR cDNA in pBlue-script (Stratagene)"],
+    "model_organisms": ["Xenopus laevis"]
+  }
+}

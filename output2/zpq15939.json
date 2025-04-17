@@ -1,0 +1,93 @@
+{
+  "title": "Differential sensitivities of transcription factor target genes underlie cell type-specific gene expression profiles",
+  "authors": [
+    "Kirby D. Johnson",
+    "Shin-Il Kim",
+    "Emery H. Bresnick*"
+  ],
+  "references": [],
+  "genes": [
+    "GATA-1",
+    "FOG-1",
+    "Tac-2",
+    "GATA-2",
+    "GATA-1s",
+    "TAC-2",
+    "ER-GATA-1",
+    "Hbb-a1",
+    "Hbb-bm",
+    "Slc4a1",
+    "Nab2",
+    "Ebp49",
+    "Ahsa1",
+    "Abcb10",
+    "Gtlf3b",
+    "Cmyb",
+    "Rgs18",
+    "Ptdss2",
+    "Cldn13",
+    "Csf2r-b2",
+    "Alas2"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "University of Wisconsin School of Medicine",
+      "Children’s Hospital",
+      "Boston, MA"
+    ],
+    "experimental_methods": [
+      "DNaseI hypersensitive site analysis",
+      "conditional activation of ER-GATA-1 stably expressed in GATA-1-null G1E cells (G1E-ER-GATA-1 cells)",
+      "treating G1E-ER-GATA-1 cells with increasing concentrations of estradiol or tamoxifen",
+      "treatment with increasing concentrations of estradiol for 16 h",
+      "ChIP",
+      "real-time RT-PCR",
+      "DNaseI hypersensitive site analysis",
+      "preim-mune sera",
+      "estradiol treatment",
+      "gene expression profiling",
+      "ChIP",
+      "real-time RT-PCR analysis",
+      "induction with /H9262M/H9252-estradiol",
+      "Western blot analysis",
+      "measurement of Tac-2 mRNA stability after 24 or 40 h of /H9252-estradiol treatment",
+      "measurement of Tac-2 mRNA stability after actinomycin D treatment",
+      "determination of ER-GATA-1/tubulin ratio"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "ER-GATA-1( /H9004N)",
+      "/H20862-estradiol",
+      "GATA-1-null G1E cells (G1E-ER-GATA-1 cells)",
+      "actinomycin D",
+      "/H11006SE",
+      "/H110050.003, 0.001, 0.001, 0.002, 0.002, 0.006, and 0.023",
+      "Tac-2 intron 700",
+      "/H9252-estradiol",
+      "/H20841-estradiol",
+      "/H20862-activity",
+      "/H11006SE",
+      "/H20862cgi",
+      "ER-GATA-1(V205G)",
+      "MTA2 (metastasis-associated protein 2)",
+      "RabbitPIFOG-1",
+      "GoatPIMTA2",
+      "Intron 7",
+      "ECR Factor Occupancy",
+      "CNE"
+    ],
+    "model_organisms": [
+      "mouse embryonic stem cell-derived erythroid cell line G1E",
+      "Humans with Down syndrome",
+      "G1E-ER-GATA-1 cells",
+      "G1E clones",
+      "two independent G1E-ER-GATA-1 clonallines",
+      "Xenopus laevis",
+      "Drosophila",
+      "mouse",
+      "human peripheral blooderythroid precursors",
+      "mouse Ter119 bone marrow erythroid cells",
+      "FOG-1-null cells"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["T. Peterkin et al.", "Fig.3", "GTM=general transcriptional machinery.", "[46]", "[41]", "[47–50]", "[51,52]", "[32,33]", "[53]"],
+  "genes": ["ANF", "NFAT3", "YY1", "Nkx2.5", "GATA-4", "GATA-5", "GATA-6", "Tbx5", "SRF", "BMP-4", "Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["combinatorial interaction", "DNA binding activity", "transcription factors", "promoter activation"],
+    "software_tools": [],
+    "reagents_chemicals": ["ANF transgene", "T-box element (TBE)", "serum response elements (SREs)", "Nkx element (NKE)"],
+    "model_organisms": ["Xenopus"]
+  }
+}

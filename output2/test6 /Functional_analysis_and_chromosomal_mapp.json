@@ -1,0 +1,101 @@
+{
+  "title": "Functional analysis and chromosomal mapping of Gata5, a gene encoding a zinc finger DNA-binding protein",
+  "authors": [
+    "Georges Nemer",
+    "Salman T. Qureshi",
+    "Danielle Malo",
+    "Mona Nemer"
+  ],
+  "references": [
+    "Jiang and Evans 1996",
+    "Gre´pin et al. 1994",
+    "Schleicher & Schuell",
+    "Kelly et al. 1995",
+    "Laverriere et al. 1994",
+    "Morrisey et al. 1997a",
+    "Durocher et al. 1997",
+    "Harats et al. 1995",
+    "Charron et al. 1999",
+    "Lee et al. 1991",
+    "Molkentin et al. 1997",
+    "Visvader et al. 1995"
+  ],
+  "genes": [
+    "GATA-2",
+    "GATA-3",
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "ET-1",
+    "Gata4",
+    "Gata5",
+    "Gata6",
+    "H9004N",
+    "H9004C"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Laboratoire de de développement et differenciation cardiaques, Institut de recherches cliniques de Montre'al",
+      "De´partement de Pharmacologie, Universite´ deMontre'al",
+      "Department of Medicine and Human Genetics, McGill University",
+      "Centre for the Study of Host Resistance, L11-144 Montreal General Hospital",
+      "University of Tokyo, Japan"
+    ],
+    "experimental_methods": [
+      "guaidine-thiocyanate–phenol/chloroform method",
+      "RT-PCR",
+      "Northern blots",
+      "polymerase chain reaction (PCR)",
+      "cloning in Bluescript vector",
+      "transformation of the cDNA into the host cell",
+      "Westernblots",
+      "linkage analysis",
+      "immuno-detection",
+      "cotransfection assays",
+      "computer-assisted sequence analyses",
+      "calcium phosphate precipitation technique",
+      "PCR-mediated mutagenesis",
+      "Electrophoretic mobility shift-assays (EMSA)",
+      "gel shift analyses",
+      "EMSA"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Sprague Dawley rats",
+      "Bluescript vector",
+      "Nytran-nylon membranes",
+      "Guanidinium-thiocyanate–phenol/chloroform method",
+      "18S probe",
+      "Kodak Xomat/AR film",
+      "Dulbecco’s modified Eagle’s medium (DMEM)",
+      "Laemmli buffer",
+      "SDS-PAGE",
+      "Hybond-PVDF membranes",
+      "Anti-HA antibody",
+      "409-bp32P-dATP random primer-labeled probe",
+      "Bluescript vector (pKS)",
+      "oligonucleotides",
+      "32P-radiolabelled GATA-5 probe",
+      "radiolabeled 18S probe",
+      "A409-bp fragment",
+      "two specific oligonucleotide primers",
+      "radiolabeled GATA-5 DNA probe",
+      "546-bp rat tubulin fragment",
+      "32P-radiolabeled ET-1 GATA element"
+    ],
+    "model_organisms": [
+      "rat",
+      "mouse",
+      "human",
+      "Xenopus",
+      "mice",
+      "avian",
+      "inbred mouse strains",
+      "C57BL/",
+      "6J",
+      "Mus spretus",
+      "ragged (ra)",
+      "wasted (wst)"
+    ]
+  }
+}

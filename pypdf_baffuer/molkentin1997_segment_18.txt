@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-1", "GATA-2", "HNF-4", "Mox-1", "Mox-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["nonradioactive whole mount in situ hybridization technique"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["quail embryos", "zebrafish", "mouse embryos"]
+  }
+}

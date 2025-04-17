@@ -1,0 +1,283 @@
+{
+  "title": "The roles of GATA-4, -5 and -6 in vertebrate heart development",
+  "authors": ["Tessa Peterkina", "Abigail Gibson", "Matthew Loose", "Roger Patient"],
+  "references": ["Seminars in Cell & Developmental Biology"],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": ["Weatherall Institute of Molecular Medicine", "University of Oxford", "John Radcliffe Hospital", "Victor Chang Cardiac Research Institute", "University of Nottingham", "Queen’s Medical Centre"],
+    "experimental_methods": ["antisense strategy", "expression of beating cardiomyocytes by the addition of DMSO"],
+    "software_tools": [],
+    "reagents_chemicals": ["DMSO"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gain-of-function studies", "loss of N-cadherin", "antisense experiments", "blockade of endoderm induction", "FISH analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["GATA-4null mice", "P19 cells", "chick embryos", "Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-6", "HGF"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6", "Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["faust(GATA-5) mutant zebraﬁsh", "zebraﬁsh embryos", "mouse cell line derived from cardiac mesoderm", "Xenopus embryos", "Xenopus and zebraﬁsh"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-6", "BMP-4", "GATA-4", "GATA-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["large dorsal marginal zone explant conjugates"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": ["T. Peterkin", "et al."],
+  "references": ["[39]", "[40]", "[41]", "[42]", "[43]", "[44]", "[45]"],
+  "genes": ["ANF", "BNP", "GATA-4", "Nkx2.5", "CARP", "GATA-5", "GATA-6", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["T. Peterkin et al.", "Fig.3", "GTM=general transcriptional machinery.", "[46]", "[41]", "[47–50]", "[51,52]", "[32,33]", "[53]"],
+  "genes": ["ANF", "NFAT3", "YY1", "Nkx2.5", "GATA-4", "GATA-5", "GATA-6", "Tbx5", "SRF", "BMP-4", "Nkx2.5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["combinatorial interaction", "DNA binding activity", "transcription factors", "promoter activation"],
+    "software_tools": [],
+    "reagents_chemicals": ["ANF transgene", "T-box element (TBE)", "serum response elements (SREs)", "Nkx element (NKE)"],
+    "model_organisms": ["Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["BMP", "ANF", "SRF", "GATA-4", "Nkx2.5", "GATA-6", "MEF-2C", "Tbx5", "Tbx20", "Gja5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["co-immunoprecipitation assays"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "Tbx20", "NFATC1", "NFAT3", "GATA4", "GATA6", "GATA-4", "dHAND", "NKX2", "SRF", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gel mobility shift analysis", "programmed reticulocyte lysate"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "YY1",
+    "BNP",
+    "GATA-4",
+    "MLC2",
+    "SRF"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "Hela",
+      "CV1",
+      "FOG-1 −/− mice"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": ["T. Peterkin", "et al."],
+  "references": ["73", "75", "76", "77", "78", "79", "80", "81", "82", "83"],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Retinoids", "p300", "RXRα-null mice"],
+    "model_organisms": ["RXR α-null mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["NKX2.5", "GATA6", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "chick", "Xenopus", "zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "McFadden DG, Olson EN.",
+    "Patient RK, McGhee JD.",
+    "Molkentin JD.",
+    "Grepin C, Nemer G, Nemer M.",
+    "Grepin C, Robitaille L, Antakly T, Nemer M.",
+    "Kuo CT, Morrisey EE, Anandappa R, Sigrist K, Lu MM, Parmacek MS, et al.",
+    "Molkentin JD, Lin Q, Duncan SA, Olson EN.",
+    "Zhang H, Toyofuku T, Kamei J, Hori M.",
+    "Narita N, Bielinska M, Wilson DB.",
+    "Jiang YM, Tarzami S, Burch JBE, Evans T.",
+    "Narita N, Bielinska M, Wilson DB."
+  ],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": ["mouse", "Xenopus"]
+      }
+    },
+    {
+      "genes": ["GATA-4", "GATA-4/5/6"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA4"],
+      "proper_nouns": {
+        "institutions": ["Xenopus", "Am J Med Genet"],
+        "experimental_methods": ["Induction of cardiomyocytes by GATA4 in Xenopus ectodermal explants"],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA4", "TBX5"],
+      "proper_nouns": {
+        "institutions": ["Am J Med Genet"],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA-4"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    }
+  ],
+  "genes": ["GATA-4", "GATA-4/5/6", "TBX5"],
+  "proper_nouns": {
+    "institutions": ["Am J Med Genet", "Xenopus"],
+    "experimental_methods": ["Induction of cardiomyocytes by GATA4 in Xenopus ectodermal explants"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": ["Kim Y", "Ma AG", "Kitta K", "Fitch SN", "Ikeda T", "Ihara Y"],
+  "references": [],
+  "genes": ["GATA-4", "GATA5", "GATA6", "NF-ATc"],
+  "proper_nouns": {
+    "institutions": ["Nottingham.ac.uk"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["zebrafish", "Xenopus"]
+  }
+}

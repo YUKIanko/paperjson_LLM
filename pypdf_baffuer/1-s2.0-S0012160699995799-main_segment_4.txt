@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Hemmati-Brivanlou,1990", "Tonissen et al.,1994", "Evans et al., 1995", "Fu and Izumo, 1995"],
+  "genes": ["Nkx2.5", "Nkx2.3", "MHCa", "MLC2a"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["whole-mount RNA in situ hybridization", "immunocytochemistry"],
+    "software_tools": ["JMPversion 3.1"],
+    "reagents_chemicals": ["monoclonal antibody CT3 (Developmental Hybridoma Studies Bank)", "goat anti-mouse IgG conjugated to alkaline phosphatase (Sigma)"],
+    "model_organisms": ["Xenopus"]
+  }
+}

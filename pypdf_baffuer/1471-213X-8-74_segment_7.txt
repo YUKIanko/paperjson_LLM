@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HEX", "Hex", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["mosaic analysis", "tar-geting GATA4 or GATA5 MOs at 32/64 cell-stage to ante-rior-vegetal blastomeres"],
+    "software_tools": [],
+    "reagents_chemicals": ["MLC2 (BCIP)", "FOR1 (BM purple) probes", "rhodamine-dextran"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

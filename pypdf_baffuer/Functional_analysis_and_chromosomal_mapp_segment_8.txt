@@ -1,0 +1,22 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata5",
+    "Msx1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "C57BL/6J",
+      "Mus spretus",
+      "Xenopus",
+      "ragged (ra)",
+      "wasted (wst)"
+    ]
+  }
+}

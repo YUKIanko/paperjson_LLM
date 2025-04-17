@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["T. Peterkin", "et al."],
+  "references": ["[39]", "[40]", "[41]", "[42]", "[43]", "[44]", "[45]"],
+  "genes": ["ANF", "BNP", "GATA-4", "Nkx2.5", "CARP", "GATA-5", "GATA-6", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}

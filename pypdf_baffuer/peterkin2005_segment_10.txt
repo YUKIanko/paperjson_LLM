@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["T. Peterkin", "et al."],
+  "references": ["73", "75", "76", "77", "78", "79", "80", "81", "82", "83"],
+  "genes": ["GATA-4", "GATA-5", "GATA-6", "FOG-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Retinoids", "p300", "RXRα-null mice"],
+    "model_organisms": ["RXR α-null mice"]
+  }
+}

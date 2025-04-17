@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Charronetal.1999", "Visvaderetalm.1995", "Durocheretalm.1997"],
+  "genes": ["GATA-2", "GATA-4", "GATA-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Western blots", "immuno-detection", "cotransfection assays", "DNA-binding and functional properties assessment", "transcriptional properties assessment"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-HA antibody", "GATA probe", "32P-radiolabeled C-terminal rat cDNA probe"],
+    "model_organisms": ["inbred mouse strains"]
+  }
+}

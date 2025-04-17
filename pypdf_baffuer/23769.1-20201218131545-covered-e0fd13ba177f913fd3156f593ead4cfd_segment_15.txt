@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [16, 35, 37, 22],
+  "genes": ["GATA4", "GATA5", "GATA6", "CCND2", "NKX2-5", "MEF2C", "CARP", "MHCALPHA", "MHCBETA", "ANF", "BNP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "whole-mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos", "E9.5", "E12.5", "Nkx2-5Cre", "MHCαCre"]
+  }
+}

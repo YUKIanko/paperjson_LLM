@@ -1,0 +1,450 @@
+Subdivision of the Cardiac Nkx2.5 Expression
+Domain into Myogenic and NonmyogenicCompartments
+Michael Rafﬁn,* Li Ming Leong,† Melissa S. Rones,* Duncan Sparrow,†
+Tim Mohun,† and Mark Mercola*
+*Department of Cell Biology, Harvard Medical School, 240 Longwood Avenue, Boston,
+Massachusetts 02115; and †Division of Developmental Biology, National Institute for
+Medical Research, The Ridgeway, Mill Hill, London NW7 1AA, United Kingdom
+Nkx2.5 is expressed in the cardiogenic mesoderm of avian, mouse, and amphibian embryos. To understand how various
+cardiac fates within this domain are apportioned, we fate mapped the mesodermal XNkx2.5 domain of neural tube stageXenopus embryos. The lateral portions of the XNkx2.5 expression domain in the neural tube stage embryo (stage 22) form
+the dorsal mesocardium and roof of the pericardial cavity while the intervening ventral region closes to form the myocardialtube. XNkx2.5 expression is maintained throughout the period of heart tube morphogenesis and differentiation ofmyocardial, mesocardial, and pericardial tissues. A series of microsurgical experiments showed that myocardial differen-tiation in the lateral portion of the ﬁeld is suppressed during normal development by signals from the prospectivemyocardium and by tissues located more dorsally in the embryo, in particular the neural tube. These signals combine toblock myogenesis downstream of XNkx2.5 and at or above the level of contractile protein gene expression. We propose thatthe entire XNkx2.5/heart ﬁeld is transiently speciﬁed as cardiomyogenic. Suppression of this program redirects lateral cellsto adopt dorsal mesocardial and dorsal pericardial fates and subdivides the ﬁeld into distinct myogenic and nonmyogeniccompartments.
+© 2000 Academic Press
+INTRODUCTION
+Broad regions of potency to form particular organs have
+been mapped in avian and amphibian embryos and aretermed morphogenetic ﬁelds (reviewed in Jacobson andSater, 1988). Classically, morphogenetic ﬁelds were identi-ﬁed based on the ability of explanted or grafted tissue todifferentiate autonomously. By this criterion, the amphib-ian heart ﬁeld at the neural tube stages has been mapped toa crescent of ventroanterior mesoderm extending dorsallytoward the hindbrain (Ekman, 1925; Jacobson, 1960; Saterand Jacobson, 1990a). The initial studies showed that me-soderm at the dorsolateral margins of the ﬁeld in newts wascapable of differentiating into rhythmically beating tissue iftransplanted to ectopic sites (Ekman, 1925) or in situ
+following removal of the ventral region (Copenhaver, 1926).Similar experiments using chick embryos (Rawles, 1936;DeHaan, 1965) generalized the conclusion that a broadregion of heart potency exists in early embryos. In additionto prospective myocardium, neural plate and/or folds (am-phibians, chick), somitic tissues (amphibian), and noto-
+chord (zebraﬁsh, amphibian) have all been implicated assources of signals that suppress autonomous differentiation
+of beating heart tissue (Jacobson, 1960; Fautrez and Amano,1961; Orts-Llorca, 1964; DeHaan, 1965; Rosenquist andDeHaan, 1966; Jacobson and Duncan, 1968; Sarasa andCliment, 1987; Sater and Jacobson, 1990a; Goldstein andFishman, 1998).
+The traditional interpretation of these data has been that
+such signals redirect lateral portions of the heart ﬁeld toadopt noncardiac fates. The consequence of this would be tonarrow the size of the entire ﬁeld, which comprises bothmyocardial and nonmyocardial cells, thereby initiating aprocess that has been termed heart ﬁeld restriction (Saterand Jacobson, 1990a). However, no data have yet beenprovided showing the fate of the lateral cells that apparentlylose heart-forming potency. Thus, it has not been possibleto distinguish the notion that the entire heart ﬁeld narrowsfrom the alternate view that it is subdivided such that cellsin the lateral portion are respeciﬁed to form nonmyocardialDevelopmental Biology 218, 326–340 (2000)
+doi:10.1006/dbio.1999.9579, available online at http://www.idealibrary.com on
+0012-1606/00 $35.00
+Copyright © 2000 by Academic Press
+All rights of reproduction in any form reserved. 326
+tissues of the heart. Nonmyocardial tissue (e.g., mesocar-
+dium or pericardium) might not have been recognized in theclassical studies since they relied on beating and lumenformation as indicators of heart speciﬁcation.
+InXenopus, the heart ﬁeld is speciﬁed in mesoderm
+ﬂanking Spemann’s organizer by interactions with theorganizer and underlying deep endoderm and is largelycomplete by early gastrulation (stage 10.5; Sater and Jacob-son, 1989; Nascone and Mercola, 1995). Xenopus heart
+induction may incorporate aspects of early inductive inter-actions with hypoblast (Yatskievych et al., 1997) and de-
+ﬁnitive endoderm (Schultheiss et al., 1995) known to occur
+in the chick. During gastrulation, the paired heart primor-dia ﬁrst migrate anteriorly until they underlie the prospec-tive hindbrain and then migrate laterally to fuse at theventral midline by stage 20 (neural tube stage). Betweenstages 28 and 30 (late tail-bud stage), the sheet of cardiaccells folds to form a tube connected to the pericardial cavityby the dorsal mesocardium. The heart begins beating atstages 33–36 and subsequently loops and fuses to form thethree-chambered heart (reviewed in Icardo, 1988; Fishmanand Chien, 1997).
+Vertebrate heart induction correlates with expression of
+homologues of the Drosophila tinman gene. Of these,
+Nkx2.5 is expressed in heart tissue before the induction ofheart-speciﬁc contractile protein genes and may be in-volved, at least indirectly, in their regulation (reviewed inChien et al., 1993; Chen and Schwartz, 1995; Fu and Izumo,
+1995; Lyons et al., 1995; Chen and Fishman, 1996; Harvey,
+1996; Duroucher and Nemer, 1998; Lee et al., 1998). It has
+been proposed that XNkx2.5 expression in the lateral por-tion of the heart ﬁeld may be down-regulated during post-neurula to tail-bud stages and that this may explain whathas been considered a loss of heart potency in this region(Tonissen et al., 1994; Drysdale et al., 1997). However, in
+the absence of fate-mapping data, it is not clear if the lateralheart ﬁeld cells express XNkx2.5 and, if so, whether expres-sion is lost upon subsequent development. Furthermore,the apparent suppression of heart differentiation in thelateral ﬁeld (described as medial in chick or zebraﬁsh) is notwell characterized in general and has never been demon-strated in Xenopus (Jacobson, 1960; Fautrez and Amano,
+1961; Orts-Llorca, 1964; DeHaan, 1965; Rosenquist andDeHaan, 1966; Jacobson and Duncan, 1968; Sarasa andCliment, 1987; Sater and Jacobson, 1990a; Goldstein andFishman, 1998). In addition, ectopic overexpression ofXNkx2.5 in Xenopus and zebraﬁsh increased the number of
+cells expressing contractile protein mRNA only slightly,consistent with the existence of overriding signals capableof blocking cardiomyogenesis downstream of XNkx2.5(Cleaver et al., 1996).
+In this paper, we present lineage, 3D reconstruction, and
+a series of explant experiments showing that the lateralportion of the XNkx2.5 domain coincides with the lateralportion of the heart ﬁeld as classically deﬁned. We ﬁnd thatthe entire heart/XNkx2.5 ﬁeld is speciﬁed initially to formmyocardium but that the lateral portion becomes respeci-ﬁed to form dorsal mesocardium and the roof of the peri-cardium. We go on to show that myocardial differentiationin the lateral heart/XNkx2.5 ﬁeld is inhibited by interac-tions with ﬂanking ventral (prospective myocardium) anddorsal (neural tube, notochord, and somitic) tissues. Of thelatter, the neural tube in particular appears to have potentanticardiomyogenic activity. Importantly, XNkx2.5 expres-sion is not lost upon respeciﬁcation of the lateral heart ﬁeldbut only appears to become constricted because of thetissue morphogenesis of tube closure. Consistent with thisobservation, cardiomyogenesis in the lateral region in in-tact embryos and explants is suppressed at a point down-stream of XNkx2.5. We present a new model for heart ﬁeldmorphogenesis in which the heart/XNkx2.5 ﬁeld is ﬁrstspeciﬁed as cardiomyogenic but becomes subdivided intodistinct dorsal peri/mesocardial and myocardial compart-ments.
+MATERIALS AND METHODS
+Culture of Embryos
+Xenopus eggs, fertilized in vitro, were dejellied with a 2%
+cysteine solution (pH 7.8) and cultured in 0.13 Marc’s modiﬁed
+Ringer’s solution (MMR). Staging was according to Nieuwkoop and
+Faber (1967).
+Histology
+Embryos were ﬁxed in MEMFA (0.1 M Mops, pH 7.4, 2 mM
+EGTA, 1 mM MgSO 4, 3.7% formaldehyde) for 1 h, dehydrated
+through a graded series of alcohols, and embedded in Fibrowax(Difco). Seven-micrometer transverse sections were stained withFeulgen/Light Green/Orange G triple stain and images capturedusing a Kodak DCS420 digital camera attached to a Zeiss Axiophotmicroscope. 3D reconstruction was performed using SURFdriver2.0 software package (www.surfdriver.com). No independent refer-ence points were available for aligning successive images or cor-recting distortions in individual sections. Alignment was, there-fore, based upon the position of the notochord since whole-mountin situ data and parasagittal sections indicate that this can be
+considered approximately linear over the region that includes theheart primordium. Expression domains for myocardial markers andfor XNkx2.5 were established individually, using serial 7-
+mm wax
+sections from several equivalently staged embryos stained by RNAwhole-mount in situ hybridization. These data were used to deﬁne
+the equivalent regions on the reference section series used for 3Dmodel construction. The resulting models therefore representidealized composites rather than morphologically precise represen-tations of individual embryos.
+Fate Mapping
+Stage 22 embryos were microinjected with Cell Tracker CM-DiI
+(Molecular Probes) at a concentration of 0.5 mg/ml in a 0.1%sucrose and 10% ethanol solution. Small, multicellular patches inthree different regions of the heart ﬁeld (as in Fig. 3) were labeled.Labeled embryos were cultured in 0.13 MMR to stage 28–31, ﬁxed
+in MEMFA for 1–2 h at 20°C, and then transferred to 13 PBS with327 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+sodium azide. Embryos were mounted in gelatin (Bober et al.,
+1994), and 30- mm transverse Vibratome sections of the heart region
+were prepared. CM-DiI was detected using an epiﬂuorescence or
+ﬂuorescence confocal microscope.
+Explants and Extirpations
+Stage 22 or 28 embryos were transferred to 0.753 MMR and
+devitellinized as necessary (stage 22). Microsurgical manipulationswere performed on a bed of 1% agarose in 0.753 MMR. All tissues
+or embryos were allowed to heal for at least 30 min. The explantswere cultured at 20°C in 0.753 MMR with 20
+mg/ml gentamicin
+sulfate (Sigma) until ﬁxed 1–2 h in MEMFA at room temperature.Explants were cultured until stages 30–35 to assay XNkx2.5 orstages 40–42 to assay for all other markers and beating. Sandwichrecombinants between ventral lateral heart ﬁeld tissues and poten-tial suppressive tissues were performed at stage 22 in 0.753 MMR
+and were maintained in this medium until scored for beating whensibling embryos had reached stage 42.
+In Situ Hybridization
+Explants, along with their respective whole embryo controls,
+were processed for whole-mount in situ hybridization as described
+(Harland, 1991) using digoxygenin-labeled cRNA probes exceptthat the SSC wash solutions following hybridization contained0.4% SDS. cRNA probes included cardiac troponin I (XTn-I
+c)
+(Drysdale et al., 1994), cardiac actin (AC100; gift from Doug
+Melton), XMLC-2 (gift from Sylvia Evans), XNkx2.5 (Tonissen et
+al.,1994), and XMHC- a(Logan and Mohun, 1993). Following the
+alkaline phosphatase color reaction of 3 to 30 h, samples werepostﬁxed in MEMFA for at least 1 h and dehydrated into methanol.The explants were viewed and scored on a dissecting microscope inmethanol or cleared in benzyl alcohol:benzyl benzoate (1:2).
+Immunocytochemistry
+Tissues were stained for Tn-T cwith the monoclonal antibody
+CT3 (Developmental Hybridoma Studies Bank) at a 1:10 dilutionfollowing methods previously reported (Hemmati-Brivanlou,1990). CT3 expression was secondarily detected with a goat anti-mouse IgG conjugated to alkaline phosphatase (Sigma).
+Statistical Methods
+Statistical differences between data sets collected from beating
+and molecular marker expression assays were determined by JMPversion 3.1 (SAS Institute, Inc.). We treated all data as nominal andperformed Fisher’s two-tailed exact tests.
+RESULTS
+Expression of Molecular Markers during Heart
+Tube Formation
+We ﬁrst used whole-mount RNA in situ hybridization to
+compare the domains of expression of XNkx2.5 with those
+of various myocardial differentiation markers. Expressionof the Xenopus tinman homologues XNkx2.3 and XNkx2.5
+is ﬁrst detected during gastrulation and, by neurula stages,transcripts are localized in bilateral domains that eventu-ally merge into a single anteroventral “collar” (Tonissen et
+al.,1994; Evans et al., 1995; Fu and Izumo, 1995). By the
+early tail-bud stage, sections through this region of theembryo demonstrate that XNkx2.5 staining is present bothin the ventral mesoderm that contains the cardiac progeni-tors and in adjacent foregut endoderm (Fig. 1).
+At the onset of myocardial differentiation (Fig. 1A),
+expression of the cardiac muscle-speciﬁc markers XMLC-2aand XMHC
+ais conﬁned to bilateral regions within the
+cardiac mesoderm, posterior to the cement gland. Identicalspatial patterns of expression are observed in the hearts forall contractile markers examined and none were ever ob-served to be expressed more dorsally by prospective meso-cardial or pericardial tissue. In contrast, XNkx2.5 is ex-pressed in a broader domain that encompasses thedifferentiating myocardial tissue and extends much fartherdorsally. Such an apparent difference could result if cardiacmuscle differentiation in the lateral portions of theXNkx2.5 domain was delayed relative to the ventral region.However, even after a single domain of myocardial differ-entiation has formed on the ventral midline (Fig. 1B),XNkx2.5 continues to be expressed in a much broaderregion of tissue. Transverse sections conﬁrm that the lat-eral domain consists of mesodermal tissue adjacent to andcontiguous with the ventral mesoderm undergoing myocar-dial differentiation (Fig. 1C).
+The spatial relationships between the mesodermal
+XNkx2.5 expression domain and the differentiating myo-cardial tissue were examined using 3D models based onserial transverse sections through the heart region of tail-bud embryos (Fig. 2). At stage 28, the myocardial tissue hasextended ventrally into the pericardial cavity around asingle endocardial tube which bifurcates at its posterior end(the future sinus venosus). While the dorsal aspect of theheart tube has not yet closed, it is progressively moreconstricted along its AP axis (Figs. 1C and 2A). Strikingly,the point where the sheet is constricted coincides preciselywith the boundary of myocardial differentiation. By stage32, constriction is complete and the linear heart tube isclosed in all but the most anterior portion. The anterior endof the endocardial tube adopts a more vertical orientation,extending dorsally in the region that forms the outﬂowtract (Fig. 2B). The XNkx2.5 expression domain extendsinto the more lateral mesoderm throughout the length ofthe heart tube both before and after dorsal closure. Theprecise dorsal edge of this domain is difﬁcult to establishfrom transverse sections since staining intensity declinesprogressively in more lateral tissue. It is, however, evidentthat after closure of the heart tube, the dorsal mesocardiumand the roof of the pericardial cavity both express XNkx2.5.This is illustrated most clearly by 3D models of the poste-rior portion of the heart tube from stage 32 embryos (Fig.2C).
+Together, these data suggest a model for heart tube
+morphogenesis in which a broad domain of XNkx2.5-expressing mesoderm becomes subdivided into ventral and328 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+lateral domains. The former gives rise to myocardial tissue
+while the adjacent lateral domain forms the dorsal meso-cardium and the pericardial tissue to which it is attached.To test this possibility, we used dye labeling to follow thefate of cells originating in the ventral and lateral regions ofthe heart morphogenetic ﬁeld.
+Fate Map of the XNkx2.5 Expression Domain
+Stage 22 embryos were microinjected with CM-DiI to
+label small patches of cells within three different regions ofthe mesodermal XNkx2.5 expression domain. As dia-grammed in Fig. 3, sites A, B, and C were arrayed in a lineextending dorsally from the ventral midline at the posterioredge of the cement gland. The position of site A on this linewas aligned with the bottom of the eye vesicle as visibleexternally, site B was aligned with the dorsal margin of thecement gland, and site C was just off the ventral midline.Site A approximated the border between XNkx2.5-expressing and -nonexpressing cells, whereas sites B and Clabeled the lateral and ventral regions of the XNkx2.5 ﬁeld,respectively (Figs. 3A, 3B, and 3C). For comparison with thefunctionally deﬁned heart morphogenetic ﬁeld, sites A andB span the lateral portion of the heart ﬁeld which appar-ently loses myocardial potency during postneurula stages(Sater and Jacobson, 1990a), whereas site C corresponds tothe region where myocardial potency persists (see followingsection and Fig. 4).
+We evaluated the positions of the progeny of the labeled
+cells at stages 28 to 31. Progeny of cells labeled at site Ccontributed primarily to myocardial and endocardial tissues(Table 1 and Figs. 3F and 3G). Occasionally, pharyngealendoderm cells would be labeled due to penetration of theneedle through the thin layer of ventral mesoderm at stage22. Cells labeled at site A did not contribute to the myo-cardium, endocardium, nor mesocardial tissues. Label wasseen most frequently at the dorsolateral edge of the dorsalpericardium (Table 1 and Figs. 3D and 3G) corresponding tothe dorsolateral boundary of XNkx2.5 expression at stage 28(Fig. 3C). Since site A also corresponded to the dorsolateraledge of the XNkx2.5 domain at stage 22, it is clear that thelateral portion of the heart ﬁeld maintains XNkx2.5 expres-sion as the cardiac sheet folds to form the heart tube andcontiguous structures. Cells labeled at site B showedmarked contribution to dorsal mesocardium and the roof ofthe pericardium and, less frequently, to the abutting regionof the myocardial tube (Table 1 and Figs. 3E and 3G).Occasionally, overlying and underlying tissue (presumablysurface ectoderm and foregut endoderm) at sites A and Bwere labeled by CM-DiI microinjection as the needle punc-tured the tissue to label the intervening mesoderm. By stage28–31, labeled mesodermal cells had become displacedventrally relative to the injection site (Figs. 3D and 3E). Thelineage analysis reinforces the idea that the broad domain ofXNkx2.5 expression at stage 22 marks a contiguous sheet ofcardiac progenitors which descends into the pericardialcavity, apparently as a consequence of folding and closure of
+FIG. 1. Expression domains of XNkx2.5 and myocardial differ-
+entiation markers during heart tube formation. (A, B, and C)
+Embryos were stained for expression of XNkx2-5, XMLC-2a,XMHC
+a, and XTn-I cgenes at stages 28 (A) and 32 (B) by RNA
+whole-mount in situ hybridization. Stained embryos were em-
+bedded in parafﬁn wax and (C) shows representative transversesections through the anterior, middle, and posterior portions ofa stage 28 heart region.329 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+the heart tube. In addition, we did not detect mixing of
+labeled and unlabeled cells, suggesting that there is nosigniﬁcant movement of cells relative to their neighbors.
+We conclude that cells in the lateral portions of the
+cardiac sheet form the roof of the pericardial cavity andcontiguous dorsal mesocardium while ventral cells give riseto myocardium. Endocardial cells also appeared to arise
+within the ventral region. However, it is not clear if theyand myocardial cells arise from a common precursor sincesmall patches, rather than single cells, were labeled. Impor-tantly, mesodermal expression of XNkx2.5 is maintained inthe myocardium, mesocardium, and pericardial roofthroughout heart tube morphogenesis (compare Figs. 2 and3). Thus, the apparent restriction visible in whole-mountstained embryos between stages 22 and 28 arises as thesheet of cells folds to form the myocardial tube and con-tiguous mesocardium and pericardial roof.Myocardial Differentiation in the Lateral Region of
+the XNkx2.5 Domain Is Suppressed by Signalsfrom Adjacent Ventral and Dorsal Tissues
+The fate mapping demonstrated that the lateral portion of
+the XNkx2.5 domain forms cardiac tissue dorsal to the
+heart tube. We then asked if this region coincides with thelateral portion of the heart ﬁeld characterized by classicalstudies to lose heart potency during postneurula stages. Totest this possibility, we designed a series of explant experi-ments to see if the lateral XNkx2.5 domain is capable ofcardiomyocyte differentiation when isolated in culture andto identify the source(s) of suppressing signals which couldact in the intact embryo.
+We ﬁrst assayed the ability of the tissue from the lateral
+portion of the XNkx2.5 domain to differentiate into myo-
+cardial tissue following the removal of the presumptive
+FIG. 2. 3D models of linear heart tube formation. 3D models showing the expression domains for XNkx2.5 (gray) and myocardial
+differentiation markers XMLC-2a and XTn-I c(red) during heart tube formation. Endocardial tissue (yellow) was identiﬁed solely by
+histological criteria and is most prone to distortion during the wax embedding procedure. The dorsal boundary of XNkx2.5 expression is
+necessarily imprecise because of the low levels of transcript (see Fig. 1C and text), while the boundaries of myocardial differentiation arerelatively precise. (A) Stage 28 embryo showing progressive dorsal constriction of the XNkx2-5 domain along the AP axis; tissue ventral tothe constriction expresses cardiac muscle markers. (B) Stage 32 embryo showing dorsal closure of the linear heart tube. (C) A posteriorportion of the Stage 32 model, seen from a lateral oblique view to show attachment of the heart tube to the pericardial roof via the dorsalmesocardium.330 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+FIG. 3. Fate map of the XNkx2.5 expression domain. (A and B) Three small multicellular patches within the XNkx2.5 domain of early tail-bud
+stage (stage 22) embryos were microinjected with the lipophilic dye, CM-DiI. Injections were positioned in a line extending dorsally from the
+posterior margin of the cement gland with site A aligned with the bottom of the eye vesicle as visible externally, site B aligned with the dorsalborder of the cement gland, and site C just off the ventral midline. (C) XNkx2.5 mRNA in a stage 22 embryos. Site A corresponded to the dorsalborder of the stage 22 Nkx2.5 domain, site B corresponded to the lateral region, and site C was near the ventral midline. (D, E, and F) The positionsof cells labeled at the three sites were examined at stage 28 in transverse Vibratome sections. (G) The data set ( n57 for site A, n515 for site
+B, and n512 for site C) is summarized in the schematic (also in Table 1). Purple, yellow, and blue hatchlines represent locations of cells injected
+at sites A, B, and C, respectively. Labeling of overlying ectoderm and underlying endoderm occasionally occurs and can serve as a reference pointfor the injection site (white arrowheads in D and E). Note that mesodermal cells labeled by A- and B-site injections (black arrowheads in D andE) shift ventrally between stages 22 and 28 such that cells from site A contribute to the dorsolateral edge of pericardial roof while cells from siteB contribute to dorsal mesocardium and the adjoining portion of the pericardial roof (and, infrequently, the adjoining myocardium). Site C cells,in contrast, form myocardium and endocardium. Thus, cells within the lateral portion of the XNkx2.5 domain at stage 22 (sites A and B) shiftventrally but do not lose XNkx2.5 expression as the sheet of cardiac cells folds to form the heart tube. Dorsal is up in all images. Abbreviations:en, endoderm; me, mesocardium; my, myocardium; se, surface ectoderm; pc, pericardium.331 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+332 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+myocardium, similar to experiments done by Copenhaver
+using Ambystoma (1926). Prospective myocardial tissue
+(tissue extending ventrally from the B-site microinjections)was extirpated from stage 22 embryos and heart regenera-tion was scored at stage 40. Rhythmically beating cardiactissue in the lateral mesoderm was seen in nearly all cases(9063.4%, n579). A substantial proportion of these
+embryos (22.5%) regenerated two hearts, indicating incom-plete fusion at the ventral midline. Hearts that formed fromsingle sides were smaller and resembled those formed bythe lateral heart ﬁeld explants (see below). This suggeststhat prospective myocardial tissue suppresses myocardialdifferentiation in the lateral region of the XNkx2.5 domain.
+We next examined myocardial differentiation of the lat-
+eral XNkx2.5/heart ﬁeld tissue when isolated in explantculture. Figure 4A diagrams a series of explants taken fromdifferent positions within a transverse slice of tissue at thelevel of the heart ﬁeld of a stage 22 embryo. For reference,the ventral (V
+HF) and lateral (L HF) heart ﬁeld explants to-
+gether comprised the entire XNkx2.5 expression domain;the L
+HFexplant extended from site A to just ventral to site
+B (Fig. 3), whereas the V HFexplant contained tissue labeled
+by site C injections. In striking contrast to its fate in situ,
+5661.5% of the L HFregion explants isolated at stage 22
+went on to beat in culture (Fig. 4B), indicating a strongcapacity for autonomous myocardial differentiation andconﬁrming the earlier results of Sater and Jacobson (1990a).Importantly, explants of tissue located just outside the
+XNkx2.5 domain (DL explants, Fig. 4B) never formed beat-ing tissue (n 5850). Together, these results indicate that
+the dorsal boundary of the classically deﬁned heart ﬁeldcorresponds well to that of the XNkx2.5 domain.
+To examine the source of suppressing signals, adjacent
+tissues were included in the explants. Inclusion of tissueimmediately dorsolateral to the heart ﬁeld (L
+HF-DL ex-
+plants) reduced the beating incidence to 43 61.4% and the
+addition of neural and notochordal tissue (L HF-N explants)
+further reduced the incidence to 25 61.3% (Fig. 4B, both
+data sets are statistically signiﬁcant to P,0.05). Taken
+together with the ventral extirpations, we conclude thatmyogenesis of the lateral XNkx2.5/heart ﬁeld cells is inhib-ited by interactions with ventral (prospective myo- andendocardium) and dorsal (somitic, neural, and notochord)tissues.
+Each of the dorsal tissues present in the explants
+(somites, neural tube, notochord) was assayed for inhibitory
+activity individually by recombining with stage 22 lateralheart ﬁeld tissues (Fig. 5). Of these tissues, the neural tubereduced beating frequency. Somites, notochord, and controlposterior ventral (noncardiogenic) tissue had no statisticallysigniﬁcant effect. Ventral heart ﬁeld explants were notsensitive to inhibition, possibly reﬂecting commitment bystage 22.TABLE 1
+Fate Mapping of the XNkx2.5 Field
+Injection siteNumber of
+experimentsNumber of embryos with label in cardiac tissue at stage 28–31
+Dorsolateral edge of
+pericardial roofPericardial
+roofDorsal
+mesocardium Myocardium Endocardium
+A7 4 0 0 0 0
+B1 5 3 9 1 2 3 1C1 2 0 0 0 9 1 1
+Note. Embryos were injected with CM-DiI to label small patches of cells within the XNkx2.5 domain at stage 22 and were ﬁxed and
+sectioned by Vibratome at stage 28–31 to examine location of labeled cells (see Fig. 3 and Materials and Methods). Sites of A, B, and Cinjections were aligned with external features as described in the text. Of the seven site A experiments (which targeted the dorsolateral edgeof the XNkx2.5 domain at stage 22), three labeled cells outside the cardiac mesoderm (not tabulated). All site B and C experiments labeledcardiac mesoderm.
+FIG. 4. Myocardial differentiation in lateral heart ﬁeld (L HF) mesoderm is suppressed by dorsal tissue. Explants were dissected from stage
+22 embryos, cultured to stage 41, and scored for rhythmic beating. For reference to the dye injection sites (Fig. 3), the border between theventral heart ﬁeld (V
+HF) and the L HFexplants was positioned just ventral to the site B microinjections such that L HFexplants contained cells
+labeled by microinjection at site B (prospective dorsal pericardium and dorsal mesocardium) and V HFexplants encompassed site C
+(prospective myocardium). Note that stage 22 L HFexplants formed beating tissue efﬁciently when maintained in isolation from dorsal and
+ventral tissues. When explants included dorsolateral somitic tissue (L HF-DL) or somitic, notochordal, and neural tissues (L HF-N) myocardial
+differentiation was signiﬁcantly reduced. Importantly, tissue just dorsal to the XNkx2.5 domain never formed beat in culture (DL explants),indicating that it resides outside the classically deﬁned heart ﬁeld. Numbers of explants are given in parentheses and error bars indicatestandard error of the mean.333 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+Differential Suppression of Heart Muscle Genes by
+Dorsal and Lateral Tissues
+The above results suggest that cardiomyogenesis in lat-
+eral heart ﬁeld cells is inhibited downstream of XNkx2.5.
+To examine this further, we assayed the effect of ventral(prospective myo- and endocardium) and dorsal (prospectiveneural tube, notochord, and somitic) tissues on expressionof XNkx2.5 and cardiac contractile protein genes in cells ofthe lateral heart ﬁeld. Explants as in Fig. 4 were culturedand assayed by in situ hybridization. Figure 6 summarizes
+the entire data set graphically. Each histogram plots theincidence of expression of the markers for a particular typeof explant and the horizontal dashed line represents thebeating incidence for that type of explant. Figure 7 showsexamples of the most commonly observed expression pat-terns for the various markers.
+As expected from the lineage data, XNkx2.5 transcripts
+were present at a high incidence in nearly all cases, regard-less of explant type (Fig. 6). Moreover, inclusion of dorsal orventral tissue did not appear to affect the size of theXNkx2.5 expression domain [compare expression in iso-lated L
+HFexplants to that in L HF-N explants (Fig. 7) or intact
+embryos (Fig. 1)]. We investigated this further and foundthat the level of XNkx2.5 and XNkx2.3 mRNA by RT-PCRremained constant in L
+HFexplants cultured from stage 22
+over 2 days as cardiomyogenesis occurred (not shown),consistent with the maintenance of expression seen inintact embryos (Figs. 1–3). This supports the model thatsuppression of the myogenic program in the lateral heartﬁeld occurs downstream of XNkx2.5.
+Contractile protein markers were differentially regulated.
+Two genes, XTn-I
+cand cardiac actin, were ectopically
+expressed at high levels in all explants of the lateral heartﬁeld following removal of ventral tissue. For cardiac actin,only heart and not somitic (skeletal muscle) expression wasscored. All other markers are cardiac speciﬁc. As shown inFig. 6, their incidences of expression well exceeded beatingincidences in all cases. This discordance was most pro-nounced when the lateral heart ﬁeld was isolated togetherwith adjacent neural tube, notochord, and somitic tissues(L
+HF-N) in which cardiac actin and XTn-I cmRNAs were
+expressed by 94 62.3 and 72 63.1% of the explants,
+respectively, but only 25% beat (Fig. 6A). Ectopic contrac-tile gene expression in the lateral mesoderm of thesenonbeating explants often marked structures which wereoutwardly similar in appearance to beating hearts (Fig. 7,red arrows) and contained lumens lined with endothelialcells (Fig. 8). We conclude that: (1) ventral tissue (prospec-tive myocardium) suppresses XTn-I
+cand cardiac actin gene
+expression in the lateral heart ﬁeld of intact embryos sinceremoval of ventral tissue results in their expression and (2)dorsal tissue is less capable of suppressing XTn-I
+cand
+cardiac actin genes since ectopic transcripts were detectedfrequently in nonbeating L
+HF–N explants.
+XMHC- aand XMLC-2a mRNAs and Tn-T cprotein were
+also ectopically expressed in the lateral heart ﬁeld followingremoval of ventral tissues, but with lower frequencies[L
+HF-N explants, Figs. 6 and 7 (Xenopus Tn-T ccDNA is not
+available; protein was examined using the monoclonalantibody CT3, see Materials and Methods)]. Thus, theirexpression is also inhibited by the ventral signal(s). Butunlike XTn-I
+cand cardiac actin, their expression incidences
+in the lateral region explants increased signiﬁcantly whendorsal tissues (neural tube and dorsal mesoderm) wereremoved (compare L
+HF–N to L HFexplants, Figs. 6A and 6B).
+XMLC-2a mRNA showed the greatest sensitivity to sup-pression by dorsal tissues (35 64.1% in L
+HF-N explants,
+approximating the beating frequency). XMHC- amRNA and
+Tn-T cprotein were intermediate (49 63.2 and 45 64.2%,
+respectively, nearly double the beating frequency). Resultsare signiﬁcant to P,0.05.
+We conclude that suppression of myogenic potency in the
+lateral heart ﬁeld in intact embryos normally occurs down-stream of XNkx2.5 and either upstream or at the level ofcontractile gene expression. The explant assays revealedthat each of the contractile genes is sensitive to suppressionby signals from the prospective myocardium. Expression ofXMLC-2a is particularly sensitive to suppression by signalsfrom dorsal tissue (most likely the neural tube), whereasXTn-I
+cand cardiac actin genes are relatively insensitive.
+MHC- amRNA and Tn-T cprotein appear intermediate
+FIG. 5. Suppression of L HFmyogenesis by individual dorsal tissues
+in recombinants. Ventral and lateral heart ﬁeld/Nkx2.5 ﬁeld ex-
+plants at stage 22 were recombined with dorsal tissues as indicatedand beating incidence is presented. Note that neural tubes showedstrong anticardiomyogenic activity when recombined with lateralheart ﬁeld tissues. Lack of an effect on ventral ﬁeld explants mayreﬂect commitment by this stage. Numbers of recombinants aregiven in parentheses and error bars indicate standard error of themean.334 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+between these two extremes. Whether the differential sup-
+pression of cardiac genes reﬂects distinct dorsal and ventralinhibitors or a graded response to a common inhibitorysignal is discussed below.
+DISCUSSION
+XNkx2.5 and the Heart Field
+We found that the lateral boundary of XNkx2.5 expres-
+sion is maintained in the sheet of cardiogenic precursors asit folds to form the heart tube. The lateral portions of theXNkx2.5 domain form the dorsal mesocardium and the roofof the pericardial cavity while the intervening region,which spans the ventral midline, gives rise to the heart tube(Figs. 1–3). Although fated to form nonbeating tissue, thelateral portions of the XNkx2.5 expression domain (L
+HF
+explants), when cultured, autonomously differentiated intobeating heart tubes with lumens (Figs. 4 and 8). Since tissuelocated just dorsal to the XNkx2.5 domain lacks heart-forming potential in culture (DL explants, Fig. 4), weconclude that the dorsolateral edge of the XNkx2.5 domaincoincides with that of the classically deﬁned heart ﬁeld inthe neurula stage embryo (Figs. 3 and 4). This is probablysimilar to the situation in chicks in which the posterior andlateral boundaries of the heart ﬁeld also coincide with thoseof the Nkx2.5 expression domain (Ehrman and Yutzey,1999).
+These results help clarify the nature of heart ﬁeld restric-
+tion. The concept of a broad heart morphogenetic ﬁeld wasdrawn from extirpation, transplantation, and explantationexperiments which suggested that the tissue capable ofautonomous heart differentiation initially extends beyondthe region that eventually contributes to the heart tube(Ekman, 1925; Copenhaver, 1926; Rawles, 1936; Jacobson,1960; Sater and Jacobson, 1990a). Early studies of the
+FIG. 6. Differential regulation of contractile gene expression by
+dorsal tissue. (A–C) Explants were isolated at stage 22, cultured,
+and subsequently assayed for gene expression and beating (seeMaterials and Methods). Contractile protein mRNA expression isrepresented by the bars in the histogram. The beating frequency isindicated by the dashed horizontal line. XNkx2.5 is normallyexpressed in the L
+HFregion in intact embryos (Figs. 1–3) and is
+likewise expressed in the corresponding tissue when explantedeither with (A) or without (B) dorsal tissues (neural tube and dorsalmesoderm). Contractile protein genes are not normally expressedin L
+HFcells (Figs. 1–3). Absence of ventral (prospective myocardial)
+tissue caused expression of contractile protein genes ectopically inthe L
+HFregion (L HF-N explants, A), suggesting that signals from the
+prospective myocardium suppress myocardial genes in the lateralportion of the heart ﬁeld. Note that the fraction of explantsexpressing Tn-I
+cand cardiac actin transcripts exceeded beating
+incidence, while the fraction expressing XMLC-2a coincided withbeating incidence. Removal of neural and dorsal mesodermal tissuein L
+HFexplants (B) increased the incidence of expression of genes
+(XTn-T c, XMHC a, and XMLC-2a) such that all markers were
+expressed in a large proportion of the explants. Beating incidencealso increased. (C) Control explants of prospective myocardium(V
+HF) generally beat and expressed all markers. Expression of all
+markers, with the exception of cardiac actin, was in the L HFregion
+(see Fig. 7). For cardiac actin, only heart and not somitic expressionwas scored. Results are statistically signiﬁcant (P ,0.05).335 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+336 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+amphibian heart ﬁeld showed that the capacity for autono-
+mous differentiation within the lateral portion of the ﬁeld(L
+HFin our studies) is lost during postneurula stages (Copen-
+haver, 1926; Jacobson, 1960; Fautrez and Amano, 1961;Jacobson and Duncan, 1968; Sater and Jacobson, 1990a).Performed before cardiac molecular markers became avail-able, these studies relied on presence of beating tissueand/or formation of heart tubes to score heart differentia-tion. For this reason, and because a fate map of the heartﬁeld was not available, cells within the lateral portion ofthe ﬁeld were predicted to form nonheart tissue, implying anarrowing, or restriction, of the entire ﬁeld (see discussionin Sater and Jacobson, 1990a). Instead, we found that thelateral portion, while transiently speciﬁed as myocardial,becomes respeciﬁed to form dorsal mesocardium and roof ofthe pericardial cavity between stages 22 and 28. Thus, theclassical studies recorded the loss of myogenic potency that
+occurs as part of this respeciﬁcation. Furthermore, theapparent narrowing of XNkx2.5 between stages 22 and 28visible in whole mount (Fig. 1) is caused by the ventral shiftand folding of the sheet of cardiac precursors during hearttube closure, rather than by a loss of expression (Figs. 2 and3). Maintenance of expression during differentiation ofmesocardial and pericardial roof tissues suggests that theloss of myogenic potency in the lateral heart ﬁeld occursdownstream of XNkx2.5.
+Suppressive Signals Subdivide the XNkx2.5/Heart
+Field into Myocardial and DorsalPeri/Mesocardial Domains
+The explant, extirpation, and recombinant studies show
+that both prospective myocardium and dorsal tissues (in
+particular the neural tube) inhibit myogenesis in cells of thelateral heart ﬁeld (Figs. 4 and 5). Removing these signalscaused lateral heart ﬁeld tissue at stage 22 to expresscontractile protein genes and form heart tubes with lumens(Figs. 7 and 8). This shows that the lateral XNkx2.5/heartﬁeld at stage 22 has the potential to form either myocardialor nonmyocardial tissue. Since the lateral ﬁeld readily
+FIG. 8. Nonbeating L HFand L HF-N explants form tubes with lumens lined by endothelial cells. Explants were removed at stage 22, cultured
+to stage 40, and subsequently separated into beating and nonbeating classes at which time they were probed for XTn-I cmRNA (blue stain)
+byin situ hybridization. Beating L HF(A) as well as nonbeating L HF(B) and L HF-N (C) explants formed a myocardial tube lined with unstained,
+endothelial cells (arrows) that resembles a normal heart tube in cross section.
+FIG. 7. Examples of heart gene expression in isolated explants. Examples of the most frequently observed expression patterns of explants
+described in Fig. 6. Note the absence of XMLC-2a and XMHC ain explants containing neural, notochordal, and somitic tissues (L HF-N
+explants). The monoclonal antibody CT3 was used to recognize Tn-T c.337 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+forms beating cardiomyocytes when isolated, we propose
+that the entire XNkx2.5 domain is speciﬁed initially ascardiomyogenic but that suppression of myogenesis in thelateral portions of the ﬁeld by surrounding tissues leads todistinct myogenic and nonmyogenic compartments. Thismodel predicts that formation of heart tubes in isolatedstage 22 lateral ﬁeld tissue (L
+HFexplants) does not require de
+novo induction. Two observations are consistent with this
+idea. First, XNkx2.5 levels did not change as stage 22 L HF
+explants were cultured. Second, removal of endoderm fromstage 22 L
+HFexplants did not prevent heart differentiation
+(not shown but see Schneider and Mercola, 1999). Actualheart induction, in contrast, requires signals from underly-ing deep dorsal endoderm and is largely complete by stage10.5 (Sater and Jacobson, 1989, 1990b; Nascone and Mer-cola, 1995).
+Interestingly, genes encoding contractile proteins were
+differentially inhibited in our assays. Cardiac actin andXTn-I
+cappeared particularly insensitive to suppression by
+presence of dorsal tissues, whereas XMLC-2 appeared mostsensitive and XMHC-
+aand Tn-T cwere between these
+extremes. Whether this reﬂects a graded dose responsive-ness or distinct signaling mechanisms upstream of theindividual genes (suggested by differential regulation oftranscription, reviewed in Chien et al., 1993; Doevendans
+and van Bilsen, 1996; Lyons, 1996; Siddiqui and Goswami,1997; Duroucher and Nemer, 1998) is unclear. Understand-ing the basis for differential responsiveness of these genesmay help answer the question of whether the prospectivemyocardium and dorsal tissues suppress via common ordistinct signaling molecules. It is clear, however, thatmyogenesis can be blocked at several levels. In intactembryos, the lateral heart ﬁeld does not express contractileprotein genes. In contrast, nonbeating explants of the lateralheart ﬁeld with dorsal tissues (L
+HF-N) formed lumens lined
+by endothelial cells (Fig. 8) and, occasionally, myoﬁbrillarstructures (the latter visible immunohistologically by con-focal microscopy with CT3 monoclonal antibody, data notshown).
+Suppression of the myogenic program downstream of
+XNkx2.5 may explain the data from Schultheiss et al.
+(1997) who found that application of exogenous BMP-2 and-4 induced ectopic cNkx2.5 mRNA in anterior mesoderm ofchick embryos in the presence of neural plate and folds. Inthese experiments, ventricular MHC mRNA was inducedonly in the absence of neurogenic tissue. Other contractileprotein genes were not examined, and it would be interest-ing to evaluate expression of cardiac actin or Tn-I
+c, two
+genes we found to be refractile to suppression by dorsaltissues.
+Our data are consistent with recent studies in other
+species in which notochord and/or neural tissue has beenshown to suppress heart differentiation (Jacobson, 1960;Fautrez and Amano, 1961; Orts-Llorca, 1964; DeHaan,1965; Rosenquist and DeHaan, 1966; Jacobson and Duncan,1968; Sarasa and Climent, 1987; Goldstein and Fishman,1998; Ehrman and Yutzey, 1999), insofar as suppressingsignals emanate from the dorsal midline. Studies in ze-braﬁsh and chicks have attempted to discern whethernotochord and/or neural tube are the source of suppressivesignals. Goldstein and Fishman (1998) showed that manualand genetic ablation of the anterior notochord in zebraﬁshcaused adjacent mesoderm to contribute to the myocar-dium. To our knowledge, the role of neurogenic cells hasnot been examined directly in zebraﬁsh. In chicks, manualor chemical ablation of neurogenic cells causes enlargedhearts (Orts-Llorca, 1964; Sarasa and Climent, 1987), dem-onstrating suppression from neural plate and/or folds. In-terestingly, these same studies suggested that chick noto-chord, in absence of myocardial or neurogenic tissues,cannot suppress. In our studies, we found that the neuraltube was a potent source of inhibitory activity (Fig. 5). It ispossible that amphibians are more similar to chicks than tozebraﬁsh in this regard, although we cannot exclude thepossibility that differences in experimental design accountfor the discrepancy.
+Neural crest cells seem a likely source of suppressive
+signals from the neural tube since the heart ﬁeld is aconsiderable distance from the neural tube at stage 22.Cephalic neural crest cells at stage 22 are still located justlateral to the neural tube but by stage 28 they have migratedinto the heart region (Sadaghiani and Thie ´baud, 1987; Ho et
+al.,1994). Neural crest cells have been proposed to suppress
+heart, lens, and pronephros differentiation (for instance, seeJacobson, 1960; Von Woellwarth, 1961; Etheridge, 1972;Henry and Grainger, 1987).
+Finally, it is important to note that our model is not the
+same as that of Goldstein and Fishman (1998). In theirstudy, ablation of suppressing tissue in zebraﬁsh caused amore posterior (Nkx2.5-negative) region to express Nkx2.5and initiate a myocardial program. Although our studiesalso identiﬁed suppressive signals from the dorsal midline,we did not examine cells posterior to the XNkx2.5 domain.Rather, we examined the fate of XNkx2.5- positive cells that
+reside just dorsal (medial in chick or zebraﬁsh terminology)to the prospective myocardium. Therefore, our model pro-poses a means of apportioning fates within the Nkx2.5domain. Extended to zebraﬁsh or chicks, it would predictthat signals from the dorsal midline would suppress myo-genesis in the medial portion of the Nkx2.5 domain andconcomitantly specify dorsal mesocardial and dorsal peri-cardial identity.
+ACKNOWLEDGMENTS
+We thank Sylvia Evans, Paul Krieg, Tom Drysdale, and Doug
+Melton for contributing probes. The CT3 antibody developed by
+D. A. Fischman was obtained from the Developmental StudiesHybridoma Bank maintained by the University of Iowa underContract NO1-HD-7-3263 from the NICHD. This work was sup-ported by grants from the NIH (RO1HL59502) to M.M. and BritishHeart Foundation to T.M.338 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+REFERENCES
+Bober, E., Franz, T., Arnold, H.-H., Gruss, P., and Tremblay, P.
+(1994). Pax-3 is required for the development of limb muscles: A
+possible role for the migration of dermomyotomal muscle pro-
+genitor cells. Development 120, 603–612.
+Chen, C. Y., and Schwartz, R. J. (1995). Identiﬁcation of novel DNA
+binding targets and regulatory domains of murine tinman home-
+odomain factor: Nkx2.5. J. Biol. Chem. 270, 15628–15633.
+Chen, J. N., and Fishman, M. C. (1996). Zebraﬁsh tinman homolog
+demarcates the heart ﬁeld and initiates myocardial differentia-tion. Development 122, 3809–3816.
+Chien, K. R., Zhu, H., Knowlton, K. U., Miller-Hance, W., van-
+Bilsen, M., O’Brien, T. X., and Evans, S. M. (1993). Transcrip-
+tional regulation during cardiac growth and development. Annu.
+Rev. Physiol. 55,77–95.
+Cleaver, O. B., Patterson, K. D., and Krieg, P. A. (1996). Overex-
+pression of the tinman-related genes XNkx-2.5 and XNkx-2.3 inXenopus embryos results in myocardial hyperplasia. Develop-
+ment 122, 3549–3556.
+Copenhaver, W. M. (1926). Experiments on the development of the
+heart of ambystoma punctatum. J. Exp. Zool. 43,321–371.
+DeHaan, R. L. (1965). Morphogenesis of the vertebrate heart. In
+“Organogenesis” (R. L. DeHaan and H. Ursprung, Ed.), pp.377–419. Holt, Rinehart & Winston, New York.
+Doevendans, P. A., and van Bilsen, M. (1996). Transcription factors
+and the cardiac gene programme. Int. J. Biochem. Cell Biol. 28,
+387–403.
+Drysdale, T. A., K. F., T., Patterson, K. D., Crawford, M. J., and
+Krieg, P. A. (1994). Cardiac troponin I is a heart-speciﬁc markerin the Xenopus embryo: Expression during abnormal heart mor-phogenesis. Dev. Biol. 165, 432–441.
+Drysdale, T. A., Patterson, K. D., Saha, M., and Krieg, P. A. (1997).
+Retinoic acid can block differentiation of the myocardium afterheart speciﬁcation. Dev. Biol. 188, 205–215.
+Duroucher, D., and Nemer, M. (1998). Combinatorial interactions
+regulating cardiac transcription. Dev. Genet. 22,250–262.
+Ehrman, L. A., and Yutzey, K. E. (1999). Lack of regulation in avian
+cardiogenesis. Dev. Biol. 207, 163–175.
+Ekman, G. (1925). Experimentelle Beitra ¨ge zur Herzentwicklung
+der Amphibien. Wilhelm Roux Arch. EntwMech. Org. 106,
+320–352.
+Etheridge, A. L. (1972). Suppression of kidney formation by neural
+crest cells. Wilhelm Roux Arch. EntwMech. Org. 169, 268–270.
+Evans, S. M., Yan, W., Murillo, M. P., Ponce, J., and Papalopulu, N.
+(1995). tinman, a Drosophila homeobox gene required for heartand visceral mesoderm speciﬁcation, may be represented by afamily of genes in vertebrates, XNKX-2.3, a second vertebratehomologue of tinman. Development 121, 3889–3899.
+Fautrez, J., and Amano, H. (1961). Pourquoi le coeur ne se
+de ´veloppe-t-il pas apre `s extirpation de l’entoblast dans une larvaed’Urode `le? C. R. Seances Soc. Biol. 155, 2219–2220.
+Fishman, M. C., and Chien, K. R. (1997). Fashioning the vertebrate
+heart: Earliest embryonic decisions. Development 124, 2099–
+2117.
+Fu, Y., and Izumo, S. (1995). Cardiac myogenesis: Overexpression of
+XCsx2 or XMEF2A in whole Xenopus embryos induces theprecocious expression of xMHC
+agene. Roux’s Arch. Dev. Biol.
+205, 198–202.
+Goldstein, A. M., and Fishman, M. C. (1998). Notochord regulates
+cardiac lineage in zebraﬁsh embryos. Dev. Biol. 201, 247–252.Harland, R. M. (1991). In situ hybridization: An improved whole
+mount method for Xenopus embryos. In“Xenopus laevis: Prac-
+tical Uses in Cell and Molecular Biology” (B. K. Kay and H. B
+Peng, Eds.), pp. 685–695. Academic Press, San Diego.
+Harvey, R. P. (1996). NK-2 homeobox genes and heart develop-
+ment. Dev. Biol. 178, 203–216.
+Hemmati-Brivanlou, A., Frank, D., Bolce, M. E., Brown, B. D., Sive,
+H. L., and Harland, R. M. (1990). Localization of speciﬁc mRNAsin Xenopus embryos by whole-mount in situ hybridization.Development 110, 325–330.
+Henry, J. J., and Grainger, R. M. (1987). Inductive interactions in
+the spatial and temporal restriction of lens forming potential inembryonic ectoderm of Xenopus laevis. Dev. Biol. 141, 149–163.
+Ho, L., Symes, K., Yorda ´n, C., Gudas, L. J., and Mercola, M. (1994).
+Localization of PDGF A and PDGFRa mRNA in Xenopus em-
+bryos suggests signalling from neural ectoderm and pharyngealendoderm to neural crest cells. Mech. Dev. 48,165–174.
+Icardo, J. M. (1988). Heart anatomy and developmental biology.
+Experientia 44,910–919.
+Jacobson, A. G. (1960). Inﬂuences of ectoderm and endoderm on
+heart differentiation in the newt. Dev. Biol. 2,138–154.
+Jacobson, A. G., and Duncan, J. T. (1968). Heart induction in
+salamanders. J. Exp. Zool. 167, 79–103.
+Jacobson, A. G., and Sater, A. K. (1988). Features of embryonic
+induction. Development 104, 341–359.
+Lee, Y., Shioi, T., Kasahara, H., Jobe, S. M., Wiese, R. J., Markham,
+B. E., and Izumo, S. (1998). The cardiac tissue-restricted ho-
+meobox protein Csx/Nkx2.5 physically associates with the zincﬁnger protein GATA4 and cooperatively activates atrial natri-uretic factor gene expression. Mol. Cell. Biol. 18,3120–3129.
+Logan, M., and Mohun, T. (1993). Induction of cardiac muscle
+differentiation in isolated animal pole explants of Xenopus laevis
+embryos. Development 118, 865–875.
+Lyons, G. E. (1996). Vertebrate heart development. Curr. Opin.
+Genet. Dev. 6,454–460.
+Lyons, I., Parsons, L. M., Hartley, L., Li, R., Andrews, J. E., Robb, L.,
+and Harvey, R. P. (1995). Myogenic and morphogenetic defects inthe heart tubes of murine embryos lacking the homeo box geneNkx2.5. Genes Dev. 9,1654–1666.
+Nascone, N., and Mercola, M. (1995). An inductive role for the
+endoderm in Xenopus cardiogenesis. Development 121, 515–523.
+Nieuwkoop, P. D., and Faber, J. (1967). “Normal Table of Xenopus
+laevis (Daudin),” 2nd ed. North-Holland, Amsterdam.
+Orts-Llorca, F. (1964). Les facteurs de ´terminants de la morpho-
+ge´ne`se et de la diffe ´renciation cardiaque. Bull. Assoc. Anat. 49,
+1–124.
+Rawles, M. E. (1936). A study in the localization of organ-forming
+areas in the chick blastoderm of the head process stage. J. Exp.
+Zool. 138, 505–555.
+Rosenquist, G. C., and DeHaan, R. L. (1966). Migration of precar-
+diac cells in the chick embryo: A radioautographic study. Car-
+negie Inst. Wash. Pub. 625, Contrib. Embryol. 263, 113–121.
+Sadaghiani, B., and Thie ´baud, C. H. (1987). Neural crest develop-
+ment in the Xenopus laevis embryo, studied by interspeciﬁc
+transplantation and scanning electron microscopy. Dev. Biol.
+124, 91–110.
+Sarasa, M., and Climent, S. (1987). Effects of catecholamines on
+early development of the chick embryo: Relationship to effects ofcalcium and cAMP. J. Exp. Zool. 241, 181–190.
+Sater, A. K., and Jacobson, A. G. (1989). The speciﬁcation of heart
+mesoderm occurs during gastrulation in Xenopus laevis. Devel-
+opment 105, 821–830.339 Subdivision of the Heart Field
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.
+Sater, A. K., and Jacobson, A. G. (1990a). The restriction of the heart
+morphogenetic ﬁeld in Xenopus laevis. Dev. Biol. 140, 328–336.
+Sater, A. K., and Jacobson, A. G. (1990b). The role of the dorsal lip
+in the induction of heart mesoderm in Xenopus laevis. Develop-
+ment 108, 461–470.
+Schneider, V. A., and Mercola, M. (1999). Spatially distinct head
+and heart inducers within the Xenopus organizer region. Curr.
+Biol. 9,800–809.
+Schultheiss, T. M., Burch, J. B., and Lassar, A. B. (1997). A role for
+bone morphogenetic proteins in the induction of cardiac myo-
+genesis. Genes Dev. 11,451–62.
+Schultheiss, T. M., Xydas, S., and Lassar, A. B. (1995). Induction of
+avian cardiac myogenesis by anterior endoderm. Development
+121, 4203–4214.
+Siddiqui, M. A. Q., and Goswami, S. K. (1997). Molecular basis of
+cardiogenesis: Regulatory factors involved in cardiomyocytespeciﬁcation. In“The Developing Heart” (B. Ostadal, Ed.), pp.
+9–37. Lippencott–Raven, Philadelphia.
+Tonissen, K. F., Drysdale, T. A., Lints, T. J., Harvey, R. P., and
+Krieg, P. A. (1994). XNkx-2.5, aXenopus gene related to Nkx-2.5
+and tinman: Evidence for a conserved role in cardiac develop-
+ment. Dev. Biol. 162, 325–328.
+Von Woellwarth, C. (1961). Die Rolle des neuralleistenmaterials
+und der Temperatur bei der Determination der Augenlinse.
+Embryologia 6,219–242.
+Yatskievych, T., Ladd, A., and Antin, P. (1997). Induction of cardiac
+myogenesis in avian pregastrula epiblast: The role of the hypo-
+blast and activin. Development 124, 2561–2570.
+Received for publication October 5, 1999
+Revised November 17, 1999
+Accepted November 17, 1999340 Rafﬁn et al.
+Copyright © 2000 by Academic Press. All rights of reproduction in any form reserved.

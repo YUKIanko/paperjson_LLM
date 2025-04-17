@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2-5", "Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "in situ hybridization", "immunofluorescence staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Nkx2-5Cre", "R26Rstop lacZ", "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK)", "antibody used", "floxed region of Gata4"],
+    "model_organisms": ["Nkx2-5Cre mice", "R26Rstop lacZ mice", "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK) embryos"]
+  }
+}

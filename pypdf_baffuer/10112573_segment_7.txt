@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["WT1", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Immunohistochemistry", "RT-PCR", "electron microscopic analysis"],
+    "software_tools": [],
+    "reagents_chemicals": ["sarcomeric myosin", "toluidine blue", "myoﬁbrils", "Zlines", "intercalated disks"],
+    "model_organisms": ["Gata4/H11001//H11002 embryos", "Gata4/H11002//H11002 embryos"]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Alb1",
+    "Hnf4a"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "immunohistochemistry",
+      "RT-PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4+/- embryos",
+      "Gata4-/- embryos"
+    ]
+  }
+}

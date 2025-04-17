@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Lee et al., 2001", "Hansen et al., 1997", "Faure et al., 2000"],
+  "genes": ["XCR1", "Xnr1", "Xnr2", "Xnr3", "Xnr5", "Xnr6", "Smad2", "NCAM"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Western blotting", "SDS-PAGE", "anti-phosphorylated Smad2 antibody (α-PS2)", "anti-Smad2 antibody (α-S2)", "anti-Erk antibody (α-Erk)", "anti-XCR1 antibody"],
+    "software_tools": [],
+    "reagents_chemicals": ["Derrière", "morpholino control (MO C)", "morpholinos against XCR1 (MO CR1)", "eFGF", "XCR1 pseudo-alleles"],
+    "model_organisms": ["Xenopus"]
+  }
+}

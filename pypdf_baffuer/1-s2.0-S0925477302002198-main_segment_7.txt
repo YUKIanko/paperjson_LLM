@@ -1,0 +1,17 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Rx", "ECFP", "Pax6", "Otx", "Crx", "SpOtx2", "pax6", "wild-type", "PAX6"],
+  "proper_nouns": {
+    "institutions": [
+      "National Institutes ofHealth",
+      "Minerva",
+      "Virginia.EDU"
+    ],
+    "experimental_methods": ["DNA constructs and generation of transgenic lines", "GAL4 mRNA injections", "RU486 treatments and Western analysis", "Photomicroscopy"],
+    "software_tools": [],
+    "reagents_chemicals": ["RU486", "SP6 polymerase", "pCS2/GAL4 template", "capped synthetic GAL4 RNA", "NP-40 lysis buffer", "Bradford assay reagent (Bio-Rad)", "nitrocellulose membrane (Osmonics Inc.)", "LivingColors A.v. Peptide antibody (Clontech)", "Anti-Actin antibody (Sigma)", "DMSO", "1 M acetic acid"],
+    "model_organisms": ["Xenopus tropicalis", "Xenopus laevis"]
+  }
+}

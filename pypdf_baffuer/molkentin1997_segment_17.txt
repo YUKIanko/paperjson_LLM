@@ -1,0 +1,57 @@
+{
+  "title": "GATA4 directs heart tube formation",
+  "authors": [],
+  "references": [
+    {
+      "authors": ["Ang", "S.L.", "A. Wierda", "D. Wong", "K.A. Stevens", "S. Cascio", "J. Rossant", "K.S. Zaret"],
+      "title": "The formation and maintenance of the definitive endoderm lineage in the mouse: Involvement of HNF-3/fork head proteins",
+      "journal": "Development",
+      "year": 1993,
+      "volume": 119,
+      "pages": "1301-1316"
+    },
+    {
+      "authors": ["Arceci", "R.J.", "A.A.J. King", "M.C. Simon", "S.H. Orkin", "D.B. Wilson"],
+      "title": "Mouse GATA-4: A retinoic acid-inducible GATA-binding transcription factor expressed in endodermally derived tissues and heart",
+      "journal": "Mol. Cell. Biol.",
+      "year": 1993,
+      "volume": 13,
+      "pages": "2235-2246"
+    },
+    {
+      "authors": ["Barnes", "J.D.", "J.L. Crosby", "C.M. Jones", "C.V.E. Wright", "B.L.M. Hogan"],
+      "title": "Embryonic expression of Lim-1, the mouse homolog of Xenopus Xlim-1, suggests a role in lateral mesoderm differentiation and neurogenesis",
+      "journal": "",
+      "year": 1994
+    }
+  ],
+  "genes": [
+    "GATA4",
+    "L7",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "total RNA extraction with Trizol reagent",
+      "reverse transcribed with Moloney murine leukemia virus reverse transcriptase",
+      "Taq polymerase-directed PCR reaction",
+      "L7 primers",
+      "GATA6 primers"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Trizol reagent (GIBCO BRL)",
+      "Moloney murine leukemia virus (Mo-MLV) reverse transcriptase",
+      "random hexamers (GIBCO BRL)",
+      "[a-'~2P]dCTP",
+      "L7 primers",
+      "GATA6 primers"
+    ],
+    "model_organisms": [
+      "GATA4 null embryos",
+      "wild-type embryos"
+    ]
+  }
+}

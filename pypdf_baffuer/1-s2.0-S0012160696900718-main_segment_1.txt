@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Litvin et al., 1993", "Sartorelli et al., 1992", "Grepin et al., 1994", "Ip et al., 1994", "Molkentin et al., 1994", "Thuerauf et al., 1994", "Laverriere et al., 1994", "Ness and Engel, 1994", "Pevny et al., 1995, 1991", "Tsai et al., 1994", "Arceci et al., 1993", "Kelley et al., 1993", "Grepin et al., 1994", "Tamura et al., 1996"],
+  "genes": ["GATA-1", "GATA-2", "GATA-3", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus"]
+  }
+}

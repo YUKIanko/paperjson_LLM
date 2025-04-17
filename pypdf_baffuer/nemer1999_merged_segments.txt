@@ -1,0 +1,120 @@
+{
+  "title": "Functional analysis and chromosomal mapping of Gata5, a gene encoding a zinc finger DNA-binding protein",
+  "authors": ["Georges Nemer", "Salman T. Qureshi", "Danielle Malo", "Mona Nemer"],
+  "references": [],
+  "genes": ["GATA5"],
+  "proper_nouns": {
+    "institutions": [
+      "Laboratoire de de ´veloppement et diffe ´renciation cardiaques, Institut de recherches cliniques de Montre ´al",
+      "De ´partement de Pharmacologie, Universite ´ de Montre ´al",
+      "Department of Medicine and Human Genetics, McGill University",
+      "Centre for the Study of Host Resistance, L11-144 Montre ´al General Hospital"
+    ],
+    "experimental_methods": ["Northern blot analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "distal mouse Chromosome",
+      "mouse Chr 2",
+      "rat Chr 3q43",
+      "human Chr 20q13.2-q13.3"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Pevny et al. 1995", "Weiss et al. 1994", "Tsai et al. 1994", "Pandolfi et al. 1995", "Gre´pin et al. 1994", "Jiang and Evans 1996", "Kelley et al. 1993", "Laverriere et al. 1994", "Heikinheimo et al. 1994", "Ip et al. 1994", "Molkentin et al. 1994", "Gre´pin et al. 1995, 1997", "Molkentin et al. 1997"],
+  "genes": ["GATA-2", "GATA-3", "GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["axis disruption experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "amphibians", "mammals", "mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Gre´pin et al. 1994", "Jiang and Evans1996"],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gua-nidinium–thiocyanate–phenol/chloroform method", "Northern blots", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["Bluescript vector", "guanidinium-thiocyanate", "Nytran-nylon membranes"],
+    "model_organisms": ["Sprague Dawley rats", "Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [
+      "University of Tokyo"
+    ],
+    "experimental_methods": [
+      "agarose gel electrophoresis",
+      "Electrophoretic mobility shift-assays (EMSA)",
+      "calcium phosphate precipitation technique"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["kodak xomat/ar film", "Dulbecco’s modified eagle’s medium (DMEM)", "fetal calf serum", "luciferase activity measurement by an LKB luminometer", "double-stranded oligonucleotides"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["Durocher et al. 1997", "Harats et al. 1995", "NEN Life Sciences, Boston", "The Jackson Laboratory Backcross DNA BSB panel (C57BL/6J × Mus spretus)", "http://www.jax.org/resources/documents/cmdata/BSB.htlm"],
+  "genes": ["GATA-5", "ANF", "ET-1"],
+  "proper_nouns": {
+    "institutions": ["The Jackson Laboratory", "NEN Life Sciences, Boston", "Santa Cruz Biotechnology Inc."],
+    "experimental_methods": ["linkage analysis", "genomic DNA digestion", "electrophoresis in 1% agarose gel", "blotted onto a nylon membrane under standard protocols", "polymerase chain reaction (PCR)"],
+    "software_tools": [],
+    "reagents_chemicals": ["radiolabeled probe", "Laemmli buffer", "SDS-PAGE", "Hybond-PVDF membranes", "anti-HA antibody", "32P-dATP random primer-labeled probe", "denatured salmon sperm DNA"],
+    "model_organisms": ["CV1 cells", "Xenopus", "Sprague Dawley rats", "Mus spretus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Northern blot analysis",
+      "RT-PCR amplification",
+      "computer-assisted sequence analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Bluescript vector (pKS)", "oligonucleotides", "32P-radiolabelled GATA-5 probe", "radiolabeled 18S probe"],
+    "model_organisms": ["Xenopus", "chicken", "rat", "mouse", "Sprague-Dawley rat"]
+  }
+}
+{
+  "title": "Cloning and analysis of rat GATA-5",
+  "authors": ["G. Nemer", "S. Qureshi", "D. Malo", "M. Nemer"],
+  "references": [
+    "Kelley et al. 1993",
+    "Morrisey et al. 1997a",
+    "Laverriere et al. 1994",
+    "Charron et al. 1999",
+    "de la Pompa et al. 1998",
+    "Durocher et al. 1997",
+    "Visvader et al. 1995"
+    // Additional references omitted for brevity
+  ],
+  "genes": ["GATA-5", "GATA4", "GATA6", "MSX1", "GNAS", "PCK1", "SYBL1-Ps", "NFATc"],
+  "proper_nouns": {
+    "institutions": ["Gibco-IRCM", "Fonds de la recherche en sante´ du Que´bec (FRSQ)"],
+    "experimental_methods": ["Northern blots", "RT-PCR", "EMSAs", "Westernblots", "southern blots", "cotransfection assays", "in situ hybridization studies"],
+    "software_tools": [],
+    "reagents_chemicals": ["32P-radiolabeled GATA-5 probe", "32P-labeled oligonucleotides", "anti-HA antibody", "ANF proximal promoter", "ET-1 promoter", "GATA element", "ANF GATA probe"],
+    "model_organisms": ["Xenopus", "Sprague Dawley rats", "rodent embryos", "CV1 cells", "Helacells", "mice", "rat"]
+  }
+}

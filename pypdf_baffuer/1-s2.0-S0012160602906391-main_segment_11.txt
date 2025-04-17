@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mohun et al., 1989b", "Taylor et al., 1991", "Taylor et al., 1989"],
+  "genes": ["MYOT", "CArG box1", "c-fos"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["/H9251-actin", "/H11001DS", "/H11001-actin", "/H11002580", "/H11002216"],
+    "model_organisms": ["embryonic muscle"]
+  }
+}

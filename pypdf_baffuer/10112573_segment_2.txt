@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["two-step Cre-lox P strategy", "Southern blot", "wild-type tetraploid embryos aggregation", "immunostaining experiments"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Gata4/H11002//H11002ES mice", "Gata4/H11002//H11002ES embryos", "wild-type embryos", "FOG2 knockout embryos"]
+  }
+}

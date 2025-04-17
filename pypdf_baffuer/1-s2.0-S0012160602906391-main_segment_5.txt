@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990", "Mohun et al., 1989b", "Taylor et al., 1989"],
+  "genes": [
+    "ACTA2",
+    "GFP"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["transgenesis", "DNA injection", "linker scan mutations", "direct DNA injection", "internal deletion LS10/13"],
+    "software_tools": [],
+    "reagents_chemicals": ["GFP transgene", "activin", "anteroventral tissue explants", "primitive heart tubes", "facial and body wall muscles"],
+    "model_organisms": ["Xenopus"]
+  }
+}

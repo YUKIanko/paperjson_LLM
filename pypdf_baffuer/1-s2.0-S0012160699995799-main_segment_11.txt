@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["XTn-I", "XNkx2-5", "XMHC"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["CT3 monoclonal antibody"],
+    "model_organisms": ["Xenopus"]
+  }
+}

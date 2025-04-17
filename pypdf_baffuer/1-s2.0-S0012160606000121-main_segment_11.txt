@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["SMAD2", "XCR1", "XCR3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["MO CR1", "MO CR3", "MO C-injected embryos", "MOs against XCR1 and/or XCR3"],
+    "software_tools": [],
+    "reagents_chemicals": ["Xenopus development"],
+    "model_organisms": ["Xenopus"]
+  }
+}

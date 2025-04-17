@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Mathers et al., 1997", "Wang et al., 1994", "Burcin et al., 1998", "Zhao et al., 2001"],
+  "genes": ["Rx", "Rx"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["screening a X.tropicalis genomic library", "generated transgenic lines with GFP fused downstream of the 2.2 kb Rx promoter (pRx –GFP) and analyzed the F1 embryos for the GFP expression pattern"],
+    "software_tools": [],
+    "reagents_chemicals": ["a X.laevis Rx cDNA probe", "RU486"],
+    "model_organisms": ["X.laevis", "X.tropicalis", "pRx-GALPR transgenic lines with retina-specific expression of this chimeric transactivator"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Capturing animals by hand", "Identifying the SMIS gene"],
+    "software_tools": [],
+    "reagents_chemicals": ["Cynops pyrrhogaster", "oviduct-secreted extracellular matrix", "egg jelly", "Sperm motility-initiating substance (SMIS)"],
+    "model_organisms": ["Cynops pyrrhogaster"]
+  }
+}

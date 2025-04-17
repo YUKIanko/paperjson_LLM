@@ -1,0 +1,31 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "Gre´pin et al. 1997",
+    "Gre´pin et al. 1994",
+    "Durocher et al. 1997",
+    "Harats et al. 1995",
+    "Charron et al. 1999",
+    "Lee et al. 1991"
+  ],
+  "genes": [
+    "GATA-5",
+    "GATA-4",
+    "GATA-6",
+    "TUBB8"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "University of Tokyo, Japan"
+    ],
+    "experimental_methods": [
+      "PCR-mediated mutagenesis",
+      "Electrophoretic mobility shift-assays (EMSA)",
+      "calcium phosphate precipitation technique"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

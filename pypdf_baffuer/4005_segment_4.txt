@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Peterkin et al., 2003"],
+  "genes": ["gata4", "foxa2", "i-fabp", "sox17", "transferrin"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["morpholino_injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino", "GFP"],
+    "model_organisms": ["gata4:GFP line", "Gata4 morphant embryos"]
+  }
+}

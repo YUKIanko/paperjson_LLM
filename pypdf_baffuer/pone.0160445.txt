@@ -1,0 +1,462 @@
+RESEARCH ARTICLE
+A Novel Cysteine Knot Protein for Enhancing
+Sperm Motility That Might Facilitate theEvolution of Internal Fertilization inAmphibians
+Misato Yokoe1, Eriko Takayama-Watanabe2, Yoko Saito1, Megumi Kutsuzawa1,
+Kosuke Fujita1, Haruki Ochi3, Yuni Nakauchi1, Akihiko Watanabe1*
+1Department of Biology, Faculty of Science, Yamagata University, Kojirakawa, Yamagata, Japan,
+2Institute of Arts and Sciences, Yamagata University, Kojirakawa, Yamagata, Japan, 3School of Medicine,
+Yamagata University, Iida-Nishi, Yamagata, Japan
+*watan@sci.kj.yamagata-u.ac.jp
+Abstract
+Internal fertilization ensures successful reproduction of tetrapod vertebrates on land,
+although how this mode of reproduction evolved is unknown. Here, we identified a novelgene encoding sperm motility-initiating substance (SMIS), a key protein for the internal fertil-ization of the urodele Cynops pyrrhogaster by Edman degradation of an isolated protein
+and subsequent reverse transcription polymerase chain reaction. The SMIS gene encoded
+a 150 amino-acid sequence including the cysteine knot (CK) motif. No gene with substantialsimilarity to the SMIS was in the data bank of any model organisms. An active site of the
+SMIS was in the C-terminal region of the 2nd loop of CK motif. A synthetic peptide includingthe active site sequence bound to the midpiece and initiated/enhanced the circular motionofC.pyrrhogaster sperm, which allows penetration of the egg jelly specialized for the inter-
+nal fertilization of this species. The synthetic peptide bound to whole sperm of Rhacophorus
+arboreus and enhanced the rotary motion, which is adapted to propel the sperm through
+egg coat matrix specialized for arboreal reproduction, while it bound to the tip of head andtail of Bufo japonicus sperm, and enhanced the vibratory motion, which is suited to sperm
+penetration through the egg jelly specialized for the reproduction of that species in freshwa-ter. The polyclonal antibody against the active site of the SMIS specifically bound to eggcoat matrix of R.arboreus . These findings suggest that diversification of amphibian repro-
+ductive modes accompanies the specialization of egg coat and the adaptation of spermmotility to penetrate the specialized egg coat, and SMIS acts as the sperm motility enhancerof anurans and urodeles that might facilitate to adaptively optimize sperm motility for allow-ing the establishment of internal fertilization.
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 1/1 3a11111
+OPEN ACCESS
+Citation: Yokoe M, Takayama-Watanabe E, Saito Y,
+Kutsuzawa M, Fujita K, Ochi H, et al. (2016) A NovelCysteine Knot Protein for Enhancing Sperm MotilityThat Might Facilitate the Evolution of InternalFertilization in Amphibians. PLoS ONE 11(8):e0160445. doi:10.1371/journal.pone.0160445
+Editor: Michael Klymkowsky, University of Colorado
+Boulder, UNITED STATES
+Received: February 10, 2016
+Accepted: July 19, 2016
+Published: August 31, 2016
+Copyright: © 2016 Yokoe et al. This is an open
+access article distributed under the terms of theCreative Commons Attribution License , which permits
+unrestricted use, distribution, and reproduction in anymedium, provided the original author and source arecredited.
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information files.
+Funding: This work was supported by JSPS
+KAKENHI No. JP24570246 AW, JSPS KAKENHI No.JP16K07459 AW, and JSPS KAKENHI No.15K07165 ET-W.
+Competing Interests: The authors have declared
+that no competing interests exist.
+Introduction
+The reproductive modes of amphibians have evolutionarily diversified from external fertiliza-
+tion in freshwater to arboreal fertilization or internal fertilization[ 1]. Today, internal fertiliza-
+tion occurs in a few anuran species, most urodele species, and all caecilians. It is also commonin higher vertebrates, suggesting that the establishment of internal fertilization in amphibians
+would have greatly contributed to the transition from water to land during vertebrate evolu-
+tion. However, the mechanism involved in the diversification of reproductive modes and theestablishment of internal fertilization is entirely unknown.
+Internal fertilization presents a constitutive advantage in allowing the selection of a time
+and place suited for reproduction, largely as a result of sperm storage by females[ 2]. In tetrapod
+females, as sperm are maintained in a quiescent state during the storage period, re-activation ofsperm motility is required to achieve internal fertilization. The in vivo mechanisms for the re-
+activation of sperm motility are unknown except in a few species, such as the urodele Cynops
+pyrrhogaster . At the time of fertilization, the motility of Cynops sperm stored by females is initi-
+ated at the surface of the egg jelly, the outermost egg coat, composed of oviduct-secreted extra-
+cellular matrix[ 3]. The surface of the egg jelly possesses fine structures specialized for the
+initiation of sperm motility by sperm motility-initiating substance (SMIS)[ 4]. SMIS induces
+sperm motility independent of hypoosmolality, the typical trigger for the initiation of sperm
+motility during external fertilization in amphibians[ 5], and ensures the success of internal fer-
+tilization. SMIS activity is also present in the egg jelly of primitive amphibians that undergoexternal fertilization, despite the fact that sperm motility is initiated due to the hypoosmolalityof freshwater in these species[ 6,7]. These facts suggest that the role of SMIS was modified, lead-
+ing it to make an essential contribution to the establishment of internal fertilization in amphib-
+ians. In the present study, we identify the SMIS gene to address the mechanism of the
+diversification of the reproductive mode resulting in the establishment of internal fertilization.
+Methods
+Animals
+Fifty mature Cynops pyrrhogaster were captured by hand in early spring or late autumn in
+Yamagata prefecture (lat. 38°22 ’12”N, long. 140°3 ’57”E), Japan, by permission of landowners
+and maintained in hibernation at 10°C in the laboratory. Ten mature Rhacophorus arboreus
+were captured by hand in late spring in Yamagata prefecture (lat. 38°4 ’55”N, long. 140°18 ’6”
+E), Japan, by permission of landowners. Some males were provided by Dr. Kubota of Kyoto
+University. Bufo japonicus and Xenopus laevis were provided by the Institute of Amphibian
+Biology, Hiroshima University, or were purchased from PLUSTinc Limited Company, Tokyo,
+Japan. The anurans were kept at room temperature in the laboratory. Animals were anesthe-
+tized in 0.1% MS222 and then pithed. C.pyrrhogaster sperm were obtained from the vas defer-
+ens, while R.arboreus ,B.japonicus , and X.laevis sperm were obtained from the testes. To
+obtain jellied eggs or oviduct-secreted matrix, ovulation was induced in females of C.pyrrhoga-
+ster,B.japonicus and X .laevis by daily injection of 300 IU of human chorionic gonadotropin
+(Aska Pharmaceutical, Tokyo, Japan). Jellied eggs or egg clutches were obtained from theuterus ( C.pyrrhogaster ) or by pressing the stomach ( B.japonicus and X.laevis ). The oviduct-
+secreted matrix of R.arboreus was obtained from the ovisac (the most posterior portion of the
+oviduct) of females captured in their reproductive season (June). The experimental protocolwas approved by the committee for animal experiments of Yamagata University (No. 27054),
+and all animals were treated according to the guidelines for proper conduct in animal experi-
+ments in Japan.
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 2/1 3
+Identification and base sequence analysis of SMIS cDNA
+An egg jelly extract (JE) was prepared according to a previous study[ 4]. Isoelectric focusing (pH
+3–10) of the JE (above 200 μg) was performed, and a second separation was subsequently carried
+out in a 10% polyacrylamide gel. The substances present in the JE were electrotransferred to apolyvinylidene difluoride membrane, which was then immunoreacted with an anti-SMIS anti-
+body[ 4]a t1 μg/ml, followed by immunoreaction with horseradish peroxidase-conjugated anti-
+mouse IgG (Chemicon International Inc. Billerica, MA) at 1 μg/ml. Specific binding of the anti-
+bodies to jelly substances was then revealed using 0.02% diaminobenzidine. A corresponding
+spot recognized by the anti-SMIS antibody was treated with trypsin, and the N-terminal amino
+acid sequences of the obtained peptides were analyzed through Edman degradation.
+Degenerate primers corresponding to the obtained sequences (PVPYPSYPL and PVSSFDM)
+were synthesized. Total RNA was purified from the posterior portion of the oviduct of C.pyrrho-
+gaster , in which ovulation was induced by daily injections of gonadotropin (300 unit). Reverse
+transcription followed by polymerase chain reaction was performed using the SMARTer ™RACE
+cDNA amplification kit (Takara Bio Inc., Tokyo, Japan). 5 ’-a n d3 ’- RACE was performed using
+gene-specific primers and 5 ’-o r3 ’- RACE CDS primer A. The base sequences of the amplified
+DNAs were analyzed with a genetic analyzer (3500; Thermo Fisher Scientific, Waltham, MA).Similarity searches of the cDNA base sequence and the deduced amino acid sequence were per-
+formed in the NIH gene or protein data bank and in the data from the X.laevis J-strain 8.0
+genome (Xenbase; http://www.xenbase.org ) using the Basic Local Alignment Search Tool.
+In situ hybridization
+Oviduct of ovulation-induced females by HCG injection (300IU) was dissected and cut into
+small pieces. They were fixed in 4% paraformaldehyde in PBS. Primers specific for SMIS (For-ward: 5’-CACCAATACCCAAGCGAAACAGACGA-3 ’and Reverse: 5’-GGAGTAGAGTCAGT
+CACACCATTACA-3 ’) were used for DIG-labeled probes. Those probes were prepared accord-
+ing to manufacturer ’s instruction (Roche, Tokyo, Japan). Whole mount in situ hybridization
+was performed according to Sive et al[ 8].
+Analysis of sperm motility
+The P1-P3 peptides with partial amino acid sequences of SMIS were synthesized using a com-
+mercial service (Eurofins Genomics, Tokyo, Japan). An aliquot of sperm (1 μl) was suspended
+in modified Steinberg ’s salt solution (ST: 58.2 mM NaCl, 0.67 mM KCl, 6 mM CaNO 3, 0.83
+mM MgSO 4, 10 mM HEPES-NaOH; pH 8.5) or 10-fold diluted ST (1/10 ST) with double dis-
+tilled water. Each synthetic peptide was prepared in one of the solutions at 1 μM to 10 mM.
+Sperm were observed at room temperature under a phase-contrast microscope (BX51, Olym-
+pus Co., Tokyo, Japan) equipped with a 10x or 20x objective, and recordings were made on apersonal computer with a digital high-speed camera (HAS-220; DITECT, Tokyo, Japan).
+Motility was estimated based on the percentage of sperm showing undulation of the undulating
+membrane or progressive motility in C.pyrrhogaster at 1 min and 5 min; or stable and unstable
+rotary motion in R.arboreus at 5 min; or flagellar beating at a high and medium amplitude in
+B.japonicus at 1 min; or flagellar beating and progressive motility in X.laevis at 1 min. The sig-
+nificance of the differences was evaluated with Student ’s t-test.
+Fluorescence staining
+The fluorescein isothiocyanate-labeled P1 (FITC-P1) and FITC-P3 were synthesized by a com-
+mercial service (Eurofins Genomics Inc., Tokyo, Japan) and were incubated with sperm at 1 or
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 3/1 3
+10μg/ml for 5 min. To examine the immunolocalization of the SMIS in the oviduct-secreted
+matrix, the matrix obtained from oviductal lumen were fixed in methanol. For generation of a
+polyclonal antibody, referred to as the anti-P3 antibody, a synthetic peptide (YSLLKVTRSCS)including the P3 site was conjugated with keyhole limpet hemocyanin (KLH) and a rabbit wasimmunized with it. Immunogloblins were purified by the affinity to the synthetic peptide with-
+out KLH-conjugation. For immunostaining, the anti-P3 antibody (0.7 μg/ml) or the anti-SMIS
+antibody (1 μg/ml) were used as primary antibodies and an AlexaFluor594-conjugated anti-
+rabbit IgG antibody (1 μg/ml) (Thermo Fisher Scientific, Waltham, MA) or an Alexa-
+Fluor488-conjugated anti-mouse IgG antibody (1 μg/ml) (Thermo Fisher Scientific, Waltham,
+MA) were done as secondary antibodies, respectively. In a control, FITC-P3 and the anti-P3antibody were preabsorbed by the anti-P3 antibody and the peptide used to generate the anti-
+P3 antibody, respectively. The sperm and sections were observed with a confocal laser scanning
+microscope (c2; Nikon Co., Tokyo, Japan).
+Results
+Identification of the SMIS gene
+Immunoblotting of an egg jelly extract with the anti-SMIS antibody[ 4] revealed several spots at
+isoelectric point 4.3 ( Fig 1a ), and partial amino acid sequences of PVPYPSYPL and PVSSFDM
+Fig 1. Identification and characterization of SMIS. (a) Immunoblotting of the SMIS protein in the JE of C.
+pyrrhogaster . Substances present in the JE were separated through 2D-electrophoresis and transferred to a PVDF
+membrane. Immunoreaction was performed using an anti-SMIS monoclonal antibody (mAb)[ 4]. The upper and lower
+photographs show Coomassie brilliant blue staining of the gel and an immunoblot image, respectively. Arrowheadsindicate the SMIS proteins. (b) Amplification of SMIS cDNA through reverse transcription-polymerase chain reaction
+(RT-PCR). Total RNA was purified from the indicated organs using the TRIzol
+1reagent (Invitrogen), and 1 μg of each
+sample was reverse-transcribed with an oligo-(dT) primer. Subsequently, PCR was performed using a primer set
+specific for the SMIS gene. In the control, primers specific for the ß-tubulin gene were used for PCR. (c)
+Immunoblotting of recombinant SMIS protein with an anti-SMIS mAb. Recombinant SMIS protein was produced in
+Escherichia coli by transfection of an expression vector (pCold TF, TaKaRa Bio, Tokyo, Japan) containing the open
+reading frame of SMIS cDNA. The protein was subjected to 1D-electrophoresis and immunoblotted with the anti-SMIS
+mAb. The left two columns show Coomassie Brilliant Blue staining of the acrylamide gel. The right shows specific
+binding of the anti-SMIS mAb. Arrowheads and arrows indicate the proteins produced from expression vectors with
+(SMIS) and without (Mock) SMIS cDNA, respectively. (d) A CK motif in the deduced amino acid sequence of the
+SMIS. The CK motif includes 6 cysteine residues at the 53rd, 62nd, 66th, 87th, 117th, 119th from N-terminus.
+Disulfide bonds are formed between cysteines-53 and -87, -62 and -117, and -87 and -119 to produce one ring and 3
+loops (loops 1 –3) that are supposed to be exposed on the outside. P1-P3 indicate the corresponding sites for
+preparation of the peptides for sperm motility analysis.
+doi:10.1371/journal.pone.0160445.g001
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 4/1 3
+were obtained from the smallest spot via Edman degradation. Through reverse transcription-
+polymerase chain reaction using degenerate primers corresponding to those sequences, a
+1196-base pair cDNA sequence encoding a 150-amino acid sequence was finally obtained from
+the total RNA of oviductal cells ( Fig 2 ; accession number: LC026154). The candidate SMIS
+gene was specifically expressed in epithelial secretory cells in oviduct ( Fig 1b andS1 Fig ), and
+the anti-SMIS antibody specifically recognized the recombinant protein ( Fig 1c ). No genes
+with substantial similarity were identified in the NIH gene and protein data bank and the Xen-
+base, which include full genome data of all amphibian model animals, although the deducedsequence showed relatively high similarity to a C-terminal region of mucin 5 ( S1 Table ). It con-
+tained 14 cysteine residues, 6 of which could form a cysteine-knot (CK) motif (Figs 1dand2).
+The CK motif is present in many secreted proteins, such as mucins and Wnt inhibitors, and itmediates polymerization to stabilize their three-dimensional conformation[ 9,10]. Agglutinated
+conformation of the SMIS seen in Fig 1a and 1c is thought to attribute to this motif. In the Wnt
+Fig 2. Base sequence of SMIS gene and its deduced amino acid sequence. Bold line indicates the amino
+acid sequences obtained by Edman degradation of the SMIS. Gray shade indicated the conserved amino
+acids in the CK motif of the matrix type[ 9]. Dotted line shows the sites of the P1-P3 peptides. The P3 peptides
+with different sizes have same effect on motility. Doubled underline shows polyadenylation signal.
+doi:10.1371/journal.pone.0160445.g002
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 5/1 3
+inhibitors Sclerostin and Wise, the 2nd loop of the CK motif binds to the receptor, resulting in
+their inhibitory activity[ 10]. Thus, we synthesized 3 oligo-peptides with the deduced amino
+acid sequences of the N-terminal and C-terminal regions of the 2nd loop (designated P2 and
+P3, respectively) and the N-terminal region of SMIS (designated P1) ( Fig 2 ). Among these pep-
+tides, only P3 induced waving of the undulating membrane, in which an axoneme is present toprovide thrust at the sperm tail ( Fig 3a andS1 Movie ). These sperm immediately acquired pro-
+gressive motility with a circular trajectory, which is typically induced by SMIS in egg jelly
+extracts[ 4](S2 Movie ). This result indicates that C-terminal region of the CK motif is an active
+site of the candidate protein that can be completely substituted for SMIS. FITC-P3 bound tothe axial rod of the tail in C.pyrrhogaster sperm ( Fig 4a ), whereas FITC-P1, which was used as
+Fig 3. Motility initiation of C.pyrrhogaster sperm by the P3 peptide in isotonic solution. (a) Sperm were suspended in
+modified Steinberg ’s salt solution (ST) containing 1 mM P1, P2, or P3. The percentages of sperm showing circular motion were
+estimated over 5 min. Dose-dependent P3-initiated sperm motility was induced within the range of 1 μM-1mM. (b and c) Sperm of R.
+arboreus (b) or B.japonicus (c) were suspended in ST or 1/10 ST (1 mM for R.arboreus or 10 mM for B.japonicus ). (b) Percentages
+of motile sperm showing stable or unstable rotary motion over 5 min. (c) Percentages of motile sperm whose flagellum beat with a
+high amplitude or moderate amplitude over 1 min. Asterisks and double asterisks indicate significant differences at p <0.05 and
+p<0.01, respectively, against 1/10 ST by Student ’s t-test.
+doi:10.1371/journal.pone.0160445.g003
+Fig 4. P3 peptide binding to sperm. Sperm of C.pyrrhogaster (a, b), R.arboreus (c, d), B.japonicus (e, f), and X.laevis (g, h) were
+treated with FITC-P3 (1 mM in a, c, g and 10mM in e) or FITC-P1 (1 mM in b, d, h and 10 mM in f). Bar: 10 μm.
+doi:10.1371/journal.pone.0160445.g004
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 6/1 3
+a control, bound to the axial rod of the posterior region of the tail, termed the principal piece
+(Fig 4b ). The binding of the FITC-P3 to the axial rod of the tail was also blocked by the anti-P3
+antibody except for that of the principal piece ( S2 Fig ), thus indicating that the P3 specifically
+binds to the axial rod of the anterior region of the tail, termed the midpiece. Midpiece is signifi-cant for the regulation of sperm motility induced by the SMIS[ 11]. These results indicate that
+the obtained cDNA encodes SMIS, whose active site is located at the C-terminal region of the
+2nd loop of the CK motif (Figs 1dand2).
+Conserved effect of SMIS in amphibians
+To address the function of SMIS in external fertilization, the effect of P3 on sperm motility was
+examined in two anuran species with different reproductive modes. R.arboreus forms a foam
+nest on a tree in which eggs are deposited and fertilized with sperm. The foam nest is composedof a highly viscous matrix derived from an oviductal secretion. The sperm of this species exhibit
+a rotary motion that is specifically adapted to the foam nest matrix[ 12].R.arboreus sperm
+were observed to initiate motility in a hypotonic solution, but the rotary motion was notsteadily maintained ( Fig 3b ). P3 significantly increased the motility rate and enhanced motility
+to maintain continuous rotation of motile sperm ( S3 Movie ), although it was not effective in an
+isotonic solution. FITC-P3 bound to all areas of R.arboreus sperm ( Fig 4c ) in contrast that no
+binding of FITC-P1 or FITC-P3 preabsorbed by the anti-P3 antibody was observed ( Fig 4d and
+S2 Fig ). The anti-P3 antibody was specifically bound to the oviduct-secreted matrix that forms
+the foam nest of R.arboreus (Fig 5 ). These results indicate that in R.arboreus , SMIS enhances
+the motility of motile sperm and the initiation of sperm motility, but with a strict dependencyon a hypotonic environment.
+Enhancement of motility was similarly observed in the sperm of B.japonicus . Although B.
+japonicus sperm did not exhibit forward motility in the isotonic solution, the motility rate was
+Fig 5. Immunolocalization of SMIS in the oviduct-secreted matrix of R.arboreus .Egg coat matrix of R.arboreus was fixed in
+methanol and immunostained with the anti-P3 antibody or the anti-SMIS antibody. (a-d) Fluorescence staining with the anti-P3
+antibody (a-c) and the anti-P3 antibody preabsorbed by the synthetic peptide including P3 site as a control (d). (e-h) Double-staining
+with the anti-P3 antibody (f) and the anti-SMIS antibody (g). (h) Merged image. Bar: 200 μm (d) and 50 μm (h).
+doi:10.1371/journal.pone.0160445.g005
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 7/1 3
+increased by hypoosmolality, and P3 significantly strengthened high-amplitude flagellar beat-
+ing to enhance the vibratory motion of the motile sperm ( Fig 3c andS4 Movie ). High-ampli-
+tude flagellar beat is beneficial for propulsion in a viscous matrix[ 13], suggesting that the
+strengthened flagellar beating of B.japonicus sperm occurs to allow penetration of a jelly
+matrix. FITC-P3 bound to the tip of the head and axial fiber of the tail in B.japonicus sperm
+(Fig 4e ). Preabsorption of FITC-P3 by the anti-P3 antibody weakened but not completely
+blocked the binding probably because of technical difficulty in association with the require-ment of relatively high FITC-P3 concentration (10 μg/ml). However, no binding of the anti-P3
+antibody was detected in the egg coat matrix of B.japonicus . We speculate that the egg coat of
+B.japonicus exhibits a very small amount or a specific conformation of SMIS that was unde-
+tectable through immunocytochemistry with the anti-P3 antibody.
+These results suggest that in the two externally-fertilizing anurans, SMIS enhances the motil-
+ity of motile sperm, rather than initiating sperm motility, to allow the sperm to penetrate theoviduct-derived egg coat matrix. Enhancement of motility by SMIS was also observed in C.pyr-
+rhogaster sperm in a hypoosmotic environment. Most sperm initiated undulation of their undu-
+lating membrane in a hypotonic solution, but many of them did not show progressive motility(S3 Fig ). P3 enhanced the undulation of the undulating membrane in a hypotonic solution, lead-
+ing to strong progressive motility with a circular trajectory in most sperm, like P3-treated sperm
+in an isotonic solution. This finding suggests that in the natural fertilization of C.pyrrhogaster ,
+SMIS simultaneously initiates and enhances sperm motility on the surface of the egg jelly, whichallows sperm to penetrate the jelly matrix. Thus, the common effect of SMIS in anuran and uro-
+dele amphibians is to enhance sperm motility to allow penetration of the egg coat.
+SMIS is ineffective in X.laevis sperm
+X.laevis is the amphibian model organism, and the full genomic data of this species was
+recently established. In a survey of the X.laevis genome database (J-strain 8.0 genome), no
+sequences homologous to SMIS were identified, based on an e-value of less than 0.01 using the
+tblastn protocol with the BLOSUM62 matrix. Thus, it was confirmed that the SMIS gene has
+been lost in the genome of X.laevis .X.laevis sperm initiated motility in a hypotonic solution
+(S4 Fig ), similar to those of R.arboreus and B.japonicus . However, P3 did not increase the pro-
+portion of motile sperm or that of sperm with strengthened motility in either the hypotonic or
+isotonic solution ( S4 Fig ). The ineffectiveness of P3 was supported by the observation that nei-
+ther FITC-P3 nor -P1 bound to X.laevis sperm ( Fig 4g and 4h ). These results indicate that
+SMIS does not act in the fertilization of X.laevis .
+Discussion
+Sperm motility is regulated by various factors such as osmotic changes[ 14], cations[ 15], ste-
+roids[ 16,17] and peptides/proteins[ 4,18–23], each of which acts in a highly adaptive manner to
+species-specific fertilization environment. In the internal fertilization, an endopeptidase and
+progesterone are reported to initiate and hyperactivate sperm motility in the female reproduc-
+tive tracts of silkworm and human, respectively[ 17,20]. SMIS is a new signal protein that initi-
+ates motility of the sperm stored by females in the internal fertilization.
+Cysteine knot motif is widely conserved in extracellular molecules such as TGF-ßs, glyco-
+protein hormones, Wnt inhibitors, and mucins[ 9]. Six conserved cysteine residues in the CK
+motif form 3 disulfide bonds to cause 2 rings and 3 loops, and high hydrophobic regions in theloops contribute to dimerization/polymerization of the CK proteins. The CK motif of the SMIS
+showed high similarity to mucin 5 ( S1 Table ), suggesting the origin of this protein from the
+extracellular matrix. The SMIS includes hydrophobic regions in the 1st and 3rd loops of the
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 8/1 3
+CK motif ( S5 Fig ) and possesses an additional cysteine residue adjacently to the 4th conserved
+cysteine residue (Figs 1dand2). That cysteine residue is common in the CK motif of mucins
+and forms an intermolecular covalent bond to stabilize dimer/polymer conformation[ 24,25].
+These molecular features are thought to be responsible for the association of SMIS to formextracellular granules that are critical for the initiation of sperm motility on the surface of egg
+jelly matrix in the internal fertilization of C.pyrrhogaster [4]. On the other hand, an active site
+of the SMIS is adjacently to the additional cysteine residue in the C-terminal region of the 2ndloop ( Fig 1d ). The SMIS is suggested to initiate sperm motility through an activation of the
+SMIS itself[ 26], which is unique to the SMIS signal. It is supposed that the association of the
+SMIS sequesters the active site to make it inactive until the SMIS is activated.
+The results of the present study indicate that SMIS in the egg coat matrix enhances sperm
+motility to allow penetration of the egg coat during fertilization in two evolutionarily advanced
+species of anurans, R.arboreus and B.japonicus , and the urodele C.pyrrhogaster (Fig 3a –3c
+andS3 Fig ). Because SMIS gene was not identified in the gene data of any model organisms,
+but active SMIS is present in the egg coat matrix of primitive anuran and urodele species[ 6,7],
+SMIS is suggested to be a ligand for penetration of the egg coat that was evolved in anurans andurodeles. It is known that allurin, a sperm chemoattractant in the egg coat of X.laevis [23]i s
+also an amphibian-specific protein. The amphibian egg coat, which is composed of thickly
+accumulated oviductal matrix, plays critical roles in fertilization and embryonic development,
+such as acting as a source of ligands and Ca
+2+for the sperm-egg interaction[ 23,27], allowing
+attachment to substrates to sustain fertilized eggs[ 27] and providing protection against bacte-
+rial invasion of the developing embryo[ 27]. Furthermore, the egg coat shows a variety of mor-
+phologies and physicochemical properties depending on the species, which contribute to thesuccess of reproduction in specific outside environments. However, the thick and viscous
+matrix of the egg coat prevents sperm with weak motility from propelling through it to access
+the egg. It is therefore reasonable that a signal for the enhancement of sperm motility, SMISevolved based on the extracellular matrix protein such as mucin 5 ( S1 Table ) and has been
+widely conserved in amphibian fertilization.
+SMIS signal shows apparent differences in the sites of stimulation by SMIS ( Fig 4 ) and in
+the localizations of the SMIS in egg coat matrix[ 4](Fig 5 ). The differences in the stimulation
+site are thought to be correlated with the development of forward motility in a species-specific
+egg coat matrix. The localization of the SMIS on the surface of egg jelly of C.pyrrhogster [4]i s
+efficient to initiate motility of sperm quiescently stored by females, whereas uniform distribu-tion of the SMIS in the matrix of R.arboreus (Fig 5 ) is reasonable because females mix spawned
+sperm into the egg coat matrix in the onset of fertilization. The responsiveness of sperm to
+SMIS also varies in association with the osmotic environment ( Fig 3 ). In primitive amphibians,
+SMIS is effective in an isotonic environment[ 6,7]. This feature is conserved in advanced species
+of urodeles and enables SMIS to play the additional role of initiating sperm motility without
+hypoosmolality[ 3]. Conversely, the sperm of advanced anurans shows no response to SMIS in
+an isotonic solution ( Fig 3 ). The effect of SMIS in an isotonic environment is not necessary for
+external fertilization, which might have resulted in the loss of this ability. Furthermore, SMIS
+have been lost in the fertilization of X.laevis (Fig 4g andS4 Fig ). The morphological and physi-
+cochemical nature of the egg coat might be modified in this species to allow sperm penetrationwithout motility enhancement by SMIS. Alternatively, loss of sperm responsiveness to hypoos-
+molality is reported in some terrestrial anurans[ 28]. Conclusively, diversification of reproduc-
+tive mode often accompanied the restrictive modification of the mechanism for initiation andenhancement of sperm motility in amphibians. As the result of such modification of the mech-
+anism for sperm motility initiation/enhancement, SMIS might have become unnecessary in the
+internal fertilization of higher vertebrates.
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 9/1 3
+SMIS enhanced the unique motions of the sperm of C.pyrrhogaster (S1 Movie ) and R.
+arboreus (S3 Movie ), which are based on their specific morphologies, of C.pyrrhogaster sperm
+being characterized by a stiff axial rod attaching the undulating membrane to one side of thetail[29], and R.arboreus sperm done by a screw-shape with doubled axonemes in the tail[ 30].
+As the sperm of both species can move forward only in a viscous matrix[ 12,29], their unique
+sperm morphologies are related to the penetration of the egg coat matrix that is optimized for
+fertilization and embryonic development either inside the female's body or on a tree. Thesecharacteristics suggest the possible relationship between the egg coat matrix and sperm mor-
+phology during the diversification of reproductive modes: the nature of the matrix is modified
+adaptively to a specific reproductive mode, whereas sperm morphology is selectively altered toallow forward motility in the modified matrix. This possibility is supported by the fact that
+sperm morphology is highly and non-phylogenetically varied in anurans[ 31], whose reproduc-
+tive modes have diversified with adaptation to various outside environments[ 1], in contrast to
+the lower variation observed in urodeles[ 32], in which the mode of reproduction is largely
+restricted to internal fertilization[ 27,33]. The evolution of SMIS signal might facilitate the
+adaptive modification of egg coat and the selective alteration of sperm morphology to finallyestablish internal fertilization in urodele amphibians.
+Supporting Information
+S1 Fig. SMIS gene expression in oviductal cells detected by in situ hybridization. (a) Anti-
+sense probe. Signals were in cytoplasm filled with many secretory vesicles. (b) Sense probe.Dashed lines indicate the borders of individual epithelial secretory cell. Asterisks indicate the
+lumen of oviduct. n: nuclei. Bar: 20 μm.
+(TIF)
+S2 Fig. Biding of FITC-P3 to sperm. C.pyrrhogaster sperm (a, b) and R.arboreus sperm (c, d)
+were stained with FITC-P3 (a, c) or FITC-P3 preabsorbed by the anti-P3 antibody (b, d). Bar:
+50μm (a, b) and 10 μm (c, d).
+(TIF)
+S3 Fig. Motility initiation of C.pyrrhogaster sperm by the P3 peptide in hypotonic solution.
+Sperm were suspended in 1/10 ST containing 1 mM P3. JE and ST were used as positive and
+negative controls, respectively. The percentages of sperm with circular motion were examinedover 1 and 5 min. No sperm with a circular motion were observed in ST, and sperm with a cir-
+cular motion were induced in JE in 5 min, which is in accord with previously reported results
+[4]. Note that sperm with a circular motion were induced by P3 in hypotonic 1/10 ST. Asterisks
+indicate significant differences (p <0.01) against ST by Student ’s t-test.
+(TIF)
+S4 Fig. Effects of P3 on the sperm motility of X.laevis .X.laevis sperm were suspended in ST
+or 1/10 ST containing 1 mM P3. (a) The relative percentage of sperm with a beating flagellumversus those in a test solution, which was designated as the motility index. (b) Percentages ofsperm with progressive motility versus sperm with a beating flagellum.
+(TIF)
+S5 Fig. Kyte-Doolittle hydrophobicity plot of the SMIS.
+(TIF)
+S1 Movie. Motility-initiated sperm of C.pyrrhogaster in modified Steinberg ’s salt solution
+containing 1 mM P3 peptide.
+(MOV)
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 10 / 13
+S2 Movie. Motility-initiated sperm of C.pyrrhogaster in JE.
+(MOV)
+S3 Movie. Motility-enhanced sperm of R.arboreus in 10-fold-diluted modified Steinberg ’s
+salt solution containing 1 mM P3 peptide.(MOV)
+S4 Movie. Motility-enhanced sperm of B.japonicus in 10-fold-diluted modified Steinberg ’s
+salt solution containing 10 mM P3 peptide.
+(MOV)
+S1 Table. Proteins showing similarity to SMIS with highest e-value by the Basic Local
+Alignment Search Tool.
+(TIF)
+Acknowledgments
+We thank Dr. Hiroshi Kubota of Kyoto University for kindly providing R.arboreus males.
+Author Contributions
+Conceptualization: AW.
+Data curation: AW.
+Formal analysis: MY YS.
+Funding acquisition: ET-W AW.
+Investigation: MY ET-W YS MK KF HO YN AW.
+Methodology: AW.
+Project administration: AW.
+Resources: MY ET-W YS AW.
+Supervision: AW.
+Validation: AW.
+Visualization: ET-W HO YN AW.
+Writing - original draft: AW.
+Writing - review & editing: AW ET-W.
+References
+1. Duellman WE, Trueb L. Biology of Amphibians. 2nd ed. Johns Hopkins University Press; 1994.
+2. Neubaum DM, Wolfner M. Wise, winsome, or weird? Mechanisms of sperm storage in female animals.
+Curr Topics Dev Biol. 1999; 41: 67 –97.
+3. Watanabe A, Onitake K. Sperm activation In: Sever DM, editor. Reproductive Biology and Phylogeny of
+Urodela (Amphibia). Science Publishers; 2003. pp. 423 –455.
+4. Watanabe T, Kubo H, Takeshima S, Nakagawa M, Ohta M, Kamimura S, et al. Identification of the
+sperm motility-initiating substance in the newt, Cynops pyrrhogaster , and its possible relationship with
+the acrosome reaction during internal fertilization. Int J Dev Biol. 2010; 54: 591 –597. doi: 10.1387/ijdb.
+092894tw PMID: 20209432
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 11 / 13
+5. Morisawa M. Cell signaling mechanisms for sperm motility. Zool Sci. 1994; 11: 647 –662. PMID:
+7765853
+6. Ohta M, Kubo H, Nakauchi Y, Watanabe A. Sperm motility-initiating activity in the egg jelly of the exter-
+nally-fertilizing urodele amphibian, Hynobius lichenatus . Zool Sci. 2010; 27: 875 –879. doi: 10.2108/zsj.
+27.875 PMID: 21039127
+7. Takayama-Watanabe E, Campanella C, Kubo H, Watanabe A. Sperm motility of the anuran, Discoglos-
+sus pictus may be mediated by sperm motility-initiating substance of the internally-fertilizing newt,
+Cynops pyrrhogaster . Zygote. 2012; 20: 417 –422. doi: 10.1017/S0967199412000226 PMID:
+22805164
+8. Sive HL, Grainger RM, Harland RM. Early Development of Xenopus laevis : A laboratory manual. Cold
+Spring Harbor Laboratory Press; 2000. pp. 249 –297.
+9. Vitt UA, Hsu SY, Hsueh AJW. Evolution and classification of cystine knot-containing hormones and
+related extracellular signaling molecules. Mol Endocrinol. 2001; 15: 681 –694. PMID: 11328851
+10. Boschert V, Dinther M, Weidauer S, Pee K, Muth E-M, Dijke P, et al. Mutational analysis of sclerostin
+shows importance of the flexible loop and the cysteine-knot for Wnt-signaling inhibition. PLOS One.
+2013; 8: e81710. doi: 10.1371/journal.pone.0081710 PMID: 24312339
+11. Takahashi T, Kutsuzawa M, Shiba K, Takayama-Watanabe E, Inaba K, Watanabe A. Distinct Ca2+
+channels maintain a high motility state of the sperm that may be needed for penetration of egg jelly of
+the newt, Cynops pyrrhogaster . Dev Growth Differ. 2013; 55: 657 –667. doi: 10.1111/dgd.12073 PMID:
+23980623
+12. Muto K, Kubota HY. A novel mechanism of sperm motility in a viscous environment: Corkscrew-shaped
+spermatozoa cruise by spinning. Cell Motil Cytoskeleton. 2009; 66: 281 –291. doi: 10.1002/cm.20358
+PMID: 19334064
+13. Yanagimachi R. Mammalian fertilization In: Knobil E, Neill JD, editors The Physiology of Reproduction,
+2nd ed. Raven Press; 1994. pp. 189 –317.
+14. Morisawa M, Suzuki K. Osmolality and potassium ions: their roles in initiation of sperm motility in tele-
+osts. Science. 1980; 210: 1145 –1147. PMID: 7444445
+15. Ashizawa K, Wishart GJ. Resolution of the sperm motility-stimulating principle of fowl seminal plasma
+into Ca2+and an unidentified low molecular weight factor. J Reprod Fertil. 1987; 81: 495 –499. PMID:
+3430466
+16. Yoshida M, Ishikawa M, Izumi H, DeSantis R, Morisawa M. A chemoattractant for ascidican spermato-
+zoa is a sulfated steroid. Proc Natl Acad Sci USA. 2002; 99: 14831 –14836. PMID: 12411583
+17. Strünker T, Goodwin N, Brenker C, Kashikar ND, Weyand I, Seifert R, et al. The CatSper channel medi-
+ates progesterone-induced Ca2+influx in human sperm. Nature. 2011; 471: 382 –386. doi: 10.1038/
+nature09769 PMID: 21412338
+18. Clapper DL, Epel D. Sperm motility in the horseshoe crab. 3. Isolation and characterization of a sperm
+motility initiating peptide. Gamete Res. 1982; 6: 315 –327.
+19. Ward GE, Brokaw CJ, Garbers DL, Vacquire VD. Chemotaxis of Arbacia punctulata spermatozoa to
+resact, a peptide from the egg jelly layer. J Cell Biol. 1985; 101: 2324 –2329. PMID: 3840805
+20. Osanai M, Kasuga H, Aigaki T. Induction of motility of apyrene spermatozoa and dissociation of eupyr-
+ene sperm bundles of the silkmoth, Bombyx mori , by initiatorin and trypsin. Inv Reprod Dev. 1989; 15:
+97–103.
+21. Pillai MC, Shields TS, Yanagimachi R, Cherr GN. Isolation and partial characterization of the sperm
+motility initiating factor from the eggs of the Pacific herring, Clupea pallasi . J Exp Zool. 1993; 265: 336 –
+342.
+22. Oda S, Igarashi Y, Ohtake H, Sakai K, Shimizu N, Morisawa M. Sperm activating proteins from unfertil-
+ized eggs of the pacific herring, Cluepa pallasi . Develop Growth Differ. 1995; 37: 257 –261.
+23. Olson JH, Xiang X, Ziegert T, Kittleson A, Rawls A, Bieber A, et al. Allurin, a 21 kD sperm chemoattrac-
+tant from Xenopus egg jelly, is homologous to mammalian sperm-binding proteins. Proc Natl Acad Sci
+USA. 2001; 98: 11205 –11210. PMID: 11562501
+24. Axelsson MA, Asker N, Hansson GC. O-glycosylated MUC2 monomer and dimer from LS 174T cells
+are water-soluble, whereas larger MUC2 species formed early during biosynthesis are insoluble andcontain non-reducible intermolecular bonds. J Biol Chem. 1998; 273: 18864 –18870. PMID: 9668062
+25. Perez-Vilar J, Eckhardt AE, DeLuca A, Hill RL. Porcine submaxillary mucin forms disulfide-linked multi-
+mers through its amino-terminal D-domains. J Biol Chem. 1998; 273: 14442 –14449. PMID: 9603957
+26. Mizuno J, Watanabe A, Onitake K. Initiation of sperm motility in the newt, Cynops pyrrhogaster ,i s
+induced by a heat-stable component of egg-jelly. Zygote. 1999; 7: 329 –334. PMID: 10717951
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 12 / 13
+27. Wake MH, Dickie R. Oviduct structure and function and reproductive modes in amphibians. J Exp Zool.
+1998; 282: 477 –506. PMID: 9803536
+28. van der Horst G, Wilson B, Channing A. Amphibian sperm: phylogeny and fertilization environment In:
+Jamieson BGM, Ausio J, Justine J-I, editors. Advances in Spermatozoal Phylogeny and Taxonomy.
+Mém Mus natn Hist nat; 1995. pp. 333 –342.
+29. Ukita M, Itoh T, Watanabe A, Onitake K. Substances for the initiation of sperm motility in egg-jelly of the
+Japanese newt, Cynops pyrrhogaster . Zool Sci. 1999; 16: 793 –802.
+30. Muto K, Kubota HY. Ultrastructural analysis of spermogenesis in Rhacophorus arboreus (Amphibia,
+Anura, Rhacophoridae). J Morph. 2011; 272: 1422 –1434. doi: 10.1002/jmor.10994 PMID: 21780156
+31. Scheltinga DM, Jamieson BGM. Spermatogenesis and the mature spermatozoon: Form, function and
+phylogenetic implications In: Jamieson BGM, editor. Reproductive Biology and Phylogeny of Anura.
+Science Publisher; 2003. pp. 119 –251.
+32. Scheltinga DM, Jamieson BGM. The mature spermatozoon In: Sever DM. Reproductive Biology and
+Phylogeny of Urodele (Amphibian). Science Publisher; 2003. pp. 203 –274.
+33. Greven H. Survey of the oviduct of salamandrids with special reference to the viviparous species. J Exp
+Zool. 1998; 282: 507 –525. PMID: 9803537
+A Novel Cysteine Knot Protein for Amphibian Sperm Motility
+PLOS ONE | DOI:10.1371/journal.pone.0160445 August 31, 2016 13 / 13

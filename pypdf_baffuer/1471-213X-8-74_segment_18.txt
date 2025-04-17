@@ -1,0 +1,23 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA6",
+    "GATA-6",
+    "GATA5",
+    "FOR"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus laevis",
+      "zebrafish",
+      "Mammalian liver and ventral pancreas"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis",
+  "authors": [
+    "Jeffery D. Molkentin",
+    "Qing Lin",
+    "Stephen A. Duncan",
+    "Eric N. Olson"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "University of Texas Southwestern Medical Center at Dallas",
+      "The Rockefeller University"
+    ],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}

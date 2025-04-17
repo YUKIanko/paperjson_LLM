@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Nascone and Mercola 1996", "Srivastava et al. 1995", "Lyons et al. 1995", "Felsenfeld 1989", "Tsai et al. 1989", "Yamamoto et al. 1990", "Arceci et al. 1993", "Kelley et al. 1993", "Laverriere et al. 1994", "Morrisey et al. 1996, 1997", "Blobel et al. 1995", "Evans and Felsenfeld 1989", "Tsai et al. 1989", "Martin et al. 1990", "Wilson et al. 1990", "Yamamoto et al. 1990", "Lee et al. 1991", "Zon et al. 1991", "Dorfman et al. 1992"],
+  "genes": ["eHAND", "dHAND", "Nkx2.5", "GATA4", "GATA1", "GATA2", "GATA3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Yokota et al., 2003", "Onuma et al., 2005", "Howell and Hill, 1997", "Kinoshita et al., 1995", "Jones et al., 1995", "Schulte-Merker and Smith, 1995", "Smith et al., 1995", "Sun et al., 1999"],
+  "genes": ["FRL1", "XCR1", "XCR2", "XCR3"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["PCR", "cloning into pFTX4K", "screening the cDNA library", "embryological approaches", "synergy and loss of function experiments", "microinjection of Xenopus embryos", "preparation of synthetic mRNAs for injection", "in situ hybridisation"],
+    "software_tools": [],
+    "reagents_chemicals": ["Xnr1", "Xnr2", "Xnr3", "Xnr4", "Xnr5", "Xnr6", "Activin βA", "Derrière", "MO XCR1.1"],
+    "model_organisms": ["Xenopus"]
+  }
+}

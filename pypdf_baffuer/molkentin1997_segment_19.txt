@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": ["Grepin", "C.", "Dagnino", "L.", "Robitaille", "L.L.", "Haberstroh", "L.L.", "Antakly", "T.", "Nemer", "M.", "Healy", "A.M.", "Rayburn", "H.B.", "Rosenberg", "R.D.", "Weiler", "H.", "Heikinheimo", "M.", "Scandrett", "J.M.", "Wilson", "D.B."],
+  "references": ["EMBO J.", "Mol. Cell. Biol.", "Proc. Natl. Acad. Sci.", "Dev. Biol."],
+  "genes": ["GATA-6", "GATA-4"],
+  "proper_nouns": {
+    "institutions": ["Xenopus embryos", "mouse embryo"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "mice"]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "title": "GATA4 and GATA5 are essential for heart and liver development in Xenopus embryos",
+  "authors": [
+    "Kim E Haworth",
+    "Surendra Kotecha",
+    "Timothy J Mohun",
+    "Branko V Latinkic"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "Hex"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "School of Biosciences, Cardiff University",
+      "National Institute for Medical Research",
+      "Division of Developmental Biology"
+    ],
+    "experimental_methods": [
+      "morpholino oligonucleotides (MO)"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "zebrafish",
+      "mouse"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA5", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gene knockdown approach", "MOs"],
+    "software_tools": [],
+    "reagents_chemicals": ["MOs"],
+    "model_organisms": ["mouse model", "Xenopus", "zebrafish model", "faust (GATA5) mutants"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "G5MO", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR analyses", "genomic sequence available for X. tropicalis", "splice site-blocking MO", "splice junction blocking MO (G5SP)", "injection of GATA5 mRNA amounts", "sequencing of PCR products"],
+    "software_tools": [],
+    "reagents_chemicals": ["MOs", "mRNA", "Xenopus tropicalis embryos", "X. laevis embryos", "PCR products"],
+    "model_organisms": ["Xenopus tropicalis", "X. laevis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "G5SP", "G5MO", "G5UTR", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["animal cap explants", "co-injected into embryos", "modelled the potential interaction", "designed a MO targeted against both X. laevis alleles and X tropicalis GATA4"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["X. laevis", "Xenopus embryos", "zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["splice-blocking MO", "in situ hybridisation", "Western blotting"],
+    "software_tools": [],
+    "reagents_chemicals": ["anti-HA antibody", "MLC2 (purple)", "Hex (turquoise)"],
+    "model_organisms": ["X. tropicalis", "X. laevis", "Xenopus"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA5", "Hex"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT-PCR", "Western blot", "dual luciferase assays"],
+    "software_tools": [],
+    "reagents_chemicals": ["ODC (Orhithine Decarboxylase)", "TK-RL DNA"],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HEX", "Hex", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["mosaic analysis", "tar-geting GATA4 or GATA5 MOs at 32/64 cell-stage to ante-rior-vegetal blastomeres"],
+    "software_tools": [],
+    "reagents_chemicals": ["MLC2 (BCIP)", "FOR1 (BM purple) probes", "rhodamine-dextran"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "Xenopus laevis",
+      "Xenopus tropicalis"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G4", "G4SP", "C2", "MLC2", "Hex", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["MO injection", "RT-PCR analyses"],
+    "software_tools": [],
+    "reagents_chemicals": ["G4 MO", "C2 MO", "G4SP MO", "MLC2 probe", "Hex probe", "cTnI (purple) probe", "Hex (light blue/turquoise) probes"],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis", "faust mutants", "zebrafish"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["Hex", "Nkx2.5 MO", "C1 MO", "lineage tracer", "GATA 5-GR protein", "cycl oheximide (Chx)", "dexamethas one"],
+    "model_organisms": ["Xenopus", "zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA5",
+    "GATA4",
+    "Hex",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "MOs (molecular probes)",
+      "rhodamine-dextran injection",
+      "Cardiac actin/GFP embryo injection",
+      "record fate of injected cells at st. 41"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["GATA5 MO", "GATA4 MO", "C1 MO"],
+    "model_organisms": ["Nieuwkoop and Faber stage 41 embryo"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G5SPMO", "dGATA5", "GATA1", "GATA4", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["translation-blocking MO", "splice-site blocking MO", "MO"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus laevis", "Xenopus tropicalis", "zebrafish", "mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["MOs"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus", "compound heterozygous mice", "zebrafish", "GATA4 mutant mice", "amniotes", "cardiac mesoderm", "foregut endoderm", "chick models"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Whole mount in situ hybridisation (WMISH)", "Luciferase reporter assays", "injecting mRNA, DNA, MOs and lineage tracer into Xenopus laevis embryos", "using Gene Tools, LLC to synthesize MOs", "treating with cycloheximide and dexamethasone"],
+    "software_tools": [],
+    "reagents_chemicals": ["MLC2", "cardiac Troponin I", "FOR1", "Hex", "Nkx2.5", "Invitrogen UK", "Sephadex G-25 column (GE, UK)", "capped mRNA", "MOs", "rhodamine dextran and biotinylated dextran", "Leica MZ16F microscope with Leica DFC300 FX camera", "Adobe Photoshop 6"],
+    "model_organisms": ["Xenopus laevis embryos", "Xenopus tropicalis embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": ["KEH", "SK", "BVL", "TJM"],
+  "references": [48, 52, 53, 54],
+  "genes": ["GATA4", "GATA5", "ODC", "G5SP", "G4SP"],
+  "proper_nouns": {
+    "institutions": [
+      "Cardiff School of Biosciences",
+      "Roche",
+      "Sigma UK",
+      "Promega UK",
+      "NEB UK",
+      "Perbio UK",
+      "Biotechnology and Biological Sciences Research Council",
+      "British Heart Foundation",
+      "Medical Research Council"
+    ],
+    "experimental_methods": ["RT-PCR", "WMISH", "bleaching", "Western blotting", "cloning"],
+    "software_tools": [],
+    "reagents_chemicals": ["biotinylated dextran", "ExtrAvidin-AP", "Fast Red substrate", "MMLV-RT", "DNA marker (1 kb+, Invitrogen UK)", "rat anti-HA-HRP monoclonal antibody", "anti-Erk antibodies", "anti-HSP70 antibodies"],
+    "model_organisms": []
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "year": "2005",
+      "journal": "Semin Cell Dev Biol",
+      "volume": "16(1)",
+      "pages": "83-94"
+    },
+    {
+      "year": "1999",
+      "journal": "Semin Cell Dev Biol",
+      "volume": "10(1)",
+      "pages": "85-91"
+    },
+    {
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "volume": "275(50)",
+      "pages": "38949-38952"
+    },
+    {
+      "year": "2002",
+      "journal": "Curr Opin Genet Dev",
+      "volume": "12(4)",
+      "pages": "416-422"
+    },
+    {
+      "year": "1997",
+      "journal": "Genes Dev",
+      "volume": "11(8)",
+      "pages": "1061-1072"
+    },
+    {
+      "year": "1997",
+      "journal": "Dev Biol",
+      "volume": "189(2)",
+      "pages": "270-274"
+    },
+    {
+      "year": "1997",
+      "journal": "Genes Dev",
+      "volume": "11(8)",
+      "pages": "1048-1060"
+    },
+    {
+      "year": "2001",
+      "journal": "Genes Dev",
+      "volume": "15(7)",
+      "pages": "839-844"
+    },
+    {
+      "year": "2005",
+      "journal": "J Clin Invest",
+      "volume": "115(6)",
+      "pages": "1522-1531"
+    },
+    {
+      "year": "2004",
+      "journal": "Proc Natl Acad Sci U S A",
+      "volume": "101(18)",
+      "pages": "6975-6980"
+    }
+  ],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "Tbx5"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "DiI (Sigma)"
+    ],
+    "model_organisms": [
+      "Xenopus tropicalis",
+      "mouse"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HEX", "Hex", "GATA5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["In situ hybridisation", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["DiI", "Hex antisense probe", "GATA5 MOs", "C1 MO", "ODC"],
+    "model_organisms": ["Gastrula", "Half-embryos", "Embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA6",
+    "GATA-6",
+    "GATA5",
+    "FOR"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus laevis",
+      "zebrafish",
+      "Mammalian liver and ventral pancreas"
+    ]
+  }
+}

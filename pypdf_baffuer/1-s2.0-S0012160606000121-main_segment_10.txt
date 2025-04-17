@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["SMAD2", "XFKH1", "XNOT", "XBRA", "MIXER", "N-TUBULIN"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in situ hybridisation analysis", "morpholinos injection", "mRNA encoding GFP injection"],
+    "software_tools": [],
+    "reagents_chemicals": ["XCR1 morpholino", "XCR3 morpholino", "GFP mRNA", "synthetic mRNAs"],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Alas2", "AhspFOG-1", "Tac-2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["RabbitPIFOG-1", "GoatPIMTA2", "Intron 7", "ECR Factor Occupancy", "CNE"],
+    "model_organisms": []
+  }
+}

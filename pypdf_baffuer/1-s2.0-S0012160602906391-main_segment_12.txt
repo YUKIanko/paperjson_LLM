@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Latinkic ´et al. © 2002 Elsevier Science (USA). All rights reserved."],
+  "genes": ["ACTN1", "SRF", "FOXO3A"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["serum induction assay", "transfection", "RNAse protection", "serum induction of fibroblasts"],
+    "software_tools": [],
+    "reagents_chemicals": ["serum growth factors", "tRNA", "anti-SRF antibodies"],
+    "model_organisms": ["embryonic muscle differentiation"]
+  }
+}

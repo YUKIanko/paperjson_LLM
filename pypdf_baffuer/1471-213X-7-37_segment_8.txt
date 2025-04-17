@@ -1,0 +1,13 @@
+{
+  "title": "Loss of GATA4 disrupts development of the ventral pancreas",
+  "authors": [],
+  "references": [1, 6, 22],
+  "genes": ["GATA4", "PDX1", "Hex", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Hex null embryos", "Gata4 null embryos", "Gata6-/- embryos", "Gata6+/- control embryos"]
+  }
+}

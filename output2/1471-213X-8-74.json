@@ -1,0 +1,88 @@
+{
+  "title": "GATA4 and GATA5 are essential for heart and liver development in Xenopus embryos",
+  "authors": [
+    "Kim E Haworth",
+    "Surendra Kotecha",
+    "Timothy J Mohun",
+    "Branko V Latinkic"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "Hex",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "School of Biosciences, Cardiff University",
+      "National Institute for Medical Research",
+      "Division of Developmental Biology",
+      "Cardiff School of Biosciences"
+    ],
+    "experimental_methods": [
+      "morpholino oligonucleotides (MO)",
+      "gene knockdown approach",
+      "MOs",
+      "RT-PCR analyses",
+      "splice site-blocking MO",
+      "injection of GATA5 mRNA amounts",
+      "sequencing of PCR products",
+      "co-injected into embryos",
+      "modelled the potential interaction",
+      "designed a MO targeted against both X. laevis alleles and X tropicalis GATA4",
+      "animal cap explants",
+      "designed splice-blocking MO",
+      "in situ hybridisation",
+      "Western blotting",
+      "RT-PCR",
+      "WMISH",
+      "bleaching",
+      "cloning"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "MOs",
+      "mRNA",
+      "Xenopus tropicalis embryos",
+      "X. laevis embryos",
+      "PCR products",
+      "G4 MO",
+      "C2 MO",
+      "G4SP MO",
+      "MLC2 probe",
+      "Hex probe",
+      "cTnI (purple) probe",
+      "FOR1 (BM purple) probes",
+      "rhodamine-dextran",
+      "anti-HA antibody",
+      "MLC2 (BCIP)",
+      "ODC (Orhithine Decarboxylase)",
+      "TK-RL DNA",
+      "biotinylated dextran",
+      "ExtrAvidin-AP",
+      "Fast Red substrate",
+      "MMLV-RT",
+      "DNA marker (1 kb+, Invitrogen UK)",
+      "rat anti-HA-HRP monoclonal antibody",
+      "anti-Erk antibodies",
+      "anti-HSP70 antibodies",
+      "DiI (Sigma)"
+    ],
+    "model_organisms": [
+      "Xenopus",
+      "zebrafish",
+      "mouse model",
+      "Xenopus, zebrafish model",
+      "faust (GATA5) mutants",
+      "X. laevis embryos",
+      "Xenopus tropicalis",
+      "Xenopus laevis",
+      "Xenopus tropicalis",
+      "Nieuwkoop and Faber stage 41 embryo",
+      "X. laevis",
+      "zebrafish",
+      "mouse"
+    ]
+  }
+}

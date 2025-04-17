@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Kuo et al., 1997", "Molkentin et al., 1997", "Mao et al., 1999", "Heikinheimo et al., 1994"],
+  "genes": ["GATA4", "PECAM", "NFATC1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre-Rec combo", "T2Cre", "R26RstoplacZ", "Wnt1Cre"],
+    "software_tools": [],
+    "reagents_chemicals": ["lacZ", "exon 2-specific probe", "Pecam", "Nfatc1"],
+    "model_organisms": ["mice carrying Gata4 null alleles", "Gata4flox/flox; T2Cre+", "control embryos", "Gata4T2del embryos"]
+  }
+}

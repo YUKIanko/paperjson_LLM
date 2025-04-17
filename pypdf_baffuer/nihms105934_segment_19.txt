@@ -1,0 +1,32 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "ANKRD1",
+    "ERBB3",
+    "GATA4",
+    "IGF1",
+    "NRN2",
+    "PDLA",
+    "PLXCN1",
+    "SGK3",
+    "TNC",
+    "VECad"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "SAM ( Δ>0.4 and fold-change >1.5)",
+      "qRT-PCR",
+      "in situ hybridization"
+    ],
+    "software_tools": [
+      "SAM (Δ>0.4 and fold-change >1.5)"
+    ],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4T2del/Ki embryos"
+    ]
+  }
+}

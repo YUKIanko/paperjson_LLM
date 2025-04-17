@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata6", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in situ hybridization", "immunohistochemistry", "RT-PCR"],
+    "software_tools": [],
+    "reagents_chemicals": ["GATA4 protein", "Gata6 mRNA", "hematoxylin", "eosin", "Fgf1", "Bmp2", "Bmp4"],
+    "model_organisms": ["GATA6-null mice"]
+  }
+}

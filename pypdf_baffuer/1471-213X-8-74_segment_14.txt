@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Whole mount in situ hybridisation (WMISH)", "Luciferase reporter assays", "injecting mRNA, DNA, MOs and lineage tracer into Xenopus laevis embryos", "using Gene Tools, LLC to synthesize MOs", "treating with cycloheximide and dexamethasone"],
+    "software_tools": [],
+    "reagents_chemicals": ["MLC2", "cardiac Troponin I", "FOR1", "Hex", "Nkx2.5", "Invitrogen UK", "Sephadex G-25 column (GE, UK)", "capped mRNA", "MOs", "rhodamine dextran and biotinylated dextran", "Leica MZ16F microscope with Leica DFC300 FX camera", "Adobe Photoshop 6"],
+    "model_organisms": ["Xenopus laevis embryos", "Xenopus tropicalis embryos"]
+  }
+}

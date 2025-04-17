@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Hopwood et al., 1991", "Hopwood et al., 1992", "Sartorelli et al., 1990"],
+  "genes": [
+    "/H9251-actin",
+    "/H11032/H9004"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["tadpole"]
+  }
+}

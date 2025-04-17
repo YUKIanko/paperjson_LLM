@@ -1,0 +1,35 @@
+{
+  "title": "Development of heart valves requires Gata4 expression in endothelial-derived cells",
+  "authors": [
+    "José Rivera-Feliciano",
+    "Kyu-Ho Lee",
+    "Sek Won Kong",
+    "Satish Rajagopal",
+    "Qing Ma",
+    "Zhangli Springer",
+    "Seigo Izumo",
+    "Clifford J. Tabin",
+    "William T. Pu"
+  ],
+  "references": [],
+  "genes": [
+    "Gata4"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Harvard Medical School",
+      "Children’s Hospital",
+      "Department of Cardiology",
+      "Department of Pediatrics",
+      "Beth Israel Deaconess Medical Center",
+      "Cardiovascular Division, Department of Medicine",
+      "Medical University of South Carolina"
+    ],
+    "experimental_methods": [
+      "Tie2-Cre transgene"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

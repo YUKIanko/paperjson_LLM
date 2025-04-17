@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-4", "GATA-5", "GATA-6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["RT/PCR", "reverse PCR", "RNA isolation", "Northern blots"],
+    "software_tools": [],
+    "reagents_chemicals": ["pG4M", "SP6 polymerase", "T7 polymerase", "EF-1a"],
+    "model_organisms": ["adult frog"]
+  }
+}

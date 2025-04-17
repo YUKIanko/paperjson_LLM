@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA-6", "BMP-4", "GATA-4", "GATA-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["large dorsal marginal zone explant conjugates"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus embryos"]
+  }
+}

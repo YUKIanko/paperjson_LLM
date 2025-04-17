@@ -1,0 +1,1297 @@
+{
+  "title": "",
+  "authors": [
+    {
+      "name": "Agius E",
+      "surname": ""
+    },
+    {
+      "name": "Oelgeschlager M",
+      "surname": ""
+    },
+    {
+      "name": "Wessely O",
+      "surname": ""
+    },
+    {
+      "name": "Kemp C",
+      "surname": ""
+    },
+    {
+      "name": "De Robertis E.M.",
+      "surname": ""
+    }
+  ],
+  "references": [
+    {
+      "title": "",
+      "authors": [],
+      "journal": "Development",
+      "year": 2000,
+      "volume": "127",
+      "pages": "1173–1183",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Birsoy B",
+          "surname": ""
+        },
+        {
+          "name": "Berg L",
+          "surname": ""
+        },
+        {
+          "name": "Williams P.H.",
+          "surname": ""
+        },
+        {
+          "name": "Smith J.C.",
+          "surname": ""
+        },
+        {
+          "name": "Wylie C.C.",
+          "surname": ""
+        },
+        {
+          "name": "Christian J.L.",
+          "surname": ""
+        },
+        {
+          "name": "Heasman J",
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2005,
+      "volume": "132",
+      "pages": "591–602",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Cheng S.K.",
+          "surname": ""
+        },
+        {
+          "name": "Olale F",
+          "surname": ""
+        },
+        {
+          "name": "Bennett J.T.",
+          "surname": ""
+        },
+        {
+          "name": "Brivanlou A.H.",
+          "surname": ""
+        },
+        {
+          "name": "Schier A.F.",
+          "surname": ""
+        }
+      ],
+      "journal": "Genes Dev",
+      "year": 2003,
+      "volume": "17",
+      "pages": "31–36",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Dono R",
+          "surname": ""
+        },
+        {
+          "name": "Pacifico F",
+          "surname": ""
+        },
+        {
+          "name": "Acampora D",
+          "surname": ""
+        },
+        {
+          "name": "Persico M.G.",
+          "surname": ""
+        },
+        {
+          "name": "Simeone A",
+          "surname": ""
+        }
+      ],
+      "journal": "EMBO J",
+      "year": 1989,
+      "volume": "8",
+      "pages": "1987–1991",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Faure S",
+          "surname": ""
+        },
+        {
+          "name": "Lee M.A.",
+          "surname": ""
+        },
+        {
+          "name": "Keller T",
+          "surname": ""
+        },
+        {
+          "name": "ten Dijke P",
+          "surname": ""
+        },
+        {
+          "name": "Whitman M",
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2000,
+      "volume": "127",
+      "pages": "2917–2931",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Gont L.K.",
+          "surname": ""
+        },
+        {
+          "name": "Steinbeisser H",
+          "surname": ""
+        },
+        {
+          "name": "Blumberg B",
+          surname: ""
+        },
+        {
+          "name": "de Robertis E.M.",
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 1993,
+      "volume": "119",
+      "pages": "991–1004",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Gritsman K",
+          "surname": ""
+        },
+        {
+          "name": "Zhang J",
+          surname: ""
+        },
+        {
+          "name": "Cheng S",
+          "surname": ""
+        },
+        {
+          "name": "Heckscher E",
+          "surname": ""
+        },
+        {
+          "name": "Talbot W.S.",
+          "surname": ""
+        },
+        {
+          "name": "Schier A.F.",
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1999,
+      "volume": "97",
+      "pages": "121–132",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Hansen C.S.",
+          surname: ""
+        },
+        {
+          "name": "Marion C.D.",
+          "surname": ""
+        },
+        {
+          "name": "Steele K",
+          "surname": ""
+        },
+        {
+          "name": "George S",
+          "surname": ""
+        },
+        {
+          "name": "Smith W.C.",
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 1997,
+      "volume": "124",
+      "pages": "483–492",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Harland R.M.",
+          surname: ""
+        }
+      ],
+      "journal": "Methods Cell Biol.",
+      "year": 1991,
+      "volume": "36",
+      "pages": "685–695",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Harms P.W.",
+          surname: ""
+        },
+        {
+          "name": "Chang C."
+          "surname": ""
+        }
+      ],
+      "journal": "Genes Dev",
+      "year": 2003,
+      "volume": "17",
+      "pages": "2624–2629",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Hill C.S."
+          "surname": ""
+        }
+      ],
+      "journal": "Curr. Opin. Genet. Dev.",
+      "year": 2001,
+      "volume": "11",
+      "pages": "533–540",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Howell M."
+          "surname": ""
+        },
+        {
+          "name": "Hill C.S."
+          "surname": ""
+        }
+      ],
+      "journal": "EMBO J",
+      "year": 1997,
+      "volume": "16",
+      "pages": "7411–7421",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Howell M."
+          "surname": ""
+        },
+        {
+          "name": "Itoh F."
+          "surname": ""
+        },
+        {
+          "name": "Pierreux C.E."
+          "surname": ""
+        },
+        {
+          "name": "Valgeirsdottir S."
+          "surname": ""
+        },
+        {
+          "name": "Itoh S."
+          "surname": ""
+        },
+        {
+          "name": "ten Dijke P."
+          "surname": ""
+        },
+        {
+          "name": "Hill C.S."
+          "surname": ""
+        }
+      ],
+      "journal": "Dev. Biol.",
+      "year": 1999,
+      "volume": "214",
+      "pages": "354–369",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Howell M."
+          "surname": ""
+        },
+        {
+          "name": "Inman G.J."
+          "surname": ""
+        },
+        {
+          "name": "Hill C.S."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2002,
+      "volume": "129",
+      "pages": "2823–2834",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Hudson C."
+          "surname": ""
+        },
+        {
+          "name": "Clements D."
+          "surname": ""
+        },
+        {
+          "name": "Friday R.V."
+          "surname": ""
+        },
+        {
+          "name": "Stott D."
+          "surname": ""
+        },
+        {
+          "name": "Woodland H.R."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1997,
+      "volume": "91",
+      "pages": "397–405"
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Jones C.M."
+          "surname": ""
+        },
+        {
+          "name": "Kuehn M.R."
+          "surname": ""
+        },
+        {
+          "name": "Hogan B.L."
+          "surname": ""
+        },
+        {
+          "name": "Smith J.C."
+          "surname": ""
+        },
+        {
+          "name": "Wright C.V."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 1995,
+      "volume": "121",
+      "pages": "3651–3662",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Joseph E.M."
+          "surname": ""
+        },
+        {
+          "name": "Melton D.A."
+          "surname": ""
+        }
+      ],
+      "journal": "Dev. Biol.",
+      "year": 1997,
+      "volume": "184",
+      "pages": "367–372",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Kinoshita N."
+          "surname": ""
+        },
+        {
+          "name": "Minshull J."
+          "surname": ""
+        },
+        {
+          "name": "Kirschner M.W."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1995,
+      "volume": "83",
+      "pages": "621–630",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Kofron M."
+          "surname": ""
+        },
+        {
+          "name": "Demel T."
+          "surname": ""
+        },
+        {
+          "name": "Xanthos J."
+          "surname": ""
+        },
+        {
+          "name": "Lohr J."
+          "surname": ""
+        },
+        {
+          "name": "Sun B."
+          "surname": ""
+        },
+        {
+          "name": "Sive H."
+          "surname": ""
+        },
+        {
+          "name": "Osada S."
+          "surname": ""
+        },
+        {
+          "name": "Wright C."
+          "surname": ""
+        },
+        {
+          "name": "Wylie C."
+          "surname": ""
+        },
+        {
+          "name": "Heasman J."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 1999,
+      "volume": "126",
+      "pages": "5759–5770",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "LaBonne C."
+          "surname": ""
+        },
+        {
+          "name": "Whitman M."
+          "surname": ""
+        }
+      ],
+      "journal": "Dev. Biol.",
+      "year": 1997,
+      "volume": "183",
+      "pages": "9–20",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Lee M.A."
+          "surname": ""
+        },
+        {
+          "name": "Heasman J."
+          "surname": ""
+        },
+        {
+          "name": "Whitman M."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2001,
+      "volume": "128",
+      "pages": "2939–2952",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Minchiotti G."
+          "surname": ""
+        },
+        {
+          "name": "Parisi S."
+          "surname": ""
+        },
+        {
+          "name": "Liguori G."
+          "surname": ""
+        },
+        {
+          "name": "Signore M."
+          "surname": ""
+        },
+        {
+          "name": "Lania G."
+          "surname": ""
+        },
+        {
+          "name": "Adamson E.D."
+          "surname": ""
+        },
+        {
+          "name": "Lago C.T."
+          "surname": ""
+        },
+        {
+          "name": "Persico M.G."
+          "surname": ""
+        }
+      ],
+      "journal": "Mech. Dev.",
+      "year": 2000,
+      "volume": "90",
+      "pages": "133–142",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Onuma Y."
+          "surname": ""
+        },
+        {
+          "name": "Yeo C.Y."
+          "surname": ""
+        },
+        {
+          "name": "Whitman M."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2005,
+      "volume": "133",
+      "pages": "237–250",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Oschwald R."
+          "surname": ""
+        },
+        {
+          "name": "Richter K."
+          "surname": ""
+        },
+        {
+          "name": "Grunz H."
+          "surname": ""
+        }
+      ],
+      "journal": "Int. J. Dev. Biol.",
+      "year": 1991,
+      "volume": "35",
+      "pages": "399–405",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Piepenburg O."
+          "surname": ""
+        },
+        {
+          "name": "Grimmer D."
+          "surname": ""
+        },
+        {
+          "name": "Williams P.H."
+          "surname": ""
+        },
+        {
+          "name": "Smith J.C."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2004,
+      "volume": "131",
+      "pages": "4977–4986",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Reissmann E."
+          "surname": ""
+        },
+        {
+          "name": "Jornvall H."
+          "surname": ""
+        },
+        {
+          "name": "Blokzijl A."
+          "surname": ""
+        },
+        {
+          "name": "Andersson O."
+          "surname": ""
+        },
+        {
+          "name": "Chang C."
+          "surname": ""
+        },
+        {
+          "name": "Minchiotti G."
+          "surname": ""
+        },
+        {
+          "name": "Persico M.G."
+          "surname": ""
+        },
+        {
+          "name": "Ibanez C.F."
+          "surname": ""
+        },
+        {
+          "name": "Brivanlou A.H."
+          "surname": ""
+        }
+      ],
+      "journal": "Genes Dev.",
+      "year": 2001,
+      "volume": "15",
+      "pages": "2010–2022",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Schier A.F."
+          "surname": ""
+        }
+      ],
+      "journal": "Annu. Rev. Cell Dev. Biol.",
+      "year": 2003,
+      "volume": "19",
+      "pages": "589–621",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Schiffer S.G."
+          "surname": ""
+        },
+        {
+          "name": "Foley S."
+          "surname": ""
+        },
+        {
+          "name": "Kaffashan A."
+          "surname": ""
+        },
+        {
+          "name": "Hronowski X."
+          "surname": ""
+        },
+        {
+          "name": "Zichittella A.E."
+          "surname": ""
+        },
+        {
+          "name": "Yeo C.Y."
+          "surname": ""
+        },
+        {
+          "name": "Miatkowski K."
+          "surname": ""
+        },
+        {
+          "name": "Adkins H.B."
+          "surname": ""
+        },
+        {
+          "name": "Damon B."
+          "surname": ""
+        },
+        {
+          "name": "Whitman M."
+          "surname": ""
+        },
+        {
+          "name": "Salomon D."
+          "surname": ""
+        },
+        {
+          "name": "Sanicola M."
+          "surname": ""
+        },
+        {
+          "name": "Williams K.P."
+          "surname": ""
+        }
+      ],
+      "journal": "J. Biol. Chem.",
+      "year": 2001,
+      "volume": "276",
+      "pages": "37769–37778",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Schulte-Merker S."
+          "surname": ""
+        },
+        {
+          "name": "Smith J.C."
+          "surname": ""
+        }
+      ],
+      "journal": "Curr. Biol.",
+      "year": 1995,
+      "volume": "5",
+      "pages": "62–67",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Shi Y."
+          "surname": ""
+        },
+        {
+          "name": "Massagué J."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 2003,
+      "volume": "113",
+      "pages": "685–700",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Simon R."
+          "surname": ""
+        },
+        {
+          "name": "Richter J.D."
+          "surname": ""
+        }
+      ],
+      "journal": "Mol. Cell. Biol.",
+      "year": 1994,
+      "volume": "14",
+      "pages": "7867–7875",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Smith J.C."
+          "surname": ""
+        },
+        {
+          "name": "Price B.M."
+          "surname": ""
+        },
+        {
+          "name": "Green J.B."
+          "surname": ""
+        },
+        {
+          "name": "Weigel D."
+          "surname": ""
+        },
+        {
+          "name": "Herrmann B.G."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1991,
+      "volume": "67",
+      "pages": "79–87",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Smith W.C."
+          "surname": ""
+        },
+        {
+          "name": "McKendry R."
+          "surname": ""
+        },
+        {
+          "name": "Ribisi Jr. S."
+          "surname": ""
+        },
+        {
+          "name": "Harland R.M."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1995,
+      "volume": "82",
+      "pages": "37–46",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Sun B.I."
+          "surname": ""
+        },
+        {
+          "name": "Bush S.M."
+          "surname": ""
+        },
+        {
+          "name": "Collins-Racie L.A."
+          "surname": ""
+        },
+        {
+          "name": "LaVallie E.R."
+          "surname": ""
+        },
+        {
+          "name": "DiBlasio-Smith E.A."
+          "surname": ""
+        },
+        {
+          "name": "Wolfman N.M."
+          "surname": ""
+        },
+        {
+          "name": "McCoy J.M."
+          "surname": ""
+        },
+        {
+          "name": "Sive H.L."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 1999,
+      "volume": "126",
+      "pages": "1467–1482",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Takahashi S."
+          "surname": ""
+        },
+        {
+          "name": "Yokota C."
+          "surname": ""
+        },
+        {
+          "name": "Takano K."
+          "surname": ""
+        },
+        {
+          "name": "Tanegashima K."
+          "surname": ""
+        },
+        {
+          "name": "Onuma Y."
+          "surname": ""
+        },
+        {
+          "name": "Goto J."
+          "surname": ""
+        },
+        {
+          "name": "Asashima M."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2000,
+      "volume": "127",
+      "pages": "5319–5329",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Tanegashima K."
+          "surname": ""
+        },
+        {
+          "name": "Haramoto Y."
+          "surname": ""
+        },
+        {
+          "name": "Yokota C."
+          "surname": ""
+        },
+        {
+          "name": "Takahashi S."
+          "surname": ""
+        },
+        {
+          "name": "Asashima M."
+          "surname": ""
+        }
+      ],
+      "journal": "Int. J. Dev. Biol.",
+      "year": 2004,
+      "volume": "48",
+      "pages": "275–283",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Tao Q."
+          "surname": ""
+        },
+        {
+          "name": "Yokota C."
+          "surname": ""
+        },
+        {
+          "name": "Puck H."
+          "surname": ""
+        },
+        {
+          "name": "Kofron M."
+          "surname": ""
+        },
+        {
+          "name": "Birsoy B."
+          "surname": ""
+        },
+        {
+          "name": "Yan D."
+          "surname": ""
+        },
+        {
+          "name": "Asashima M."
+          "surname": ""
+        },
+        {
+          "name": "Wylie C.C."
+          "surname": ""
+        },
+        {
+          "name": "Lin X."
+          "surname": ""
+        },
+        {
+          "name": "Heasman J."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 2005,
+      "volume": "120",
+      "pages": "857–871",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Whitman M."
+          "surname": ""
+        }
+      ],
+      "journal": "Dev. Cell",
+      "year": 2001,
+      "volume": "1",
+      "pages": "605–617",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Yabe S.I."
+          "surname": ""
+        },
+        {
+          "name": "Tanegashima K."
+          "surname": ""
+        },
+        {
+          "name": "Haramoto Y."
+          "surname": ""
+        },
+        {
+          "name": "Takahashi S."
+          "surname": ""
+        },
+        {
+          "name": "Fujii T."
+          "surname": ""
+        },
+        {
+          "name": "Kozuma S."
+          "surname": ""
+        },
+        {
+          "name": "Taketani Y."
+          "surname": ""
+        },
+        {
+          "name": "Asashima M."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2003,
+      "volume": "130",
+      "pages": "2071–2081",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Yan Y.T."
+          "surname": ""
+        },
+        {
+          "name": "Gritsman K."
+          "surname": ""
+        },
+        {
+          "name": "Ding J."
+          "surname": ""
+        },
+        {
+          "name": "Burdine R.D."
+          "surname": ""
+        },
+        {
+          "name": "Corrales J.D."
+          "surname": ""
+        },
+        {
+          "name": "Price S.M."
+          "surname": ""
+        },
+        {
+          "name": "Talbot W.S."
+          "surname": ""
+        },
+        {
+          "name": "Schier A.F."
+          "surname": ""
+        },
+        {
+          "name": "Shen M.M."
+          "surname": ""
+        }
+      ],
+      "journal": "Genes Dev.",
+      "year": 1999,
+      "volume": "13",
+      "pages": "2527–2537",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Yan Y.T."
+          "surname": ""
+        },
+        {
+          "name": "Liu J.J."
+          "surname": ""
+        },
+        {
+          "name": "Luo Y."
+          "surname": ""
+        },
+        {
+          "name": "Haltiwanger C."
+          "surname": ""
+        },
+        {
+          "name": "Abate-Shen R.S."
+          "surname": ""
+        },
+        {
+          "name": "Shen C."
+          "surname": ""
+        }
+      ],
+      "journal": "Mol. Cell. Biol.",
+      "year": 2002,
+      "volume": "22",
+      "pages": "4439–4449",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Yeo C."
+          "surname": ""
+        },
+        {
+          "name": "Whitman M."
+          "surname": ""
+        }
+      ],
+      "journal": "Mol. Cell",
+      "year": 2001,
+      "volume": "7",
+      "pages": "949–957",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Yokota C."
+          "surname": ""
+        },
+        {
+          "name": "Kofron M."
+          "surname": ""
+        },
+        {
+          "name": "Zuck M."
+          "surname": ""
+        },
+        {
+          "name": "Houston D.W."
+          "surname": ""
+        },
+        {
+          "name": "Isaacs H."
+          "surname": ""
+        },
+        {
+          "name": "Asashima M."
+          "surname": ""
+        },
+        {
+          "name": "Wylie C.C."
+          "surname": ""
+        },
+        {
+          "name": "Heasman J."
+          "surname": ""
+        }
+      ],
+      "journal": "Development",
+      "year": 2003,
+      "volume": "130",
+      "pages": "2199–2212",
+      "doi": ""
+    },
+    {
+      "title": "",
+      "authors": [
+        {
+          "name": "Zhang J."
+          "surname": ""
+        },
+        {
+          "name": "Talbot W.S."
+          "surname": ""
+        },
+        {
+          "name": "Schier A.F."
+          "surname": ""
+        }
+      ],
+      "journal": "Cell",
+      "year": 1998,
+      "volume": "92",
+      "pages": "241–251",
+      "doi": ""
+    }
+  ],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

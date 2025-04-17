@@ -1,0 +1,440 @@
+{
+  "title": "Morphogenesis of the right ventricle requires myocardial expression of Gata4",
+  "authors": [
+    "Elisabeth M. Zeisberg",
+    "Qing Ma",
+    "Amy L. Juraszek",
+    "Kelvin Moses",
+    "Robert J. Schwartz",
+    "Seigo Izumo",
+    "William T. Pu"
+  ],
+  "references": [],
+  "genes": [
+    "Gata4",
+    "Hand2",
+    "Nkx2-5",
+    "Myosin heavy chain-alpha (Myhca)"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Beth Israel Deaconess Medical Center",
+      "Harvard Medical School",
+      "Children’s Hospital Boston",
+      "Baylor College of Medicine",
+      "Department of Molecular and Cellular Biology",
+      "Department of Pediatrics"
+    ],
+    "experimental_methods": [
+      "Cre/loxP technology",
+      "conditionally delete Gata4"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5", "HAND2", "TBX1"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre recombinase driven by the α myosin heavy chain promoter", "Nkx2-5Cre"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "TBX5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre/loxP technology"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Nkx2-5", "Gata4", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "in situ hybridization", "immunofluorescence staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["Nkx2-5Cre", "R26Rstop lacZ", "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK)", "antibody used", "floxed region of Gata4"],
+    "model_organisms": ["Nkx2-5Cre mice", "R26Rstop lacZ mice", "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK) embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Gata6", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "in situ hybridization", "Immunofluorescent detection"],
+    "software_tools": [],
+    "reagents_chemicals": ["R26Rstop lacZ reporter", "X-gal"],
+    "model_organisms": ["G4NK embryos", "E9.5 control embryos", "E9.5 G4NK embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "Hand1", "Tbx5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["myocyte-restricted deletion of Gata4"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["TNC", "GATA4", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["tenascin C (TNC)", "RNA"],
+    "model_organisms": ["Hand2-null embryos", "G4NK hearts", "G4NK mutants"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [2, 27, 28],
+  "genes": ["Nkx2-5", "Gata4", "Gata5", "Gata6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre activity", "E9.5", "R26Rstop lacZ reporter", "transgenic mice", "myocardial-restricted deletion", "MHC αCre catalyzed recombination", "in situ hybridization", "immunohistochemistry"],
+    "software_tools": [],
+    "reagents_chemicals": ["lacZ", "α myosin heavy chain (MHC) promoter", "MHC αCre", "Gata4\nflox/flox ;MHCαCre+", "white arrowheads", "yellow arrowheads", "blue arrowheads", "asterisk"],
+    "model_organisms": ["transgenic mice", "control embryos", "mutant embryos", "G4MC embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HAND1", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["BrdU labeling", "TUNEL staining", "in situ hybridization", "phosphohistone H3 staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU (BrdU)", "phosphohistone H3"],
+    "model_organisms": ["G4NK embryos", "G4MC embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["G4NK", "Gata4", "cyclin-D1", "cyclin-D2", "Bmp10", "Hop", "Mef2c", "Carp", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR analysis"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK", "G4MC"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": ["39", "40", "41"],
+  "genes": ["MHCα", "ANF", "GATA4", "GATA5", "GATA6", "NKX2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["cardiomyocyte-restricted inactivation", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["R26Rstop lacZ reporter"],
+    "model_organisms": ["Xenopus", "mouse", "embryo"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [42, 43],
+  "genes": ["GATA4", "HAND2", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid aggregation", "cardiomyocyte-restricted Gata4 deletion", "MHC αCre"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Nkx2-5 Cre–mediated excision"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4MC embryos", "E12.5 G4MC embryos", "control ventricle", "mutant ventricle", "TOPRO3", "E13.5 embryos", "RV (right ventricle)", "OFT"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "HAND2"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["BrdU labeling", "TOPRO3 staining", "desmin staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU (5-bromo-2'-deoxyuridine)", "TOPRO3", "desmin"],
+    "model_organisms": ["G4NK mutant embryos", "G4MC hearts", "transgenic mice"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA",
+    "Hand2",
+    "Gata4",
+    "Gata5",
+    "Gata6",
+    "Nkx2-5"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre-mediated Gata4 inactivation"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Gata4 -null mice",
+      "G4NK embryos",
+      "G4MC (red bars)",
+      "control hearts (black bars)",
+      "C57BL/6"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [16, 35, 37, 22],
+  "genes": ["GATA4", "GATA5", "GATA6", "CCND2", "NKX2-5", "MEF2C", "CARP", "MHCALPHA", "MHCBETA", "ANF", "BNP"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "whole-mount in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos", "E9.5", "E12.5", "Nkx2-5Cre", "MHCαCre"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "NKX2-5", "HAND2", "HAND1", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["Cre/loxP technology"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["HAND2", "GATA4", "NKX2-5", "MHC", "TNC"],
+  "proper_nouns": {
+    "institutions": ["Beth Israel Deaconess Medical Center", "Boston Children’s Hospital", "Harvard Medical School"],
+    "experimental_methods": ["gene targeting", "Flp-mediated removal", "Cre recombinase expression", "Histology and gene expression", "Embryo dehydration", "Ethanol series embedding", "In situ hybridization", "Whole-mount in situ hybridization", "X-gal staining", "Immunofluorescent staining", "Antigen retrieval with HCl and trypsin digestion"],
+    "software_tools": [],
+    "reagents_chemicals": ["BrdU", "TOPRO3", "Tyramide-Cy3", "Sigma-Aldrich's ABC method"],
+    "model_organisms": ["Mice", "G4NK embryos", "G4MC embryos"]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "key": "1",
+      "authors": "Hoffman JI",
+      "year": "1995",
+      "journal": "Pediatr. Cardiol.",
+      "volume": "16",
+      "pages": "103–113"
+    },
+    {
+      "key": "2",
+      "authors": "Waldo KL, et al.",
+      "year": "2001",
+      "journal": "Development",
+      "volume": "128",
+      "pages": "3179–3188"
+    },
+    {
+      "key": "3",
+      "authors": "Mjaatvedt CH, et al.",
+      "year": "2001",
+      "journal": "Dev. Biol.",
+      "volume": "238",
+      "pages": "97–109"
+    },
+    {
+      "key": "4",
+      "authors": "Kelly RG, Brown NA, and Buckingham ME",
+      "year": "2001",
+      "journal": "Dev. Cell.",
+      "volume": "1",
+      "pages": "435–440"
+    },
+    {
+      "key": "5",
+      "authors": "Runyan RB and Markwald RR",
+      "year": "1983",
+      "journal": "Dev. Biol.",
+      "volume": "95",
+      "pages": "108–114"
+    },
+    {
+      "key": "6",
+      "authors": "Srivastava D and Olson EN",
+      "year": "2000",
+      "journal": "Nature",
+      "volume": "407",
+      "pages": "221–226"
+    },
+    {
+      "key": "7",
+      "authors": "Srivastava D, Cserjesi P, and Olson EN",
+      "year": "1995",
+      "journal": "Science",
+      "volume": "270",
+      "pages": "1995–1999"
+    },
+    {
+      "key": "8",
+      "authors": "Srivastava D, et al.",
+      "year": "1997",
+      "journal": "Nat. Genet.",
+      "volume": "16",
+      "pages": "154–160"
+    }
+  ],
+  "genes": [
+    "Gata4",
+    "Gata6",
+    "Nkx2-5",
+    "Carp",
+    "ANF",
+    "cyclin D1",
+    "cyclin D2",
+    "cyclin D3",
+    "Hop",
+    "Bmp10"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Roche Diagnostics",
+      "Children’s Hospital Boston",
+      "Novartis Institute for Biomedical Research",
+      "Department of Cardiology",
+      "Enders 13"
+    ],
+    "experimental_methods": [
+      "TMR Red In Situ Death Detection kit",
+      "qRT-PCR",
+      "collected and frozen in liquid nitrogen",
+      "on-column DNase digestion",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "Real-time qRT-PCR",
+      "ABI 7700 Sequence Detector"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "TMR Red In Situ Death Detection kit",
+      "RNeasy kit",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "ABI 7700 Sequence Detector",
+      "Taqman probes",
+      "Gata4",
+      "Gata6",
+      "Nkx2-5",
+      "Carp",
+      "ANF",
+      "cyclin D1",
+      "cyclin D2",
+      "cyclin D3",
+      "Hop",
+      "Bmp10",
+      "18S"
+    ],
+    "model_organisms": [
+      "E9.5 (G4NK)",
+      "E12.5 (G4MC)"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "NKX2-5",
+    "TBX1",
+    "TBX5",
+    "GATA4"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mice"
+    ]
+  }
+}
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": [
+    "GATA-4",
+    "Nkx2-5",
+    "CSX/Nkx2.5",
+    "dHAND",
+    "Hand1",
+    "Hand2",
+    "GATA1"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mouse",
+      "murine",
+      "chicken"
+    ]
+  }
+}

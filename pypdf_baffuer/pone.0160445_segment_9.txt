@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["6", "7", "23", "27", "4", "1"],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["allurin", "mucin 5"],
+    "model_organisms": ["R.arboreus", "B.japonicus", "C.pyrrhogaster", "X.laevis"]
+  }
+}

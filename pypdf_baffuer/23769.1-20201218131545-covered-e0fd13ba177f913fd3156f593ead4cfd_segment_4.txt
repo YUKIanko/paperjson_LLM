@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["Gata4", "Gata6", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["qRT-PCR", "in situ hybridization", "Immunofluorescent detection"],
+    "software_tools": [],
+    "reagents_chemicals": ["R26Rstop lacZ reporter", "X-gal"],
+    "model_organisms": ["G4NK embryos", "E9.5 control embryos", "E9.5 G4NK embryos"]
+  }
+}

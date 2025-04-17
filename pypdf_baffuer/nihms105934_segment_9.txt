@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Crispino et al., 2001", "Pu et al., 2004"],
+  "genes": ["GATA4", "ERK", "FOG1", "FOG2", "ZFPM1", "ZFPM2", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["T2Cre transgene", "genotyping", "BrdU uptake", "TUNEL staining"],
+    "software_tools": [],
+    "reagents_chemicals": ["AV cushions defects", "common atrioventricular canal defects", "peripheral hemorrhage and edema", "endothelium-derived cells"],
+    "model_organisms": ["Mice", "Embryos"]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "title": "Morphogenesis of the right ventricle requires myocardial expression of Gata4",
+  "authors": [
+    "Elisabeth M. Zeisberg",
+    "Qing Ma",
+    "Amy L. Juraszek",
+    "Kelvin Moses",
+    "Robert J. Schwartz",
+    "Seigo Izumo",
+    "William T. Pu"
+  ],
+  "references": [
+    2,
+    27,
+    28,
+    {
+      "authors": [
+        "J.I. Hoffman"
+      ],
+      "year": 1995,
+      "journal": "Pediatr. Cardiol.",
+      "volume": "16",
+      "pages": "103–113"
+    },
+    {
+      "authors": [
+        "K.L. Waldo",
+        "et al."
+      ],
+      "year": 2001,
+      "journal": "Development",
+      "volume": "128",
+      "pages": "3179–3188"
+    },
+    {
+      "authors": [
+        "C.H. Mjaatvedt",
+        "et al."
+      ],
+      "year": 2001,
+      "journal": "Dev. Biol.",
+      "volume": "238",
+      "pages": "97–109"
+    },
+    {
+      "authors": [
+        "R.G. Kelly",
+        "N.A. Brown",
+        "M.E. Buckingham"
+      ],
+      "year": 2001,
+      "journal": "Dev. Cell",
+      "volume": "1",
+      "pages": "435–440"
+    },
+    {
+      "authors": [
+        "R.B. Runyan",
+        "R.R. Markwald"
+      ],
+      "year": 1983,
+      "journal": "Dev. Biol.",
+      "volume": "95",
+      "pages": "108–114"
+    },
+    {
+      "authors": [
+        "D. Srivastava",
+        "E.N. Olson"
+      ],
+      "year": 2000,
+      "journal": "Nature",
+      "volume": "407",
+      "pages": "221–226"
+    },
+    {
+      "authors": [
+        "D. Srivastava",
+        "P. Cserjesi",
+        "E.N. Olson"
+      ],
+      "year": 1995,
+      "journal": "Science",
+      "volume": "270",
+      "pages": "1995–1999"
+    },
+    {
+      "authors": [
+        "D. Srivastava",
+        "et al."
+      ],
+      "year": 1997,
+      "journal": "Nat. Genet.",
+      "volume": "16",
+      "pages": "154–160"
+    }
+  ],
+  "genes": [
+    "Gata4",
+    "Hand2",
+    "Nkx2-5",
+    "GATA-4",
+    "NKX2-5",
+    "HAND2",
+    "HAND1",
+    "TBX1",
+    "TBX5",
+    "GATA6",
+    "ANF",
+    "Carp",
+    "Cyclin D1",
+    "Cyclin D2",
+    "Cyclin D3",
+    "Hop",
+    "Bmp10",
+    "FOG",
+    "CSX",
+    "dHAND"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Beth Israel Deaconess Medical Center",
+      "Harvard Medical School",
+      "Children's Hospital Boston",
+      "Baylor College of Medicine",
+      "Department of Molecular and Cellular Biology",
+      "Department of Pediatrics",
+      "Roche Diagnostics",
+      "Children's Hospital Boston",
+      "Novartis Institute for Biomedical Research",
+      "Department of Cardiology"
+    ],
+    "experimental_methods": [
+      "Cre/loxP technology",
+      "conditional deletion",
+      "Cre recombinase driven by the α myosin heavy chain promoter",
+      "myocyte-restricted deletion of Gata4",
+      "qRT-PCR",
+      "immunofluorescence staining",
+      "in situ hybridization",
+      "BrdU labeling",
+      "TUNEL staining",
+      "in situ hybridization",
+      "tetraploid aggregation",
+      "cardiomyocyte-restricted inactivation",
+      "myocardial-restricted deletion mutant embryos",
+      "GATA4 regulation RV development",
+      "early cardiomyocyte-restricted deletion",
+      "secondary heart field enhancer",
+      "gene targeting",
+      "Flp-mediated removal",
+      "Cre recombinase expression",
+      "histology and gene expression analysis",
+      "in situ hybridization",
+      "Whole-mount X-gal staining",
+      "Immunofluorescent staining",
+      "BrdU labeling",
+      "Red In Situ Death Detection kit",
+      "qRT-PCR",
+      "on-column DNase digestion",
+      "Agilent Bioanalyzer (model 2100)",
+      "ABI 7700 Sequence Detector",
+      "Real-time qRT-PCR"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Cre recombinase",
+      "floxed Gata4 mice",
+      "α MHC promoter driving Cre recombinase expression",
+      "MLC2a",
+      "MLC2v",
+      "Nkx2-5Cre",
+      "R26Rstop lacZ mice",
+      "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK) embryos",
+      "anti-Gata4 antibody",
+      "lacZ reporter",
+      "α myosin heavy chain (MHC) promoter",
+      "Cre recombinase",
+      "Flox/flox transgenic mice",
+      "BrdU (BrdU)",
+      "phosphohistone H3 (PHH3)",
+      "anti-digoxigenin alkaline phosphatase",
+      "tenascin C (TNC)",
+      "BrdU (Sigma-Aldrich)",
+      "Kan-Neo resistance cassette",
+      "Monoclonal antibodies (Santa Cruz Biotechnology Inc.)",
+      "TOPRO3",
+      "Desmin rabbit antibody (BioMeda Corp.)",
+      "anti-rabbit Alexa Fluor 488 (Invitrogen Corp.)",
+      "phosphohistone H3 polyclonal antibody (Upstate)",
+      "RNeasy kit",
+      "Taqman probes",
+      "Agilent Bioanalyzer (model 2100)",
+      "ABI 7700 Sequence Detector",
+      "Carp",
+      "ANF",
+      "Cyclin D1",
+      "Cyclin D2",
+      "Cyclin D3",
+      "Hop",
+      "Bmp10"
+    ],
+    "model_organisms": [
+      "mice",
+      "G4NK embryos",
+      "G4MC embryos",
+      "Nkx2-5Cre mice",
+      "E9.5 embryos",
+      "G4NK hearts",
+      "endocardial cells",
+      "transgenic mice",
+      "myocardial-restricted deletion mutant embryos",
+      "G4NK mutant embryos",
+      "G4MC hearts",
+      "RV cardiomyocyte precursors originat-ing from the secondary heart field",
+      "E12.5 (G4MC)",
+      "E9.5 (G4NK)"
+    ]
+  }
+}

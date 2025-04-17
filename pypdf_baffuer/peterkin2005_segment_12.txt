@@ -1,0 +1,29 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    "McFadden DG, Olson EN.",
+    "Patient RK, McGhee JD.",
+    "Molkentin JD.",
+    "Grepin C, Nemer G, Nemer M.",
+    "Grepin C, Robitaille L, Antakly T, Nemer M.",
+    "Kuo CT, Morrisey EE, Anandappa R, Sigrist K, Lu MM, Parmacek MS, et al.",
+    "Molkentin JD, Lin Q, Duncan SA, Olson EN.",
+    "Zhang H, Toyofuku T, Kamei J, Hori M.",
+    "Narita N, Bielinska M, Wilson DB.",
+    "Jiang YM, Tarzami S, Burch JBE, Evans T.",
+    "Narita N, Bielinska M, Wilson DB."
+  ],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": []
+  }
+}

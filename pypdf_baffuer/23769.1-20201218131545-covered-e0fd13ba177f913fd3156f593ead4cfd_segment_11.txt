@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [42, 43],
+  "genes": ["GATA4", "HAND2", "Nkx2-5"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["tetraploid aggregation", "cardiomyocyte-restricted Gata4 deletion", "MHC αCre"],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["G4NK embryos"]
+  }
+}

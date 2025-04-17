@@ -1,0 +1,18 @@
+{
+  "title": "OOK",
+  "authors": [],
+  "references": [
+    {
+      "institution": ["Garland Publishing"],
+      "model_organisms": ["Xenopus Levis (Daudin)"]
+    }
+  ],
+  "genes": [],
+  "proper_nouns": {
+    "institutions": ["Garland Publishing", "P.D. Nieuwkoop and J. Faber"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["Xenopus Levis (Daudin)"]
+  }
+}

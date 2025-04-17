@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Field et al., 2003", "Wallace and Pack, 2003"],
+  "genes": ["GATA4", "GATA5", "GATA6", "SOX17", "FOXA2", "I-FABP", "TFRC", "ELA2B"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["semi-quantitative RT-PCR", "in situ hybridization"],
+    "software_tools": [],
+    "reagents_chemicals": ["morpholino", "RT reaction", "transferrin RNA", "elastaseB"],
+    "model_organisms": ["zebrafish"]
+  }
+}

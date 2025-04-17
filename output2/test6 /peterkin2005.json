@@ -1,0 +1,60 @@
+{
+  "title": "The roles of GATA-4, -5 and -6 in vertebrate heart development",
+  "authors": [
+    "Tessa Peterkina",
+    "Abigail Gibson",
+    "Matthew Loose",
+    "Roger Patient"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "GATA6",
+    "HGF",
+    "NFAT3",
+    "YY1"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Weatherall Institute of Molecular Medicine",
+      "University of Oxford",
+      "John Radcliffe Hospital",
+      "Victor Chang Cardiac Research Institute",
+      "University of Nottingham",
+      "Institute of Genetics"
+    ],
+    "experimental_methods": [
+      "antisense strategy",
+      "addition of DMSO",
+      "targeted disruption",
+      "co-immunoprecipitation assays",
+      "gel mobility shift analysis",
+      "programmed reticulocyte lysate"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "DMSO",
+      "ANF transgene",
+      "T-box element (TBE)",
+      "serum response elements (SREs)",
+      "Nkx element (NKE)",
+      "Retinoids",
+      "Vitamin A",
+      "RXR"
+    ],
+    "model_organisms": [
+      "P19 cells",
+      "chick embryos",
+      "Xenopus embryos",
+      "GATA-4null mice",
+      "zebrafish",
+      "mouse",
+      "Xenopus transgenics",
+      "HeLa cells",
+      "CV1 cells",
+      "FOG-1 −/− mice",
+      "RXR α-null mice"
+    ]
+  }
+}

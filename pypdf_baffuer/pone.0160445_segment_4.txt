@@ -1,0 +1,13 @@
+{
+  "title": "A Novel Cysteine Knot Protein for Amphibian Sperm Motility",
+  "authors": [],
+  "references": ["TRIzol", "pCold TF"],
+  "genes": ["SMIS"],
+  "proper_nouns": {
+    "institutions": ["Nikon Co., Tokyo, Japan"],
+    "experimental_methods": ["reverse transcription-polymerase chain reaction (RT-PCR)", "Edman degradation"],
+    "software_tools": [],
+    "reagents_chemicals": ["AlexaFluor594-conjugated anti-rabbit IgG antibody", "Alexa-Fluor488-conjugated anti-mouse IgG antibody", "FITC-P3 and the anti-P3antibody", "anti-P3 antibody", "peptide used to generate the anti-P3 antibody", "confocal laser scanning microscope (c2)", "E. coli"],
+    "model_organisms": ["C. pyrrhogaster"]
+  }
+}

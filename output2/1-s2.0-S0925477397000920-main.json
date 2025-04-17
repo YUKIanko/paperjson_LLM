@@ -1,0 +1,32 @@
+{
+  "title": "example_title",
+  "authors": [
+    "Author One",
+    "Author Two"
+  ],
+  "references": [
+    "ref1",
+    "ref2"
+  ],
+  "genes": [
+    "geneX",
+    "geneY"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Institution A"
+    ],
+    "experimental_methods": [
+      "Method Z"
+    ],
+    "software_tools": [
+      "Tool C"
+    ],
+    "reagents_chemicals": [
+      "Chemical D"
+    ],
+    "model_organisms": [
+      "Organism E"
+    ]
+  }
+}

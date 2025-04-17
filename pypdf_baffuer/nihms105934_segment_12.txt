@@ -1,0 +1,126 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "genes": ["HL004387", "PO1 HL074734"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA factors", "liver receptor homolog-1"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["endothelial cell signaling", "differentiation"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["T-box transcription factor Tbx5"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["hyaluronan synthase-2", "ErbB2-ErbB3 receptors"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA transcription factors", "cardiac development"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["GATA-4 with FOG cofactors"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["tamoxifen-inducible form of Cre recombinase"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": ["Modification of gene activity in mouse embryos in utero by a tamoxifen-inducible form of Cre recombinase"],
+        "software_tools": [],
+        "reagents_chemicals": ["tamoxifen", "Cre recombinase"],
+        "model_organisms": ["mouse"]
+      }
+    },
+    {
+      "genes": ["GATA4 mutations", "TBX5"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["Nf1 has an essential role in endothelial cells"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    },
+    {
+      "genes": ["transcription factor GATA-4 to regions of the mouse embryo involved in cardiac development"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": ["mouse"]
+      }
+    },
+    {
+      "genes": ["GATA4 or NKX2.5 mutations in familial atrial septal defect"],
+      "proper_nouns": {
+        "institutions": [],
+        "experimental_methods": [],
+        "software_tools": [],
+        "reagents_chemicals": [],
+        "model_organisms": []
+      }
+    }
+  ]
+}

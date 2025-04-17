@@ -1,0 +1,31 @@
+{
+  "title": "Development of the mammalian liver and ventral pancreas is dependent on GATA4",
+  "authors": [
+    "Alistair J Watt",
+    "Roong Zhao",
+    "Jixuan Li",
+    "Stephen A Duncan*"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA6"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Medical College of Wisconsin",
+      "John Hughes Bennett Laboratory",
+      "University of Edinburgh, Western General Hospital"
+    ],
+    "experimental_methods": [
+      "tetraploid embryo complementation"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "mouse",
+      "Gata4-/- ES cells",
+      "Gata6-/- embryos"
+    ]
+  }
+}

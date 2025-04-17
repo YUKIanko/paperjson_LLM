@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Treisman, 1995", "Treisman, 1994", "Groisman et al., 1996", "Belaguli et al., 2000", "Morin et al., 2001", "Sotiropoulos et al., 1999", "Biesiada et al., 1999", "Sartorelli et al., 1990", "Mohun et al., 1989b", "Biben et al., 1996"],
+  "genes": ["ITSTARGETS", "SRF", "ETS1", "ELK1", "C-FOS", "MYOD", "GATA4", "CARDIAC-H9251-ACTIN"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": ["SERUM RESPONSE ELEMENT (SRE)", "ACTIVATION PROTEIN-1 (SP1)"],
+    "model_organisms": ["Xenopus", "Mice"]
+  }
+}

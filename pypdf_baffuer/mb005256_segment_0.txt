@@ -1,0 +1,13 @@
+{
+  "title": "Abnormalities of the Genitourinary Tract in Female Mice Lacking GATA5",
+  "authors": ["JEFFERY D. MOLKENTIN", "KEVIN M. TYMITZ", "JAMES A. RICHARDSON", "ERIC N. OLSON"],
+  "references": [],
+  "genes": ["GATA1", "GATA2", "GATA3", "GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": ["University of Texas Southwestern Medical Center at Dallas", "Children’s Hospital Medical Center", "Cincinnati, Ohio"],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["mouse", "zebra fish"]
+  }
+}

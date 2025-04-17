@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA6", "GATA5", "GATA4"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["gene knockdown approach", "MOs"],
+    "software_tools": [],
+    "reagents_chemicals": ["MOs"],
+    "model_organisms": ["mouse model", "Xenopus", "zebrafish model", "faust (GATA5) mutants"]
+  }
+}

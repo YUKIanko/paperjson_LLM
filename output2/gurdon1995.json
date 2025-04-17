@@ -1,0 +1,64 @@
+{
+  "title": "OOK",
+  "authors": [
+    "J.B. Gurdon"
+  ],
+  "references": [
+    {
+      "institution": [
+        "Garland Publishing"
+      ],
+      "model_organisms": [
+        "Xenopus Levis (Daudin)"
+      ]
+    },
+    {
+      "institution": [
+        "University of Cambridge",
+        "Wellcome Trust",
+        "Cancer Research Campaign",
+        "Tennis Court Road",
+        "Human Genome Project",
+        "Apollo mission"
+      ],
+      "model_organisms": [
+        "Xenopus laevis",
+        "Rana spp.",
+        "newts"
+      ]
+    }
+  ],
+  "genes": [
+    "Nieuwkoop",
+    "Faber"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Garland Publishing",
+      "University of Cambridge",
+      "Wellcome Trust",
+      "Cancer Research Campaign",
+      "Tennis Court Road",
+      "Human Genome Project",
+      "Apollo mission"
+    ],
+    "experimental_methods": [
+      "gene cloning",
+      "mRNA injection",
+      "IMA injection",
+      "oligo depletion through RNaseH activity",
+      "dominant-negative receptors"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "pituitary extracts",
+      "RNaseH"
+    ],
+    "model_organisms": [
+      "Xenopus Levis (Daudin)",
+      "Xenopus laevis",
+      "Rana spp.",
+      "newts"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": ["Sater and Jacobson, 1990a"],
+  "genes": ["XNkx2.5", "Tn-T c.337"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": ["explant", "extirpation", "recombinant studies", "isolated explants", "in situ hybridization", "cross section"],
+    "software_tools": [],
+    "reagents_chemicals": ["monoclonal antibody CT3"],
+    "model_organisms": []
+  }
+}

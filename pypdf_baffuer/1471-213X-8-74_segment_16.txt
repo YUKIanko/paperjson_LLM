@@ -1,0 +1,84 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [
+    {
+      "year": "2005",
+      "journal": "Semin Cell Dev Biol",
+      "volume": "16(1)",
+      "pages": "83-94"
+    },
+    {
+      "year": "1999",
+      "journal": "Semin Cell Dev Biol",
+      "volume": "10(1)",
+      "pages": "85-91"
+    },
+    {
+      "year": "2000",
+      "journal": "J Biol Chem",
+      "volume": "275(50)",
+      "pages": "38949-38952"
+    },
+    {
+      "year": "2002",
+      "journal": "Curr Opin Genet Dev",
+      "volume": "12(4)",
+      "pages": "416-422"
+    },
+    {
+      "year": "1997",
+      "journal": "Genes Dev",
+      "volume": "11(8)",
+      "pages": "1061-1072"
+    },
+    {
+      "year": "1997",
+      "journal": "Dev Biol",
+      "volume": "189(2)",
+      "pages": "270-274"
+    },
+    {
+      "year": "1997",
+      "journal": "Genes Dev",
+      "volume": "11(8)",
+      "pages": "1048-1060"
+    },
+    {
+      "year": "2001",
+      "journal": "Genes Dev",
+      "volume": "15(7)",
+      "pages": "839-844"
+    },
+    {
+      "year": "2005",
+      "journal": "J Clin Invest",
+      "volume": "115(6)",
+      "pages": "1522-1531"
+    },
+    {
+      "year": "2004",
+      "journal": "Proc Natl Acad Sci U S A",
+      "volume": "101(18)",
+      "pages": "6975-6980"
+    }
+  ],
+  "genes": [
+    "GATA-4",
+    "GATA-5",
+    "GATA-6",
+    "Tbx5"
+  ],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "DiI (Sigma)"
+    ],
+    "model_organisms": [
+      "Xenopus tropicalis",
+      "mouse"
+    ]
+  }
+}

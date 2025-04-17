@@ -1,0 +1,178 @@
+{
+  "title": "Morphogenesis of the right ventricle requires myocardial expression of Gata4",
+  "authors": [
+    "Elisabeth M. Zeisberg",
+    "Qing Ma",
+    "Amy L. Juraszek",
+    "Kelvin Moses",
+    "Robert J. Schwartz",
+    "Seigo Izumo",
+    "William T. Pu"
+  ],
+  "references": [
+    {
+      "key": "1",
+      "authors": "Hoffman JI",
+      "year": "1995",
+      "journal": "Pediatr. Cardiol.",
+      "volume": "16",
+      "pages": "103–113"
+    },
+    {
+      "key": "2",
+      "authors": "Waldo KL, et al.",
+      "year": "2001",
+      "journal": "Development",
+      "volume": "128",
+      "pages": "3179–3188"
+    },
+    {
+      "key": "3",
+      "authors": "Mjaatvedt CH, et al.",
+      "year": "2001",
+      "journal": "Dev. Biol.",
+      "volume": "238",
+      "pages": "97–109"
+    },
+    {
+      "key": "4",
+      "authors": "Kelly RG, Brown NA, and Buckingham ME",
+      "year": "2001",
+      "journal": "Dev. Cell.",
+      "volume": "1",
+      "pages": "435–440"
+    },
+    {
+      "key": "5",
+      "authors": "Runyan RB and Markwald RR",
+      "year": "1983",
+      "journal": "Dev. Biol.",
+      "volume": "95",
+      "pages": "108–114"
+    },
+    {
+      "key": "6",
+      "authors": "Srivastava D and Olson EN",
+      "year": "2000",
+      "journal": "Nature",
+      "volume": "407",
+      "pages": "221–226"
+    },
+    {
+      "key": "7",
+      "authors": "Srivastava D, Cserjesi P, and Olson EN",
+      "year": "1995",
+      "journal": "Science",
+      "volume": "270",
+      "pages": "1995–1999"
+    },
+    {
+      "key": "8",
+      "authors": "Srivastava D, et al.",
+      "year": "1997",
+      "journal": "Nat. Genet.",
+      "volume": "16",
+      "pages": "154–160"
+    }
+  ],
+  "genes": [
+    "GATA4",
+    "HAND2",
+    "Nkx2-5",
+    "Myosin heavy chain-alpha (Myhca)",
+    "TBX1",
+    "TBX5",
+    "GATA6",
+    "Carp",
+    "ANF",
+    "cyclin D1",
+    "cyclin D2",
+    "cyclin D3",
+    "Hop",
+    "Bmp10"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "Beth Israel Deaconess Medical Center",
+      "Harvard Medical School",
+      "Children’s Hospital Boston",
+      "Baylor College of Medicine",
+      "Department of Molecular and Cellular Biology",
+      "Department of Pediatrics",
+      "Roche Diagnostics",
+      "Children’s Hospital Boston",
+      "Novartis Institute for Biomedical Research",
+      "Department of Cardiology",
+      "Enders 13"
+    ],
+    "experimental_methods": [
+      "Cre/loxP technology",
+      "conditionally delete Gata4",
+      "Cre recombinase driven by the α myosin heavy chain promoter",
+      "Nkx2-5Cre",
+      "myocyte-restricted deletion of Gata4",
+      "tetraploid aggregation",
+      "cardiomyocyte-restricted Gata4 deletion",
+      "MHC αCre",
+      "qRT-PCR",
+      "whole-mount in situ hybridization",
+      "in situ hybridization",
+      "histology and gene expression",
+      "embryo dehydration",
+      "ethanol series embedding",
+      "in situ hybridization",
+      "x-gal staining",
+      "immunofluorescent detection",
+      "phosphohistone H3 staining",
+      "Cre/loxP technology",
+      "qRT-PCR analysis"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [
+      "Nkx2-5Cre",
+      "R26Rstop lacZ",
+      "Gata4flox/flox ;Nkx2-5WT/Cre (G4NK)",
+      "antibody used",
+      "floxed region of Gata4",
+      "tenascin C (TNC)",
+      "RNA",
+      "BrdU (BrdU)",
+      "phosphohistone H3",
+      "TOPRO3",
+      "Tyramide-Cy3",
+      "Sigma-Aldrich's ABC method",
+      "TMR Red In Situ Death Detection kit",
+      "RNeasy kit",
+      "Agilent Bioanalyzer (model 2100; Agilent Technologies)",
+      "ABI 7700 Sequence Detector",
+      "Taqman probes",
+      "Gata4",
+      "Gata6",
+      "Nkx2-5",
+      "Carp",
+      "ANF",
+      "cyclin D1",
+      "cyclin D2",
+      "cyclin D3",
+      "Hop",
+      "Bmp10",
+      "18S"
+    ],
+    "model_organisms": [
+      "mice",
+      "mouse",
+      "transgenic mice",
+      "control embryos",
+      "mutant embryos",
+      "G4NK embryos",
+      "G4MC embryos",
+      "G4NK mutant embryos",
+      "G4MC hearts",
+      "G4NK mutants",
+      "Gata4 -null mice",
+      "G4NK embryos",
+      "E9.5 (G4NK)",
+      "E12.5 (G4MC)"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [],
+  "genes": ["GATA4", "GATA5", "GATA6"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [
+      "Southern blotting",
+      "electroporation"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": ["Geneticin", "Fialuridine (FIAU)", "NotI", "KG-1 embryonic stem (ES) cell line", "C57BL/6 blastocysts"],
+    "model_organisms": ["mice", "mouse"]
+  }
+}

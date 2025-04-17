@@ -1,0 +1,32 @@
+{
+  "title": "GATA4 and GATA5 are essential for heart and liver development in Xenopus embryos",
+  "authors": [
+    "Kim E Haworth",
+    "Surendra Kotecha",
+    "Timothy J Mohun",
+    "Branko V Latinkic"
+  ],
+  "references": [],
+  "genes": [
+    "GATA4",
+    "GATA5",
+    "Hex"
+  ],
+  "proper_nouns": {
+    "institutions": [
+      "School of Biosciences, Cardiff University",
+      "National Institute for Medical Research",
+      "Division of Developmental Biology"
+    ],
+    "experimental_methods": [
+      "morpholino oligonucleotides (MO)"
+    ],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": [
+      "Xenopus",
+      "zebrafish",
+      "mouse"
+    ]
+  }
+}

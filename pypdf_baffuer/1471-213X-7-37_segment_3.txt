@@ -1,0 +1,13 @@
+{
+  "title": "",
+  "authors": [],
+  "references": [31, 32],
+  "genes": ["GATA4", "HNF4A"],
+  "proper_nouns": {
+    "institutions": [],
+    "experimental_methods": [],
+    "software_tools": [],
+    "reagents_chemicals": [],
+    "model_organisms": ["BMC Developmental Biology"]
+  }
+}
