@@ -209,7 +209,7 @@ def send_segment_to_llm(segment_text, pdf_base_name, seg_index, total_segments, 
 
     # LLMへの送信処理
     response = client.chat.completions.create(
-        model="lmstudio-community/openai/gpt-oss-20b",
+        model="lmstudio-community/qwen2.5-7b-instruct",
         messages=[{"role": "user", "content": prompt}]
     )
 
@@ -226,8 +226,7 @@ def send_segment_to_llm(segment_text, pdf_base_name, seg_index, total_segments, 
         seg_file.write(output_text)
 
     return output_text
- 
-# セグメントの出力をファイルに保存
+
 def send_merge_prompt(merged_segments_text):
     """
     各セグメントからのJSON出力が連続したテキスト(merged_segments_text)を、
@@ -281,6 +280,7 @@ def send_merge_prompt(merged_segments_text):
         final_json = {}
 
     return final_json
+
 # PDFディレクトリ内の全PDFファイルをループ処理
 for filename in os.listdir(input_directory):
     if filename.lower().endswith(".pdf"):
@@ -323,3 +323,4 @@ for filename in os.listdir(input_directory):
             json.dump(final_json, json_file, ensure_ascii=False, indent=2)
 
         print(f"{filename} の最終論文JSONが生成され、出力は {output_json_path} に保存されました。")
+
