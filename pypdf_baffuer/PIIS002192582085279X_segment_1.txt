@@ -2,19 +2,32 @@
   "title": "",
   "authors": [],
   "references": [],
-  "genes": ["FOR"],
+  "genes": ["FOR1", "FOR2", "RXRA"],
   "proper_nouns": {
-    "institutions": [
-      "Korea Basic Science Institute"
-    ],
+    "institutions": [],
     "experimental_methods": [
-      "yeast two-hybrid system",
-      "screening cDNA libraries with conventional receptor cDNA probes at relaxed stringency",
-      "performing PCR with degenerate oligonucleotide PCR primers from the DBD",
-      "screening cDNA libraries using nuclear receptor ligand binding domains (LBD) or receptor interaction domains of co-activators as bait in a yeast two-hybrid system"
+      "mammalian two-hybrid assay",
+      "transient transfection",
+      "luciferase reporter assay",
+      "electrophoretic mobility shift assay",
+      "GST pull-down assay",
+      "whole mount in situ hybridization"
     ],
     "software_tools": [],
-    "reagents_chemicals": ["HRE", "FXR-like orphan"],
-    "model_organisms": []
+    "reagents_chemicals": [
+      "1-butanol",
+      "methyl chloride",
+      "methanol",
+      "trifluoroacetic acid",
+      "chenodeoxycholic acid",
+      "TTNPB",
+      "galactosidase"
+    ],
+    "model_organisms": [
+      "CV-1 cells (monkey kidney)",
+      "HEK 293 cells (human embryonic kidney)",
+      "Xenopus embryos",
+      "frog gallbladder extract"
+    ]
   }
 }

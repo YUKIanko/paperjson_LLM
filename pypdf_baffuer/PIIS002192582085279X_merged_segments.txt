@@ -13,16 +13,16 @@
     "Won-Sun Kim",
     "Heonjoong Kang",
     "David D. Moore",
-    "Hueng-Sik Choi"
+    "Hueng-Sik Choia"
   ],
-  "references": [
-    "1–3"
-  ],
+  "references": [],
   "genes": [
-    "FOR1",
-    "FOR2",
-    "FXR",
-    "RXR"
+    "NR1H4 (FXR)",
+    "RXRA (RXRα)",
+    "SHP (NR0B2)",
+    "DAX-1 (NR0B1)",
+    "HNF4A (HNF-4α)",
+    "PLTP"
   ],
   "proper_nouns": {
     "institutions": [
@@ -35,16 +35,35 @@
       "Department of Cellular and Molecular Biology, Baylor College of Medicine"
     ],
     "experimental_methods": [
+      "degenerate primer PCR",
+      "cDNA library screening",
       "Northern blot analysis",
-      "in situ hybridization",
-      "gel mobility shift assays"
+      "whole-mount in situ hybridization (WISH)",
+      "GST pull-down assay",
+      "mammalian two-hybrid assay",
+      "electrophoretic mobility shift assay (EMSA)",
+      "in vitro translation with rabbit reticulocyte system",
+      "transient transfection and luciferase reporter assay"
     ],
-    "software_tools": [],
+    "software_tools": [
+      "MacVector"
+    ],
     "reagents_chemicals": [
-      "frog gallbladder extract"
+      "2-methanol",
+      "dichloromethane",
+      "hexane",
+      "methanol",
+      "ethyl acetate",
+      "1-butanol",
+      "silica open column chromatography media",
+      "glutathione-Sepharose 4B beads",
+      "superfect transfection reagent"
     ],
     "model_organisms": [
-      "amphibian"
+      "Xenopus laevis",
+      "Escherichia coli BL21(DE3)pLysS",
+      "HEK293 cells",
+      "CV-1 cells"
     ]
   }
 }
@@ -52,178 +71,370 @@
   "title": "",
   "authors": [],
   "references": [],
-  "genes": ["FOR"],
-  "proper_nouns": {
-    "institutions": [
-      "Korea Basic Science Institute"
-    ],
-    "experimental_methods": [
-      "yeast two-hybrid system",
-      "screening cDNA libraries with conventional receptor cDNA probes at relaxed stringency",
-      "performing PCR with degenerate oligonucleotide PCR primers from the DBD",
-      "screening cDNA libraries using nuclear receptor ligand binding domains (LBD) or receptor interaction domains of co-activators as bait in a yeast two-hybrid system"
-    ],
-    "software_tools": [],
-    "reagents_chemicals": ["HRE", "FXR-like orphan"],
-    "model_organisms": []
-  }
-}
-{
-  "title": "",
-  "authors": [],
-  "references": [],
-  "genes": [
-    "hsp27",
-    "HNF-4",
-    "RXR",
-    "EcRE",
-    "hsp27",
-    "cFXR",
-    "rFXR",
-    "CMV",
-    "TTNPB",
-    "EcR",
-    "SHP",
-    "DAX-1"
-  ],
+  "genes": ["FOR1", "FOR2", "RXRA"],
   "proper_nouns": {
     "institutions": [],
     "experimental_methods": [
-      "yeast two-hybrid approach",
-      "whole mount in situ hybridization (WISH)"
+      "mammalian two-hybrid assay",
+      "transient transfection",
+      "luciferase reporter assay",
+      "electrophoretic mobility shift assay",
+      "GST pull-down assay",
+      "whole mount in situ hybridization"
     ],
     "software_tools": [],
     "reagents_chemicals": [
-      "phospholipid transferprotein (PLTP)",
-      "glutathione S-transferase (GST)",
-      "modified Eagle’s medium (MEM)",
+      "1-butanol",
+      "methyl chloride",
+      "methanol",
+      "trifluoroacetic acid",
+      "chenodeoxycholic acid",
       "TTNPB",
-      "4-[(E)-2-(5,6,7,8,-tetrahydro-5,5,8,8-tetramethyl-2-napthalenyl)-1-pro-peny)]benzoicacid",
-      "cholic acid"
+      "galactosidase"
     ],
     "model_organisms": [
-      "mouse",
-      "Xenopus",
-      "drosophila",
-      "mice",
-      "human"
+      "CV-1 cells (monkey kidney)",
+      "HEK 293 cells (human embryonic kidney)",
+      "Xenopus embryos",
+      "frog gallbladder extract"
     ]
   }
 }
 {
   "title": "",
   "authors": [],
-  "references": [],
-  "genes": ["FOR", "FXR", "PLTP"],
+  "references": [
+    {
+      "authors": ["Evans, R. M."],
+      "title": "",
+      "journal": "Science",
+      "year": 1988,
+      "volume": 240,
+      "pages": "889–895",
+      "doi": ""
+    },
+    {
+      "authors": ["Gigue `re, V."],
+      "title": "",
+      "journal": "Endocr. Rev.",
+      "year": 1999,
+      "volume": 20,
+      "pages": "689–725",
+      "doi": ""
+    },
+    {
+      "authors": ["Umesono, K.", "Evans, R. M."],
+      "title": "",
+      "journal": "Cell",
+      "year": 1989,
+      "volume": 57,
+      "pages": "1139–1146",
+      "doi": ""
+    },
+    {
+      "authors": ["Gigue `re, V."],
+      "title": "",
+      "journal": "Endocr. Rev.",
+      "year": 1994,
+      "volume": 15,
+      "pages": "61–79",
+      "doi": ""
+    },
+    {
+      "authors": ["Gigue `re, V.", "Yang, N.", "Segui, P.", "Evans, R. M."],
+      "title": "",
+      "journal": "Nature",
+      "year": 1988,
+      "volume": 331,
+      "pages": "91–94",
+      "doi": ""
+    },
+    {
+      "authors": ["Baes, M.", "Gulick, T.", "Choi, H.-S.", "Martinoli, M. G.", "Simha, D.", "Moore, D. D."],
+      "title": "",
+      "journal": "Mol. Cell. Biol.",
+      "year": 1994,
+      "volume": 14,
+      "pages": "1544–1551",
+      "doi": ""
+    },
+    {
+      "authors": ["Dumas, B.", "Harding, H. P.", "Choi, H. S.", "Lehmann, K. A.", "Chung, M.", "Lazar", "M. A.", "Moore, D. D."],
+      "title": "",
+      "journal": "Mol. Endocrinol.",
+      "year": 1994,
+      "volume": 8,
+      "pages": "996–1005",
+      "doi": ""
+    },
+    {
+      "authors": ["Kostrouch, Z.", "Kostrouchova, M.", "Rall, J. E."],
+      "title": "",
+      "journal": "Proc. Natl. Acad. Sci. U. S. A.",
+      "year": 1995,
+      "volume": 92,
+      "pages": "156–159",
+      "doi": ""
+    },
+    {
+      "authors": ["Seol, W.", "Choi, H. S.", "Moore, D. D."],
+      "title": "",
+      "journal": "Science",
+      "year": 1996,
+      "volume": 272,
+      "pages": "1336–1339",
+      "doi": ""
+    },
+    {
+      "authors": ["Hong, H.", "Yang, L.", "Stallcup, M. R."],
+      "title": "",
+      "journal": "J. Biol. Chem.",
+      "year": 1999,
+      "volume": 274,
+      "pages": "22618–22626",
+      "doi": ""
+    },
+    {
+      "authors": ["Woronicz, J. D.", "Calnan, B.", "Ngo, V.", "Winoto, A."],
+      "title": "",
+      "journal": "Nature",
+      "year": 1994,
+      "volume": 367,
+      "pages": "277–281",
+      "doi": ""
+    },
+    {
+      "authors": ["Seol, W.", "Chung, M.", "Moore, D. D."],
+      "title": "",
+      "journal": "Mol. Cell. Biol.",
+      "year": 1997,
+      "volume": 17,
+      "pages": "7126–7131",
+      "doi": ""
+    },
+    {
+      "authors": ["Parker, K. L."],
+      "title": "",
+      "journal": "Mol. Cell. Endocrinol.",
+      "year": 1998,
+      "volume": 145,
+      "pages": "15–20",
+      "doi": ""
+    },
+    {
+      "authors": ["Yamagata, K.", "Furuta, H.", "Oda, N.", "Kaisaki, P. J.", "Menzel, S.", "Cox, N. J.", "Fajans, S. S.", "Signorini, S.", "Stoffel, M.", "Bell, G. I."],
+      "title": "",
+      "journal": "Nature",
+      "year": 1996,
+      "volume": 384,
+      "pages": "458–460",
+      "doi": ""
+    },
+    {
+      "authors": ["Seol, W.", "Choi, H.-S.", "Moore, D. D."],
+      "title": "",
+      "journal": "Mol. Endocrinol.",
+      "year": 1995,
+      "volume": 9,
+      "pages": "72–85",
+      "doi": ""
+    },
+    {
+      "authors": ["Forman, B. M.", "Goode, E.", "Chen, J.", "Oro, A. E.", "Bradly, D. J.", "Perlmann, T.", "Noonan, D. J.", "Burka, L. T.", "McMorris, T.", "Lamph, W. W.", "Evans, R. M.", "Weinberger, C."],
+      "title": "",
+      "journal": "Cell",
+      "year": 1995,
+      "volume": 81,
+      "pages": "687–693",
+      "doi": ""
+    },
+    {
+      "authors": ["Zavacki, A. M.", "Lehmann, J. M.", "Seol, W.", "Willson, T. M.", "Kliewer, S. A.", "Moore, D. D."],
+      "title": "",
+      "journal": "Proc. Natl. Acad. Sci. U. S. A.",
+      "year": 1997,
+      "volume": 94,
+      "pages": "7909–7914",
+      "doi": ""
+    },
+    {
+      "authors": ["Makishima, M.", "Okamoto, A. Y.", "Repa, J. J.", "Tu, H.", "Learned, R. M.", "Luk, A.", "Hull, M. V.", "Lustig, K. D.", "Mangelsdorf, D. J.", "Shan, B."],
+      "title": "",
+      "journal": "Science",
+      "year": 1999,
+      "volume": 284,
+      "pages": "1362–1365",
+      "doi": ""
+    },
+    {
+      "authors": ["Parks, D. J.", "Blanchard, S. G.", "Bledsoe, R. K.", "Chandra, G.", "Consler, T. G.", "Kliewer, S. A.", "Stimmel, J. B.", "Willson, T. M.", "Zavacki, A. M.", "Moore, D. D.", "Lehmann, J. M."],
+      "title": "",
+      "journal": "Science",
+      "year": 1999,
+      "volume": 284,
+      "pages": "1365–1368",
+      "doi": ""
+    },
+    {
+      "authors": ["Wang, H.", "Chen, J.", "Hollister, K.", "Sowers, L. C.", "Forman, B. M."],
+      "title": "",
+      "journal": "Mol. Cell",
+      "year": 1999,
+      "volume": 3,
+      "pages": "543–553",
+      "doi": ""
+    },
+    {
+      "authors": ["Grober, J.", "Zaghini, I.", "Fujii, H.", "Jones, S. A.", "Kliewer, S. A.", "Willson, T. M.", "Ono, T.", "Besnard, P."],
+      "title": "",
+      "journal": "J. Biol. Chem.",
+      "year": 1999,
+      "volume": 274,
+      "pages": "29749–29754",
+      "doi": ""
+    },
+    {
+      "authors": ["Chiang, J. Y. L.", "Kimmel, R.", "Weinberger, C.", "Stroup, D."],
+      "title": "",
+      "journal": "J. Biol. Chem.",
+      "year": 2000,
+      "volume": 275,
+      "pages": "10918–10924",
+      "doi": ""
+    },
+    {
+      "authors": ["Laffitte, B. A.", "Kast, H. R.", "Nguyen, C. M.", "Zavacki, A. M.", "Moore, D. D.", "Edwards, P. A."],
+      "title": "",
+      "journal": "J. Biol. Chem.",
+      "year": 2000,
+      "volume": 275,
+      "pages": "10638–10647",
+      "doi": ""
+    },
+    {
+      "authors": ["Goodwin, B.", "Jones, S. A.", "Price, R. R.", "Watson, M. A.", "McKee, D. D.", "Moore, L. B.", "Galardi, C.", "Wilson, J. G.", "Lewis, M. C.", "Roth, M. E.", "Maloney, P. R.", "Willson, T. M.", "Kliewer, S. A."],
+      "title": "",
+      "journal": "Mol. Cell",
+      "year": 2000,
+      "volume": 6,
+      "pages": "517–526",
+      "doi": ""
+    },
+    {
+      "authors": ["Lu, T. T.", "Makishima, M.", "Repa, J. J.", "Schoonjans, K.", "Kerr, T. A.", "Auwerx, J.", "Mangelsdorf, D. J."],
+      "title": "",
+      "journal": "Mol. Cell",
+      "year": 2000,
+      "volume": 6,
+      "pages": "507–515",
+      "doi": ""
+    },
+    {
+      "authors": ["Une, M.", "Matsumoto, N.", "Kihira, K.", "Yasuhara, M.", "Kuramoto, T.", "Hoshita, T."],
+      "title": "",
+      "journal": "J. Lipid Res.",
+      "year": 1980,
+      "volume": 21,
+      "pages": "269–276",
+      "doi": ""
+    },
+    {
+      "authors": ["Noma, Y.", "Une, M.", "Kihira, K.", "Yasuda, M.", "Kuramoto, T.", "Hoshita, T."],
+      "title": "",
+      "journal": "J. Lipid Res.",
+      "year": 1980,
+      "volume": 21,
+      "pages": "339–346",
+      "doi": ""
+    },
+    {
+      "authors": ["Ubbels, G. A.", "Hara, K.", "Koster, C. H.", "Kirschner, M. W."],
+      "title": "",
+      "journal": "J. Embryol. Exp. Morphol.",
+      "year": 1983,
+      "volume": 77,
+      "pages": "15–37",
+      "doi": ""
+    },
+    {
+      "authors": ["Niewkoop, P. D.", "Faber, J."],
+      "title": "",
+      "journal": "Normal Table of Xenopus laevis, 2nd Ed., North Holland, Amsterdam",
+      "year": 1994,
+      "volume": "",
+      "pages": "",
+      "doi": ""
+    },
+    {
+      "authors": ["Lee, H.-K.", "Lee, Y.-K.", "Park, S.-H.", "Kim, Y.-S.", "Park, S. H.", "Lee, J. W.", "Kwon, H.-B.", "Soh, J.", "Moore, D. D.", "Choi, H.-S."],
+      "title": "",
+      "journal": "J. Biol. Chem.",
+      "year": 1998,
+      "volume": 273,
+      "pages": "14398–14402",
+      "doi": ""
+    },
+    {
+      "authors": ["Liang, V. C.", "Sedgwick, T.", "Shi, Y.-B."],
+      "title": "",
+      "journal": "Cell Res.",
+      "year": 1997,
+      "volume": 7,
+      "pages": "179–193",
+      "doi": ""
+    },
+    {
+      "authors": ["Harland, R. M."],
+      "title": "",
+      "journal": "Methods. Cell Biol.",
+      "year": 1991,
+      "volume": 36,
+      "pages": "685–695",
+      "doi": ""
+    },
+    {
+      "authors": ["Weinstein, D. C.", "Ruiz i Albata, A.", "Chen, W. S.", "Hoodless, P.", "Prezioso, V. R.", "Jessel, T. M.", "Darnell, J. E., Jr."],
+      "title": "",
+      "journal": "Cell",
+      "year": 1994,
+      "volume": 78,
+      "pages": "575–588",
+      "doi": ""
+    },
+    {
+      "authors": ["Zanaria, E.", "Muscatelli, F.", "Bardoni, B.", "Strom, T. M.", "Guioli, S.", "Guo, W.", "Lalli, E.", "Moser, C.", "Walker, A. P.", "McCabe, E. R. B.", "Meitinger, T.", "Monaco, A. P.", "Sassone-Corsi, P.", "Camerino, G."],
+      "title": "",
+      "journal": "Nature",
+      "year": 1994,
+      "volume": 372,
+      "pages": "635–641",
+      "doi": ""
+    },
+    {
+      "authors": ["Jones, B. B.", "Ohno, C. K.", "Allenby, G.", "Boffa, M. B.", "Levin, A. A.", "Grippo, J. F.", "Petkovich, M."],
+      "title": "",
+      "journal": "Mol. Cell. Biol.",
+      "year": 1995,
+      "volume": 15,
+      "pages": "5226–5234",
+      "doi": ""
+    },
+    {
+      "authors": ["Cloning and Characterization of Orphan Nuclear Receptor FOR 17844"],
+      "title": "",
+      "journal": "",
+      "year": 1995,
+      "volume": "",
+      "pages": "",
+      "doi": ""
+    }
+  ],
+  "genes": [],
   "proper_nouns": {
     "institutions": [],
-    "experimental_methods": ["Electro-phoretic mobility shift assays", "Isolation of FOR cDNAs", "PCR", "dideoxy nucleotide sequencing", "In Vitro Translation"],
-    "software_tools": [],
-    "reagents_chemicals": ["FOR1 mRNA", "FOR2 mRNA", "Xenopus laevis liver cDNA library", "pGEM-T Easy system", "Sequenase", "FOR cDNAs from pBS SK(/H11001)", "mammalian expression vector pCDNA3", "LBD region of FOR corresponding to 319 amino acids for FOR1 and 346 amino acids for FOR2", "pCMX-GAL4", "VP16AD fusion constructs for FOR1 and -2", "FOR cDNA in pBlue-script (Stratagene)"],
-    "model_organisms": ["Xenopus laevis"]
-  }
-}
-{
-  "title": "",
-  "authors": [],
-  "references": [],
-  "genes": ["FOR1"],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": [
-      "Northern Blot Analysis",
-      "Whole Mount in Situ Hybridization (WISH)",
-      "GST-Pull-down Assay",
-      "Gallbladder Extraction and Solvent Partition",
-      "Cell Culture and Transient Transfection"
-    ],
-    "software_tools": [],
-    "reagents_chemicals": ["Marc’s Modified Ringer", "freeze-dried", "digoxigenin labeled sense or FOR1 riboprobes", "BM Purple", "glutathione-Sepharose 4B beads", "35S-labeled receptors", "1-butanol", "ethyl acetate", "hexane", "methanol"],
-    "model_organisms": ["X. laevis"]
-  }
-}
-{
-  "title": "",
-  "authors": [],
-  "references": [23],
-  "genes": ["FOR1", "FOR2"],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": ["Electrophoretic Mobility Shift Assay", "transient transfections", "cloning and characterization of orphan nuclear receptor FOR17837", "genomic Southern blot analysis"],
-    "software_tools": ["MacVector software"],
-    "reagents_chemicals": ["MEM", "resin-charcoal-stripped fetal bovine serum", "penicillin G", "streptomycin sulfate", "SuperFect (Qiagen)", "amphibian gall-bladder extract", "dimethyl sulfoxide", "end-labeled IR1 or EcRE oligonucleotides"],
-    "model_organisms": ["X. laevis"]
-  }
-}
-{
-  "title": "",
-  "authors": [],
-  "references": [],
-  "genes": ["FOR1", "FOR2", "FXR"],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": ["PCR", "Southern blot analysis"],
+    "experimental_methods": [],
     "software_tools": [],
     "reagents_chemicals": [],
-    "model_organisms": ["X. laevis", "chicken"]
-  }
-}
-{
-  "title": "",
-  "authors": [],
-  "references": [],
-  "genes": ["FOR1", "FOR2", "cFXR", "rFXR"],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": ["in vitro translation assay", "SDS-PAGE analysis", "Northern blot analysis", "whole mount in situ hybridization (WISH)"],
-    "software_tools": [],
-    "reagents_chemicals": ["[35S]methionine"],
-    "model_organisms": ["Xenopus"]
-  }
-}
-{
-  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR 17840",
-  "authors": [],
-  "references": [],
-  "genes": [
-    "Fxr",
-    "For"
-  ],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": [
-      "Northern blot",
-      "12% PAGE"
-    ],
-    "software_tools": [],
-    "reagents_chemicals": [
-      "18 S ribosomal RNA",
-      "rpL8"
-    ],
-    "model_organisms": [
-      "Xenopus"
-    ]
-  }
-}
-{
-  "title": "Cloning and Characterization of Orphan Nuclear Receptor FOR",
-  "authors": ["Jae Woon Lee", "Y.-K. Lee", "S.-H. Park", "Y.-S. Kim", "S. H. Park", "J. W. Kwon", "H.-B. Soh", "D. D. Moore", "H.-S. Choi"],
-  "references": [
-    {"id": "1", "title": "Science 240, 889–895"},
-    {"id": "2", "title": "Endocr. Rev. 20,689–725"},
-    // ... (remaining references follow the same pattern)
-    {"id": "35", "title": "Mol. Cell. Biol. 15,5226 –5234"}
-  ],
-  "genes": ["FOR1", "FOR2", "RXR"],
-  "proper_nouns": {
-    "institutions": [],
-    "experimental_methods": [
-      "GST pull-down assays",
-      "mammalian two-hybrid assay",
-      "electrophoretic mobility shift assays"
-    ],
-    "software_tools": [],
-    "reagents_chemicals": ["IR1", "cold IR1", "EcRE"],
-    "model_organisms": ["Xenopus laevis"]
+    "model_organisms": []
   }
 }

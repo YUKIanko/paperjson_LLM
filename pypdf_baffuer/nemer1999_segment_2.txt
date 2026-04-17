@@ -1,13 +1,329 @@
 {
   "title": "",
   "authors": [],
-  "references": ["Gre´pin et al. 1994", "Jiang and Evans1996"],
-  "genes": ["GATA-5", "GATA-4", "GATA-6"],
+  "references": [
+    {
+      "authors": ["Biben C", "Hatzistavrou T", "Harvey RP"],
+      "title": "Expression of NK-2 class homeobox gene Nkx2-6 in foregut endoderm and heart",
+      "journal": "Mech Dev",
+      "year": 1998,
+      "volume": 73,
+      "pages": "125–127",
+      "doi": ""
+    },
+    {
+      "authors": ["Bristow J"],
+      "title": "The search for genetic mechanisms of congenital heart disease",
+      "journal": "Cell Mol Biol Res",
+      "year": 1995,
+      "volume": 41,
+      "pages": "307–319",
+      "doi": ""
+    },
+    {
+      "authors": ["Bristow J", "Tee MK", "Gitelman SE", "Mellon SH", "Miller WL"],
+      "title": "Tenascin-X: a novel extracellular matrix protein encoded by the human XB gene overlapping P450c21B",
+      "journal": "J Cell Biol",
+      "year": 1993,
+      "volume": 122,
+      "pages": "265–278",
+      "doi": ""
+    },
+    {
+      "authors": ["Buchberger A", "Pabst O", "Brand T", "Seidl K", "Arnold HH"],
+      "title": "Chick NKx-2.3 represents a novel family member of vertebrate homologous to the Drosophila homeobox gene tinman—differential expression of cNKx-2.3 and cNKx-2.5 during heart and gut development",
+      "journal": "Mech Dev",
+      "year": 1996,
+      "volume": 56,
+      "pages": "151–163",
+      "doi": ""
+    },
+    {
+      "authors": ["Chan-Thomas PS", "Thompson RP", "Robert B", "Yacoub MH", "Barton PJ"],
+      "title": "Expression of homeobox genes Msx-1 (Hox-7) and Msx-2 (Hox-8) during cardiac development in the chick",
+      "journal": "Dev Dyn",
+      "year": 1993,
+      "volume": 197,
+      "pages": "203–216",
+      "doi": ""
+    },
+    {
+      "authors": ["Charron F", "Paradis P", "Bronchain O", "Nemer G", "Nemer M"],
+      "title": "Cooperative interaction between GATA-4 and GATA-6 regulates myocardial ANF gene expression",
+      "journal": "Mol Biol Cell",
+      "year": 1999,
+      "volume": 19,
+      "pages": "4355–4365",
+      "doi": ""
+    },
+    {
+      "authors": ["de la Pompa JL", "Timmerman LA", "Takimoto H", "Yoshida H", "Elia AJ", "et al."],
+      "title": "Role of the NF-ATc transcription factor in morphogenesis of cardiac valves and septum",
+      "journal": "Nature",
+      "year": 1998,
+      "volume": 392,
+      "pages": "182–186",
+      "doi": ""
+    },
+    {
+      "authors": ["Durocher D", "Charron F", "Warren R", "Schwartz RJ", "Nemer M"],
+      "title": "The cardiac transcription factors Nkx2-5 and GATA-4 are mutual cofactors",
+      "journal": "EMBO J",
+      "year": 1997,
+      "volume": 16,
+      "pages": "5687–5696",
+      "doi": ""
+    },
+    {
+      "authors": ["Eisenberg LM", "Markwald RR"],
+      "title": "Molecular regulation of atrioventricular valvuloseptal morphogenesis",
+      "journal": "Circ Res",
+      "year": 1995,
+      "volume": 77,
+      "pages": "1–6",
+      "doi": ""
+    },
+    {
+      "authors": ["Gre´pin C", "Dagnino L", "Robitaille L", "Haberstroh L", "Antakly T", "et al."],
+      "title": "A hormone-encoding gene identifies a pathway for cardiac but not skeletal muscle gene transcription",
+      "journal": "Mol Cell Biol",
+      "year": 1994,
+      "volume": 14,
+      "pages": "3115–3129",
+      "doi": ""
+    },
+    {
+      "authors": ["Gre´pin C", "Robitaille L", "Antakly T", "Nemer M"],
+      "title": "Inhibition of transcription factor GATA-4 expression blocks in vitro cardiac muscle differentiation",
+      "journal": "Mol Cell Biol",
+      "year": 1995,
+      "volume": 15,
+      "pages": "4095–4102",
+      "doi": ""
+    },
+    {
+      "authors": ["Gre´pin C", "Nemer G", "Nemer M"],
+      "title": "Enhanced cardiogenesis in embryonic stem cells overexpressing the GATA-4 transcription factor",
+      "journal": "Development",
+      "year": 1997,
+      "volume": 124,
+      "pages": "2387–2395",
+      "doi": ""
+    },
+    {
+      "authors": ["Harats D", "Kurihara H", "Belloni P", "Oakley H", "Ziober A", "et al."],
+      "title": "Targeting gene expression to the vascular wall in transgenic mice using the murine preproendothelin-1 promoter",
+      "journal": "J Clin Invest",
+      "year": 1995,
+      "volume": 95,
+      "pages": "1335–1344",
+      "doi": ""
+    },
+    {
+      "authors": ["Heikinheimo M", "Scandrett JM", "Wilson DB"],
+      "title": "Localization of transcription factor GATA-4 to regions of the mouse embryo involved in cardiac development",
+      "journal": "Dev Biol",
+      "year": 1994,
+      "volume": 164,
+      "pages": "361–373",
+      "doi": ""
+    },
+    {
+      "authors": ["Ip HS", "Wilson DB", "Heikinheimo M", "Tang Z", "Ting CN", "et al."],
+      "title": "The GATA-4 transcription factor transactivates the cardiac muscle-specific troponin C promoter-enhancer in nonmuscle cells",
+      "journal": "Mol Cell Biol",
+      "year": 1994,
+      "volume": 14,
+      "pages": "7517–7526",
+      "doi": ""
+    },
+    {
+      "authors": ["Jiang YM", "Evans T"],
+      "title": "The Xenopus GATA-4/5/6 genes are associated with cardiac specification and can regulate cardiac-specific transcription during embryogenesis",
+      "journal": "Dev Biol",
+      "year": 1996,
+      "volume": 174,
+      "pages": "285–270",
+      "doi": ""
+    },
+    {
+      "authors": ["Kelley C", "Blumberg H", "Zon LI", "Evans T"],
+      "title": "GATA-4 is a novel transcription factor expressed in endocardium of the developing heart",
+      "journal": "Development",
+      "year": 1993,
+      "volume": 118,
+      "pages": "817–827",
+      "doi": ""
+    },
+    {
+      "authors": ["Kelly R", "Alonso S", "Tajbakhsh S", "Cossu G", "Buckingham M"],
+      "title": "Myosin light chain 3F regulatory sequences confer regionalized cardiac and skeletal muscle expression in transgenic mice",
+      "journal": "J Cell Biol",
+      "year": 1995,
+      "volume": 129,
+      "pages": "383–396",
+      "doi": ""
+    },
+    {
+      "authors": ["Laverriere AC", "MacNeill C", "Mueller C", "Poelmann RE", "Burch JB", "et al."],
+      "title": "GATA-4/5/6, a subfamily of three transcription factors transcribed in developing heart and gut",
+      "journal": "J Biol Chem",
+      "year": 1994,
+      "volume": 269,
+      "pages": "23177–23184",
+      "doi": ""
+    },
+    {
+      "authors": ["Lazzaro D", "Price M", "De Felice M", "Di Lauro R"],
+      "title": "The transcription factor TTF-1 is expressed at the onset of thyroid and lung morphogenesis and in restricted regions of the foetal brain",
+      "journal": "Development",
+      "year": 1991,
+      "volume": 113,
+      "pages": "1093–1104",
+      "doi": ""
+    },
+    {
+      "authors": ["Lee ME", "Temizer DH", "Clifford JA", "Quertermous T"],
+      "title": "Cloning of the GATA-binding protein that regulates endothelin-1 gene expression in endothelial cells",
+      "journal": "J Biol Chem",
+      "year": 1991,
+      "volume": 266,
+      "pages": "16188–16192",
+      "doi": ""
+    },
+    {
+      "authors": ["Molkentin JD", "Kalvakolanu DV", "Markham BE"],
+      "title": "Transcription factor GATA-4 regulates cardiac muscle-specific expression of the alpha-myosin heavy-chain gene",
+      "journal": "Mol Cell Biol",
+      "year": 1994,
+      "volume": 14,
+      "pages": "4947–4957",
+      "doi": ""
+    },
+    {
+      "authors": ["Molkentin JD", "Lin Q", "Duncan SA", "Olson EN"],
+      "title": "Requirement of the transcription factor GATA4 for heart tube formation and ventral morphogenesis",
+      "journal": "Genes Dev",
+      "year": 1997,
+      "volume": 11,
+      "pages": "1061–1072",
+      "doi": ""
+    },
+    {
+      "authors": ["Morrisey EE", "Ip HS", "Tang ZH", "Lu MM", "Parmacek MS"],
+      "title": "GATA-5—a transcriptional activator expressed in a novel temporally and spatially restricted pattern during embryonic development",
+      "journal": "Dev Biol",
+      "year": 1997,
+      "volume": 183,
+      "pages": "21–36",
+      "doi": ""
+    },
+    {
+      "authors": ["Morrisey EE", "Ip HS", "Tang Z", "Parmacek MS"],
+      "title": "GATA-4 activates transcription via two novel domains that are conserved within the GATA-4/5/6 subfamily",
+      "journal": "J Biol Chem",
+      "year": 1997,
+      "volume": 272,
+      "pages": "8515–8524",
+      "doi": ""
+    },
+    {
+      "authors": ["Pandolfi PP", "Roth ME", "Karis A", "Leonard MW", "Dzierzak E", "et al."],
+      "title": "Targeted disruption of the GATA3 gene causes severe abnormalities in the nervous system and in fetal liver haematopoiesis",
+      "journal": "Nat Genet",
+      "year": 1995,
+      "volume": 11,
+      "pages": "40–44",
+      "doi": ""
+    },
+    {
+      "authors": ["Pevny L", "Lin CS", "D’Agati V", "Simon MC", "Orkin SH"],
+      "title": "Development of hematopoietic cells lacking transcription factor GATA-1",
+      "journal": "Development",
+      "year": 1995,
+      "volume": 121,
+      "pages": "163–172",
+      "doi": ""
+    },
+    {
+      "authors": ["Qureshi ST", "Bronchain O", "Nemer M", "Malo D"],
+      "title": "Mapping of the Gata6 gene to mouse chromosome 18",
+      "journal": "Mamm Genome",
+      "year": 1996,
+      "volume": 7,
+      "pages": "705–706",
+      "doi": ""
+    },
+    {
+      "authors": ["Sebastiani G", "Gre´pin C", "Nemer M", "Malo D"],
+      "title": "The mouse Gata4 transcription factor maps to chromosome 14",
+      "journal": "Mamm Genome",
+      "year": 1995,
+      "volume": 6,
+      "pages": "442–445",
+      "doi": ""
+    },
+    {
+      "authors": ["Shen R", "Chen Y", "Huang L", "Vitale E", "Solursh M"],
+      "title": "Characterization of the human MSX-1 promoter and an enhancer responsible for retinoic acid induction",
+      "journal": "Cell Mol Biol Res",
+      "year": 1994,
+      "volume": 40,
+      "pages": "297–312",
+      "doi": ""
+    },
+    {
+      "authors": ["Tamura S", "Wang XH", "Maeda M", "Futai M"],
+      "title": "Gastric DNA-binding proteins recognize upstream sequence motifs of parietal cell-specific genes [published erratum appears in Proc Natl Acad Sci USA 1994 May10;91(10):4609]",
+      "journal": "Proc Natl Acad Sci USA",
+      "year": 1993,
+      "volume": 90,
+      "pages": "10876–10880",
+      "doi": ""
+    },
+    {
+      "authors": ["Tsai FY", "Keller G", "Kuo FC", "Weiss M", "Chen J", "et al."],
+      "title": "An early haematopoietic defect in mice lacking the transcription factor GATA-2",
+      "journal": "Nature",
+      "year": 1994,
+      "volume": 371,
+      "pages": "221–226",
+      "doi": ""
+    },
+    {
+      "authors": ["Visvader JE", "Crossley M", "Hill J", "Orkin SH", "Adams JM"],
+      "title": "The C-terminal zinc finger of GATA-1 or GATA-2 is sufficient to induce megakaryocytic differentiation of an early myeloid cell line",
+      "journal": "Mol Cell Biol",
+      "year": 1995,
+      "volume": 15,
+      "pages": "634–641",
+      "doi": ""
+    },
+    {
+      "authors": ["Weiss MJ", "Keller G", "Orkin SH"],
+      "title": "Novel insights into erythoid development revealed through in vitro differentiation of GATA-1 embryonic stem cells",
+      "journal": "Genes Dev",
+      "year": 1994,
+      "volume": 8,
+      "pages": "1184–1197",
+      "doi": ""
+    },
+    {
+      "authors": ["Wilson DB", "Dorfman DM", "Orkin SH"],
+      "title": "A non-erythroid GATA-binding protein is required for function of the human preproendothelin-1 promoter in endothelial cells",
+      "journal": "Mol Cell Biol",
+      "year": 1990,
+      "volume": 10,
+      "pages": "4854–4862",
+      "doi": ""
+    }
+  ],
+  "genes": [],
   "proper_nouns": {
     "institutions": [],
-    "experimental_methods": ["gua-nidinium–thiocyanate–phenol/chloroform method", "Northern blots", "RT-PCR"],
+    "experimental_methods": [],
     "software_tools": [],
-    "reagents_chemicals": ["Bluescript vector", "guanidinium-thiocyanate", "Nytran-nylon membranes"],
-    "model_organisms": ["Sprague Dawley rats", "Xenopus"]
+    "reagents_chemicals": [],
+    "model_organisms": []
   }
 }
